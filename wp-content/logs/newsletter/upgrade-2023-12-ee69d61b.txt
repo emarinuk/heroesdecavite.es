@@ -1,0 +1,64 @@
+15-12-2023 22:49:30 - INFO  - 8.0.6 - 26,6 MB/256 MB -  > Start upgrade from 8.0.4
+15-12-2023 22:49:30 - INFO  - 8.0.6 - 29,5 MB/256 MB -  > Array
+(
+    [`hero_newsletter_emails`] => Created table `hero_newsletter_emails`
+)
+
+15-12-2023 22:49:30 - INFO  - 8.0.6 - 29,5 MB/256 MB -  > Array
+(
+    [`hero_newsletter_sent`] => Created table `hero_newsletter_sent`
+)
+
+15-12-2023 22:49:30 - INFO  - 8.0.6 - 29,5 MB/256 MB -  > Array
+(
+    [`hero_newsletter`] => Created table `hero_newsletter`
+)
+
+15-12-2023 22:49:30 - INFO  - 8.0.6 - 29,5 MB/256 MB -  > Array
+(
+    [`hero_newsletter_user_logs`] => Created table `hero_newsletter_user_logs`
+)
+
+15-12-2023 22:49:30 - INFO  - 8.0.6 - 29,5 MB/256 MB -  > Array
+(
+    [`hero_newsletter_user_meta`] => Created table `hero_newsletter_user_meta`
+)
+
+15-12-2023 22:49:30 - INFO  - 8.0.6 - 29,5 MB/256 MB -  > Array
+(
+    [`hero_newsletter_stats`] => Created table `hero_newsletter_stats`
+)
+
+15-12-2023 22:49:30 - INFO  - 8.0.6 - 29,5 MB/256 MB -  > End
+15-12-2023 22:49:31 - INFO  - 8.0.6 - 20,5 MB/256 MB - [cron] > Start upgrade from 8.0.4
+15-12-2023 22:49:31 - INFO  - 8.0.6 - 23,3 MB/256 MB - [cron] > Array
+(
+    [`hero_newsletter_emails`] => Created table `hero_newsletter_emails`
+)
+
+15-12-2023 22:49:31 - INFO  - 8.0.6 - 23,3 MB/256 MB - [cron] > Array
+(
+    [`hero_newsletter_sent`] => Created table `hero_newsletter_sent`
+)
+
+15-12-2023 22:49:31 - INFO  - 8.0.6 - 23,4 MB/256 MB - [cron] > Array
+(
+    [`hero_newsletter`] => Created table `hero_newsletter`
+)
+
+15-12-2023 22:49:31 - INFO  - 8.0.6 - 23,3 MB/256 MB - [cron] > Array
+(
+    [`hero_newsletter_user_logs`] => Created table `hero_newsletter_user_logs`
+)
+
+15-12-2023 22:49:31 - INFO  - 8.0.6 - 23,3 MB/256 MB - [cron] > Array
+(
+    [`hero_newsletter_user_meta`] => Created table `hero_newsletter_user_meta`
+)
+
+15-12-2023 22:49:31 - INFO  - 8.0.6 - 23,3 MB/256 MB - [cron] > Array
+(
+    [`hero_newsletter_stats`] => Created table `hero_newsletter_stats`
+)
+
+15-12-2023 22:49:31 - INFO  - 8.0.6 - 23,4 MB/256 MB - [cron] > End

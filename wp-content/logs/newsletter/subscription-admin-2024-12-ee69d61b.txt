@@ -1,0 +1,5 @@
+13-12-2024 09:59:28 - DEBUG - 8.6.4 - 40,4 MB/512 MB - Eduardo > update hero_newsletter set list_11=0
+13-12-2024 10:18:35 - DEBUG - 8.6.4 - 40,4 MB/512 MB - Eduardo > update hero_newsletter set list_31=0
+13-12-2024 10:18:43 - DEBUG - 8.6.4 - 40,4 MB/512 MB - Eduardo > update hero_newsletter set list_32=0
+13-12-2024 10:18:48 - DEBUG - 8.6.4 - 40,4 MB/512 MB - Eduardo > update hero_newsletter set list_33=0
+13-12-2024 11:50:40 - DEBUG - 8.6.4 - 40,4 MB/512 MB - Eduardo > update hero_newsletter set list_11=0

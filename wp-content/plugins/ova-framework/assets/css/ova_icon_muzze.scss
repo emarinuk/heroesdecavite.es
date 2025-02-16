@@ -1,0 +1,16 @@
+.ova-icon-muzze {
+	i {
+		display: block;
+		line-height: 1.2;
+		&:before {
+			font-size: 55px;
+			margin-left: 0px;
+			color: #c1b696;
+		}
+		&.flaticon-ticket {
+			&:before {
+				margin-left: 20px;
+			}
+		}
+	}
+}

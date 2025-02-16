@@ -1,0 +1,8 @@
+07-01-2025 10:15:13 - INFO  - 8.6.4 - 128,1 MB/ - [cron] > Weekly check for analytics
+14-01-2025 10:15:10 - INFO  - 8.6.4 - 128,0 MB/ - [cron] > Weekly check for analytics
+21-01-2025 10:15:12 - INFO  - 8.6.4 - 127,9 MB/ - [cron] > Weekly check for analytics
+26-01-2025 21:08:48 - DEBUG - 8.6.4 - 14,8 MB/512 MB -  > Processing https://heroesdecavite.es/metodos-pago/
+26-01-2025 21:08:48 - DEBUG - 8.6.4 - 14,8 MB/512 MB -  > Domain: heroesdecavite.es
+26-01-2025 21:11:47 - DEBUG - 8.6.4 - 14,7 MB/512 MB -  > Processing https://heroesdecavite.es/metodos-pago/
+26-01-2025 21:11:47 - DEBUG - 8.6.4 - 14,7 MB/512 MB -  > Domain: heroesdecavite.es
+28-01-2025 10:15:21 - INFO  - 8.6.4 - 128,0 MB/ - [cron] > Weekly check for analytics

@@ -1,0 +1,40 @@
+.ova-open-contact {
+	background-color: #25282e;
+	padding: 90px 100px 97px 10px;
+	width: 390px;
+	float: right;
+	&:after {
+		content: "";
+		display: block;
+		clear: both;
+	}
+	p {
+		margin: 0;
+	}
+	.title-open, .title-contact {
+		margin: 0px;
+		font-size: 24px;
+		color: #ffffff;
+		line-height: 40px;
+		padding-bottom: 12px;
+	}
+	.sub-title-1-open, .sub-title-2-open, .sub-title-1-contact,.sub-title-2-contact, .email, .phone{
+		font-size: 17px;
+		color: #888888;
+		line-height: 24px;
+	}
+	.open {
+		margin-bottom: 35px;
+	}
+	.contact {
+		margin-bottom: 24px;
+	}
+
+}
+
+@media (max-width: 767px) {
+	.ova-open-contact {
+		padding:30px 10px;
+		width: 100%;
+	}
+}

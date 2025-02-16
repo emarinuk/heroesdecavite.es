@@ -1,0 +1,66 @@
+.ova-location {
+	background-color: #25282e;
+	padding: 100px 100px 100px 80px;
+	width: 480px;
+	float: right;
+	&:after {
+		content: "";
+		display: block;
+		clear: both;
+	}
+	p {
+		margin: 0;
+	}
+	.title {
+		margin: 0px;
+		font-size: 40px;
+		color: #ffffff;
+		line-height: 1.2;
+		padding-bottom: 27px;
+	}
+	.sub-title {
+		font-size: 20px;
+		color: #888888;
+		line-height: 1.2;
+		padding-bottom: 20px;
+	}
+	.address, .email, .phone {
+		font-size: 17px;
+		line-height: 24px;
+		color: #888888;
+		padding-bottom: 24px;
+	}
+	.phone, .email {
+		padding-bottom: 0px;
+	}
+	.text-button {
+		font-size: 16px;
+		line-height: 22px;
+		color: #cdcdcd;
+		border: 2px solid #929497;
+		padding: 15px 25px 15px 25px;
+		display: inline-block;
+		margin-top: 36px;
+		transition: 0.5s;
+		&:hover {
+			color: #fff;
+			border-color: #1276ff;
+			background-color: #1276ff;
+		}
+	}
+}
+@media (max-width: 1024px) {
+	.ova-location {
+		width: 50%;
+	}
+}
+
+@media (max-width: 767px) {
+	.ova-location {
+		padding:30px 10px;
+		width: 100%;
+		.address {
+			padding-right: 0px;
+		}
+	}
+}

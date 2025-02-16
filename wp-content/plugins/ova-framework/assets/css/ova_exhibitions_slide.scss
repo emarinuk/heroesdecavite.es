@@ -1,0 +1,279 @@
+.ova-exhibitions-slide {
+	position: relative;
+	h2, p {
+		margin: 0;
+	}
+	.list-exhibitions {
+		position: relative;
+		top: 50%;
+		transform: translateY(calc(-50% - 55px));
+		.item-exhibition  {
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			background-color: #fff;
+			.content {
+				flex: 0 0 40%;
+				padding-right: 10px;
+				margin-top: -129px;
+				h3.sub-title {
+					margin: 0px;
+					font-family: archivo;
+					font-size: 16px;
+					line-height: 22px;
+					letter-spacing: 0.4px;
+					font-weight: 300;
+					text-transform: uppercase;
+					margin-bottom: 15px;
+				}
+				h2.title {
+					a {
+						font-size: 50px;
+						line-height: 60px;
+						color: #25282e;
+						transition: 0.5s;
+						&:hover {
+							color: #c1b696;
+						}
+					}
+				}
+				.date {
+					margin-top: 26px;
+					p {
+						font-size: 20px;
+						line-height: 22px;
+						color: #555555;
+					}
+				}
+				.excerpt {
+					margin-top: 40px;
+					p {
+						font-family: Lora;
+						font-size: 18px;
+						line-height: 28px;
+						color: #777777;
+					}
+				}
+			}
+			.media {
+				flex: 0 0 60%;
+				width: 100%;
+				min-height: 680px;
+				background-size: contain;
+				background-position: center left;
+				background-repeat: no-repeat;
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				position: relative;
+				.image-box {
+					position: absolute;
+					left: 105px;
+					background-position: center center;
+					background-size: cover;
+					background-repeat: no-repeat;
+					width: 585px;
+					height: 515px;
+					img {
+						display: none;
+					}
+				}
+			}
+		}
+		.owl-nav {
+			.owl-prev {
+				position: absolute;
+				bottom: 151px;
+				left: 0;
+				width: 50px;
+				height: 50px;
+				border: 2px solid #cccccc!important;
+				outline: none;
+				border-radius: 50%;
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				i {
+					font-size: 25px;
+					color: #cecece
+				}
+			}
+			.owl-next {
+				position: absolute;
+				bottom: 151px;
+				left: 108px;
+				width: 50px;
+				height: 50px;
+				border: 2px solid #cccccc!important;
+				outline: none;
+				border-radius: 50%;
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				i {
+					font-size: 25px;
+					color: #cecece
+				}
+			}
+		}
+
+
+		.owl-dots {
+			counter-reset: slides-num;
+			position: absolute;
+			bottom: 156px;
+			left: 65px;
+			margin-top: 15px;
+			&:after {
+				content: counter(slides-num); 
+				font-size: 18px;
+				vertical-align: middle;
+				line-height: 22px;
+				color: #555555;
+				display: inline-block;
+				padding-bottom: 8px;
+				position: absolute;
+				left: 16px;
+			}
+			.owl-dot {
+				display: inline-block;
+				counter-increment: slides-num; 
+				margin-right: 4.2px;
+				span {
+					display: none;
+				}
+				&.active {
+
+					&:before {
+						content:  counter(slides-num) "/" ; 
+						display: inline-block;
+						vertical-align: middle;
+						font-size: 18px;
+						line-height: 22px;
+						color: #555555;
+						position: absolute;
+						left: 0;
+						top: 0;
+					}
+				}
+				.owl-prev {
+					float: left;
+					font-size: 20px;
+					text-transform: uppercase;
+					padding: 20px;
+				}
+
+				.owl-next {
+					float: right;
+					font-size: 20px;
+					text-transform: uppercase;
+					padding: 20px;
+				}
+			}
+		}
+	}
+	.wp-button-scroll {
+		position: absolute;
+		bottom: 50px;
+		left: 50%;
+		transform: translateX(-50%);
+		.button-scroll {
+			display: inline-block;
+			width: 40px;
+			height: 30px;
+			background-position: center center;
+			background-repeat: no-repeat;
+			background-size: cover;
+		}
+	}
+}
+
+@media (max-width: 1150px) {
+	.ova-exhibitions-slide {
+		.list-exhibitions {
+			.item-exhibition {
+				.media {
+					.image-box {
+						left: 50px;
+					}
+				}
+			}
+		}
+	}    
+}
+
+@media (max-width: 1024px) {
+
+	.ova-exhibitions-slide {
+		.list-exhibitions {
+			.item-exhibition {
+				flex-wrap: wrap;
+				flex-direction: column-reverse;
+				align-items: start;
+				.content {
+					flex: 0 0 100%;
+					padding-right: 0px;
+					padding-top: 30px;
+					margin-top: 0px;
+					h2.title a {
+						font-size: 40px;
+						line-height: 50px;
+					}
+				}
+				.media {
+					flex: 0 0 100%;
+					min-height: 500px;
+					background-image: none !important;
+					.image-box {
+						left: 0px;
+						width: 100%;
+						height: 100%;
+						padding-left: 0px;
+					}
+				}
+			}
+			.owl-nav {
+				.owl-prev {
+					bottom: -70px;
+				}
+				.owl-next {
+					bottom: -70px;
+				}
+			}
+			.owl-dots {
+				bottom: -65px;
+			}
+		}
+
+		.wp-button-scroll {
+			bottom: 10px;
+		}
+	}  	
+}
+
+@media (max-width: 767px) {
+
+	.ova-exhibitions-slide {
+		.list-exhibitions {
+			.item-exhibition {
+				.media {
+					height: auto !important;
+					min-height: unset;
+					.image-box {
+						background-image: none!important;
+						position: unset;
+					}
+					img {
+						display: block!important;
+					}
+				}
+			}
+		}
+		.wp-button-scroll {
+			display: none;			
+		}
+	}    
+}
+
+
+

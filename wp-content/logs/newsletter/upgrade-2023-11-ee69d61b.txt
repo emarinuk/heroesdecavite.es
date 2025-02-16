@@ -1,0 +1,98 @@
+17-11-2023 14:21:01 - INFO  - 8.0.4 - 28,8 MB/256 MB -  > Start upgrade from 8.0.2
+17-11-2023 14:21:01 - INFO  - 8.0.4 - 31,6 MB/256 MB -  > Array
+(
+    [`hero_newsletter_emails`] => Created table `hero_newsletter_emails`
+)
+
+17-11-2023 14:21:01 - INFO  - 8.0.4 - 31,6 MB/256 MB -  > Array
+(
+    [`hero_newsletter_sent`] => Created table `hero_newsletter_sent`
+)
+
+17-11-2023 14:21:01 - INFO  - 8.0.4 - 31,6 MB/256 MB -  > Array
+(
+    [`hero_newsletter`] => Created table `hero_newsletter`
+)
+
+17-11-2023 14:21:01 - INFO  - 8.0.4 - 31,6 MB/256 MB -  > Array
+(
+    [`hero_newsletter_user_logs`] => Created table `hero_newsletter_user_logs`
+)
+
+17-11-2023 14:21:01 - INFO  - 8.0.4 - 31,6 MB/256 MB -  > Array
+(
+    [`hero_newsletter_user_meta`] => Created table `hero_newsletter_user_meta`
+)
+
+17-11-2023 14:21:01 - INFO  - 8.0.4 - 31,6 MB/256 MB -  > Array
+(
+    [`hero_newsletter_stats`] => Created table `hero_newsletter_stats`
+)
+
+17-11-2023 14:21:01 - INFO  - 8.0.4 - 31,6 MB/256 MB -  > Backing up options of 8.0.2
+17-11-2023 14:21:01 - INFO  - 8.0.4 - 31,7 MB/256 MB -  > End
+17-11-2023 14:21:02 - INFO  - 8.0.4 - 25,7 MB/256 MB - [cron] > Start upgrade from 8.0.2
+17-11-2023 14:21:02 - INFO  - 8.0.4 - 25,7 MB/256 MB - [cron] > Array
+(
+    [`hero_newsletter_emails`] => Created table `hero_newsletter_emails`
+)
+
+17-11-2023 14:21:02 - INFO  - 8.0.4 - 25,7 MB/256 MB - [cron] > Array
+(
+    [`hero_newsletter_sent`] => Created table `hero_newsletter_sent`
+)
+
+17-11-2023 14:21:02 - INFO  - 8.0.4 - 25,7 MB/256 MB - [cron] > Array
+(
+    [`hero_newsletter`] => Created table `hero_newsletter`
+)
+
+17-11-2023 14:21:02 - INFO  - 8.0.4 - 25,7 MB/256 MB - [cron] > Array
+(
+    [`hero_newsletter_user_logs`] => Created table `hero_newsletter_user_logs`
+)
+
+17-11-2023 14:21:02 - INFO  - 8.0.4 - 25,7 MB/256 MB - [cron] > Array
+(
+    [`hero_newsletter_user_meta`] => Created table `hero_newsletter_user_meta`
+)
+
+17-11-2023 14:21:02 - INFO  - 8.0.4 - 25,7 MB/256 MB - [cron] > Array
+(
+    [`hero_newsletter_stats`] => Created table `hero_newsletter_stats`
+)
+
+17-11-2023 14:21:02 - INFO  - 8.0.4 - 25,8 MB/256 MB - [cron] > End
+22-11-2023 10:50:20 - INFO  - 8.0.4 - 15,6 MB/256 MB - Eduardo > Start upgrade from 8.0.4
+22-11-2023 10:50:20 - INFO  - 8.0.4 - 15,6 MB/256 MB - Eduardo > Array
+(
+    [`hero_newsletter_emails`] => Created table `hero_newsletter_emails`
+)
+
+22-11-2023 10:50:20 - INFO  - 8.0.4 - 15,6 MB/256 MB - Eduardo > Array
+(
+    [`hero_newsletter_sent`] => Created table `hero_newsletter_sent`
+)
+
+22-11-2023 10:50:20 - INFO  - 8.0.4 - 15,6 MB/256 MB - Eduardo > Array
+(
+    [`hero_newsletter`] => Created table `hero_newsletter`
+)
+
+22-11-2023 10:50:20 - INFO  - 8.0.4 - 15,6 MB/256 MB - Eduardo > Array
+(
+    [`hero_newsletter_user_logs`] => Created table `hero_newsletter_user_logs`
+)
+
+22-11-2023 10:50:20 - INFO  - 8.0.4 - 15,6 MB/256 MB - Eduardo > Array
+(
+    [`hero_newsletter_user_meta`] => Created table `hero_newsletter_user_meta`
+)
+
+22-11-2023 10:50:20 - INFO  - 8.0.4 - 15,6 MB/256 MB - Eduardo > Array
+(
+    [`hero_newsletter_stats`] => Created table `hero_newsletter_stats`
+)
+
+22-11-2023 10:50:20 - INFO  - 8.0.4 - 15,6 MB/256 MB - Eduardo > Backing up options of 8.0.4
+22-11-2023 10:50:20 - INFO  - 8.0.4 - 15,6 MB/256 MB - Eduardo > End

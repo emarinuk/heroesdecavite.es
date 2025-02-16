@@ -1,0 +1,4 @@
+03-09-2024 08:54:28 - INFO  - 8.4.7 - 30,3 MB/256 MB - [cron] > Weekly check for cf7
+10-09-2024 08:54:28 - INFO  - 8.4.9 - 15,5 MB/256 MB - [cron] > Weekly check for cf7
+17-09-2024 08:54:36 - INFO  - 8.5.0 - 17,8 MB/512 MB - [cron] > Weekly check for cf7
+24-09-2024 08:54:32 - INFO  - 8.5.0 - 78,1 MB/512 MB - [cron] > Weekly check for cf7

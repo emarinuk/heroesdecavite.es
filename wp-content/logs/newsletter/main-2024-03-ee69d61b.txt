@@ -1,0 +1,2489 @@
+14-03-2024 16:10:45 - INFO  - 8.2.1 - 29,0 MB/256 MB - [cron] > Newsletter::send> Start newsletter 32
+14-03-2024 16:11:43 - INFO  - 8.2.1 - 29,6 MB/256 MB - [cron] > Newsletter::send> End run for email 32
+14-03-2024 16:15:33 - INFO  - 8.2.1 - 33,5 MB/256 MB - [cron] > Newsletter::send> Start newsletter 32
+14-03-2024 16:16:30 - INFO  - 8.2.1 - 34,2 MB/256 MB - [cron] > Newsletter::send> End run for email 32
+14-03-2024 16:20:11 - INFO  - 8.2.1 - 29,0 MB/256 MB - [cron] > Newsletter::send> Start newsletter 32
+14-03-2024 16:21:10 - INFO  - 8.2.1 - 29,6 MB/256 MB - [cron] > Newsletter::send> End run for email 32
+14-03-2024 16:25:03 - INFO  - 8.2.1 - 29,0 MB/256 MB - [cron] > Newsletter::send> Start newsletter 32
+14-03-2024 16:26:02 - INFO  - 8.2.1 - 29,6 MB/256 MB - [cron] > Newsletter::send> End run for email 32
+14-03-2024 16:29:44 - INFO  - 8.2.1 - 28,9 MB/256 MB - [cron] > Newsletter::send> Start newsletter 32
+14-03-2024 16:30:41 - INFO  - 8.2.1 - 29,5 MB/256 MB - [cron] > Newsletter::send> End run for email 32
+14-03-2024 16:35:04 - INFO  - 8.2.1 - 29,0 MB/256 MB - [cron] > Newsletter::send> Start newsletter 32
+14-03-2024 16:36:01 - INFO  - 8.2.1 - 29,6 MB/256 MB - [cron] > Newsletter::send> End run for email 32
+14-03-2024 16:39:47 - INFO  - 8.2.1 - 29,0 MB/256 MB - [cron] > Newsletter::send> Start newsletter 32
+14-03-2024 16:40:44 - INFO  - 8.2.1 - 29,6 MB/256 MB - [cron] > Newsletter::send> End run for email 32
+14-03-2024 16:45:05 - INFO  - 8.2.1 - 29,0 MB/256 MB - [cron] > Newsletter::send> Start newsletter 32
+14-03-2024 16:46:03 - INFO  - 8.2.1 - 29,6 MB/256 MB - [cron] > Newsletter::send> End run for email 32
+14-03-2024 16:49:52 - INFO  - 8.2.1 - 29,0 MB/256 MB - [cron] > Newsletter::send> Start newsletter 32
+14-03-2024 16:50:50 - INFO  - 8.2.1 - 29,6 MB/256 MB - [cron] > Newsletter::send> End run for email 32
+14-03-2024 16:54:46 - INFO  - 8.2.1 - 33,5 MB/256 MB - [cron] > Newsletter::send> Start newsletter 32
+14-03-2024 16:55:43 - INFO  - 8.2.1 - 34,1 MB/256 MB - [cron] > Newsletter::send> End run for email 32
+14-03-2024 16:59:45 - INFO  - 8.2.1 - 28,9 MB/256 MB - [cron] > Newsletter::send> Start newsletter 32
+14-03-2024 17:00:44 - INFO  - 8.2.1 - 29,5 MB/256 MB - [cron] > Newsletter::send> End run for email 32
+14-03-2024 17:04:59 - INFO  - 8.2.1 - 29,0 MB/256 MB - [cron] > Newsletter::send> Start newsletter 32
+14-03-2024 17:05:57 - INFO  - 8.2.1 - 29,6 MB/256 MB - [cron] > Newsletter::send> End run for email 32
+14-03-2024 17:10:01 - INFO  - 8.2.1 - 29,0 MB/256 MB - [cron] > Newsletter::send> Start newsletter 32
+14-03-2024 17:10:58 - INFO  - 8.2.1 - 29,6 MB/256 MB - [cron] > Newsletter::send> End run for email 32
+14-03-2024 17:14:49 - INFO  - 8.2.1 - 29,0 MB/256 MB - [cron] > Newsletter::send> Start newsletter 32
+14-03-2024 17:15:46 - INFO  - 8.2.1 - 29,6 MB/256 MB - [cron] > Newsletter::send> End run for email 32
+14-03-2024 17:19:47 - INFO  - 8.2.1 - 29,0 MB/256 MB - [cron] > Newsletter::send> Start newsletter 32
+14-03-2024 17:20:44 - INFO  - 8.2.1 - 29,6 MB/256 MB - [cron] > Newsletter::send> End run for email 32
+14-03-2024 17:24:43 - INFO  - 8.2.1 - 29,0 MB/256 MB - [cron] > Newsletter::send> Start newsletter 32
+14-03-2024 17:25:40 - INFO  - 8.2.1 - 29,6 MB/256 MB - [cron] > Newsletter::send> End run for email 32
+14-03-2024 17:29:54 - INFO  - 8.2.1 - 29,0 MB/256 MB - [cron] > Newsletter::send> Start newsletter 32
+14-03-2024 17:30:52 - INFO  - 8.2.1 - 29,6 MB/256 MB - [cron] > Newsletter::send> End run for email 32
+14-03-2024 17:35:15 - INFO  - 8.2.1 - 29,0 MB/256 MB - [cron] > Newsletter::send> Start newsletter 32
+14-03-2024 17:36:12 - INFO  - 8.2.1 - 29,6 MB/256 MB - [cron] > Newsletter::send> End run for email 32
+14-03-2024 17:39:44 - INFO  - 8.2.1 - 29,0 MB/256 MB - [cron] > Newsletter::send> Start newsletter 32
+14-03-2024 17:40:43 - INFO  - 8.2.1 - 29,6 MB/256 MB - [cron] > Newsletter::send> End run for email 32
+14-03-2024 17:44:52 - INFO  - 8.2.1 - 33,5 MB/256 MB - [cron] > Newsletter::send> Start newsletter 32
+14-03-2024 17:45:49 - INFO  - 8.2.1 - 34,2 MB/256 MB - [cron] > Newsletter::send> End run for email 32
+14-03-2024 17:49:46 - INFO  - 8.2.1 - 29,0 MB/256 MB - [cron] > Newsletter::send> Start newsletter 32
+14-03-2024 17:50:45 - INFO  - 8.2.1 - 29,6 MB/256 MB - [cron] > Newsletter::send> End run for email 32
+14-03-2024 17:55:27 - INFO  - 8.2.1 - 29,0 MB/256 MB - [cron] > Newsletter::send> Start newsletter 32
+14-03-2024 17:56:25 - INFO  - 8.2.1 - 29,6 MB/256 MB - [cron] > Newsletter::send> End run for email 32
+14-03-2024 18:00:09 - INFO  - 8.2.1 - 29,0 MB/256 MB - [cron] > Newsletter::send> Start newsletter 32
+14-03-2024 18:01:08 - INFO  - 8.2.1 - 29,6 MB/256 MB - [cron] > Newsletter::send> End run for email 32
+14-03-2024 18:04:46 - INFO  - 8.2.1 - 33,6 MB/256 MB - [cron] > Newsletter::send> Start newsletter 32
+14-03-2024 18:05:43 - INFO  - 8.2.1 - 34,2 MB/256 MB - [cron] > Newsletter::send> End run for email 32
+14-03-2024 18:10:04 - INFO  - 8.2.1 - 29,0 MB/256 MB - [cron] > Newsletter::send> Start newsletter 32
+14-03-2024 18:11:01 - INFO  - 8.2.1 - 29,6 MB/256 MB - [cron] > Newsletter::send> End run for email 32
+14-03-2024 18:14:51 - INFO  - 8.2.1 - 29,0 MB/256 MB - [cron] > Newsletter::send> Start newsletter 32
+14-03-2024 18:15:49 - INFO  - 8.2.1 - 29,6 MB/256 MB - [cron] > Newsletter::send> End run for email 32
+14-03-2024 18:19:49 - INFO  - 8.2.1 - 29,0 MB/256 MB - [cron] > Newsletter::send> Start newsletter 32
+14-03-2024 18:20:47 - INFO  - 8.2.1 - 29,6 MB/256 MB - [cron] > Newsletter::send> End run for email 32
+14-03-2024 18:24:55 - INFO  - 8.2.1 - 29,0 MB/256 MB - [cron] > Newsletter::send> Start newsletter 32
+14-03-2024 18:25:53 - INFO  - 8.2.1 - 29,6 MB/256 MB - [cron] > Newsletter::send> End run for email 32
+14-03-2024 18:29:52 - INFO  - 8.2.1 - 29,0 MB/256 MB - [cron] > Newsletter::send> Start newsletter 32
+14-03-2024 18:30:49 - INFO  - 8.2.1 - 29,6 MB/256 MB - [cron] > Newsletter::send> End run for email 32
+14-03-2024 18:35:00 - INFO  - 8.2.1 - 29,0 MB/256 MB - [cron] > Newsletter::send> Start newsletter 32
+14-03-2024 18:35:58 - INFO  - 8.2.1 - 29,6 MB/256 MB - [cron] > Newsletter::send> End run for email 32
+14-03-2024 18:40:01 - INFO  - 8.2.1 - 29,0 MB/256 MB - [cron] > Newsletter::send> Start newsletter 32
+14-03-2024 18:40:59 - INFO  - 8.2.1 - 29,6 MB/256 MB - [cron] > Newsletter::send> End run for email 32
+14-03-2024 18:44:54 - INFO  - 8.2.1 - 29,0 MB/256 MB - [cron] > Newsletter::send> Start newsletter 32
+14-03-2024 18:45:50 - INFO  - 8.2.1 - 29,6 MB/256 MB - [cron] > Newsletter::send> End run for email 32
+14-03-2024 18:49:45 - INFO  - 8.2.1 - 29,0 MB/256 MB - [cron] > Newsletter::send> Start newsletter 32
+14-03-2024 18:50:44 - INFO  - 8.2.1 - 29,6 MB/256 MB - [cron] > Newsletter::send> End run for email 32
+14-03-2024 18:54:48 - INFO  - 8.2.1 - 29,0 MB/256 MB - [cron] > Newsletter::send> Start newsletter 32
+14-03-2024 18:55:47 - INFO  - 8.2.1 - 29,6 MB/256 MB - [cron] > Newsletter::send> End run for email 32
+14-03-2024 18:59:56 - INFO  - 8.2.1 - 29,0 MB/256 MB - [cron] > Newsletter::send> Start newsletter 32
+14-03-2024 19:00:55 - INFO  - 8.2.1 - 29,6 MB/256 MB - [cron] > Newsletter::send> End run for email 32
+14-03-2024 19:04:56 - INFO  - 8.2.1 - 29,0 MB/256 MB - [cron] > Newsletter::send> Start newsletter 32
+14-03-2024 19:05:53 - INFO  - 8.2.1 - 29,6 MB/256 MB - [cron] > Newsletter::send> End run for email 32
+14-03-2024 19:09:50 - INFO  - 8.2.1 - 29,0 MB/256 MB - [cron] > Newsletter::send> Start newsletter 32
+14-03-2024 19:10:46 - INFO  - 8.2.1 - 29,6 MB/256 MB - [cron] > Newsletter::send> End run for email 32
+14-03-2024 19:15:20 - INFO  - 8.2.1 - 29,0 MB/256 MB - [cron] > Newsletter::send> Start newsletter 32
+14-03-2024 19:16:17 - INFO  - 8.2.1 - 29,6 MB/256 MB - [cron] > Newsletter::send> End run for email 32
+14-03-2024 19:20:21 - INFO  - 8.2.1 - 29,0 MB/256 MB - [cron] > Newsletter::send> Start newsletter 32
+14-03-2024 19:21:19 - INFO  - 8.2.1 - 29,6 MB/256 MB - [cron] > Newsletter::send> End run for email 32
+14-03-2024 19:24:52 - INFO  - 8.2.1 - 29,0 MB/256 MB - [cron] > Newsletter::send> Start newsletter 32
+14-03-2024 19:25:49 - INFO  - 8.2.1 - 29,6 MB/256 MB - [cron] > Newsletter::send> End run for email 32
+14-03-2024 19:29:48 - INFO  - 8.2.1 - 29,0 MB/256 MB - [cron] > Newsletter::send> Start newsletter 32
+14-03-2024 19:30:47 - INFO  - 8.2.1 - 29,6 MB/256 MB - [cron] > Newsletter::send> End run for email 32
+14-03-2024 19:34:57 - INFO  - 8.2.1 - 29,0 MB/256 MB - [cron] > Newsletter::send> Start newsletter 32
+14-03-2024 19:35:14 - INFO  - 8.2.1 - 29,4 MB/256 MB - [cron] > Newsletter::send> End run for email 32
+14-03-2024 19:39:44 - INFO  - 8.2.1 - 29,0 MB/256 MB - [cron] > Newsletter::send> Start newsletter 32
+14-03-2024 19:39:44 - INFO  - 8.2.1 - 28,9 MB/256 MB - [cron] > Newsletter::send> No more users, set as sent
+22-03-2024 15:53:29 - ERROR - 8.2.3 - 43,2 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+)
+
+22-03-2024 15:53:31 - ERROR - 8.2.3 - 43,2 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+)
+
+22-03-2024 15:54:19 - ERROR - 8.2.3 - 43,2 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+)
+
+22-03-2024 15:54:19 - ERROR - 8.2.3 - 43,2 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+)
+
+22-03-2024 15:54:19 - ERROR - 8.2.3 - 43,2 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+)
+
+22-03-2024 15:59:47 - INFO  - 8.2.3 - 34,7 MB/256 MB - [cron] > Newsletter::send> Start newsletter 34
+22-03-2024 16:00:44 - INFO  - 8.2.3 - 35,2 MB/256 MB - [cron] > Newsletter::send> End run for email 34
+22-03-2024 16:04:56 - INFO  - 8.2.3 - 34,7 MB/256 MB - [cron] > Newsletter::send> Start newsletter 34
+22-03-2024 16:05:53 - INFO  - 8.2.3 - 35,2 MB/256 MB - [cron] > Newsletter::send> End run for email 34
+22-03-2024 16:10:09 - INFO  - 8.2.3 - 34,7 MB/256 MB - [cron] > Newsletter::send> Start newsletter 34
+22-03-2024 16:11:05 - INFO  - 8.2.3 - 35,2 MB/256 MB - [cron] > Newsletter::send> End run for email 34
+22-03-2024 16:14:44 - INFO  - 8.2.3 - 34,7 MB/256 MB - [cron] > Newsletter::send> Start newsletter 34
+22-03-2024 16:15:40 - INFO  - 8.2.3 - 35,2 MB/256 MB - [cron] > Newsletter::send> End run for email 34
+22-03-2024 16:19:56 - INFO  - 8.2.3 - 34,7 MB/256 MB - [cron] > Newsletter::send> Start newsletter 34
+22-03-2024 16:20:54 - INFO  - 8.2.3 - 35,2 MB/256 MB - [cron] > Newsletter::send> End run for email 34
+22-03-2024 16:24:58 - INFO  - 8.2.3 - 34,7 MB/256 MB - [cron] > Newsletter::send> Start newsletter 34
+22-03-2024 16:25:55 - INFO  - 8.2.3 - 35,2 MB/256 MB - [cron] > Newsletter::send> End run for email 34
+22-03-2024 16:30:31 - INFO  - 8.2.3 - 34,7 MB/256 MB - [cron] > Newsletter::send> Start newsletter 34
+22-03-2024 16:31:29 - INFO  - 8.2.3 - 35,2 MB/256 MB - [cron] > Newsletter::send> End run for email 34
+22-03-2024 16:34:47 - INFO  - 8.2.3 - 34,7 MB/256 MB - [cron] > Newsletter::send> Start newsletter 34
+22-03-2024 16:35:43 - INFO  - 8.2.3 - 35,2 MB/256 MB - [cron] > Newsletter::send> End run for email 34
+22-03-2024 16:39:53 - INFO  - 8.2.3 - 34,7 MB/256 MB - [cron] > Newsletter::send> Start newsletter 34
+22-03-2024 16:40:50 - INFO  - 8.2.3 - 35,2 MB/256 MB - [cron] > Newsletter::send> End run for email 34
+22-03-2024 16:44:54 - INFO  - 8.2.3 - 34,7 MB/256 MB - [cron] > Newsletter::send> Start newsletter 34
+22-03-2024 16:45:52 - INFO  - 8.2.3 - 35,2 MB/256 MB - [cron] > Newsletter::send> End run for email 34
+22-03-2024 16:51:07 - INFO  - 8.2.3 - 34,7 MB/256 MB - [cron] > Newsletter::send> Start newsletter 34
+22-03-2024 16:52:04 - INFO  - 8.2.3 - 35,2 MB/256 MB - [cron] > Newsletter::send> End run for email 34
+22-03-2024 16:55:40 - INFO  - 8.2.3 - 34,7 MB/256 MB - [cron] > Newsletter::send> Start newsletter 34
+22-03-2024 16:56:36 - INFO  - 8.2.3 - 35,2 MB/256 MB - [cron] > Newsletter::send> End run for email 34
+22-03-2024 16:59:55 - INFO  - 8.2.3 - 34,7 MB/256 MB - [cron] > Newsletter::send> Start newsletter 34
+22-03-2024 17:00:53 - INFO  - 8.2.3 - 35,2 MB/256 MB - [cron] > Newsletter::send> End run for email 34
+22-03-2024 17:05:58 - INFO  - 8.2.3 - 34,7 MB/256 MB - [cron] > Newsletter::send> Start newsletter 34
+22-03-2024 17:06:56 - INFO  - 8.2.3 - 35,2 MB/256 MB - [cron] > Newsletter::send> End run for email 34
+22-03-2024 17:10:57 - INFO  - 8.2.3 - 34,7 MB/256 MB - [cron] > Newsletter::send> Start newsletter 34
+22-03-2024 17:11:54 - INFO  - 8.2.3 - 35,2 MB/256 MB - [cron] > Newsletter::send> End run for email 34
+22-03-2024 17:14:48 - INFO  - 8.2.3 - 34,7 MB/256 MB - [cron] > Newsletter::send> Start newsletter 34
+22-03-2024 17:15:44 - INFO  - 8.2.3 - 35,2 MB/256 MB - [cron] > Newsletter::send> End run for email 34
+22-03-2024 17:20:26 - INFO  - 8.2.3 - 34,6 MB/256 MB - [cron] > Newsletter::send> Start newsletter 34
+22-03-2024 17:21:23 - INFO  - 8.2.3 - 35,2 MB/256 MB - [cron] > Newsletter::send> End run for email 34
+22-03-2024 17:25:23 - INFO  - 8.2.3 - 34,7 MB/256 MB - [cron] > Newsletter::send> Start newsletter 34
+22-03-2024 17:26:19 - INFO  - 8.2.3 - 35,2 MB/256 MB - [cron] > Newsletter::send> End run for email 34
+22-03-2024 17:29:44 - INFO  - 8.2.3 - 34,7 MB/256 MB - [cron] > Newsletter::send> Start newsletter 34
+22-03-2024 17:30:41 - INFO  - 8.2.3 - 35,2 MB/256 MB - [cron] > Newsletter::send> End run for email 34
+22-03-2024 17:34:47 - INFO  - 8.2.3 - 37,5 MB/256 MB - [cron] > Newsletter::send> Start newsletter 34
+22-03-2024 17:35:45 - INFO  - 8.2.3 - 38,1 MB/256 MB - [cron] > Newsletter::send> End run for email 34
+22-03-2024 17:39:47 - INFO  - 8.2.3 - 34,7 MB/256 MB - [cron] > Newsletter::send> Start newsletter 34
+22-03-2024 17:40:44 - INFO  - 8.2.3 - 35,3 MB/256 MB - [cron] > Newsletter::send> End run for email 34
+22-03-2024 17:44:56 - INFO  - 8.2.3 - 37,5 MB/256 MB - [cron] > Newsletter::send> Start newsletter 34
+22-03-2024 17:45:52 - INFO  - 8.2.3 - 38,1 MB/256 MB - [cron] > Newsletter::send> End run for email 34
+22-03-2024 17:49:44 - INFO  - 8.2.3 - 34,7 MB/256 MB - [cron] > Newsletter::send> Start newsletter 34
+22-03-2024 17:50:46 - INFO  - 8.2.3 - 35,2 MB/256 MB - [cron] > Newsletter::send> End run for email 34
+22-03-2024 17:55:08 - INFO  - 8.2.3 - 37,5 MB/256 MB - [cron] > Newsletter::send> Start newsletter 34
+22-03-2024 17:56:06 - INFO  - 8.2.3 - 38,1 MB/256 MB - [cron] > Newsletter::send> End run for email 34
+22-03-2024 17:59:45 - INFO  - 8.2.3 - 34,7 MB/256 MB - [cron] > Newsletter::send> Start newsletter 34
+22-03-2024 18:00:41 - INFO  - 8.2.3 - 35,2 MB/256 MB - [cron] > Newsletter::send> End run for email 34
+22-03-2024 18:04:46 - INFO  - 8.2.3 - 34,7 MB/256 MB - [cron] > Newsletter::send> Start newsletter 34
+22-03-2024 18:05:43 - INFO  - 8.2.3 - 35,2 MB/256 MB - [cron] > Newsletter::send> End run for email 34
+22-03-2024 18:09:46 - INFO  - 8.2.3 - 34,6 MB/256 MB - [cron] > Newsletter::send> Start newsletter 34
+22-03-2024 18:10:43 - INFO  - 8.2.3 - 35,2 MB/256 MB - [cron] > Newsletter::send> End run for email 34
+22-03-2024 18:14:46 - INFO  - 8.2.3 - 34,7 MB/256 MB - [cron] > Newsletter::send> Start newsletter 34
+22-03-2024 18:15:43 - INFO  - 8.2.3 - 35,3 MB/256 MB - [cron] > Newsletter::send> End run for email 34
+22-03-2024 18:20:17 - INFO  - 8.2.3 - 34,7 MB/256 MB - [cron] > Newsletter::send> Start newsletter 34
+22-03-2024 18:21:14 - INFO  - 8.2.3 - 35,2 MB/256 MB - [cron] > Newsletter::send> End run for email 34
+22-03-2024 18:24:45 - INFO  - 8.2.3 - 37,5 MB/256 MB - [cron] > Newsletter::send> Start newsletter 34
+22-03-2024 18:25:41 - INFO  - 8.2.3 - 38,1 MB/256 MB - [cron] > Newsletter::send> End run for email 34
+22-03-2024 18:29:43 - INFO  - 8.2.3 - 34,7 MB/256 MB - [cron] > Newsletter::send> Start newsletter 34
+22-03-2024 18:30:41 - INFO  - 8.2.3 - 35,2 MB/256 MB - [cron] > Newsletter::send> End run for email 34
+22-03-2024 18:34:43 - INFO  - 8.2.3 - 34,7 MB/256 MB - [cron] > Newsletter::send> Start newsletter 34
+22-03-2024 18:35:39 - INFO  - 8.2.3 - 35,2 MB/256 MB - [cron] > Newsletter::send> End run for email 34
+22-03-2024 18:39:47 - INFO  - 8.2.3 - 34,7 MB/256 MB - [cron] > Newsletter::send> Start newsletter 34
+22-03-2024 18:40:44 - INFO  - 8.2.3 - 35,2 MB/256 MB - [cron] > Newsletter::send> End run for email 34
+22-03-2024 18:44:56 - INFO  - 8.2.3 - 34,7 MB/256 MB - [cron] > Newsletter::send> Start newsletter 34
+22-03-2024 18:45:53 - INFO  - 8.2.3 - 35,2 MB/256 MB - [cron] > Newsletter::send> End run for email 34
+22-03-2024 18:49:52 - INFO  - 8.2.3 - 34,7 MB/256 MB - [cron] > Newsletter::send> Start newsletter 34
+22-03-2024 18:50:49 - INFO  - 8.2.3 - 35,2 MB/256 MB - [cron] > Newsletter::send> End run for email 34
+22-03-2024 18:54:59 - INFO  - 8.2.3 - 34,7 MB/256 MB - [cron] > Newsletter::send> Start newsletter 34
+22-03-2024 18:55:56 - INFO  - 8.2.3 - 35,2 MB/256 MB - [cron] > Newsletter::send> End run for email 34
+22-03-2024 18:59:55 - INFO  - 8.2.3 - 34,7 MB/256 MB - [cron] > Newsletter::send> Start newsletter 34
+22-03-2024 19:00:53 - INFO  - 8.2.3 - 35,2 MB/256 MB - [cron] > Newsletter::send> End run for email 34
+22-03-2024 19:04:46 - INFO  - 8.2.3 - 34,7 MB/256 MB - [cron] > Newsletter::send> Start newsletter 34
+22-03-2024 19:05:42 - INFO  - 8.2.3 - 35,2 MB/256 MB - [cron] > Newsletter::send> End run for email 34
+22-03-2024 19:09:46 - INFO  - 8.2.3 - 34,7 MB/256 MB - [cron] > Newsletter::send> Start newsletter 34
+22-03-2024 19:10:44 - INFO  - 8.2.3 - 35,2 MB/256 MB - [cron] > Newsletter::send> End run for email 34
+22-03-2024 19:15:58 - INFO  - 8.2.3 - 37,5 MB/256 MB - [cron] > Newsletter::send> Start newsletter 34
+22-03-2024 19:16:57 - INFO  - 8.2.3 - 38,1 MB/256 MB - [cron] > Newsletter::send> End run for email 34
+22-03-2024 19:20:57 - INFO  - 8.2.3 - 34,7 MB/256 MB - [cron] > Newsletter::send> Start newsletter 34
+22-03-2024 19:21:53 - INFO  - 8.2.3 - 35,3 MB/256 MB - [cron] > Newsletter::send> End run for email 34
+22-03-2024 19:24:44 - INFO  - 8.2.3 - 34,7 MB/256 MB - [cron] > Newsletter::send> Start newsletter 34
+22-03-2024 19:25:43 - INFO  - 8.2.3 - 35,3 MB/256 MB - [cron] > Newsletter::send> End run for email 34
+22-03-2024 19:30:10 - INFO  - 8.2.3 - 34,7 MB/256 MB - [cron] > Newsletter::send> Start newsletter 34
+22-03-2024 19:31:08 - INFO  - 8.2.3 - 35,2 MB/256 MB - [cron] > Newsletter::send> End run for email 34
+22-03-2024 19:34:47 - INFO  - 8.2.3 - 37,4 MB/256 MB - [cron] > Newsletter::send> Start newsletter 34
+22-03-2024 19:35:01 - INFO  - 8.2.3 - 37,8 MB/256 MB - [cron] > Newsletter::send> End run for email 34
+22-03-2024 19:39:45 - INFO  - 8.2.3 - 34,7 MB/256 MB - [cron] > Newsletter::send> Start newsletter 34
+22-03-2024 19:39:45 - INFO  - 8.2.3 - 34,7 MB/256 MB - [cron] > Newsletter::send> No more users, set as sent
+23-03-2024 10:20:15 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:20:15 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:20:15 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:20:15 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:20 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 400
+    [2] => 
+)
+
+23-03-2024 10:21:20 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 400
+    [2] => 
+)
+
+23-03-2024 10:21:20 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 400
+    [2] => 
+)
+
+23-03-2024 10:21:20 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 400
+    [2] => 
+)
+
+23-03-2024 10:21:21 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 400
+    [2] => 
+)
+
+23-03-2024 10:21:21 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 400
+    [2] => 
+)
+
+23-03-2024 10:21:21 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 400
+    [2] => 
+)
+
+23-03-2024 10:21:21 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 400
+    [2] => 
+)
+
+23-03-2024 10:21:25 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:25 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:25 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:25 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:25 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:25 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:25 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:25 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:37 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:37 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:37 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:37 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:37 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:37 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:37 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:37 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:44 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:44 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:44 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:44 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:44 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:44 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:44 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:44 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:45 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:45 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:45 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:45 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:45 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:45 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:45 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:45 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:45 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:45 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:45 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:45 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:46 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:46 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:46 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:46 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:46 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:46 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:46 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:46 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:47 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:47 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:47 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:47 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:48 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:48 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:48 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:48 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:48 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:48 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:48 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:48 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:48 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:48 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:48 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:49 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:49 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:49 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:49 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:49 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:50 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:50 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:50 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:50 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:50 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:50 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:50 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:50 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:51 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:51 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:51 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:51 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:52 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:52 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:52 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:52 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:52 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:52 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:52 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:52 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:52 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:52 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:52 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:52 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:53 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:53 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:53 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:53 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:53 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:53 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:54 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:54 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:54 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:54 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:54 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:54 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:54 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:54 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:54 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:54 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:54 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:54 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:54 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:54 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:55 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:55 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:55 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:55 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:55 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:55 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:55 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:55 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:56 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:56 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:56 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:56 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:56 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:56 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:56 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:56 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:57 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:57 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:57 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:57 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:57 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:57 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:57 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:57 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:57 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:57 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:57 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:57 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:57 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:57 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:57 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:57 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:58 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:58 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:58 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:58 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:58 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:58 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:58 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:58 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:58 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:58 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:58 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:58 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:58 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:58 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:58 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:59 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:59 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:59 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:59 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:59 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:59 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:59 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:59 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:59 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:59 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:59 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:59 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:59 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:59 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:59 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:59 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:59 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:59 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:59 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:59 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:21:59 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:02 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:02 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:02 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:02 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:02 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:02 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:02 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:02 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:03 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:03 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:03 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:03 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:03 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:03 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:03 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:03 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:04 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:04 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:04 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:04 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:04 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:04 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:04 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:04 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:04 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:04 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:04 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:04 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:05 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:05 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:05 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:05 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:05 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:05 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:05 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:05 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:05 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:05 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:05 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:05 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:10 - ERROR - 8.2.3 - 43,3 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:10 - ERROR - 8.2.3 - 43,3 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:10 - ERROR - 8.2.3 - 43,3 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:10 - ERROR - 8.2.3 - 43,3 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:15 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:15 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:15 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:15 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:15 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:15 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:15 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:15 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:16 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:16 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:16 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:16 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:16 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:16 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:16 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:16 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:18 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:18 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:18 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:18 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:18 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:18 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:18 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:18 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:27 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:27 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:27 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:28 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:28 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:22:28 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:26:23 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:26:23 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:26:23 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:26:23 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:26:23 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:26:23 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:26:29 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:26:29 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:26:29 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:27:44 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:27:44 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:27:44 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:27:44 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:27:44 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:27:44 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:27:51 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:27:51 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:27:51 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-03-2024 10:28:10 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:10 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:11 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:11 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:11 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:11 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:20 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:20 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:20 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:20 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:20 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:20 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:20 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:20 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:20 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:20 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:27 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:27 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:27 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:27 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:27 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:27 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:28 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:28 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:28 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:29 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:29 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:29 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:29 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:29 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:29 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:30 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:30 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:30 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:30 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:30 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:30 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:31 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:31 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:31 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:31 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:31 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:31 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:31 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:31 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:31 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:32 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:32 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:32 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:33 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:33 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:33 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:33 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:33 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:33 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:33 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:33 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:33 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:34 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:34 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:34 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:34 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:34 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:34 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:35 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:35 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:35 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:35 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:35 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:35 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:35 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:35 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:35 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:35 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:35 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:35 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:36 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:36 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:36 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:36 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:36 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:36 - ERROR - 8.2.3 - 43,4 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:54 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:54 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+
+23-03-2024 10:28:54 - ERROR - 8.2.3 - 43,5 MB/256 MB - Eduardo > Array
+(
+    [0] => 1200
+    [1] => 0
+    [2] => 
+)
+

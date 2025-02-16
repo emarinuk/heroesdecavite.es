@@ -1,0 +1,7 @@
+01-10-2024 11:15:13 - INFO  - 8.5.2 - 130,9 MB/ - [cron] > Weekly check for wpusers
+08-10-2024 11:15:21 - INFO  - 8.5.2 - 133,0 MB/ - [cron] > Weekly check for wpusers
+09-10-2024 00:15:13 - INFO  - 8.5.2 - 39,1 MB/512 MB - Eduardo > New user registration with id 58
+09-10-2024 00:15:13 - INFO  - 8.5.2 - 39,1 MB/512 MB - Eduardo > Opt-in checkbox required but not set
+15-10-2024 11:15:08 - INFO  - 8.5.6 - 133,1 MB/ - [cron] > Weekly check for wpusers
+22-10-2024 11:15:09 - INFO  - 8.5.8 - 134,9 MB/ - [cron] > Weekly check for wpusers
+29-10-2024 10:15:10 - INFO  - 8.5.8 - 134,9 MB/ - [cron] > Weekly check for wpusers

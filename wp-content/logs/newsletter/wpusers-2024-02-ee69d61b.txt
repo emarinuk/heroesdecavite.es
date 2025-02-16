@@ -1,0 +1,4 @@
+15-02-2024 18:50:31 - INFO  - 8.1.1 - 22,1 MB/256 MB -  > New user registration with id 26
+15-02-2024 18:50:31 - INFO  - 8.1.1 - 22,1 MB/256 MB -  > The integration is disabled
+20-02-2024 09:12:32 - INFO  - 8.1.3 - 24,3 MB/256 MB - [cron] > Weekly check for wpusers
+27-02-2024 09:14:52 - INFO  - 8.1.5 - 22,1 MB/256 MB - [cron] > Weekly check for wpusers

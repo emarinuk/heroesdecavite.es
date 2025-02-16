@@ -1,0 +1,157 @@
+03-06-2024 19:43:16 - INFO  - 8.3.6 - 26,7 MB/256 MB -  > Start upgrade from 8.3.3
+03-06-2024 19:43:16 - INFO  - 8.3.6 - 26,8 MB/256 MB -  > Array
+(
+    [`hero_newsletter_emails`] => Created table `hero_newsletter_emails`
+)
+
+03-06-2024 19:43:16 - INFO  - 8.3.6 - 26,8 MB/256 MB -  > Array
+(
+    [`hero_newsletter_sent`] => Created table `hero_newsletter_sent`
+)
+
+03-06-2024 19:43:16 - INFO  - 8.3.6 - 26,8 MB/256 MB -  > Array
+(
+    [`hero_newsletter`] => Created table `hero_newsletter`
+)
+
+03-06-2024 19:43:16 - INFO  - 8.3.6 - 26,8 MB/256 MB -  > Array
+(
+    [`hero_newsletter_user_logs`] => Created table `hero_newsletter_user_logs`
+)
+
+03-06-2024 19:43:16 - INFO  - 8.3.6 - 26,8 MB/256 MB -  > Array
+(
+    [`hero_newsletter_user_meta`] => Created table `hero_newsletter_user_meta`
+)
+
+03-06-2024 19:43:16 - INFO  - 8.3.6 - 26,8 MB/256 MB -  > Array
+(
+    [`hero_newsletter_stats`] => Created table `hero_newsletter_stats`
+)
+
+03-06-2024 19:43:16 - INFO  - 8.3.6 - 26,7 MB/256 MB -  > Array
+(
+    [`hero_newsletter_logs`] => Created table `hero_newsletter_logs`
+    [hero_newsletter_logs.status] => Changed type of hero_newsletter_logs.status from int(11) to int
+)
+
+03-06-2024 19:43:16 - INFO  - 8.3.6 - 26,8 MB/256 MB -  > Backing up options of 8.3.3
+03-06-2024 19:43:16 - INFO  - 8.3.6 - 26,9 MB/256 MB -  > End
+03-06-2024 19:43:17 - INFO  - 8.3.6 - 22,1 MB/256 MB - [cron] > Start upgrade from 8.3.3
+03-06-2024 19:43:17 - INFO  - 8.3.6 - 22,0 MB/256 MB - [cron] > Array
+(
+    [`hero_newsletter_emails`] => Created table `hero_newsletter_emails`
+)
+
+03-06-2024 19:43:17 - INFO  - 8.3.6 - 22,0 MB/256 MB - [cron] > Array
+(
+    [`hero_newsletter_sent`] => Created table `hero_newsletter_sent`
+)
+
+03-06-2024 19:43:17 - INFO  - 8.3.6 - 22,0 MB/256 MB - [cron] > Array
+(
+    [`hero_newsletter`] => Created table `hero_newsletter`
+)
+
+03-06-2024 19:43:17 - INFO  - 8.3.6 - 22,0 MB/256 MB - [cron] > Array
+(
+    [`hero_newsletter_user_logs`] => Created table `hero_newsletter_user_logs`
+)
+
+03-06-2024 19:43:17 - INFO  - 8.3.6 - 22,0 MB/256 MB - [cron] > Array
+(
+    [`hero_newsletter_user_meta`] => Created table `hero_newsletter_user_meta`
+)
+
+03-06-2024 19:43:17 - INFO  - 8.3.6 - 22,0 MB/256 MB - [cron] > Array
+(
+    [`hero_newsletter_stats`] => Created table `hero_newsletter_stats`
+)
+
+03-06-2024 19:43:17 - INFO  - 8.3.6 - 22,0 MB/256 MB - [cron] > Array
+(
+    [`hero_newsletter_logs`] => Created table `hero_newsletter_logs`
+    [hero_newsletter_logs.status] => Changed type of hero_newsletter_logs.status from int(11) to int
+)
+
+03-06-2024 19:43:17 - INFO  - 8.3.6 - 22,0 MB/256 MB - [cron] > Deleting settings backup newsletter_backup_8.2.2
+03-06-2024 19:43:17 - INFO  - 8.3.6 - 22,1 MB/256 MB - [cron] > End
+06-06-2024 21:19:48 - INFO  - 8.3.8 - 26,2 MB/256 MB - [cron] > Start upgrade from 8.3.6
+06-06-2024 21:19:48 - INFO  - 8.3.8 - 27,1 MB/256 MB - [cron] > Array
+(
+    [`hero_newsletter_emails`] => Created table `hero_newsletter_emails`
+)
+
+06-06-2024 21:19:48 - INFO  - 8.3.8 - 27,1 MB/256 MB - [cron] > Array
+(
+    [`hero_newsletter_sent`] => Created table `hero_newsletter_sent`
+)
+
+06-06-2024 21:19:48 - INFO  - 8.3.8 - 27,1 MB/256 MB - [cron] > Array
+(
+    [`hero_newsletter`] => Created table `hero_newsletter`
+)
+
+06-06-2024 21:19:48 - INFO  - 8.3.8 - 27,1 MB/256 MB - [cron] > Array
+(
+    [`hero_newsletter_user_logs`] => Created table `hero_newsletter_user_logs`
+)
+
+06-06-2024 21:19:48 - INFO  - 8.3.8 - 27,1 MB/256 MB - [cron] > Array
+(
+    [`hero_newsletter_user_meta`] => Created table `hero_newsletter_user_meta`
+)
+
+06-06-2024 21:19:48 - INFO  - 8.3.8 - 27,1 MB/256 MB - [cron] > Array
+(
+    [`hero_newsletter_stats`] => Created table `hero_newsletter_stats`
+)
+
+06-06-2024 21:19:48 - INFO  - 8.3.8 - 27,1 MB/256 MB - [cron] > Array
+(
+    [`hero_newsletter_logs`] => Created table `hero_newsletter_logs`
+    [hero_newsletter_logs.status] => Changed type of hero_newsletter_logs.status from int(11) to int
+)
+
+06-06-2024 21:19:48 - INFO  - 8.3.8 - 27,1 MB/256 MB - [cron] > Backing up options of 8.3.6
+06-06-2024 21:19:48 - INFO  - 8.3.8 - 27,2 MB/256 MB - [cron] > End
+20-06-2024 10:09:27 - INFO  - 8.3.9 - 111,8 MB/256 MB -  > Start upgrade from 8.3.8
+20-06-2024 10:09:27 - INFO  - 8.3.9 - 116,1 MB/256 MB -  > Array
+(
+    [`hero_newsletter_emails`] => Created table `hero_newsletter_emails`
+)
+
+20-06-2024 10:09:27 - INFO  - 8.3.9 - 116,1 MB/256 MB -  > Array
+(
+    [`hero_newsletter_sent`] => Created table `hero_newsletter_sent`
+)
+
+20-06-2024 10:09:27 - INFO  - 8.3.9 - 116,1 MB/256 MB -  > Array
+(
+    [`hero_newsletter`] => Created table `hero_newsletter`
+)
+
+20-06-2024 10:09:27 - INFO  - 8.3.9 - 116,1 MB/256 MB -  > Array
+(
+    [`hero_newsletter_user_logs`] => Created table `hero_newsletter_user_logs`
+)
+
+20-06-2024 10:09:27 - INFO  - 8.3.9 - 116,1 MB/256 MB -  > Array
+(
+    [`hero_newsletter_user_meta`] => Created table `hero_newsletter_user_meta`
+)
+
+20-06-2024 10:09:27 - INFO  - 8.3.9 - 116,1 MB/256 MB -  > Array
+(
+    [`hero_newsletter_stats`] => Created table `hero_newsletter_stats`
+)
+
+20-06-2024 10:09:27 - INFO  - 8.3.9 - 116,1 MB/256 MB -  > Array
+(
+    [`hero_newsletter_logs`] => Created table `hero_newsletter_logs`
+    [hero_newsletter_logs.status] => Changed type of hero_newsletter_logs.status from int(11) to int
+)
+
+20-06-2024 10:09:27 - INFO  - 8.3.9 - 116,2 MB/256 MB -  > Deleting settings backup newsletter_backup_8.2.3
+20-06-2024 10:09:27 - INFO  - 8.3.9 - 116,2 MB/256 MB -  > Backing up options of 8.3.8
+20-06-2024 10:09:27 - INFO  - 8.3.9 - 116,3 MB/256 MB -  > End

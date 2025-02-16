@@ -1,0 +1,114 @@
+.ova-blog {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-column-gap: 40px;
+	.blog-content {
+		&:not(:last-child) {
+			margin-bottom: 40px;
+		}
+		.post-media {
+			margin-bottom: 0px;
+			min-height: 280px;
+			background-size: cover;
+			background-repeat: no-repeat;
+			background-position: center center;
+			+ .post-content {
+				margin-right: 50px;
+				padding-right: 0px;
+				margin-top: -80px;
+				position: relative;
+			}
+		}
+
+		.post-content {
+			background-color: #fff;
+	    	.post-meta-content {
+	    		display: inline-block;
+	    		margin: 0;
+			    padding-top: 33px;
+			    padding-bottom: 12px;
+	    	    .post-date {
+		    		font-size: 17px;
+		    		line-height: 22px;
+		    		color: #777777;
+		    		text-transform: capitalize;
+	    	    }
+	    	}
+		    h2.title  {
+		    	margin-top: 0px;
+		    	margin-bottom: 28px;
+		    	line-height: unset;
+		    	a {
+		    		font-size: 28px;
+			    	line-height: 35px;
+			    	color: #25282e;
+			    	text-transform: unset;
+			    	font-weight: normal;
+			    	&:hover {
+			    		color: #515358;
+			    	}
+		    	}
+		    }
+		    .post-body {
+		    	margin-bottom: 28px;
+		    	margin-top: -6px;
+		    	.post-excerpt {
+		    		p {
+		    			font-size: 17px;
+		    			line-height: 26px;
+		    			color: #777777;
+		    		}
+		    	}
+		    }
+		    .post-readmore {
+		    	a {
+		    		font-size: 16px;
+		    		line-height: 22px;
+		    		color: #25282e;
+		    		border-bottom: 2px solid #25282e;
+		    		position: relative;
+		    		&:after {
+		    			position: absolute;
+		    			left: 0;
+		    			bottom: -3px;
+		    			content: "";
+		    			width: 0px;
+		    			height: 2px;
+		    			background-color: #25282e;
+		    		}
+		    		&:hover {
+			    		border-bottom:none;
+			    		&:after {
+			    			width: 100%; 
+			    			transition: 0.4s;
+			    		}
+			    	}
+		    	}
+		    }
+		}
+	}
+	
+}
+
+@media (max-width: 991px) {
+	.ova-blog {
+		grid-template-columns: 1fr 1fr;
+		grid-row-gap: 40px;
+	}
+}
+
+@media (max-width: 767px) {
+	.ova-blog {
+		grid-template-columns: 1fr;
+		grid-column-gap: 0px;
+		.blog-content {
+			.post-media {
+				+ .post-content {
+					margin-right: 0px;
+					padding-right: 0px;
+					margin-top: 0px;
+				}
+			}
+		}
+	}
+}

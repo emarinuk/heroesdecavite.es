@@ -1,0 +1,8 @@
+01-12-2024 23:26:10 - INFO  - 8.6.3 - 36,4 MB/512 MB - Eduardo > Saving newsletter 86 from composer
+01-12-2024 23:26:16 - INFO  - 8.6.3 - 36,4 MB/512 MB - Eduardo > Saving newsletter 86 from composer
+01-12-2024 23:26:43 - INFO  - 8.6.3 - 36,5 MB/512 MB - Eduardo > Sending newsletter: 86
+01-12-2024 23:38:26 - INFO  - 8.6.3 - 36,5 MB/512 MB - Eduardo > Newsletter 86 paused
+13-12-2024 10:19:51 - INFO  - 8.6.4 - 40,5 MB/512 MB - Eduardo > Newsletter 86 restarted
+13-12-2024 10:20:18 - INFO  - 8.6.4 - 40,4 MB/512 MB - Eduardo > Saving newsletter 87 from composer
+13-12-2024 10:20:24 - INFO  - 8.6.4 - 40,4 MB/512 MB - Eduardo > Saving newsletter 87 from composer
+13-12-2024 10:21:01 - INFO  - 8.6.4 - 40,5 MB/512 MB - Eduardo > Sending newsletter: 87

@@ -1,0 +1,4 @@
+07-01-2025 10:15:14 - INFO  - 8.6.4 - 133,6 MB/ - [cron] > Weekly check for forms
+14-01-2025 10:15:11 - INFO  - 8.6.4 - 133,6 MB/ - [cron] > Weekly check for forms
+21-01-2025 10:15:13 - INFO  - 8.6.4 - 133,4 MB/ - [cron] > Weekly check for forms
+28-01-2025 10:15:22 - INFO  - 8.6.4 - 133,6 MB/ - [cron] > Weekly check for forms

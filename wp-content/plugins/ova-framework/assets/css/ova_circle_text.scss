@@ -1,0 +1,36 @@
+.ova-circle-text {
+	.circle-text {
+		border: 1px solid #e0e0e0;
+		display: inline-block;
+	    width: 96px;
+	    height: 96px;
+	    border-radius: 50%;
+	    .text {
+	    	position: relative;
+	    	display: block;
+	    	margin-top: 14px;
+	    	text-align: center;
+	    	font-size: 15px;
+	    	line-height: 26px;
+	    	color: #555555;
+	    	&:after {
+	    		content: "";
+	    		width: 60px;
+	    		height: 1px;
+	    		background-color: #e0e0e0;
+	    		position: absolute;
+	    		bottom: -7px;
+	    		left: 50%;
+	    		transform: translateX(-50%);
+	    	}
+	    }
+	    .number {
+	    	font-size: 15px;
+	    	line-height: 26px;
+	    	color: #555555;
+	    	text-align: center;
+	    	display: block;
+	    	padding-top: 14px;
+	    }
+	}
+}

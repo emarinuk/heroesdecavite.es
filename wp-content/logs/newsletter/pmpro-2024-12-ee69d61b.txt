@@ -1,0 +1,409 @@
+07-12-2024 01:25:05 - INFO  - 8.6.4 - 141,7 MB/ - [cron] > Weekly check for pmpro
+12-12-2024 13:13:04 - DEBUG - 8.6.4 - 47,1 MB/512 MB - Eduardo > Array
+(
+)
+
+12-12-2024 13:13:04 - DEBUG - 8.6.4 - 47,1 MB/512 MB - Eduardo > Checking user ID 19
+12-12-2024 13:13:04 - DEBUG - 8.6.4 - 47,1 MB/512 MB - Eduardo > Subscriber not found
+12-12-2024 13:13:15 - DEBUG - 8.6.4 - 47,1 MB/512 MB - Eduardo > Array
+(
+)
+
+12-12-2024 13:13:15 - DEBUG - 8.6.4 - 47,1 MB/512 MB - Eduardo > Checking user ID 4
+12-12-2024 13:13:15 - DEBUG - 8.6.4 - 47,1 MB/512 MB - Eduardo > Subscriber not found
+12-12-2024 13:20:14 - DEBUG - 8.6.4 - 50,1 MB/512 MB - Eduardo > Array
+(
+)
+
+12-12-2024 13:20:14 - DEBUG - 8.6.4 - 50,1 MB/512 MB - Eduardo > Checking user ID 28
+12-12-2024 13:20:14 - DEBUG - 8.6.4 - 50,1 MB/512 MB - Eduardo > stdClass Object
+(
+    [id] => 2440
+    [email] => amigoshispanicheritageusa@gmail.com
+    [name] => Carlos
+    [token] => 613fa51767
+    [language] => 
+    [status] => C
+    [created] => 2024-03-05 23:16:25
+    [updated] => 1709680585
+    [last_activity] => 1731067052
+    [surname] => Merino Maestre
+    [sex] => n
+    [feed_time] => 0
+    [feed] => 0
+    [referrer] => registration
+    [ip] => 77.225.153.172
+    [wp_user_id] => 28
+    [source] => 
+    [http_referer] => 
+    [geo] => 1
+    [country] => 
+    [region] => 
+    [city] => 
+    [bounce_type] => 
+    [bounce_time] => 0
+    [unsub_email_id] => 0
+    [unsub_time] => 0
+    [list_1] => 0
+    [list_2] => 0
+    [list_3] => 1
+    [list_4] => 0
+    [list_5] => 0
+    [list_6] => 0
+    [list_7] => 0
+    [list_8] => 0
+    [list_9] => 0
+    [list_10] => 0
+    [list_11] => 0
+    [list_12] => 0
+    [list_13] => 0
+    [list_14] => 0
+    [list_15] => 0
+    [list_16] => 0
+    [list_17] => 0
+    [list_18] => 0
+    [list_19] => 0
+    [list_20] => 0
+    [list_21] => 0
+    [list_22] => 0
+    [list_23] => 0
+    [list_24] => 0
+    [list_25] => 0
+    [list_26] => 0
+    [list_27] => 0
+    [list_28] => 0
+    [list_29] => 0
+    [list_30] => 0
+    [list_31] => 1
+    [list_32] => 0
+    [list_33] => 0
+    [list_34] => 0
+    [list_35] => 0
+    [list_36] => 0
+    [list_37] => 0
+    [list_38] => 0
+    [list_39] => 0
+    [list_40] => 0
+    [profile_1] => 
+    [profile_2] => 
+    [profile_3] => 
+    [profile_4] => 
+    [profile_5] => 
+    [profile_6] => 
+    [profile_7] => 
+    [profile_8] => 
+    [profile_9] => 
+    [profile_10] => 
+    [profile_11] => 
+    [profile_12] => 
+    [profile_13] => 
+    [profile_14] => 
+    [profile_15] => 
+    [profile_16] => 
+    [profile_17] => 
+    [profile_18] => 
+    [profile_19] => 
+    [profile_20] => 
+    [test] => 0
+)
+
+12-12-2024 13:20:14 - DEBUG - 8.6.4 - 50,1 MB/512 MB - Eduardo > Levels:
+12-12-2024 13:20:14 - DEBUG - 8.6.4 - 50,1 MB/512 MB - Eduardo > Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 2
+            [id] => 2
+            [subscription_id] => 3
+            [name] => Socio
+            [description] => 
+            [confirmation] => 
+            [expiration_number] => 0
+            [expiration_period] => 0
+            [initial_payment] => 0
+            [billing_amount] => 0
+            [cycle_number] => 0
+            [cycle_period] => month
+            [billing_limit] => 0
+            [trial_amount] => 0
+            [trial_limit] => 0
+            [code_id] => 0
+            [startdate] => 1734009609
+            [enddate] => 
+        )
+
+)
+
+12-12-2024 13:20:14 - DEBUG - 8.6.4 - 50,1 MB/512 MB - Eduardo > Array
+(
+    [id] => 2440
+)
+
+12-12-2024 13:21:35 - DEBUG - 8.6.4 - 50,1 MB/512 MB - Eduardo > Array
+(
+)
+
+12-12-2024 13:21:35 - DEBUG - 8.6.4 - 50,1 MB/512 MB - Eduardo > Checking user ID 10
+12-12-2024 13:21:35 - DEBUG - 8.6.4 - 50,1 MB/512 MB - Eduardo > Subscriber not found
+12-12-2024 13:22:52 - DEBUG - 8.6.4 - 50,1 MB/512 MB - Eduardo > Array
+(
+)
+
+12-12-2024 13:22:52 - DEBUG - 8.6.4 - 50,1 MB/512 MB - Eduardo > Checking user ID 48
+12-12-2024 13:22:52 - DEBUG - 8.6.4 - 50,1 MB/512 MB - Eduardo > Subscriber not found
+12-12-2024 13:23:39 - DEBUG - 8.6.4 - 47,1 MB/512 MB - Eduardo > Array
+(
+)
+
+12-12-2024 13:23:39 - DEBUG - 8.6.4 - 47,1 MB/512 MB - Eduardo > Checking user ID 47
+12-12-2024 13:23:39 - DEBUG - 8.6.4 - 47,1 MB/512 MB - Eduardo > Subscriber not found
+12-12-2024 13:23:55 - DEBUG - 8.6.4 - 47,1 MB/512 MB - Eduardo > Array
+(
+)
+
+12-12-2024 13:23:55 - DEBUG - 8.6.4 - 47,1 MB/512 MB - Eduardo > Checking user ID 38
+12-12-2024 13:23:55 - DEBUG - 8.6.4 - 47,1 MB/512 MB - Eduardo > Subscriber not found
+12-12-2024 13:24:34 - DEBUG - 8.6.4 - 50,1 MB/512 MB - Eduardo > Array
+(
+)
+
+12-12-2024 13:24:34 - DEBUG - 8.6.4 - 50,1 MB/512 MB - Eduardo > Checking user ID 29
+12-12-2024 13:24:34 - DEBUG - 8.6.4 - 50,1 MB/512 MB - Eduardo > stdClass Object
+(
+    [id] => 2441
+    [email] => josed.sanchez8@gmail.com
+    [name] => José Daniel
+    [token] => f5814fecb6
+    [language] => 
+    [status] => C
+    [created] => 2024-03-06 05:32:22
+    [updated] => 1709703142
+    [last_activity] => 1717775212
+    [surname] => Sánchez Martínez
+    [sex] => n
+    [feed_time] => 0
+    [feed] => 0
+    [referrer] => popup
+    [ip] => 62.122.231.53
+    [wp_user_id] => 29
+    [source] => 
+    [http_referer] => 
+    [geo] => 1
+    [country] => 
+    [region] => 
+    [city] => 
+    [bounce_type] => 
+    [bounce_time] => 0
+    [unsub_email_id] => 0
+    [unsub_time] => 0
+    [list_1] => 0
+    [list_2] => 0
+    [list_3] => 1
+    [list_4] => 0
+    [list_5] => 0
+    [list_6] => 0
+    [list_7] => 0
+    [list_8] => 0
+    [list_9] => 0
+    [list_10] => 0
+    [list_11] => 0
+    [list_12] => 0
+    [list_13] => 0
+    [list_14] => 0
+    [list_15] => 0
+    [list_16] => 0
+    [list_17] => 0
+    [list_18] => 0
+    [list_19] => 0
+    [list_20] => 0
+    [list_21] => 0
+    [list_22] => 0
+    [list_23] => 0
+    [list_24] => 0
+    [list_25] => 0
+    [list_26] => 0
+    [list_27] => 0
+    [list_28] => 0
+    [list_29] => 0
+    [list_30] => 0
+    [list_31] => 0
+    [list_32] => 1
+    [list_33] => 0
+    [list_34] => 0
+    [list_35] => 0
+    [list_36] => 0
+    [list_37] => 0
+    [list_38] => 0
+    [list_39] => 0
+    [list_40] => 0
+    [profile_1] => 
+    [profile_2] => 
+    [profile_3] => 
+    [profile_4] => 
+    [profile_5] => 
+    [profile_6] => 
+    [profile_7] => 
+    [profile_8] => 
+    [profile_9] => 
+    [profile_10] => 
+    [profile_11] => 
+    [profile_12] => 
+    [profile_13] => 
+    [profile_14] => 
+    [profile_15] => 
+    [profile_16] => 
+    [profile_17] => 
+    [profile_18] => 
+    [profile_19] => 
+    [profile_20] => 
+    [test] => 0
+)
+
+12-12-2024 13:24:34 - DEBUG - 8.6.4 - 50,1 MB/512 MB - Eduardo > Levels:
+12-12-2024 13:24:34 - DEBUG - 8.6.4 - 50,1 MB/512 MB - Eduardo > Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 2
+            [id] => 2
+            [subscription_id] => 8
+            [name] => Socio
+            [description] => 
+            [confirmation] => 
+            [expiration_number] => 0
+            [expiration_period] => 0
+            [initial_payment] => 0
+            [billing_amount] => 0
+            [cycle_number] => 0
+            [cycle_period] => month
+            [billing_limit] => 0
+            [trial_amount] => 0
+            [trial_limit] => 0
+            [code_id] => 0
+            [startdate] => 1734009870
+            [enddate] => 
+        )
+
+)
+
+12-12-2024 13:24:34 - DEBUG - 8.6.4 - 50,1 MB/512 MB - Eduardo > Array
+(
+    [id] => 2441
+)
+
+12-12-2024 13:25:30 - DEBUG - 8.6.4 - 47,1 MB/512 MB - Eduardo > Array
+(
+)
+
+12-12-2024 13:25:30 - DEBUG - 8.6.4 - 47,1 MB/512 MB - Eduardo > Checking user ID 40
+12-12-2024 13:25:30 - DEBUG - 8.6.4 - 47,1 MB/512 MB - Eduardo > Subscriber not found
+14-12-2024 01:25:04 - INFO  - 8.6.4 - 127,1 MB/ - [cron] > Weekly check for pmpro
+14-12-2024 09:55:11 - DEBUG - 8.6.4 - 47,2 MB/512 MB - Eduardo > Array
+(
+)
+
+14-12-2024 09:55:11 - DEBUG - 8.6.4 - 47,2 MB/512 MB - Eduardo > Checking user ID 28
+14-12-2024 09:55:11 - DEBUG - 8.6.4 - 47,2 MB/512 MB - Eduardo > stdClass Object
+(
+    [id] => 2440
+    [email] => amigoshispanicheritageusa@gmail.com
+    [name] => Carlos
+    [token] => 613fa51767
+    [language] => 
+    [status] => C
+    [created] => 2024-03-05 23:16:25
+    [updated] => 1709680585
+    [last_activity] => 1731067052
+    [surname] => Merino Maestre
+    [sex] => n
+    [feed_time] => 0
+    [feed] => 0
+    [referrer] => registration
+    [ip] => 77.225.153.172
+    [wp_user_id] => 28
+    [source] => 
+    [http_referer] => 
+    [geo] => 1
+    [country] => 
+    [region] => 
+    [city] => 
+    [bounce_type] => 
+    [bounce_time] => 0
+    [unsub_email_id] => 0
+    [unsub_time] => 0
+    [list_1] => 0
+    [list_2] => 0
+    [list_3] => 1
+    [list_4] => 0
+    [list_5] => 0
+    [list_6] => 0
+    [list_7] => 0
+    [list_8] => 0
+    [list_9] => 0
+    [list_10] => 0
+    [list_11] => 0
+    [list_12] => 0
+    [list_13] => 0
+    [list_14] => 0
+    [list_15] => 0
+    [list_16] => 0
+    [list_17] => 0
+    [list_18] => 0
+    [list_19] => 0
+    [list_20] => 0
+    [list_21] => 0
+    [list_22] => 0
+    [list_23] => 0
+    [list_24] => 0
+    [list_25] => 0
+    [list_26] => 0
+    [list_27] => 0
+    [list_28] => 0
+    [list_29] => 0
+    [list_30] => 0
+    [list_31] => 0
+    [list_32] => 0
+    [list_33] => 0
+    [list_34] => 0
+    [list_35] => 0
+    [list_36] => 0
+    [list_37] => 0
+    [list_38] => 0
+    [list_39] => 0
+    [list_40] => 0
+    [profile_1] => 
+    [profile_2] => 
+    [profile_3] => 
+    [profile_4] => 
+    [profile_5] => 
+    [profile_6] => 
+    [profile_7] => 
+    [profile_8] => 
+    [profile_9] => 
+    [profile_10] => 
+    [profile_11] => 
+    [profile_12] => 
+    [profile_13] => 
+    [profile_14] => 
+    [profile_15] => 
+    [profile_16] => 
+    [profile_17] => 
+    [profile_18] => 
+    [profile_19] => 
+    [profile_20] => 
+    [test] => 0
+)
+
+14-12-2024 09:55:11 - DEBUG - 8.6.4 - 47,2 MB/512 MB - Eduardo > Levels:
+14-12-2024 09:55:11 - DEBUG - 8.6.4 - 47,2 MB/512 MB - Eduardo > Array
+(
+)
+
+14-12-2024 09:55:11 - DEBUG - 8.6.4 - 47,2 MB/512 MB - Eduardo > Undefined level
+14-12-2024 09:55:11 - DEBUG - 8.6.4 - 47,2 MB/512 MB - Eduardo > Array
+(
+    [id] => 2440
+)
+
+21-12-2024 01:25:13 - INFO  - 8.6.4 - 128,1 MB/ - [cron] > Weekly check for pmpro
+28-12-2024 01:25:06 - INFO  - 8.6.4 - 128,1 MB/ - [cron] > Weekly check for pmpro

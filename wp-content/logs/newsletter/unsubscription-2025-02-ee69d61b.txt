@@ -1,0 +1,14 @@
+09-02-2025 15:42:16 - DEBUG - 8.6.8 - 15,6 MB/512 MB -  > Status change to U of subscriber 175 from /?na=ocu&nk=175-6a77c122ec&nek=88-b01c48a923
+09-02-2025 15:42:16 - DEBUG - 8.6.8 - 15,6 MB/512 MB -  > update hero_newsletter set status='U', updated=1739112136 where id=175 limit 1
+10-02-2025 12:25:09 - DEBUG - 8.6.8 - 15,6 MB/512 MB -  > Status change to U of subscriber 1480 from /
+10-02-2025 12:25:09 - DEBUG - 8.6.8 - 15,6 MB/512 MB -  > update hero_newsletter set status='U', updated=1739186709 where id=1480 limit 1
+11-02-2025 01:51:38 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > Status change to U of subscriber 1624 from /
+11-02-2025 01:51:38 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > update hero_newsletter set status='U', updated=1739235098 where id=1624 limit 1
+11-02-2025 08:00:11 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > Status change to U of subscriber 2168 from /
+11-02-2025 08:00:11 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > update hero_newsletter set status='U', updated=1739257211 where id=2168 limit 1
+12-02-2025 07:29:06 - DEBUG - 8.7.0 - 16,8 MB/2 GB -  > Status change to U of subscriber 4123 from /
+12-02-2025 07:29:06 - DEBUG - 8.7.0 - 16,8 MB/2 GB -  > update hero_newsletter set status='U', updated=1739341746 where id=4123 limit 1
+12-02-2025 10:28:31 - DEBUG - 8.7.0 - 17,8 MB/2 GB -  > Status change to U of subscriber 4190 from /
+12-02-2025 10:28:31 - DEBUG - 8.7.0 - 17,8 MB/2 GB -  > update hero_newsletter set status='U', updated=1739352511 where id=4190 limit 1
+15-02-2025 20:09:49 - DEBUG - 8.7.0 - 35,4 MB/2 GB -  > Status change to U of subscriber 445 from /
+15-02-2025 20:09:49 - DEBUG - 8.7.0 - 35,4 MB/2 GB -  > update hero_newsletter set status='U', updated=1739646589 where id=445 limit 1

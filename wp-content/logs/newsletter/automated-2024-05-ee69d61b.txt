@@ -1,0 +1,4 @@
+05-05-2024 14:54:19 - INFO  - 8.3.1 - 16,0 MB/256 MB - [cron] > Weekly check for automated
+12-05-2024 14:54:17 - INFO  - 8.3.2 - 11,8 MB/256 MB - [cron] > Weekly check for automated
+19-05-2024 14:54:27 - INFO  - 8.3.2 - 19,5 MB/256 MB - [cron] > Weekly check for automated
+26-05-2024 14:54:24 - INFO  - 8.3.3 - 11,8 MB/256 MB - [cron] > Weekly check for automated

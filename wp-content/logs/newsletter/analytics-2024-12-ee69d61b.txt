@@ -1,0 +1,9 @@
+02-12-2024 16:06:21 - DEBUG - 8.6.3 - 14,8 MB/512 MB -  > Processing https://www.paypal.com/donate/?hosted_button_id=WEBVTAQREWMJY
+02-12-2024 16:06:21 - DEBUG - 8.6.3 - 14,8 MB/512 MB -  > Source not set
+03-12-2024 10:15:12 - INFO  - 8.6.4 - 141,7 MB/ - [cron] > Weekly check for analytics
+10-12-2024 10:15:05 - INFO  - 8.6.4 - 141,7 MB/ - [cron] > Weekly check for analytics
+17-12-2024 10:15:13 - INFO  - 8.6.4 - 128,1 MB/ - [cron] > Weekly check for analytics
+23-12-2024 05:07:55 - DEBUG - 8.6.4 - 14,6 MB/512 MB -  > Processing https://heroesdecavite.es/?na=u&nk=810-c471244170&nek=19-b28a307926
+23-12-2024 05:07:55 - DEBUG - 8.6.4 - 14,6 MB/512 MB -  > Newsletter action
+24-12-2024 10:15:14 - INFO  - 8.6.4 - 128,1 MB/ - [cron] > Weekly check for analytics
+31-12-2024 10:15:14 - INFO  - 8.6.4 - 128,1 MB/ - [cron] > Weekly check for analytics

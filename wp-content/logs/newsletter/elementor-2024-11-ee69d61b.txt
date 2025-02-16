@@ -1,0 +1,40 @@
+04-11-2024 22:35:05 - INFO  - 8.6.0 - 135,1 MB/ - [cron] > Weekly check for elementor
+11-11-2024 09:54:27 - DEBUG - 8.6.0 - 23,9 MB/512 MB -  > Field not mapped
+11-11-2024 09:54:27 - DEBUG - 8.6.0 - 23,9 MB/512 MB -  > Field not mapped
+11-11-2024 09:54:27 - DEBUG - 8.6.0 - 23,9 MB/512 MB -  > Field not mapped
+11-11-2024 09:54:27 - DEBUG - 8.6.0 - 23,9 MB/512 MB -  > Field not mapped
+11-11-2024 09:54:27 - DEBUG - 8.6.0 - 23,9 MB/512 MB -  > Field not mapped
+11-11-2024 09:54:27 - DEBUG - 8.6.0 - 23,9 MB/512 MB -  > Field not mapped
+11-11-2024 09:54:27 - DEBUG - 8.6.0 - 23,9 MB/512 MB -  > Field not mapped
+11-11-2024 09:54:27 - DEBUG - 8.6.0 - 23,9 MB/512 MB -  > Array
+(
+    [0] => 9
+)
+
+11-11-2024 22:35:04 - INFO  - 8.6.0 - 135,2 MB/ - [cron] > Weekly check for elementor
+18-11-2024 22:35:05 - INFO  - 8.6.1 - 141,5 MB/ - [cron] > Weekly check for elementor
+25-11-2024 22:35:08 - INFO  - 8.6.1 - 141,5 MB/ - [cron] > Weekly check for elementor
+29-11-2024 10:25:15 - DEBUG - 8.6.3 - 43,9 MB/512 MB -  > Field not mapped
+29-11-2024 10:25:15 - DEBUG - 8.6.3 - 43,9 MB/512 MB -  > Field not mapped
+29-11-2024 10:25:15 - DEBUG - 8.6.3 - 43,9 MB/512 MB -  > Field not mapped
+29-11-2024 10:25:15 - DEBUG - 8.6.3 - 43,9 MB/512 MB -  > Field not mapped
+29-11-2024 10:25:15 - DEBUG - 8.6.3 - 43,9 MB/512 MB -  > Field not mapped
+29-11-2024 10:25:15 - DEBUG - 8.6.3 - 43,9 MB/512 MB -  > Field not mapped
+29-11-2024 10:25:15 - DEBUG - 8.6.3 - 43,9 MB/512 MB -  > Field not mapped
+29-11-2024 10:25:15 - DEBUG - 8.6.3 - 43,9 MB/512 MB -  > Array
+(
+    [0] => 9
+)
+
+29-11-2024 23:57:42 - DEBUG - 8.6.3 - 44,3 MB/512 MB -  > Field not mapped
+29-11-2024 23:57:42 - DEBUG - 8.6.3 - 44,3 MB/512 MB -  > Field not mapped
+29-11-2024 23:57:42 - DEBUG - 8.6.3 - 44,3 MB/512 MB -  > Field not mapped
+29-11-2024 23:57:42 - DEBUG - 8.6.3 - 44,3 MB/512 MB -  > Field not mapped
+29-11-2024 23:57:42 - DEBUG - 8.6.3 - 44,3 MB/512 MB -  > Field not mapped
+29-11-2024 23:57:42 - DEBUG - 8.6.3 - 44,3 MB/512 MB -  > Field not mapped
+29-11-2024 23:57:42 - DEBUG - 8.6.3 - 44,3 MB/512 MB -  > Field not mapped
+29-11-2024 23:57:42 - DEBUG - 8.6.3 - 44,3 MB/512 MB -  > Array
+(
+    [0] => 10
+)
+

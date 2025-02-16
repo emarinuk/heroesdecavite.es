@@ -1,0 +1,107 @@
+.ova-price-table {
+	border: 1px solid #e8e8e8;
+	&:hover {
+		.wp-icon {
+			.icon {
+				i {
+					background-color: #c1b696;
+					&:before {
+						color: #fff;
+					}
+				}
+			}
+		}
+		.readmore {
+			a.text-button {
+				transition: 0.5s all;
+				color: #fff;
+				background-color: #25282e;
+				border-color: #25282e;
+				&:hover {
+					background-color: #c1b696;
+					border-color: #c1b696;
+				}
+			}
+		}
+	}
+	h3, p {
+		margin: 0px;
+	}
+	.type {
+		border-bottom: 1px solid #e8e8e8;
+		background-color: #f9f9f9;
+	    padding: 16px 0 14px 0;
+		h3 {
+			font-size: 20px;
+			line-height: 28px;
+			color: #25282e;
+			font-family: Archivo;
+			text-align: center;
+			font-weight: 400;
+		}
+	}
+	.wp-icon {
+		.icon {
+		    text-align: center;
+		    margin-top: 20px;
+			i {
+				display: inline-block;
+				line-height: 1;
+				background-color: #eeeeee;
+			    width: 80px;
+			    height: 80px;
+			    position: relative;
+			    border-radius: 50%;
+			    transition: 0.5s;
+				&:before {
+					font-size: 25px;
+					color: #25282e;
+					line-height: 1;
+					margin-left: 0px;
+				    position: absolute;
+				    top: 50%;
+				    left: 50%;
+				    transform: translate(-50%, -50%);
+				}
+			}
+		}
+	}
+	.wp-price {
+		text-align: center;
+	    margin-top: 3px;
+		.price {
+			font-size: 30px;
+			line-height: 1.2;
+			color: #25282e;
+		}
+		.per_time, .separator {
+			font-size: 16px;
+			line-height: 28px;
+			color: #777777;
+		}
+	}
+	.desc {
+		text-align: center;
+	    padding: 0 50px 0 50px;
+	    margin-top: 17px;
+		p {
+			font-size: 16px;
+			line-height: 24px;
+			color: #777777;
+		}
+	}
+	.readmore {
+		text-align: center;
+	    margin-top: 33px;
+	    margin-bottom: 40px;
+		a.text-button {
+			font-size: 16px;
+			line-height: 26px;
+			color: #25282e;
+		    border: 1px solid #e5e5e5;
+		    padding: 5px 30px 4px 30px;
+		    display: inline-block;
+		    font-weight: 500;
+		}
+	}
+}

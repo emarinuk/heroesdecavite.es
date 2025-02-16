@@ -1,0 +1,59 @@
+.ova-history {
+	.item-history {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-bettwen;
+		&:not(:last-child) {
+		    margin-bottom: 46px;
+		}
+		.year-about {
+			flex: 0 0 225px;
+			h3.title {
+				margin: 0px;
+				font-size: 20px;
+				line-height: 26px;
+				color: #25282e;
+			}
+		}
+		.content {
+			flex: 0 0 calc(100% - 225px);
+			p {
+				font-size: 17px;
+				line-height: 28px;
+				color: #555555;
+				margin-bottom: 0px;
+			}
+		}
+	}
+}
+
+@media (max-width: 1024px) {
+	.ova-history {
+		.item-history {
+			.year-about {
+				flex: 0 0 35%;
+			}
+			.content {
+				flex: 0 0 65%;
+			}
+		}
+	}  
+}
+
+@media (max-width: 768px) {
+	.ova-history {
+		.item-history {
+			.year-about {
+				flex: 0 0 100%;
+				margin-bottom: 14px;
+				h3.title {
+					font-weight: bold;
+				}
+			}
+			.content {
+				flex: 0 0 100%;
+				padding-left: 0px;
+			}
+		}
+	}  
+}

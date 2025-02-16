@@ -1,0 +1,4 @@
+06-08-2024 11:12:35 - INFO  - 8.4.7 - 14,3 MB/256 MB - [cron] > Weekly check for leads
+13-08-2024 11:12:33 - INFO  - 8.4.7 - 13,3 MB/256 MB - [cron] > Weekly check for leads
+20-08-2024 11:12:33 - INFO  - 8.4.7 - 14,6 MB/256 MB - [cron] > Weekly check for leads
+27-08-2024 11:12:36 - INFO  - 8.4.7 - 14,0 MB/256 MB - [cron] > Weekly check for leads

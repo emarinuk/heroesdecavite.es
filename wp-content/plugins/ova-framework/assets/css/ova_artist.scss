@@ -1,0 +1,47 @@
+.ova-artist {
+	.items-artist {
+		text-align: center;
+		&:hover {
+			.img {
+				img {
+					filter: grayscale(0%);
+				}
+			}
+		}
+		.img {
+			display: block;
+			img {
+				transition: 0.5s;
+				filter: grayscale(100%);
+			}
+		}
+		.name {
+			color: #25282e;
+			font-size: 22px;
+			line-height: 24px;
+			margin-top: 28px;
+			display: block;
+			transition: 0.3s all;
+			&:hover {
+				color: #c1b696;
+			}
+		}
+		.skill {
+			font-size: 17px;
+			color: #555555;
+			line-height: 24px;
+			margin-top: 3px;
+		}
+		.contact {
+			margin-top: 8px;
+			a {
+				font-size: 17px;
+				line-height: 1.2;
+				color: #777777;
+				&.email {
+					border-bottom: 1px solid #c2c2c2;
+				}
+			}
+		}
+	}
+}

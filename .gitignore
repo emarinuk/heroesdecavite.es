@@ -1,0 +1,53 @@
+# WordPress core (el comentado es porque lo queremos incluir)
+# wp-admin/
+# wp-includes/
+# wp-content/
+
+# Archivos de configuración
+wp-config.php
+wp-config-*.php
+.htaccess
+
+# Archivos de contenido generados
+wp-content/uploads/
+wp-content/upgrade/
+wp-content/backup-db/
+wp-content/backups/
+wp-content/blogs.dir/
+wp-content/cache/
+wp-content/mu-plugins/
+wp-content/wp-cache-config.php
+wp-content/plugins/hello.php
+
+# Archivos del sistema
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.log
+*.sql
+*.sqlite
+*.tar.gz
+*.zip
+
+# Archivos del sistema operativo
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.idea/
+.vscode/
+
+# Archivos temporales
+*.swp
+*.swo
+*~
+
+# Directorios de dependencias
+node_modules/
+vendor/

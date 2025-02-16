@@ -1,0 +1,834 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ovatheme Events\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-15 10:10+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.2\n"
+"X-Domain: ovaev"
+
+#: admin/class-ovaev-admin-settings.php:296
+msgid ""
+" Name should only contain lowercase letters and the underscore character, "
+"and not be more than 32 characters long and  without any spaces"
+msgstr ""
+
+#: templates/single-event.php:173
+msgid "+ Google Calendar"
+msgstr ""
+
+#: templates/single-event.php:174
+msgid "+ Ical Export"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:141
+#: elementor/widgets/ovaev-program_event.php:159
+#: elementor/widgets/ovaev-program_event.php:178
+msgid "1 items"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:142
+#: elementor/widgets/ovaev-program_event.php:160
+#: elementor/widgets/ovaev-program_event.php:179
+msgid "2 items"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:143
+#: elementor/widgets/ovaev-program_event.php:161
+#: elementor/widgets/ovaev-program_event.php:180
+msgid "3 items"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:144
+#: elementor/widgets/ovaev-program_event.php:162
+#: elementor/widgets/ovaev-program_event.php:181
+msgid "4 items"
+msgstr ""
+
+#: inc/ovaev-core-functions.php:129
+msgid "</ul></div>"
+msgstr ""
+
+#: inc/ovaev-core-functions.php:92
+msgid "<div class=\"blog_pagination\"><ul class=\"pagination\">"
+msgstr ""
+
+#: inc/ovaev-core-functions.php:105 inc/ovaev-core-functions.php:118
+msgid "<li><span class=\"pagi_dots\">...</span></li>"
+msgstr ""
+
+#: admin/views/ovaev-metabox-event-gallery.php:20
+msgid "Add image(s)"
+msgstr ""
+
+#: admin/views/ovaev-metabox-event-gallery.php:20
+msgid "Add image(s) to gallery"
+msgstr ""
+
+#: inc/class-ovaev-custom-post-type.php:30
+#: inc/class-ovaev-custom-post-type.php:31
+msgid "Add New Event"
+msgstr ""
+
+#: inc/class-ovaev-custom-post-type.php:71
+#: inc/class-ovaev-custom-post-type.php:72
+msgid "Add New Type"
+msgstr ""
+
+#: inc/class-ovaev-custom-post-type.php:76
+msgid "Add or remove items"
+msgstr ""
+
+#: admin/views/ovaev-metabox-event-location.php:33
+msgid "Address: "
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:83
+msgid "All"
+msgstr ""
+
+#: inc/class-ovaev-get-data.php:101
+msgid "All Event Type"
+msgstr ""
+
+#: inc/class-ovaev-custom-post-type.php:29
+msgid "All Events"
+msgstr ""
+
+#: inc/class-ovaev-custom-post-type.php:67
+msgid "All Type"
+msgstr ""
+
+#. ID
+#: admin/class-ovaev-admin-settings.php:80
+msgid "Archive Event Setting"
+msgstr ""
+
+#. ID
+#: admin/class-ovaev-admin-settings.php:111
+msgid "Archive Type"
+msgstr ""
+
+#: admin/class-ovaev-admin-settings.php:344
+#: elementor/widgets/ovaev-program_event.php:212
+msgid "Ascending"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:368
+msgid "Autoplay"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:377
+msgid "Autoplay Speed"
+msgstr ""
+
+#: templates/single-event.php:51
+msgid "Back to all Events"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:548
+msgid "Background"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:673
+#: elementor/widgets/ovaev-program_event.php:706
+#: elementor/widgets/ovaev-program_event.php:822
+#: elementor/widgets/ovaev-program_event.php:855
+#: elementor/widgets/ovaev-program_event.php:971
+#: elementor/widgets/ovaev-program_event.php:1004
+msgid "Background Color"
+msgstr ""
+
+#: admin/views/ovaev-metabox-event.php:16
+msgid "Basic"
+msgstr ""
+
+#: admin/views/ovaev-metabox-event-basic.php:76
+msgid "Blank"
+msgstr ""
+
+#: templates/archive-default.php:148 templates/archive-event-classic.php:210
+#: templates/archive-event-grid.php:141 templates/single-event.php:185
+#: elementor/widgets/ovaev-program_event.php:1416
+msgid "Book Online"
+msgstr ""
+
+#: admin/views/ovaev-metabox-event-basic.php:61
+msgid "Book:"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:717
+#: elementor/widgets/ovaev-program_event.php:866
+#: elementor/widgets/ovaev-program_event.php:1015
+msgid "Border Color"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:742
+#: elementor/widgets/ovaev-program_event.php:891
+#: elementor/widgets/ovaev-program_event.php:1040
+msgid "Border Radius"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:759
+msgid "Button Book Online"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:908
+msgid "Button Free"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:640
+#: elementor/widgets/ovaev-program_event.php:789
+#: elementor/widgets/ovaev-program_event.php:938
+msgid "Button Margin"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:627
+#: elementor/widgets/ovaev-program_event.php:776
+#: elementor/widgets/ovaev-program_event.php:925
+msgid "Button Padding"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:610
+msgid "Button Read More"
+msgstr ""
+
+#. ID
+#: admin/class-ovaev-admin-settings.php:66
+msgid "Calendar Language"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:70
+msgid "Category"
+msgstr ""
+
+#: admin/views/ovaev-metabox-event-gallery.php:28
+msgid "Change image"
+msgstr ""
+
+#: inc/class-ovaev-custom-post-type.php:77
+msgid "Choose from the most used"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:80
+msgid "Choose time"
+msgstr ""
+
+#: admin/class-ovaev-admin-settings.php:377
+msgid "Classic"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:494
+#: elementor/widgets/ovaev-program_event.php:537
+msgid "Color"
+msgstr ""
+
+#: admin/class-ovaev-admin-settings.php:379
+msgid "Compact"
+msgstr ""
+
+#: templates/single-event.php:85 admin/views/ovaev-metabox-event.php:18
+msgid "Contact Details"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:63
+msgid "Content"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:84
+msgid "Current"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:86
+msgid "Current & Upcoming"
+msgstr ""
+
+#: admin/class-ovaev-admin-settings.php:328
+#: elementor/widgets/ovaev-program_event.php:197
+msgid "Custom Sort"
+msgstr ""
+
+#: admin/views/ovaev-metabox-event-basic.php:88
+msgid "Custom Sort:"
+msgstr ""
+
+#: admin/views/ovaev-metabox-event-basic.php:41
+msgid "Date"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:520
+msgid "Date Event"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:505
+msgid "Date Padding"
+msgstr ""
+
+#: admin/class-ovaev-admin-settings.php:380
+msgid "Default"
+msgstr ""
+
+#: admin/class-ovaev-admin-settings.php:345
+#: elementor/widgets/ovaev-program_event.php:211
+msgid "Descending"
+msgstr ""
+
+#. ID
+#: admin/class-ovaev-admin-settings.php:127
+msgid "Description"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:137
+msgid "Desktop: Total item each slide"
+msgstr ""
+
+#: templates/archive-default.php:145 templates/archive-event-classic.php:207
+#: templates/archive-event-compact.php:122 templates/archive-event-grid.php:138
+msgid "Details"
+msgstr ""
+
+#: templates/single-event.php:220 admin/views/ovaev-metabox-event-basic.php:55
+msgid "Duration:"
+msgstr ""
+
+#: inc/class-ovaev-custom-post-type.php:33
+msgid "Edit Event"
+msgstr ""
+
+#: inc/class-ovaev-custom-post-type.php:73
+msgid "Edit Type"
+msgstr ""
+
+#: templates/single-event.php:132
+msgid "Email:"
+msgstr ""
+
+#: templates/archive-default.php:53 templates/archive-event-classic.php:59
+#: templates/archive-event-compact.php:53 templates/archive-event-grid.php:53
+msgid "End Time"
+msgstr ""
+
+#: admin/views/ovaev-metabox-event-location.php:21
+msgid "Enter a venue"
+msgstr ""
+
+#: admin/class-ovaev-admin-menu.php:21 admin/class-ovaev-admin-menu.php:22
+msgid "Event"
+msgstr ""
+
+#: admin/class-ovaev-admin-settings.php:254
+#: admin/class-ovaev-admin-settings.php:265
+msgid "Event Settings"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:109
+msgid "Event Type"
+msgstr ""
+
+#: inc/class-ovaev-custom-post-type.php:24
+msgid "Events"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:22
+msgid "Events & Programs"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:409
+msgid "Example: 1"
+msgstr ""
+
+#: admin/class-ovaev-admin-settings.php:394
+msgid "Example: en"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:563
+msgid "Excerpt"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:594
+msgid "Excerpt Margin"
+msgstr ""
+
+#: admin/views/ovaev-metabox-event-basic.php:71
+msgid "Extra Link"
+msgstr ""
+
+#: templates/archive-event-classic.php:64
+#: templates/archive-event-compact.php:58 templates/archive-event-grid.php:58
+msgid "Find Event"
+msgstr ""
+
+#: templates/archive-default.php:151 templates/archive-event-classic.php:213
+#: templates/archive-event-grid.php:144 templates/single-event.php:188
+#: admin/views/ovaev-metabox-event-basic.php:70
+#: elementor/widgets/ovaev-program_event.php:1420
+msgid "Free"
+msgstr ""
+
+#: templates/single-event.php:91 admin/views/ovaev-metabox-event.php:19
+msgid "Gallery"
+msgstr ""
+
+#. ID
+#: admin/class-ovaev-admin-settings.php:46
+msgid "General Setting"
+msgstr ""
+
+#: admin/class-ovaev-admin-settings.php:264
+msgid "General Settings"
+msgstr ""
+
+#. ID
+#: admin/class-ovaev-admin-settings.php:162
+msgid "Google Key Map"
+msgstr ""
+
+#. ID
+#: admin/class-ovaev-admin-settings.php:170
+msgid "Google Map Zoom"
+msgstr ""
+
+#: admin/class-ovaev-admin-settings.php:378
+msgid "Grid"
+msgstr ""
+
+#. ID
+#: admin/class-ovaev-admin-settings.php:119
+msgid "Heading"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:688
+#: elementor/widgets/ovaev-program_event.php:837
+#: elementor/widgets/ovaev-program_event.php:986
+msgid "Hover"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://themeforest.net/user/ovatheme"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://themeforest.net/user/ovatheme/portfolio"
+msgstr ""
+
+#: admin/class-ovaev-admin-settings.php:330
+#: elementor/widgets/ovaev-program_event.php:199
+msgid "ID"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:389
+msgid "Infinite Loop"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:155
+msgid "Ipad: Total item each slide"
+msgstr ""
+
+#: inc/class-ovaev-custom-post-type.php:26
+msgid "Item Archives"
+msgstr ""
+
+#: inc/class-ovaev-custom-post-type.php:27
+msgid "Item Attributes"
+msgstr ""
+
+#: inc/class-ovaev-custom-post-type.php:82
+msgid "Items list"
+msgstr ""
+
+#: inc/class-ovaev-custom-post-type.php:83
+msgid "Items list navigation"
+msgstr ""
+
+#: admin/views/ovaev-metabox-event-location.php:40
+msgid "Latitude: "
+msgstr ""
+
+#: templates/single-event.php:79 admin/views/ovaev-metabox-event.php:17
+msgid "Location"
+msgstr ""
+
+#: admin/views/ovaev-metabox-event-location.php:48
+msgid "Longitude: "
+msgstr ""
+
+#: admin/views/ovaev-metabox-event-location.php:19
+msgid "Map"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:330
+msgid "Margin Right Items"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:174
+msgid "Mobile: Total item each slide"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:407
+msgid "Navigation slide by x. 'page' string can be set to slide by page."
+msgstr ""
+
+#: inc/class-ovaev-custom-post-type.php:32
+msgid "New Item"
+msgstr ""
+
+#: inc/class-ovaev-custom-post-type.php:70
+msgid "New Item Name"
+msgstr ""
+
+#: templates/single-event.php:256
+msgid "Next Event"
+msgstr ""
+
+#: admin/class-ovaev-admin-settings.php:311
+msgid "No"
+msgstr ""
+
+#: inc/class-ovaev-custom-post-type.php:81
+msgid "No items"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:654
+#: elementor/widgets/ovaev-program_event.php:803
+#: elementor/widgets/ovaev-program_event.php:952
+msgid "Normal"
+msgstr ""
+
+#: inc/class-ovaev-custom-post-type.php:80
+msgid "Not Found"
+msgstr ""
+
+#: inc/class-ovaev-custom-post-type.php:37
+msgid "Not found"
+msgstr ""
+
+#: templates/archive-default.php:163 templates/archive-event-classic.php:225
+#: templates/archive-event-compact.php:133 templates/archive-event-grid.php:156
+msgid "Not Found Events"
+msgstr ""
+
+#: inc/class-ovaev-custom-post-type.php:38
+msgid "Not found in Trash"
+msgstr ""
+
+#. ID
+#: admin/class-ovaev-admin-settings.php:95
+#: elementor/widgets/ovaev-program_event.php:207
+msgid "Order"
+msgstr ""
+
+#. ID
+#: admin/class-ovaev-admin-settings.php:103
+#: elementor/widgets/ovaev-program_event.php:192
+msgid "Order By"
+msgstr ""
+
+#: templates/single-event.php:114
+msgid "Organizer Name:"
+msgstr ""
+
+#. Author of the plugin
+#: elementor/class-ova-register-elementor.php:56
+msgid "Ovatheme"
+msgstr ""
+
+#. Name of the plugin
+#. Description of the plugin
+msgid "Ovatheme Events"
+msgstr ""
+
+#: inc/class-ovaev-custom-post-type.php:68
+msgid "Parent Item"
+msgstr ""
+
+#: inc/class-ovaev-custom-post-type.php:28
+#: inc/class-ovaev-custom-post-type.php:69
+msgid "Parent Item:"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:87
+msgid "Past"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:359
+msgid "Pause on Hover"
+msgstr ""
+
+#: templates/single-event.php:120
+msgid "Phone:"
+msgstr ""
+
+#: inc/class-ovaev-custom-post-type.php:78
+msgid "Popular Items"
+msgstr ""
+
+#: inc/class-ovaev-custom-post-type.php:25
+msgid "Post Type"
+msgstr ""
+
+#: inc/class-ovaev-custom-post-type.php:41
+msgid "Post Type Description"
+msgstr ""
+
+#: inc/class-ovaev-custom-post-type.php:22
+msgctxt "Post Type General Name"
+msgid "Events"
+msgstr ""
+
+#: inc/class-ovaev-custom-post-type.php:64
+msgctxt "Post Type General Name"
+msgid "Type"
+msgstr ""
+
+#: inc/class-ovaev-custom-post-type.php:23
+msgctxt "Post Type Singular Name"
+msgid "Event"
+msgstr ""
+
+#: inc/class-ovaev-custom-post-type.php:65
+msgctxt "Post Type Singular Name"
+msgid "Type"
+msgstr ""
+
+#: templates/single-event.php:253
+msgid "Prev Event"
+msgstr ""
+
+#: admin/views/ovaev-metabox-event-gallery.php:29
+msgid "Remove image"
+msgstr ""
+
+#. ID
+#: admin/class-ovaev-admin-settings.php:54
+msgid "Rewrite Slug"
+msgstr ""
+
+#: inc/class-ovaev-custom-post-type.php:36
+msgid "Search Item"
+msgstr ""
+
+#: inc/class-ovaev-custom-post-type.php:79
+msgid "Search Items"
+msgstr ""
+
+#: admin/views/ovaev-metabox-event-basic.php:75
+msgid "Self"
+msgstr ""
+
+#: inc/class-ovaev-custom-post-type.php:75
+msgid "Separate items with commas"
+msgstr ""
+
+#: admin/class-ovaev-admin-menu.php:40 admin/class-ovaev-admin-menu.php:41
+msgid "Settings"
+msgstr ""
+
+#: templates/single-event.php:226
+msgid "Share"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:296
+msgid "Show Book Button"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:243
+msgid "Show Date"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:253
+msgid "Show Excerpt"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:307
+msgid "Show Free Button"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:340
+msgid "Show Navigation"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:349
+msgid "Show Paging"
+msgstr ""
+
+#. ID
+#: admin/class-ovaev-admin-settings.php:87
+msgid "Show Past in Archive"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:266
+msgid "Show Read More"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:232
+msgid "Show Title"
+msgstr ""
+
+#. ID
+#: admin/class-ovaev-admin-settings.php:155
+msgid "Single Event Setting"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:320
+msgid "Slider Settings"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:398
+msgid "Smart Speed"
+msgstr ""
+
+#: admin/views/ovaev-metabox-event-basic.php:82
+msgid "Special Event:"
+msgstr ""
+
+#: admin/class-ovaev-admin-settings.php:329
+#: elementor/widgets/ovaev-program_event.php:198
+msgid "Start Date"
+msgstr ""
+
+#: templates/archive-default.php:50 templates/archive-event-classic.php:56
+#: templates/archive-event-compact.php:50 templates/archive-event-grid.php:50
+msgid "Start Time"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:583
+#: elementor/widgets/ovaev-program_event.php:661
+#: elementor/widgets/ovaev-program_event.php:695
+#: elementor/widgets/ovaev-program_event.php:810
+#: elementor/widgets/ovaev-program_event.php:844
+#: elementor/widgets/ovaev-program_event.php:959
+#: elementor/widgets/ovaev-program_event.php:993
+msgid "Text Color"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:277
+msgid "Text Read More"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:478
+msgid "Time Event"
+msgstr ""
+
+#: templates/single-event.php:206
+msgid "Time:"
+msgstr ""
+
+#: templates/archive-event-classic.php:171
+#: elementor/widgets/ovaev-program_event.php:1393
+msgid "Time: "
+msgstr ""
+
+#: admin/class-ovaev-admin-settings.php:327
+#: elementor/widgets/ovaev-program_event.php:196
+#: elementor/widgets/ovaev-program_event.php:422
+msgid "Title"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:440
+msgid "Title Color"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:451
+msgid "Title Hover Color"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:462
+msgid "Title Margin"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:222
+msgid "Total Post"
+msgstr ""
+
+#: admin/class-ovaev-admin-menu.php:32 admin/class-ovaev-admin-menu.php:33
+#: inc/class-ovaev-custom-post-type.php:66
+msgid "Type"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:113
+msgid "Type 1"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:114
+msgid "Type 2"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:115
+msgid "Type 3"
+msgstr ""
+
+#: templates/single-event.php:192
+msgid "Type:"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:431
+#: elementor/widgets/ovaev-program_event.php:486
+#: elementor/widgets/ovaev-program_event.php:528
+#: elementor/widgets/ovaev-program_event.php:574
+#: elementor/widgets/ovaev-program_event.php:618
+#: elementor/widgets/ovaev-program_event.php:767
+#: elementor/widgets/ovaev-program_event.php:916
+msgid "Typography"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:85
+msgid "Upcoming"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:96
+msgid "Upcoming Day"
+msgstr ""
+
+#: inc/class-ovaev-custom-post-type.php:53
+msgctxt "URL slug"
+msgid "event"
+msgstr ""
+
+#: inc/class-ovaev-custom-post-type.php:95
+msgctxt "URL slug"
+msgid "event_type"
+msgstr ""
+
+#: elementor/widgets/ovaev-program_event.php:123
+msgid "Using Slide"
+msgstr ""
+
+#: templates/single-event.php:217 admin/views/ovaev-metabox-event-basic.php:49
+msgid "Venue:"
+msgstr ""
+
+#: inc/class-ovaev-custom-post-type.php:34
+#: inc/class-ovaev-custom-post-type.php:74
+msgid "View Item"
+msgstr ""
+
+#: inc/class-ovaev-custom-post-type.php:35
+msgid "View Items"
+msgstr ""
+
+#: templates/single-event.php:138
+msgid "Website:"
+msgstr ""
+
+#: admin/class-ovaev-admin-settings.php:310
+msgid "Yes"
+msgstr ""
+
+#: admin/class-ovaev-admin-settings.php:395
+msgid "You can check language here"
+msgstr ""
+
+#: admin/class-ovaev-admin-settings.php:406
+msgid ""
+"You can get here: https://developers.google."
+"com/maps/documentation/javascript/get-api-key "
+msgstr ""

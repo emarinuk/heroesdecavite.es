@@ -1,0 +1,2 @@
+04-02-2025 10:15:20 - INFO  - 8.6.8 - 140,1 MB/ - [cron] > Weekly check for import
+11-02-2025 10:15:14 - INFO  - 8.7.0 - 138,3 MB/ - [cron] > Weekly check for import

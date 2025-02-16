@@ -1,0 +1,4 @@
+04-06-2024 09:12:39 - INFO  - 8.3.6 - 22,6 MB/256 MB - [cron] > Weekly check for analytics
+11-06-2024 09:13:46 - INFO  - 8.3.8 - 15.5 MB/256 MB - [cron] > Weekly check for analytics
+18-06-2024 09:12:34 - INFO  - 8.3.8 - 15,3 MB/256 MB - [cron] > Weekly check for analytics
+25-06-2024 11:12:34 - INFO  - 8.3.9 - 13,5 MB/256 MB - [cron] > Weekly check for analytics

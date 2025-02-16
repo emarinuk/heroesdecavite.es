@@ -1,0 +1,4 @@
+04-10-2024 12:55:23 - INFO  - 8.5.2 - 132,5 MB/ - [cron] > Weekly check for blocks
+11-10-2024 12:55:03 - INFO  - 8.5.2 - 132,5 MB/ - [cron] > Weekly check for blocks
+18-10-2024 12:55:06 - INFO  - 8.5.6 - 132,6 MB/ - [cron] > Weekly check for blocks
+25-10-2024 12:55:06 - INFO  - 8.5.8 - 134,4 MB/ - [cron] > Weekly check for blocks

@@ -1,0 +1,94 @@
+02-09-2023 19:35:57 - ERROR - 7.9.2 - 27,7 MB/256 MB - Eduardo > Requested size larger than the original one
+02-09-2023 19:45:18 - INFO  - 7.9.2 - 22,3 MB/256 MB - [cron] > Newsletter::send> Send email 3
+02-09-2023 19:45:50 - INFO  - 7.9.2 - 22,6 MB/256 MB - [cron] > Newsletter::send> End run for email 3
+02-09-2023 19:50:22 - INFO  - 7.9.2 - 22,3 MB/256 MB - [cron] > Newsletter::send> Send email 3
+02-09-2023 19:50:51 - INFO  - 7.9.2 - 22,6 MB/256 MB - [cron] > Newsletter::send> End run for email 3
+02-09-2023 19:56:25 - INFO  - 7.9.2 - 22,3 MB/256 MB - [cron] > Newsletter::send> Send email 3
+02-09-2023 19:56:25 - INFO  - 7.9.2 - 22,3 MB/256 MB - [cron] > Newsletter::send> No more users, set as sent
+03-09-2023 14:03:16 - INFO  - 7.9.2 - 22,3 MB/256 MB - [cron] > Newsletter::send> Send email 4
+03-09-2023 14:03:48 - INFO  - 7.9.2 - 22,6 MB/256 MB - [cron] > Newsletter::send> End run for email 4
+03-09-2023 14:05:02 - INFO  - 7.9.2 - 22,3 MB/256 MB - [cron] > Newsletter::send> Send email 4
+03-09-2023 14:05:33 - INFO  - 7.9.2 - 22,6 MB/256 MB - [cron] > Newsletter::send> End run for email 4
+03-09-2023 14:10:32 - INFO  - 7.9.2 - 22,3 MB/256 MB - [cron] > Newsletter::send> Send email 4
+03-09-2023 14:10:36 - INFO  - 7.9.2 - 22,5 MB/256 MB - [cron] > Newsletter::send> End run for email 4
+03-09-2023 14:15:18 - INFO  - 7.9.2 - 22,3 MB/256 MB - [cron] > Newsletter::send> Send email 4
+03-09-2023 14:15:18 - INFO  - 7.9.2 - 22,3 MB/256 MB - [cron] > Newsletter::send> No more users, set as sent
+08-09-2023 22:49:54 - INFO  - 7.9.2 - 22,6 MB/256 MB - [cron] > Newsletter::send> Send email 5
+08-09-2023 22:50:26 - INFO  - 7.9.2 - 22,9 MB/256 MB - [cron] > Newsletter::send> End run for email 5
+08-09-2023 22:55:08 - INFO  - 7.9.2 - 22,6 MB/256 MB - [cron] > Newsletter::send> Send email 5
+08-09-2023 22:55:38 - INFO  - 7.9.2 - 22,9 MB/256 MB - [cron] > Newsletter::send> End run for email 5
+08-09-2023 23:00:44 - INFO  - 7.9.2 - 22,6 MB/256 MB - [cron] > Newsletter::send> Send email 5
+08-09-2023 23:01:15 - INFO  - 7.9.2 - 22,9 MB/256 MB - [cron] > Newsletter::send> End run for email 5
+08-09-2023 23:04:46 - INFO  - 7.9.2 - 22,6 MB/256 MB - [cron] > Newsletter::send> Send email 5
+08-09-2023 23:05:05 - INFO  - 7.9.2 - 22,9 MB/256 MB - [cron] > Newsletter::send> End run for email 5
+08-09-2023 23:10:19 - INFO  - 7.9.2 - 22,6 MB/256 MB - [cron] > Newsletter::send> Send email 5
+08-09-2023 23:10:19 - INFO  - 7.9.2 - 22,5 MB/256 MB - [cron] > Newsletter::send> No more users, set as sent
+17-09-2023 00:10:14 - ERROR - 7.9.2 - 37,8 MB/256 MB - Eduardo > Requested size larger than the original one
+17-09-2023 00:24:07 - ERROR - 7.9.2 - 37,8 MB/256 MB - Eduardo > Requested size larger than the original one
+17-09-2023 10:14:45 - INFO  - 7.9.2 - 13,8 MB/256 MB - [cron] > Newsletter::send> Send email 6
+17-09-2023 10:15:17 - INFO  - 7.9.2 - 14,2 MB/256 MB - [cron] > Newsletter::send> End run for email 6
+17-09-2023 10:20:36 - INFO  - 7.9.2 - 13,8 MB/256 MB - [cron] > Newsletter::send> Send email 6
+17-09-2023 10:21:08 - INFO  - 7.9.2 - 14,2 MB/256 MB - [cron] > Newsletter::send> End run for email 6
+17-09-2023 10:25:05 - INFO  - 7.9.2 - 13,8 MB/256 MB - [cron] > Newsletter::send> Send email 6
+17-09-2023 10:25:36 - INFO  - 7.9.2 - 14,2 MB/256 MB - [cron] > Newsletter::send> End run for email 6
+17-09-2023 10:30:07 - INFO  - 7.9.2 - 13,8 MB/256 MB - [cron] > Newsletter::send> Send email 6
+17-09-2023 10:30:38 - INFO  - 7.9.2 - 14,2 MB/256 MB - [cron] > Newsletter::send> End run for email 6
+17-09-2023 10:35:10 - INFO  - 7.9.2 - 13,8 MB/256 MB - [cron] > Newsletter::send> Send email 6
+17-09-2023 10:35:41 - INFO  - 7.9.2 - 14,2 MB/256 MB - [cron] > Newsletter::send> End run for email 6
+17-09-2023 10:40:03 - INFO  - 7.9.2 - 13,8 MB/256 MB - [cron] > Newsletter::send> Send email 6
+17-09-2023 10:40:30 - INFO  - 7.9.2 - 14,2 MB/256 MB - [cron] > Newsletter::send> End run for email 6
+17-09-2023 10:46:50 - INFO  - 7.9.2 - 13,9 MB/256 MB - [cron] > Newsletter::send> Send email 6
+17-09-2023 10:46:50 - INFO  - 7.9.2 - 13,9 MB/256 MB - [cron] > Newsletter::send> No more users, set as sent
+17-09-2023 14:04:51 - INFO  - 7.9.3 - 29,8 MB/256 MB - [cron] > Newsletter::send> Send email 7
+17-09-2023 14:05:23 - INFO  - 7.9.3 - 30,2 MB/256 MB - [cron] > Newsletter::send> End run for email 7
+17-09-2023 14:09:57 - INFO  - 7.9.3 - 29,8 MB/256 MB - [cron] > Newsletter::send> Send email 7
+17-09-2023 14:10:27 - INFO  - 7.9.3 - 30,2 MB/256 MB - [cron] > Newsletter::send> End run for email 7
+17-09-2023 14:15:34 - INFO  - 7.9.3 - 29,8 MB/256 MB - [cron] > Newsletter::send> Send email 7
+17-09-2023 14:16:04 - INFO  - 7.9.3 - 30,2 MB/256 MB - [cron] > Newsletter::send> End run for email 7
+17-09-2023 14:20:31 - INFO  - 7.9.3 - 29,8 MB/256 MB - [cron] > Newsletter::send> Send email 7
+17-09-2023 14:21:01 - INFO  - 7.9.3 - 30,2 MB/256 MB - [cron] > Newsletter::send> End run for email 7
+17-09-2023 14:25:30 - INFO  - 7.9.3 - 29,8 MB/256 MB - [cron] > Newsletter::send> Send email 7
+17-09-2023 14:26:01 - INFO  - 7.9.3 - 30,2 MB/256 MB - [cron] > Newsletter::send> End run for email 7
+17-09-2023 14:30:18 - INFO  - 7.9.3 - 29,8 MB/256 MB - [cron] > Newsletter::send> Send email 7
+17-09-2023 14:30:46 - INFO  - 7.9.3 - 30,2 MB/256 MB - [cron] > Newsletter::send> End run for email 7
+17-09-2023 14:35:00 - INFO  - 7.9.3 - 29,9 MB/256 MB - [cron] > Newsletter::send> Send email 7
+17-09-2023 14:35:00 - INFO  - 7.9.3 - 29,9 MB/256 MB - [cron] > Newsletter::send> No more users, set as sent
+22-09-2023 08:30:59 - ERROR - 7.9.4 - 28,4 MB/256 MB - Eduardo > Requested size larger than the original one
+22-09-2023 08:31:45 - ERROR - 7.9.4 - 28,4 MB/256 MB - Eduardo > Requested size larger than the original one
+22-09-2023 08:31:46 - ERROR - 7.9.4 - 28,4 MB/256 MB - Eduardo > Requested size larger than the original one
+22-09-2023 08:45:55 - INFO  - 7.9.4 - 22,6 MB/256 MB - [cron] > Newsletter::send> Send email 8
+22-09-2023 08:46:26 - INFO  - 7.9.4 - 22,9 MB/256 MB - [cron] > Newsletter::send> End run for email 8
+22-09-2023 08:49:55 - INFO  - 7.9.4 - 22,6 MB/256 MB - [cron] > Newsletter::send> Send email 8
+22-09-2023 08:50:26 - INFO  - 7.9.4 - 22,9 MB/256 MB - [cron] > Newsletter::send> End run for email 8
+22-09-2023 08:54:55 - INFO  - 7.9.4 - 22,6 MB/256 MB - [cron] > Newsletter::send> Send email 8
+22-09-2023 08:55:26 - INFO  - 7.9.4 - 22,9 MB/256 MB - [cron] > Newsletter::send> End run for email 8
+22-09-2023 09:00:02 - INFO  - 7.9.4 - 22,6 MB/256 MB - [cron] > Newsletter::send> Send email 8
+22-09-2023 09:00:33 - INFO  - 7.9.4 - 22,9 MB/256 MB - [cron] > Newsletter::send> End run for email 8
+22-09-2023 09:04:43 - INFO  - 7.9.4 - 22,6 MB/256 MB - [cron] > Newsletter::send> Send email 8
+22-09-2023 09:05:14 - INFO  - 7.9.4 - 22,9 MB/256 MB - [cron] > Newsletter::send> End run for email 8
+22-09-2023 09:09:45 - INFO  - 7.9.4 - 22,6 MB/256 MB - [cron] > Newsletter::send> Send email 8
+22-09-2023 09:10:16 - INFO  - 7.9.4 - 22,9 MB/256 MB - [cron] > Newsletter::send> End run for email 8
+22-09-2023 09:15:32 - INFO  - 7.9.4 - 22,6 MB/256 MB - [cron] > Newsletter::send> Send email 8
+22-09-2023 09:16:07 - INFO  - 7.9.4 - 22,9 MB/256 MB - [cron] > Newsletter::send> End run for email 8
+22-09-2023 09:19:49 - INFO  - 7.9.4 - 22,6 MB/256 MB - [cron] > Newsletter::send> Send email 8
+22-09-2023 09:19:50 - INFO  - 7.9.4 - 22,7 MB/256 MB - [cron] > Newsletter::send> End run for email 8
+22-09-2023 09:24:58 - INFO  - 7.9.4 - 22,6 MB/256 MB - [cron] > Newsletter::send> Send email 8
+22-09-2023 09:24:58 - INFO  - 7.9.4 - 22,6 MB/256 MB - [cron] > Newsletter::send> No more users, set as sent
+26-09-2023 07:35:02 - INFO  - 7.9.4 - 21,9 MB/256 MB - [cron] > Newsletter::send> Send email 9
+26-09-2023 07:35:33 - INFO  - 7.9.4 - 22,2 MB/256 MB - [cron] > Newsletter::send> End run for email 9
+26-09-2023 07:39:48 - INFO  - 7.9.4 - 21,9 MB/256 MB - [cron] > Newsletter::send> Send email 9
+26-09-2023 07:40:18 - INFO  - 7.9.4 - 22,2 MB/256 MB - [cron] > Newsletter::send> End run for email 9
+26-09-2023 07:44:46 - INFO  - 7.9.4 - 21,9 MB/256 MB - [cron] > Newsletter::send> Send email 9
+26-09-2023 07:45:16 - INFO  - 7.9.4 - 22,2 MB/256 MB - [cron] > Newsletter::send> End run for email 9
+26-09-2023 07:50:41 - INFO  - 7.9.4 - 21,9 MB/256 MB - [cron] > Newsletter::send> Send email 9
+26-09-2023 07:51:12 - INFO  - 7.9.4 - 22,2 MB/256 MB - [cron] > Newsletter::send> End run for email 9
+26-09-2023 07:56:04 - INFO  - 7.9.4 - 21,9 MB/256 MB - [cron] > Newsletter::send> Send email 9
+26-09-2023 07:56:35 - INFO  - 7.9.4 - 22,2 MB/256 MB - [cron] > Newsletter::send> End run for email 9
+26-09-2023 08:00:14 - INFO  - 7.9.4 - 21,9 MB/256 MB - [cron] > Newsletter::send> Send email 9
+26-09-2023 08:00:46 - INFO  - 7.9.4 - 22,2 MB/256 MB - [cron] > Newsletter::send> End run for email 9
+26-09-2023 08:05:33 - INFO  - 7.9.4 - 21,9 MB/256 MB - [cron] > Newsletter::send> Send email 9
+26-09-2023 08:06:03 - INFO  - 7.9.4 - 22,2 MB/256 MB - [cron] > Newsletter::send> End run for email 9
+26-09-2023 08:09:43 - INFO  - 7.9.4 - 21,9 MB/256 MB - [cron] > Newsletter::send> Send email 9
+26-09-2023 08:10:07 - INFO  - 7.9.4 - 22,2 MB/256 MB - [cron] > Newsletter::send> End run for email 9
+26-09-2023 08:16:24 - INFO  - 7.9.4 - 21,9 MB/256 MB - [cron] > Newsletter::send> Send email 9
+26-09-2023 08:16:24 - INFO  - 7.9.4 - 21,9 MB/256 MB - [cron] > Newsletter::send> No more users, set as sent

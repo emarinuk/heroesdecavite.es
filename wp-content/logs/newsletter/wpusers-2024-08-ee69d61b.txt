@@ -1,0 +1,18 @@
+02-08-2024 13:04:07 - INFO  - 8.4.7 - 20,7 MB/256 MB - Eduardo > New user registration with id 50
+02-08-2024 13:04:07 - INFO  - 8.4.7 - 20,7 MB/256 MB - Eduardo > Opt-in checkbox required but not set
+06-08-2024 11:12:35 - INFO  - 8.4.7 - 14,3 MB/256 MB - [cron] > Weekly check for wpusers
+13-08-2024 11:12:34 - INFO  - 8.4.7 - 13,3 MB/256 MB - [cron] > Weekly check for wpusers
+14-08-2024 16:59:22 - INFO  - 8.4.7 - 32.2 MB/256 MB - Eduardo > New user registration with id 51
+14-08-2024 16:59:22 - INFO  - 8.4.7 - 32.2 MB/256 MB - Eduardo > Opt-in checkbox required but not set
+14-08-2024 17:26:52 - INFO  - 8.4.7 - 32.2 MB/256 MB - Eduardo > New user registration with id 52
+14-08-2024 17:26:52 - INFO  - 8.4.7 - 32.2 MB/256 MB - Eduardo > Opt-in checkbox required but not set
+20-08-2024 11:12:33 - INFO  - 8.4.7 - 14,6 MB/256 MB - [cron] > Weekly check for wpusers
+21-08-2024 12:11:24 - INFO  - 8.4.7 - 35.0 MB/256 MB - Eduardo > New user registration with id 53
+21-08-2024 12:11:24 - INFO  - 8.4.7 - 35.0 MB/256 MB - Eduardo > Opt-in checkbox required but not set
+21-08-2024 17:00:16 - INFO  - 8.4.7 - 35.0 MB/256 MB - Eduardo > New user registration with id 54
+21-08-2024 17:00:16 - INFO  - 8.4.7 - 35.0 MB/256 MB - Eduardo > Opt-in checkbox required but not set
+21-08-2024 17:56:39 - INFO  - 8.4.7 - 35.0 MB/256 MB - Eduardo > New user registration with id 55
+21-08-2024 17:56:39 - INFO  - 8.4.7 - 35.0 MB/256 MB - Eduardo > Opt-in checkbox required but not set
+24-08-2024 14:43:49 - INFO  - 8.4.7 - 33.6 MB/256 MB - Eduardo > New user registration with id 56
+24-08-2024 14:43:49 - INFO  - 8.4.7 - 33.6 MB/256 MB - Eduardo > Opt-in checkbox required but not set
+27-08-2024 11:12:36 - INFO  - 8.4.7 - 14,0 MB/256 MB - [cron] > Weekly check for wpusers

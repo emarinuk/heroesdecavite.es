@@ -1,0 +1,1 @@
+30-08-2023 20:49:15 - ERROR - 7.9.2 - 34,7 MB/256 MB - Eduardo > Unable to create dir /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/uploads/newsletter/thumbnails/2021/04

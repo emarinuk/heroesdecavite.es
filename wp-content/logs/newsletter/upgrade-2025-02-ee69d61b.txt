@@ -231,3 +231,82 @@
 )
 
 10-02-2025 15:26:08 - INFO  - 8.7.0 - 129,6 MB/512 MB -  > End
+24-02-2025 23:59:25 - INFO  - 8.7.0 - 130,3 MB/ -  > Start upgrade from 8.7.1
+24-02-2025 23:59:25 - INFO  - 8.7.0 - 133,7 MB/ -  > Array
+(
+    [`hero_newsletter_emails`] => Created table `hero_newsletter_emails`
+)
+
+24-02-2025 23:59:25 - INFO  - 8.7.0 - 133,7 MB/ -  > Array
+(
+    [`hero_newsletter_sent`] => Created table `hero_newsletter_sent`
+)
+
+24-02-2025 23:59:25 - INFO  - 8.7.0 - 133,8 MB/ -  > Array
+(
+    [`hero_newsletter`] => Created table `hero_newsletter`
+)
+
+24-02-2025 23:59:25 - INFO  - 8.7.0 - 133,7 MB/ -  > Array
+(
+    [`hero_newsletter_user_logs`] => Created table `hero_newsletter_user_logs`
+)
+
+24-02-2025 23:59:25 - INFO  - 8.7.0 - 133,7 MB/ -  > Array
+(
+    [`hero_newsletter_user_meta`] => Created table `hero_newsletter_user_meta`
+)
+
+24-02-2025 23:59:25 - INFO  - 8.7.0 - 133,7 MB/ -  > Array
+(
+    [`hero_newsletter_stats`] => Created table `hero_newsletter_stats`
+)
+
+24-02-2025 23:59:25 - INFO  - 8.7.0 - 133,7 MB/ -  > Array
+(
+    [`hero_newsletter_logs`] => Created table `hero_newsletter_logs`
+    [hero_newsletter_logs.status] => Changed type of hero_newsletter_logs.status from int(11) to int
+)
+
+24-02-2025 23:59:25 - INFO  - 8.7.0 - 133,7 MB/ -  > Deleting settings backup newsletter_backup_8.6.0
+24-02-2025 23:59:25 - INFO  - 8.7.0 - 133,7 MB/ -  > Backing up options of 8.7.1
+24-02-2025 23:59:25 - INFO  - 8.7.0 - 133,8 MB/ -  > End
+25-02-2025 00:00:25 - INFO  - 8.7.1 - 130,7 MB/ -  > Start upgrade from 8.7.0
+25-02-2025 00:00:25 - INFO  - 8.7.1 - 134,1 MB/ -  > Array
+(
+    [`hero_newsletter_emails`] => Created table `hero_newsletter_emails`
+)
+
+25-02-2025 00:00:25 - INFO  - 8.7.1 - 134,1 MB/ -  > Array
+(
+    [`hero_newsletter_sent`] => Created table `hero_newsletter_sent`
+)
+
+25-02-2025 00:00:25 - INFO  - 8.7.1 - 134,1 MB/ -  > Array
+(
+    [`hero_newsletter`] => Created table `hero_newsletter`
+)
+
+25-02-2025 00:00:25 - INFO  - 8.7.1 - 134,1 MB/ -  > Array
+(
+    [`hero_newsletter_user_logs`] => Created table `hero_newsletter_user_logs`
+)
+
+25-02-2025 00:00:25 - INFO  - 8.7.1 - 134,1 MB/ -  > Array
+(
+    [`hero_newsletter_user_meta`] => Created table `hero_newsletter_user_meta`
+)
+
+25-02-2025 00:00:25 - INFO  - 8.7.1 - 134,1 MB/ -  > Array
+(
+    [`hero_newsletter_stats`] => Created table `hero_newsletter_stats`
+)
+
+25-02-2025 00:00:25 - INFO  - 8.7.1 - 134,0 MB/ -  > Array
+(
+    [`hero_newsletter_logs`] => Created table `hero_newsletter_logs`
+    [hero_newsletter_logs.status] => Changed type of hero_newsletter_logs.status from int(11) to int
+)
+
+25-02-2025 00:00:25 - INFO  - 8.7.1 - 134,1 MB/ -  > Deleting settings backup newsletter_backup_8.6.1
+25-02-2025 00:00:25 - INFO  - 8.7.1 - 134,1 MB/ -  > End

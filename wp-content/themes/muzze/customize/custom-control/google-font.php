@@ -139,11 +139,14 @@ class Muzze_Google_Font_Select_Custom_Control extends WP_Customize_Control {
 	 * Find the index of the saved font in our multidimensional array of Google Fonts
 	 */
 	public function Ova_getFontIndex( $haystack, $needle ) {
-		foreach( $haystack as $key => $value ) {
-			if( $value->family == $needle ) {
-				return $key;
+		if ( !empty( $haystack ) && is_array( $haystack ) ) {
+			foreach ( $haystack as $key => $value ) {
+				if ( $value->family == $needle ) {
+					return $key;
+				}
 			}
 		}
+
 		return false;
 	}
 
@@ -157,47 +160,41 @@ class Muzze_Google_Font_Select_Custom_Control extends WP_Customize_Control {
 			$fontFile =  MUZZE_URI . '/customize/custom-control/api/google-fonts-popularity.json' ;
 		}
 
+		// Get fonts
 		$request = wp_remote_get( $fontFile );
-		if( is_wp_error( $request ) ) {
-			return "";
-		}
+		if ( is_wp_error( $request ) ) return [];
 
-		$body = wp_remote_retrieve_body( $request );
-		$content = json_decode( $body );
+		// Get body
+		$body 		= wp_remote_retrieve_body( $request );
+		$content 	= json_decode( $body );
 
+		if ( !isset( $content->items ) || !is_array( $content->items ) ) return [];
 
+		// All fonts
 		$all_fonts = $content->items;
 
-        if( get_theme_mod('ova_custom_font','') != '' ){
-
+		// Get custom fonts
+        if ( '' != get_theme_mod( 'ova_custom_font', '' ) ) {
         	$list_custom_font = explode( '|', get_theme_mod('ova_custom_font' ) );
 
-        	foreach ($list_custom_font as $key => $font) {
+        	foreach ( $list_custom_font as $key => $font ) {
+        		$cus_font 			= json_decode( $font );
+	            $cus_font_family 	= $cus_font['0'];
+	            $cus_font_weight 	= explode( ':', $cus_font['1'] );
 
-        		$cus_font = json_decode( $font );
-	            $cus_font_family = $cus_font['0'];
-	            $cus_font_weight = explode( ':', $cus_font['1'] );
-	            foreach ($cus_font as $key => $value) {
-	            	$all_fonts[] = json_decode(json_encode( array(
-	            		"kind" => "webfonts#webfont",
-					   "family" => $cus_font_family,
-					   "category" => "sans-serif",
-					   "variants" => $cus_font_weight,
-					  
-	            	) ) );
+	            foreach ( $cus_font as $key => $value ) {
+	            	$all_fonts[] = json_decode( json_encode([
+	            		"kind" 		=> "webfonts#webfont",
+					   	"family" 	=> $cus_font_family,
+					   	"category" 	=> "sans-serif",
+					   	"variants" 	=> $cus_font_weight
+					]));
 	            }
-	            
         	}
-            
-       
         }
         
-        
+		if ( 'all' != $count ) return array_slice( $all_fonts, 0, $count );
 
-		if( $count == 'all' ) {
-			return $all_fonts;
-		} else {
-			return array_slice( $all_fonts, 0, $count );
-		}
+		return $all_fonts;
 	}
 }

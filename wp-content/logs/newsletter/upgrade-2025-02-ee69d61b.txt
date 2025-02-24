@@ -231,3 +231,79 @@
 )
 
 10-02-2025 15:26:08 - INFO  - 8.7.0 - 129,6 MB/512 MB -  > End
+25-02-2025 00:26:44 - INFO  - 8.7.0 - 27,5 MB/256 MB - Eduardo > Start upgrade from 8.7.1
+25-02-2025 00:26:44 - INFO  - 8.7.0 - 27,8 MB/256 MB - Eduardo > Array
+(
+    [`hero_newsletter_emails`] => Created table `hero_newsletter_emails`
+)
+
+25-02-2025 00:26:44 - INFO  - 8.7.0 - 27,8 MB/256 MB - Eduardo > Array
+(
+    [`hero_newsletter_sent`] => Created table `hero_newsletter_sent`
+)
+
+25-02-2025 00:26:44 - INFO  - 8.7.0 - 27,8 MB/256 MB - Eduardo > Array
+(
+    [`hero_newsletter`] => Created table `hero_newsletter`
+)
+
+25-02-2025 00:26:44 - INFO  - 8.7.0 - 27,8 MB/256 MB - Eduardo > Array
+(
+    [`hero_newsletter_user_logs`] => Created table `hero_newsletter_user_logs`
+)
+
+25-02-2025 00:26:44 - INFO  - 8.7.0 - 27,8 MB/256 MB - Eduardo > Array
+(
+    [`hero_newsletter_user_meta`] => Created table `hero_newsletter_user_meta`
+)
+
+25-02-2025 00:26:44 - INFO  - 8.7.0 - 27,8 MB/256 MB - Eduardo > Array
+(
+    [`hero_newsletter_stats`] => Created table `hero_newsletter_stats`
+)
+
+25-02-2025 00:26:44 - INFO  - 8.7.0 - 27,8 MB/256 MB - Eduardo > Array
+(
+    [`hero_newsletter_logs`] => Created table `hero_newsletter_logs`
+    [hero_newsletter_logs.status] => Changed type of hero_newsletter_logs.status from int(11) to int
+)
+
+25-02-2025 00:26:44 - INFO  - 8.7.0 - 27,8 MB/256 MB - Eduardo > End
+25-02-2025 00:30:33 - INFO  - 8.7.1 - 130,7 MB/ -  > Start upgrade from 8.7.0
+25-02-2025 00:30:33 - INFO  - 8.7.1 - 134,1 MB/ -  > Array
+(
+    [`hero_newsletter_emails`] => Created table `hero_newsletter_emails`
+)
+
+25-02-2025 00:30:33 - INFO  - 8.7.1 - 134,1 MB/ -  > Array
+(
+    [`hero_newsletter_sent`] => Created table `hero_newsletter_sent`
+)
+
+25-02-2025 00:30:33 - INFO  - 8.7.1 - 134,1 MB/ -  > Array
+(
+    [`hero_newsletter`] => Created table `hero_newsletter`
+)
+
+25-02-2025 00:30:33 - INFO  - 8.7.1 - 134,1 MB/ -  > Array
+(
+    [`hero_newsletter_user_logs`] => Created table `hero_newsletter_user_logs`
+)
+
+25-02-2025 00:30:33 - INFO  - 8.7.1 - 134,1 MB/ -  > Array
+(
+    [`hero_newsletter_user_meta`] => Created table `hero_newsletter_user_meta`
+)
+
+25-02-2025 00:30:33 - INFO  - 8.7.1 - 134,1 MB/ -  > Array
+(
+    [`hero_newsletter_stats`] => Created table `hero_newsletter_stats`
+)
+
+25-02-2025 00:30:33 - INFO  - 8.7.1 - 134,0 MB/ -  > Array
+(
+    [`hero_newsletter_logs`] => Created table `hero_newsletter_logs`
+    [hero_newsletter_logs.status] => Changed type of hero_newsletter_logs.status from int(11) to int
+)
+
+25-02-2025 00:30:33 - INFO  - 8.7.1 - 134,1 MB/ -  > End

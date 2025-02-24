@@ -50,4 +50,6 @@ Thumbs.db
 
 # Directorios de dependencias
 node_modules/
-vendor/
+vendor
+
+scripts/

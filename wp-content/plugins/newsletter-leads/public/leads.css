@@ -1,0 +1,29 @@
+#tnp-modal-content {
+    height: %height%;
+    width: %width%;
+    background-color: %background_color% !important;
+    background-image: %background_image%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: %font_color%;
+}
+
+#tnp-modal-body {
+    color: %font_color%;
+}
+
+#tnp-modal-body .tnp-privacy-field {
+    color: %font_color%;
+}
+
+#tnp-modal-body .tnp-privacy-field label a {
+    color: %font_color%;
+}
+
+#tnp-modal-content input.tnp-submit {
+    background-color: %button_color%;
+    border: none;
+    background-image: none;
+    color: #fff;
+    cursor: pointer;
+}

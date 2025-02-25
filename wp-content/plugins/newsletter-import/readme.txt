@@ -1,7 +1,11 @@
 === Import Addon for Newsletter ===
-Tested up to: 6.7.1
+Tested up to: 6.7.2
 
 == Changelog ==
+
+= 1.5.8 =
+
+* WP 6.7.2 check
 
 = 1.5.7 =
 

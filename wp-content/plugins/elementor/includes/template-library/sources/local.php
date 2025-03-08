@@ -250,11 +250,8 @@ class Source_Local extends Source_Base {
 			'exclude_from_search' => true,
 			'capability_type' => 'post',
 			'hierarchical' => false,
-			'supports' => [ 'title', 'thumbnail', 'author', 'elementor', 'custom-fields' ],
-			'show_in_rest' => true,
+			'supports' => [ 'title', 'thumbnail', 'author', 'elementor' ],
 		];
-
-		$this->avoid_rest_access_for_non_admins();
 
 		/**
 		 * Register template library post type args.
@@ -1398,7 +1395,7 @@ class Source_Local extends Source_Base {
 		}
 
 		$all_items = get_taxonomy( self::TAXONOMY_CATEGORY_SLUG )->labels->all_items;
-		$dropdown_options = [
+		$dropdown_options = array(
 			'show_option_all' => $all_items,
 			'show_option_none' => $all_items,
 			'hide_empty' => 0,
@@ -1410,7 +1407,7 @@ class Source_Local extends Source_Base {
 			'name' => self::TAXONOMY_CATEGORY_SLUG,
 			//phpcs:ignore WordPress.Security.NonceVerification.Recommended -- Nonce is not required to retrieve the value.
 			'selected' => Utils::get_super_global_value( $_GET, self::TAXONOMY_CATEGORY_SLUG ) ?? '',
-		];
+		);
 
 		printf(
 			'<label class="screen-reader-text" for="%1$s">%2$s</label>',
@@ -1747,18 +1744,6 @@ class Source_Local extends Source_Base {
 		unset( $post_types[ self::CPT ] );
 
 		return $post_types;
-	}
-
-	private function avoid_rest_access_for_non_admins(): void {
-		add_filter( 'rest_pre_dispatch', function ( $value, \WP_REST_Server $server, \WP_REST_Request $request ) {
-			if ( strpos( $request->get_route(), self::CPT ) !== false ) {
-				if ( ! current_user_can( 'manage_options' ) ) {
-					return new \WP_Error( 'rest_forbidden', esc_html__( 'Sorry, you are not allowed to do that.', 'elementor' ), [ 'status' => rest_authorization_required_code() ] );
-				}
-			}
-
-			return $value;
-		}, 10, 3 );
 	}
 
 	/**

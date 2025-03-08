@@ -825,7 +825,7 @@ abstract class Element_Base extends Controls_Stack {
 	 * @access protected
 	 * @return void
 	 */
-	protected function register_transform_section( $element_selector = '', $transform_selector_class = ' > .elementor-widget-container' ) {
+	protected function register_transform_section( $element_selector = '' ) {
 		$default_unit_values_deg = [];
 		$default_unit_values_ms = [];
 
@@ -856,6 +856,7 @@ abstract class Element_Base extends Controls_Stack {
 
 		$transform_prefix_class = 'e-';
 		$transform_return_value = 'transform';
+		$transform_selector_class = ' > .elementor-widget-container';
 		$transform_css_modifier = '';
 
 		if ( 'con' === $element_selector ) {
@@ -1546,10 +1547,6 @@ abstract class Element_Base extends Controls_Stack {
 
 			$this->add_child( $child_data );
 		}
-	}
-
-	public function has_widget_inner_wrapper(): bool {
-		return true;
 	}
 
 	/**

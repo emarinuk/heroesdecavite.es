@@ -3,20 +3,20 @@
  * Plugin Name: Paid Memberships Pro
  * Plugin URI: https://www.paidmembershipspro.com
  * Description: The Trusted Membership Platform That Grows with You
- * Version: 3.4.1
+ * Version: 3.4.3
  * Author: Paid Memberships Pro
  * Author URI: https://www.paidmembershipspro.com
  * Text Domain: paid-memberships-pro
  * Domain Path: /languages
  */
 /**
- * Copyright 2011-2024	Stranger Studios
+ * Copyright 2011-2025	Stranger Studios
  * (email : info@paidmembershipspro.com)
  * GPLv2 Full license details in license.txt
  */
 
 // version constant
-define( 'PMPRO_VERSION', '3.4.1' );
+define( 'PMPRO_VERSION', '3.4.3' );
 define( 'PMPRO_USER_AGENT', 'Paid Memberships Pro v' . PMPRO_VERSION . '; ' . site_url() );
 define( 'PMPRO_MIN_PHP_VERSION', '5.6' );
 
@@ -177,9 +177,7 @@ if ( is_admin() || defined('WP_CLI') ) {
 }
 
 // load plugin updater
-if ( is_admin() ) {
-	require_once( PMPRO_DIR . '/includes/addons.php' );
-}
+require_once( PMPRO_DIR . '/includes/addons.php' );
 
 /*
 	Definitions

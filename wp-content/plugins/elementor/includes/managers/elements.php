@@ -290,10 +290,6 @@ class Elements_Manager {
 					'url' => esc_url( 'https://go.elementor.com/go-pro-section-pro-widget-panel/' ),
 				],
 			],
-			'helloplus' => [
-				'title' => esc_html__( 'Hello+', 'elementor' ),
-				'hideIfEmpty' => true,
-			],
 			'general' => [
 				'title' => esc_html__( 'General', 'elementor' ),
 				'icon' => 'eicon-font',
@@ -348,12 +344,6 @@ class Elements_Manager {
 			'icon' => 'eicon-wordpress',
 			'active' => false,
 		];
-	}
-
-	public function enqueue_elements_styles() {
-		foreach ( $this->get_element_types() as $element ) {
-			$element->enqueue_styles();
-		}
 	}
 
 	/**

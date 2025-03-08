@@ -802,7 +802,11 @@ class Controls_Manager {
 		];
 
 		$control_type = 'controls';
-		if ( Performance::should_optimize_controls() && $this->is_style_control( $control_data ) ) {
+		if (
+			Performance::is_optimized_control_loading_feature_enabled()
+			&& Performance::should_optimize_controls()
+			&& $this->is_style_control( $control_data )
+		) {
 			$control_type = 'style_controls';
 		}
 

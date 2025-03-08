@@ -77,10 +77,6 @@ class Widget_Icon_List extends Widget_Base {
 		return false;
 	}
 
-	public function has_widget_inner_wrapper(): bool {
-		return ! Plugin::$instance->experiments->is_feature_active( 'e_optimized_markup' );
-	}
-
 	/**
 	 * Get style dependencies.
 	 *

@@ -729,13 +729,9 @@ abstract class Document extends Controls_Stack {
 			$container_config = [];
 
 			if ( Plugin::$instance->experiments->is_feature_active( 'container' ) ) {
-				$container_config['container'] =
-					Plugin::$instance->elements_manager->get_element_types( 'container' )->get_config();
-			}
-
-			if ( Plugin::$instance->experiments->is_feature_active( 'atomic_widgets' ) ) {
-				$container_config['div-block'] =
-					Plugin::$instance->elements_manager->get_element_types( 'div-block' )->get_config();
+				$container_config = [
+					'container' => Plugin::$instance->elements_manager->get_element_types( 'container' )->get_config(),
+				];
 			}
 
 			$config['elements'] = $this->get_elements_raw_data( null, true );
@@ -1038,7 +1034,7 @@ abstract class Document extends Controls_Stack {
 	}
 
 	public function update_json_meta( $key, $value ) {
-		return $this->update_meta(
+		$this->update_meta(
 			$key,
 			// `wp_slash` in order to avoid the unslashing during the `update_post_meta`
 			wp_slash( wp_json_encode( $value ) )
@@ -1799,19 +1795,8 @@ abstract class Document extends Controls_Stack {
 	 * @access protected
 	 */
 	protected function print_elements( $elements_data ) {
-		$is_element_cache_active = Plugin::$instance->experiments->is_feature_active( 'e_element_cache' ) && 'disable' !== get_option( 'elementor_element_cache_ttl', '' );
-		if ( ! $is_element_cache_active ) {
-			ob_start();
-
+		if ( ! Plugin::$instance->experiments->is_feature_active( 'e_element_cache' ) ) {
 			$this->do_print_elements( $elements_data );
-
-			$content = ob_get_clean();
-
-			if ( has_blocks( $content ) ) {
-				$content = do_blocks( $content );
-			}
-
-			echo $content; // phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped
 
 			return;
 		}
@@ -1867,18 +1852,17 @@ abstract class Document extends Controls_Stack {
 		}
 
 		if ( ! empty( $cached_data['content'] ) ) {
-			$content = do_shortcode( $cached_data['content'] );
-
-			if ( has_blocks( $content ) ) {
-				$content = do_blocks( $content );
-			}
-
-			echo $content; // phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped
+			echo do_shortcode( $cached_data['content'] ); // phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped
 		}
 	}
 
 	protected function do_print_elements( $elements_data ) {
-		$this->update_runtime_elements( $elements_data );
+		// Collect all data updaters that should be updated on runtime.
+		$runtime_elements_iteration_actions = $this->get_runtime_elements_iteration_actions();
+
+		if ( $runtime_elements_iteration_actions ) {
+			$this->iterate_elements( $elements_data, $runtime_elements_iteration_actions, 'render' );
+		}
 
 		foreach ( $elements_data as $element_data ) {
 			$element = Plugin::$instance->elements_manager->create_element_instance( $element_data );
@@ -1888,19 +1872,6 @@ abstract class Document extends Controls_Stack {
 			}
 
 			$element->print_element();
-		}
-	}
-
-	public function update_runtime_elements( $elements_data = null ) {
-		if ( null === $elements_data ) {
-			$elements_data = $this->get_elements_data();
-		}
-
-		// Collect all data updaters that should be updated on runtime.
-		$runtime_elements_iteration_actions = $this->get_runtime_elements_iteration_actions();
-
-		if ( $runtime_elements_iteration_actions ) {
-			$this->iterate_elements( $elements_data, $runtime_elements_iteration_actions, 'render' );
 		}
 	}
 

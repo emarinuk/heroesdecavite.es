@@ -88,10 +88,6 @@ class Widget_Social_Icons extends Widget_Base {
 		return [ 'widget-social-icons', 'e-apple-webkit' ];
 	}
 
-	public function has_widget_inner_wrapper(): bool {
-		return ! Plugin::$instance->experiments->is_feature_active( 'e_optimized_markup' );
-	}
-
 	/**
 	 * Register social icons widget controls.
 	 *
@@ -314,10 +310,6 @@ class Widget_Social_Icons extends Widget_Base {
 		$start = is_rtl() ? 'end' : 'start';
 		$end = is_rtl() ? 'start' : 'end';
 
-		$align_selector = Plugin::$instance->experiments->is_feature_active( 'e_optimized_markup' ) && ! $this->has_widget_inner_wrapper()
-			? '{{WRAPPER}}'
-			: '{{WRAPPER}} .elementor-widget-container';
-
 		$this->add_responsive_control(
 			'align',
 			[
@@ -340,7 +332,7 @@ class Widget_Social_Icons extends Widget_Base {
 				'prefix_class' => 'e-grid-align%s-',
 				'default' => 'center',
 				'selectors' => [
-					$align_selector => 'text-align: {{VALUE}}',
+					'{{WRAPPER}} .elementor-widget-container' => 'text-align: {{VALUE}}',
 				],
 			]
 		);

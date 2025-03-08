@@ -576,20 +576,6 @@ class Element_Section extends Element_Base {
 							],
 						],
 					],
-					'scripts' => [
-						[
-							'name' => 'swiper',
-							'conditions' => [
-								'terms' => [
-									[
-										'name' => 'background_background',
-										'operator' => '===',
-										'value' => 'slideshow',
-									],
-								],
-							],
-						],
-					],
 				],
 			]
 		);
@@ -930,7 +916,7 @@ class Element_Section extends Element_Base {
 							'value' => '',
 						],
 						[
-							'name' => 'border_hover_border',
+							'name' => 'border_border',
 							'operator' => '!==',
 							'value' => '',
 						],
@@ -1448,7 +1434,7 @@ class Element_Section extends Element_Base {
 		#>
 			<div {{{ view.getRenderAttributeString( 'background-video-container' ) }}}>
 				<div class="elementor-background-video-embed"></div>
-				<video class="elementor-background-video-hosted" {{ videoAttributes }}></video>
+				<video class="elementor-background-video-hosted elementor-html5-video" {{ videoAttributes }}></video>
 			</div>
 		<# } #>
 		<div class="elementor-background-overlay"></div>
@@ -1494,7 +1480,7 @@ class Element_Section extends Element_Base {
 								$video_tag_attributes .= ' loop';
 							endif;
 							?>
-							<video class="elementor-background-video-hosted" <?php
+							<video class="elementor-background-video-hosted elementor-html5-video" <?php
 								// PHPCS - the variable $video_tag_attributes is a plain string.
 								echo $video_tag_attributes; // phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped
 							?>></video>

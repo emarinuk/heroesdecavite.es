@@ -106,10 +106,6 @@ class Widget_Google_Maps extends Widget_Base {
 		return [ 'widget-google_maps' ];
 	}
 
-	public function has_widget_inner_wrapper(): bool {
-		return ! Plugin::$instance->experiments->is_feature_active( 'e_optimized_markup' );
-	}
-
 	/**
 	 * Register google maps widget controls.
 	 *

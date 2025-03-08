@@ -3,6 +3,14 @@ Tested up to: 6.7.2
 
 == Changelog ==
 
+= 1.5.5 =
+
+* Fixed topbar closing
+
+= 1.5.4 =
+
+* Optimized the CSS
+
 = 1.5.3 =
 
 * WP 6.7.2 check

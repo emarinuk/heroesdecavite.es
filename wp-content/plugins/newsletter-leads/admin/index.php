@@ -48,6 +48,9 @@ if (!$controls->is_action()) {
         $options = array_merge($options, $controls->data);
         unset($options['theme_title']);
         $this->save_options($options, $current_language);
+
+        $this->update_popup_css();
+
         $controls->add_toast_saved();
     }
 }

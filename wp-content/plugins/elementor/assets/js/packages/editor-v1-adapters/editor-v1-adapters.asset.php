@@ -8,7 +8,6 @@ if ( ! defined( 'ABSPATH' ) ) {
 return [
 	'handle' => 'elementor-v2-editor-v1-adapters',
 	'deps' => [
-		'elementor-v2-utils',
 		'react',
 	],
 ];

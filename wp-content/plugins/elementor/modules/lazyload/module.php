@@ -56,7 +56,7 @@ class Module extends BaseModule {
 				return;
 			}
 			?>
-			<script>
+			<script type='text/javascript'>
 				const lazyloadRunObserver = () => {
 					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
 					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {

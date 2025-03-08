@@ -116,7 +116,10 @@ class Settings_Layout extends Tab_Base {
 					'column' => '20',
 				],
 				'description' => esc_html__( 'Sets the default space between widgets (Default: 20px)', 'elementor' ),
-				'selectors' => $this->get_spacing_selectors(),
+				'selectors' => [
+					'.elementor-widget:not(:last-child)' => 'margin-block-end: {{ROW}}{{UNIT}}',
+					'.elementor-element' => '--widgets-spacing: {{ROW}}{{UNIT}} {{COLUMN}}{{UNIT}}',
+				],
 				'conversion_map' => [
 					'old_key' => 'size',
 					'new_key' => 'column',
@@ -241,18 +244,6 @@ class Settings_Layout extends Tab_Base {
 		$this->add_control( 'viewport_lg', [ 'type' => Controls_Manager::HIDDEN ] );
 
 		$this->end_controls_section();
-	}
-
-	private function get_spacing_selectors(): array {
-		$optimized_markup = Plugin::$instance->experiments->is_feature_active( 'e_optimized_markup' );
-		$sections_widget_spacing = $optimized_markup
-			? '--kit-widget-spacing: {{ROW}}{{UNIT}}'
-			: 'margin-block-end: {{ROW}}{{UNIT}}';
-
-		return [
-			'.elementor-widget:not(:last-child)' => $sections_widget_spacing,
-			'.elementor-element' => '--widgets-spacing: {{ROW}}{{UNIT}} {{COLUMN}}{{UNIT}};--widgets-spacing-row: {{ROW}}{{UNIT}};--widgets-spacing-column: {{COLUMN}}{{UNIT}};',
-		];
 	}
 
 	/**

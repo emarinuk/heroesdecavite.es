@@ -84,3 +84,42 @@ add_action('wp_print_scripts', function() {
         wp_deregister_script('google-recaptcha');
     }
 }, 100);
+
+function mostrar_datos_conferenciante() {
+    $conf = get_field('conferenciante');
+
+    if ($conf && is_array($conf)) {
+        // Obtener el primer conferenciante del array
+        $conf = $conf[0];
+
+        // Si es un objeto, extraer el ID correctamente
+        $conf_id = is_object($conf) ? $conf->ID : $conf;
+
+        // Obtener datos
+        $nombre = get_the_title($conf_id);
+        $biografia = get_field('biografia_corta', $conf_id);
+        $imagen = get_the_post_thumbnail($conf_id, 'medium');
+
+        return '<div class="conferenciante-info">
+                    <h3>' . esc_html($nombre) . '</h3>
+                    ' . $imagen . '
+                    <div class="biografia">' . wp_kses_post($biografia) . '</div>
+                </div>';
+    }
+
+    return 'No se encontró ningún conferenciante.';
+}
+add_shortcode('datos_conferenciante', 'mostrar_datos_conferenciante');
+
+
+
+
+function debug_conferenciante() {
+    $conf = get_field('conferenciante'); // Obtener ID u objeto del conferenciante
+
+    if ($conf) {
+        return '<pre>' . print_r($conf, true) . '</pre>';
+    }
+    return 'No se encontró ningún conferenciante.';
+}
+add_shortcode('debug_conferenciante', 'debug_conferenciante');

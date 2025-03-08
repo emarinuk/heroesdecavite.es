@@ -25,8 +25,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 </head>
 <body <?php body_class(); ?>>
 	<?php
-	wp_body_open();
-
+	Elementor\Modules\PageTemplates\Module::body_open();
 	/**
 	 * Before canvas page template content.
 	 *

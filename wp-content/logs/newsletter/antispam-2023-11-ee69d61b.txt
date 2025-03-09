@@ -1,0 +1,4 @@
+25-11-2023 17:20:52 - FATAL - 8.0.4 - 28,4 MB/256 MB -  > jrfunes504@gmail.com - 2600:1011:b15d:53e2:6918:94bb:fd59:1de5 - Antiflood triggered
+25-11-2023 17:20:54 - FATAL - 8.0.4 - 28,4 MB/256 MB -  > jrfunes504@gmail.com - 2600:1011:b15d:53e2:6918:94bb:fd59:1de5 - Antiflood triggered
+28-11-2023 20:58:00 - FATAL - 8.0.4 - 28,4 MB/256 MB -  > johnbornes84@gmail.com - 79.156.127.8 - Antiflood triggered
+29-11-2023 12:17:29 - FATAL - 8.0.4 - 28,4 MB/256 MB -  > carpla17@hotmail.com - 31.221.211.64 - Antiflood triggered

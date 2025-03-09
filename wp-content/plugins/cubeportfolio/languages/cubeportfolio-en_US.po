@@ -1,0 +1,724 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cubeportfolio\n"
+"POT-Creation-Date: 2016-12-17 00:38+0200\n"
+"PO-Revision-Date: 2016-12-17 00:39+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: */node_modules/*\n"
+"X-Poedit-SearchPathExcluded-1: */bower_components/*\n"
+"X-Poedit-SearchPathExcluded-2: */dist/*\n"
+"X-Poedit-SearchPathExcluded-3: */tmp/*\n"
+
+#: php/CubePortfolioBackend.php:53 php/CubePortfolioBackend.php:54
+msgid "Edit"
+msgstr ""
+
+#: php/CubePortfolioBackend.php:54
+msgid "Edit Portfolio"
+msgstr ""
+
+#: php/CubePortfolioBackend.php:55
+msgid "Settings"
+msgstr ""
+
+#: php/CubePortfolioBackend.php:56
+msgid "Import/Export"
+msgstr ""
+
+#: php/CubePortfolioBackend.php:581
+msgid "Project Subtitle"
+msgstr ""
+
+#: php/CubePortfolioBackend.php:584
+msgid "Page Attributes"
+msgstr ""
+
+#: php/CubePortfolioBackend.php:587
+#: public/partials/single-cbp-singlePage.php:112
+msgid "Project Details"
+msgstr ""
+
+#: php/CubePortfolioBackend.php:590 php/CubePortfolioBackend.php:661
+msgid "Project Link"
+msgstr ""
+
+#: php/CubePortfolioBackend.php:593
+msgid "Social Links"
+msgstr ""
+
+#: php/CubePortfolioBackend.php:596
+msgid "Add/Edit Project Media"
+msgstr ""
+
+#: php/CubePortfolioBackend.php:605
+msgid "Subtitle"
+msgstr ""
+
+#: php/CubePortfolioBackend.php:615
+msgid "SinglePage"
+msgstr ""
+
+#: php/CubePortfolioBackend.php:615
+msgid "SinglePageInline"
+msgstr ""
+
+#: php/CubePortfolioBackend.php:619
+msgid "Template"
+msgstr ""
+
+#: php/CubePortfolioBackend.php:639
+msgid "Client Name"
+msgstr ""
+
+#: php/CubePortfolioBackend.php:643
+msgid "Project Date"
+msgstr ""
+
+#: php/CubePortfolioBackend.php:665
+msgid "Project Link Target"
+msgstr ""
+
+#: php/CubePortfolioBackend.php:667
+msgid "Blank"
+msgstr ""
+
+#: php/CubePortfolioBackend.php:668
+msgid "Self"
+msgstr ""
+
+#: php/CubePortfolioBackend.php:686
+msgid "Facebook"
+msgstr ""
+
+#: php/CubePortfolioBackend.php:690
+msgid "Twitter"
+msgstr ""
+
+#: php/CubePortfolioBackend.php:694
+msgid "Google+"
+msgstr ""
+
+#: php/CubePortfolioBackend.php:698
+msgid "Pinterest"
+msgstr ""
+
+#: php/CubePortfolioBackend.php:742
+msgid "add image"
+msgstr ""
+
+#: php/CubePortfolioBackend.php:743
+msgid "add video"
+msgstr ""
+
+#: php/CubePortfolioBackend.php:798
+msgid "Wrap images in a slider"
+msgstr ""
+
+#: php/CubePortfolioBackend.php:802
+msgid "Add support for Lightbox Gallery"
+msgstr ""
+
+#: php/CubePortfolioMain.php:420
+msgid "Custom Categories"
+msgstr ""
+
+#: php/CubePortfolioMain.php:421
+msgid "Custom Category"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:7
+msgid "Back to list"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:8
+msgid "Live Preview"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:9
+msgid "Get started by add / edit the items below or"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:10
+msgid ""
+"Don't forget that you have a lot of options and presets on the side right of "
+"the screen to customize your plugin experience."
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:13
+msgid "Portfolios List"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:14
+msgid "Get started by add new items below or"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:15
+msgid "watch introductory video"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:16
+msgid ""
+"To use Cube Portfolio insert the shortcode in the page and/or post editor."
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:17
+msgid "Id"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:18
+msgid "Name"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:19
+msgid "Type"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:20
+msgid "Shortcode"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:21
+msgid "Actions"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:22
+msgid "active"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:23
+msgid "inactive"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:24
+msgid "delete"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:25
+msgid "duplicate"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:26
+msgid "Add new portfolio"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:29
+msgid "Select a Template to create"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:30
+msgid "Juicy Projects"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:31
+msgid "Organize your projects in a simple grid"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:32
+msgid "Lightbox Gallery"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:33
+msgid "Customize images in a tasty grid."
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:34
+msgid "Meet The Team"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:35
+msgid "Present your team members"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:36
+msgid "Full Box"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:37
+msgid "Display items in a full box grid"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:38
+msgid "Masonry"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:39
+msgid "Place items based on available vertical space"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:40
+msgid "Blog Posts"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:41
+msgid "Add your items in a blog posts layout"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:42
+msgid "Masonry Projects"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:43
+msgid "Organize items in a custom masonry grid"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:44
+msgid "Awesome Work"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:45
+msgid "Present your work in a modern grid system"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:48
+msgid "Cube Portfolio Global Settings"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:49
+msgid "Edit global settings for Cube Portfolio"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:50
+msgid "Preload CSS and JavaSript files:"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:51
+msgid "On posts with cubeportfolio shortcode in content"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:52
+msgid "On home (front) page"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:53
+msgid "On every page (overrides all other options)"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:54
+msgid "Cube Posts Type (Slug)"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:55
+msgid ""
+"This option can't be blank, must have a maximum length of 20 characters and "
+"cannot contain capital letters or spaces. After each change, please resave "
+"your permalinks (Go to Dashboard > Settings > Permalinks. Click save button)."
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:56
+msgid "Save Settings"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:60
+msgid "Cube Portfolio Import/Export"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:61
+msgid "Import/Export Cube Portfolio grids and settings"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:62
+msgid "Import"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:63
+msgid "Import File"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:64
+msgid "Export"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:65
+msgid "Export Data"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:69
+msgid "Content"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:70
+msgid "Style"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:74
+msgid "Close"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:75
+msgid "Apply changes"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:79
+msgid "Save template"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:80
+msgid "General options"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:81 php/CubePortfolioTranslation.php:176
+msgid "Grid Layout"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:82
+msgid "Responsive Columns"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:83
+msgid "Lightbox"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:84
+msgid "Single Page"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:85
+msgid "Single Page Inline"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:86
+msgid "Gap"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:87
+msgid "Animation Type"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:88
+msgid "Caption"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:89
+msgid "Display"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:90
+msgid "Load More"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:94
+msgid "Edit filters"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:95
+msgid "Add item"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:99
+msgid "Juicy Projects Live Template Builder Edit"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:100
+msgid "watch Juicy Projects template video"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:101
+msgid "Juicy Projects Live Template Builder"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:105
+msgid "Lightbox Gallery Live Template Builder Edit"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:106
+msgid "watch Lightbox Gallery template video"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:107
+msgid "Lightbox Gallery Live Template Builder"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:111
+msgid "Meet The Team Live Template Builder Edit"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:112
+msgid "watch Meet The Team template video"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:113
+msgid "Meet The Team Live Template Builder"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:117
+msgid "Full Box Live Template Builder Edit"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:118
+msgid "watch Full Box template video"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:119
+msgid "Full Box Live Template Builder"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:123
+msgid "Masonry Live Template Builder Edit"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:124
+msgid "watch Masonry template video"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:125
+msgid "Masonry Live Template Builder"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:129
+msgid "Blog Posts Live Template Builder Edit"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:130
+msgid "watch Blog Posts template video"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:131
+msgid "Blog Posts Live Template Builder"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:135
+msgid "Masonry Projects Live Template Builder Edit"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:136
+msgid "watch Masonry Projects template video"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:137
+msgid "Masonry Projects Live Template Builder"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:141
+msgid "Awesome Work Live Template Builder Edit"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:142
+msgid "watch Awesome Work template video"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:143
+msgid "Awesome Work Live Template Builder"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:146
+msgid "Loading..."
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:147
+msgid "Your changes have been saved successfully"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:148
+msgid "Ajax error: "
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:149
+msgid "! Please refresh and then try again."
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:150
+msgid "Backend error:"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:151
+msgid ""
+"! Please contact the plugin author on the <a href=\"https://codecanyon.net/"
+"item/cube-portfolio-responsive-wordpress-grid-plugin/8534570/support\" "
+"target=\"_blank\">support thread</a>"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:152
+msgid "Frontend error:"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:155
+msgid "Enable Filters for this grid"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:156
+msgid "Add new Filter"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:157
+msgid "Add the name of the filter"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:158
+msgid ""
+"Set the class for this filter. If you want `All` filter add only `*` "
+"character."
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:159
+msgid "Add"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:160
+msgid "List of available filters"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:161
+msgid "Save"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:162
+msgid "up"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:163
+msgid "down"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:164
+msgid "edit"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:165
+msgid "filter-delete"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:166
+msgid "is default"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:167
+msgid "make default"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:168
+msgid "No filters available. Please add new filters using the above form"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:169
+msgid "Add counter to filters"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:170
+msgid "Select filters layout"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:174
+msgid "Item"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:175
+msgid "Item options"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:177
+msgid ""
+"Set the layout type for this item. Masonry = the item height depend of the "
+"media content. Even = the item have the height based on `Ratio X:Y` bellow."
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:178
+msgid "Ratio X:Y"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:179
+msgid "Items width/height ratio"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:180 php/CubePortfolioTranslation.php:183
+msgid "Filter Class"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:181
+msgid "Add filters for this items"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:182
+msgid "Enable filters to enable this option"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:184
+msgid "Image Path"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:185
+msgid "Insert the path to the image or choose an image from Media Library"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:186
+msgid "choose image"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:187
+msgid "Add this item to `load more`"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:188 php/CubePortfolioTranslation.php:190
+msgid "Add to Load More"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:189
+msgid "Enable load more from options panel"
+msgstr ""
+
+#: php/CubePortfolioTranslation.php:191
+msgid "Where to add the item"
+msgstr ""
+
+#: public/partials/single-cbp-singlePage.php:62
+msgid "Project Description"
+msgstr ""
+
+#: public/partials/single-cbp-singlePage.php:75
+#: public/partials/single-cbp-singlePageInline.php:89
+msgid "Share on Facebook"
+msgstr ""
+
+#: public/partials/single-cbp-singlePage.php:83
+#: public/partials/single-cbp-singlePageInline.php:97
+msgid "Share on Twitter"
+msgstr ""
+
+#: public/partials/single-cbp-singlePage.php:91
+#: public/partials/single-cbp-singlePageInline.php:105
+msgid "Share on Google+"
+msgstr ""
+
+#: public/partials/single-cbp-singlePage.php:99
+#: public/partials/single-cbp-singlePageInline.php:113
+msgid "Share on Pinterest"
+msgstr ""
+
+#: public/partials/single-cbp-singlePage.php:116
+msgid "Client"
+msgstr ""
+
+#: public/partials/single-cbp-singlePage.php:120
+msgid "Date"
+msgstr ""
+
+#: public/partials/single-cbp-singlePage.php:124
+msgid "Categories"
+msgstr ""
+
+#: public/partials/single-cbp-singlePage.php:132
+#: public/partials/single-cbp-singlePageInline.php:124
+msgid "VIEW PROJECT"
+msgstr ""
+
+#: public/partials/single-cbp-singlePageInline.php:65
+msgid "Client:"
+msgstr ""
+
+#: public/partials/single-cbp-singlePageInline.php:69
+msgid "Date:"
+msgstr ""
+
+#: public/partials/single-cbp-singlePageInline.php:73
+msgid "Categories:"
+msgstr ""

@@ -1,0 +1,1888 @@
+# Translation of Plugins - Super Page Cache - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Super Page Cache - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-02-21 18:46:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Super Page Cache - Development (trunk)\n"
+
+#: src/Modules/Admin.php:174
+msgid "Issues"
+msgstr "Problemas"
+
+#: src/Modules/Admin.php:161
+msgid "Status"
+msgstr "Estado"
+
+#: src/views/third_party/wp_rocket.php:28
+msgid "CCSS generation process ends"
+msgstr "El proceso de generación de CCSS termina"
+
+#. Plugin URI of the plugin
+#: wp-cloudflare-super-page-cache.php
+msgid "https://wordpress.org/plugins/wp-cloudflare-page-cache/"
+msgstr "https://es.wordpress.org/plugins/wp-cloudflare-page-cache/"
+
+#: src/views/third_party/woocommerce.php:28
+msgid "My Account page (is_account)"
+msgstr "Página «Mi cuenta» (is_account)"
+
+#: src/views/admin_advanced_tab.php:105
+msgid "Automatically purge the cache when the upgrader process is complete"
+msgstr "Vaciar automáticamente la caché cuando el proceso del actualizador se complete"
+
+#: src/views/admin_advanced_tab.php:213
+msgid "WP JSON endpoints"
+msgstr "Variables WP JSON"
+
+#: src/views/third_party/flying_press.php:17
+msgid "Automatically purge the cache when Flying Press flushs its own cache"
+msgstr "Vaciar automáticamente la caché cuando Flying Press vacíe su propia caché"
+
+#: src/views/third_party/flying_press.php:9
+msgid "Flying Press settings"
+msgstr "Ajustes de Flying Press"
+
+#: src/views/admin_advanced_tab.php:894 src/views/admin_advanced_tab.php:910
+msgid "URIs in <em>Prevent the following URIs to be cached</em> will not be prefetched."
+msgstr "Las URI en <em>Evitar que se almacenen en la caché las siguientes URI</em> no se precargarán."
+
+#: libs/views/cached_html_pages.php:24
+msgid "There are no cached HTML pages right now."
+msgstr "Ahora mismo no hay páginas HTML en la caché."
+
+#: libs/views/cached_html_pages.php:10
+msgid "There are %d cached pages in list:"
+msgstr "Hay %d páginas en caché en la lista:"
+
+#: src/views/admin_faq_tab.php:63
+msgid "What is the difference between Purge Cache and Force purge everything actions?"
+msgstr "¿Cuál es la diferencia entre las acciones de vaciar caché o forzar el vaciado de todo? "
+
+#: src/views/admin_faq_tab.php:28
+msgid "It is added to all internal links for logged in users only. It is disabled in Worker mode."
+msgstr "Se añade a todos los enlaces internos solo para los usuarios conectados. Se desactiva en el modo worker."
+
+#: src/views/admin_advanced_tab.php:939
+msgid "Keep settings on deactivation"
+msgstr "Guardar ajustes al desactivar"
+
+#: src/views/admin_advanced_tab.php:940
+msgid "Keep settings on plugin deactivation."
+msgstr "Guarda los ajustes al desactivar el plugin."
+
+#: src/views/admin_advanced_tab.php:904
+msgid "If enabled, it preloads a page right before a user clicks on it. It uses instant.page just-in-time preloading."
+msgstr "Si está activo precarga una página justo antes de que el usuario haga clic en ella. Utiliza la precarga instant-page."
+
+#: src/views/admin_advanced_tab.php:903
+msgid "Auto prefetch URLs on mouse hover"
+msgstr "Precarga automática de URLs al pasar el cursor"
+
+#: src/views/admin_advanced_tab.php:893 src/views/admin_advanced_tab.php:909
+msgid "Purge the cache and wait about 30 seconds after enabling/disabling this option."
+msgstr "Vacía la caché y espera alrededor de 30 segundos después de activar/desactivar esta opción."
+
+#: src/views/admin_advanced_tab.php:169
+msgid "Show cached HTML pages list"
+msgstr "Mostrar lista de páginas HTML en caché"
+
+#: libs/views/settings.php:84
+msgid "Purge both HTML pages and static assets"
+msgstr "Vaciar tanto las páginas HTML como los recursos estáticos"
+
+#: libs/backend.class.php:204 libs/views/settings.php:84
+msgid "Force purge everything"
+msgstr "Forzar el vaciado de todo"
+
+#: src/views/admin_faq_tab.php:68
+msgid "If for some reason you need to delete static files (such as CSS, images and scripts) from Cloudflare's cache, you can do so by clicking on <strong>Force purge everything</strong>"
+msgstr "Si por algún motivo necesitas borrar archivos estáticos (como CSS, imágenes y scripts) desde la caché de Cloudflare, puedes hacerlo haciendo clic en <strong>Forzar el vaciado de todo</strong>"
+
+#: src/views/admin_faq_tab.php:66
+msgid "If the <strong>Purge HTML pages only</strong> option is enabled, clicking on the <strong>PURGE CACHE</strong> button only HTML pages already in cache will be deleted ."
+msgstr "Si la opción de <strong>Vaciar solo páginas HTML</strong> está activada, haciendo clic en el botón de <strong>VACIAR LA CACHÉ</strong> solo se borrarán las páginas HTML que ya estén en la caché."
+
+#: src/views/third_party/litespeed_cache.php:26
+msgid "LiteSpeed Cache flushs single post cache via API"
+msgstr "La caché de LiteSpeed vacía la caché de entrada individual mediante la API"
+
+#: src/views/third_party/litespeed_cache.php:25
+msgid "LiteSpeed Cache flushs object cache"
+msgstr "La caché de LiteSpeed vacía la caché de objetos"
+
+#: src/views/third_party/litespeed_cache.php:24
+msgid "LiteSpeed Cache flushs CSS and JS cache"
+msgstr "La caché de LiteSpeed vacía la caché de CSS y JS"
+
+#: src/views/third_party/litespeed_cache.php:23
+msgid "LiteSpeed Cache flushs Critical CSS"
+msgstr "La caché de LiteSpeed vacía el CSS crítico"
+
+#: src/views/admin_faq_tab.php:161
+msgid "Now if you purge the Cloudflare cache only (on Cloudflare dashboard) or enable development mode in the Cloudflare dashboard so that the request doesn't get served from Cloudflare CDN, you will see the <code>x-kinsta-cache</code> showing as HIT, because this time the request is going to your origin server and you are seeing the updated response headers that is being served by the server."
+msgstr "Ahora, si vacías solo la caché de CloudFlare (en el escritorio de CloudFlare) o activas el modo de desarrollo en el escritorio de Cloudflare para que la solicitud no se sirva desde la CDN de CloudFlare, ahora verás que <code>x-kinsta-cache</code> se muestra como HIT, debido a que esta vez la solicitud va a tu servidor de origen y estás viendo las cabeceras de respuesta actualizadas que está sirviendo el servidor."
+
+#: src/views/admin_faq_tab.php:160
+msgid "At this point after receiving the first request both Cloudflare & Kinsta caches the page on their own platforms respectively. But do note that when Cloudflare is caching the first request at this point the <code>x-kinsta-cache</code> header is of status MISS. For the second request when Cloudflare serves the page from it's own CDN Edge servers without sending the request to the origin server, it keeps showing the <code>x-kinsta-cache</code> cache header as MISS. Because when Cloudflare cached the page the response header was MISS but Kinsta caching system has already cached it upon receiving the first request."
+msgstr "En este punto, tras recibir la primera solicitud, tanto la caché de CloudFlare como la de Kinsta cachean la página en sus respectivas plataformas. Pero ten en cuenta que cuando Cloudflare cachea la primera solicitud, en este punto, la cabecera <code>x-kinsta-cache</code> tiene el estado de MISS. En la segunda solicitud, cuando Cloudflare sirve la página desde los servidores de su CDN, sin enviar la solicitud al servidor de origen, sigue mostrando la cabecera de caché <code>x-kinsta-cache</code> como MISS. Como cuando Cloudflare cacheaba la página la cabecera de respuesta era MISS pero el sistema de caché de Kinsta ya la había cacheado al recibir la primera solicitud."
+
+#: src/views/admin_faq_tab.php:159
+msgid "After purging the cache from our plugin, it gets deleted from both Kinsta & Cloudflare Cache. Now when you visit the webpage for the first time after purging the cache, you will get cache response headers as MISS/EXPIRED etc. for both Cloudflare and Kinsta cache."
+msgstr "Después de vaciar la caché desde nuestro plugin se borra de las cachés de Kinsta y CloudFlare. Ahora, cuando visitas la página por primera vez después de vaciar la caché, recibirás las cabeceras de respuesta de caché como MISS/EXPIRED, etc., tanto para la caché de CloudFlare como para la de Kinsta."
+
+#: src/views/admin_faq_tab.php:155
+msgid "How does this plugin work with Kinsta Cache?"
+msgstr "¿Cómo funciona esta plugin con la caché de Kinsta?"
+
+#: src/views/admin_advanced_tab.php:888
+msgid "If enabled, the browser prefetches in background all the internal URLs found in the viewport."
+msgstr "Si se activa el navegador precarga de fondo todas las URLs internas encontradas en la parte visible de la página."
+
+#: src/views/admin_advanced_tab.php:887
+msgid "Auto prefetch URLs in viewport"
+msgstr "Precarga automática de URLs en la parte visible de la página"
+
+#: src/views/third_party/wp_performance.php:14
+msgid "Automatically purge the cache when WP Performance flushs its own cache"
+msgstr "Vaciar automáticamente la caché cuando WP Performance vacía su propia caché"
+
+#: src/views/third_party/wp_performance.php:8
+msgid "WP Performance settings"
+msgstr "Ajustes para WP Performance"
+
+#: src/views/third_party/wp_rocket.php:27
+msgid "WP Rocket flushs minified files"
+msgstr "WP Rocket vacía los archivos minimizados"
+
+#: src/views/third_party/wp_rocket.php:26
+msgid "WP Rocket flushs cache busting"
+msgstr "WP Rocket vacía la caché sobrante"
+
+#: src/views/third_party/wp_rocket.php:25
+msgid "WP Rocket flushs files"
+msgstr "WP Rocket vacía archivos"
+
+#: src/views/third_party/wp_rocket.php:24
+msgid "WP Rocket flushs cache directories"
+msgstr "WP Rocket vacía los directorios de caché"
+
+#: src/views/third_party/woocommerce.php:48
+msgid "Automatically purge cache for scheduled sales"
+msgstr "Vaciar automáticamente la caché de ofertas programadas"
+
+#: src/views/admin_advanced_tab.php:182
+msgid "Disable cache purging using queue"
+msgstr "Desactivar el vaciado de caché usando la cola"
+
+#: src/views/admin_advanced_tab.php:165
+msgid "Purge only the cached HTML pages instead of the whole Cloudflare cache (assets + pages)."
+msgstr "Vaciar solo las páginas HTML en caché en vez de toda la caché de CloudFlare (recursos + páginas)."
+
+#: src/views/admin_advanced_tab.php:164
+msgid "Purge HTML pages only"
+msgstr "Vaciar solo páginas HTML"
+
+#: src/views/admin_faq_tab.php:158
+msgid "If you are using a Kinsta hosting, you can integrate this plugin to work with Kinsta Server Level Caching and to ensure when you Purge Cache via this plugin, it not only purges the cache on Cloudflare but also on Kinsta Cache. You can enable this feature by going to the \"Third Party\" tab of the plugin settings and enabling the \"Automatically purge the Kinsta cache when Cloudflare cache is purged\" option. It is also recommended that if you are taking advantage of the Kinsta Server Caching (Recommended), please ensure that the <string>Fallback Cache</strong> system provided by this plugin is turned OFF."
+msgstr "Si estás usando un alojamiento web de Kinsta puedes integrar este plugin para que funcione con la caché a nivel de servidor de Kinsta y asegurarte de que cuando vacíes la caché desde este plugin, no solo vacíe la caché en CloudFlare sino también la caché de Kinsta. Puedes activar esta características en la pestaña «Terceros» y activando la opción «Vaciar automáticamente la caché de Kinsta cuando se vacía la caché de CloudFlare». También es recomendable que aproveches la caché de servidor de Kinsta (recomendado), así que, por favor, asegúrate de que el sistema de <strong>caché de reserva</strong> ofrecido por este plugin esté DESCONECTADO."
+
+#: src/views/third_party/swift_performance.php:21
+msgid "Swift Performance (Lite/Pro) flushs single post cache"
+msgstr "Swift Performance (Lite/Pro) vacía la caché de entrada individual"
+
+#: src/views/third_party/swift_performance.php:20
+msgid "Swift Performance (Lite/Pro) flushs all caches"
+msgstr "Swift Performance (Lite/Pro) vacía todas las cachés"
+
+#: src/views/third_party/swift_performance.php:9
+msgid "Swift Performance (Lite/Pro) settings"
+msgstr "Ajustes para Swift Performance (Lite/Pro)"
+
+#: src/views/third_party/wp_rocket.php:29
+msgid "RUCSS generation process ends"
+msgstr "El proceso de generación de RUCSS termina"
+
+#: src/views/admin_advanced_tab.php:183
+msgid "By default this plugin purge the cache after 10 seconds from the purging action, to avoid a high number of purge requests in case of multiple events triggered by third party plugins. This is done using a classic WordPress scheduled event. If you notice any errors regarding the scheduled intervals, you can deactivate this mode by enabling this option."
+msgstr "Por defecto, este plugin purga la caché transcurridos 10 segundos desde la acción de purga, para evitar un elevado número de peticiones de purga en caso de múltiples eventos activados por plugins de terceros. Esto se hace utilizando un evento programado clásico de WordPress. Si observas algún error relacionado con los intervalos programados, puedes desactivar este modo activando esta opción."
+
+#: src/views/admin_advanced_tab.php:702
+msgid "Log verbosity"
+msgstr "Verborrea del registro"
+
+#: src/views/admin_advanced_tab.php:719
+msgid "High"
+msgstr "Alta"
+
+#: src/views/admin_advanced_tab.php:712
+msgid "Standard"
+msgstr "Estándar"
+
+#: src/views/third_party/kinsta.php:13
+msgid "Automatically purge the Kinsta cache when Cloudflare cache is purged"
+msgstr "Vaciar automáticamente la caché de Kinsta cuando se vacía la caché de CloudFlare"
+
+#: src/views/third_party/kinsta.php:8
+msgid "Kinsta settings"
+msgstr "Ajustes de Kinsta"
+
+#: src/views/third_party/spinup_wp.php:13
+msgid "Automatically purge the SpinupWP cache when Cloudflare cache is purged"
+msgstr "Vaciar automáticamente la caché de SpinupWP cuando se vacía la caché de CloudFlare"
+
+#: src/views/third_party/spinup_wp.php:8
+msgid "SpinupWP settings"
+msgstr "Ajustes de SpinupWP"
+
+#: src/views/third_party/wp_engine.php:13
+msgid "Automatically purge the WP Engine cache when Cloudflare cache is purged"
+msgstr "Vaciar automáticamente la caché de WP Engine cuando se vacía la caché de CloudFlare"
+
+#: src/views/third_party/wp_engine.php:8
+msgid "WP Engine settings"
+msgstr "Ajustes de WP Engine"
+
+#: src/views/third_party/siteground.php:13
+msgid "Automatically purge the Siteground cache when Cloudflare cache is purged"
+msgstr "Vaciar automáticamente la caché de SiteGround cuando se vacía la caché de CloudFlare"
+
+#: src/views/third_party/siteground.php:8
+msgid "Siteground SuperCacher settings"
+msgstr "Ajustes de SuperCacher de SiteGround"
+
+#: src/views/admin_faq_tab.php:483
+msgid "To purge the cache for a subset of URLs use the following PHP command:"
+msgstr "Para vaciar la caché de un subconjunto de URLs utiliza el siguiente comando PHP:"
+
+#: src/views/admin_faq_tab.php:479
+msgid "Yes. To purge the whole cache use the following PHP command:"
+msgstr "Sí. Para vaciar toda la caché utiliza el siguiente comando PHP:"
+
+#: src/views/admin_faq_tab.php:476
+msgid "Can I purge the cache programmatically?"
+msgstr "¿Puedo vaciar la caché programáticamente?"
+
+#: src/views/admin_faq_tab.php:400
+msgid "time interval in seconds for the purge cache cronjob. Default: 10"
+msgstr "intervalo de tiempo en segundos del trabajo cron de vaciado de caché. Por defecto: 10"
+
+#: src/views/admin_faq_tab.php:220
+msgid "If you are using <strong>LiteSpeed Server version lower than 6.0RC1</strong>, make sure the <strong>Overwrite the cache-control header for WordPress's pages using web server rules</strong> option is <strong>disabled</strong>. If not, disable it, clear your cache and try again. You can keep this option enabled for Litespeed Server versions equal or higher then 6.0RC1"
+msgstr "Si utilizas una versión de <strong>LiteSpeed Server inferior a la 6.0RC1</strong>, asegúrate de que la opción <strong>Sobrescribir la cabecera cache-control de las páginas de WordPress mediante reglas del servidor web</strong> está <strong>desactivada</strong>. Si no es así, desactívala, limpia la caché e inténtalo de nuevo. Puedes mantener esta opción activada para versiones del Servidor Litespeed iguales o superiores a la 6.0RC1."
+
+#: src/views/admin_advanced_tab.php:862
+msgid "Admins are always allowed."
+msgstr "Los administradores siempre tienen permiso."
+
+#: src/views/admin_advanced_tab.php:861
+msgid "Select user roles allowed to purge the cache"
+msgstr "Selecciona qué perfiles tienen permisos para vaciar la caché"
+
+#: src/views/third_party/nginx_helper.php:8
+msgid "Nginx Helper settings"
+msgstr "Ajustes del ayudante de Nginx"
+
+#: src/views/admin_advanced_tab.php:83
+msgid "Prevent to cache URLs without trailing slash"
+msgstr "Evitar cachear URLs sin barra invertida"
+
+#: src/views/admin_advanced_tab.php:399
+msgid "One cookie per line."
+msgstr "Una cookie por línea."
+
+#: src/views/admin_advanced_tab.php:397
+msgid "Bypass cache for the following cookies"
+msgstr "Evitar la caché para las siguientes cookies"
+
+#: src/views/admin_advanced_tab.php:400
+msgid "to apply the changes you will need to purge the cache after saving."
+msgstr "para aplicar los cambios tendrás que vaciar la caché después de guardar."
+
+#: src/views/admin_advanced_tab.php:754
+msgid "Read here"
+msgstr "Lee aquí"
+
+#: src/views/admin_faq_tab.php:151
+msgid "Yes but if you are using a LiteSpeed Server version lower than 6.0RC1, disable the option <strong>Overwrite the cache-control header for WordPress's pages using web server rules</strong>. You can keep this option enabled for Litespeed Server versions equal or higher then 6.0RC1"
+msgstr "Sí, pero si utilizas una versión de LiteSpeed Server inferior a la 6.0RC1, desactiva la opción <strong>Sobrescribir la cabecera cache-control de las páginas de WordPress mediante reglas del servidor web</strong>. Puedes mantener esta opción activada para versiones del Servidor Litespeed iguales o superiores a la 6.0RC1."
+
+#: src/views/admin_advanced_tab.php:790
+msgid "Automatically purge the object cache when cache is purged"
+msgstr "Vaciar automáticamente la caché de objetos cuando se purga la caché"
+
+#: src/Services/Cloudflare_Client.php:260
+msgid "Unable to find a valid account ID."
+msgstr "No ha sido posible encontrar un ID de cuenta válido."
+
+#: libs/backend.class.php:218
+msgid "Purge cache for this page only"
+msgstr "Vaciar caché solo para esta página"
+
+#: libs/backend.class.php:1222
+msgid "Configurations imported successfully. Now you must re-enter the Cloudflare API key or token and re-enable the page cache."
+msgstr "Configuraciones importadas correctamente. Ahora debes volver a introducir la clave API de CloudFlare o el token y volver a activar la caché de página."
+
+#: libs/backend.class.php:1197
+msgid "Invalid config file"
+msgstr "Archivo de configuración no válido"
+
+#: libs/backend.class.php:1189
+msgid "Invalid data"
+msgstr "Datos no válidos"
+
+#: src/views/admin_advanced_tab.php:766
+msgid "Import"
+msgstr "Importar"
+
+#: src/views/admin_advanced_tab.php:764
+msgid "Copy and paste here the content of the swcfpc_config.json file"
+msgstr "Copia y pega aquí el contenido del archivo swcfpc_config.json"
+
+#: src/views/admin_advanced_tab.php:750
+msgid "Import the options of the previously exported configuration file."
+msgstr "Importar las opciones del archivo de configuración previamente exportado."
+
+#: src/views/admin_advanced_tab.php:748
+msgid "Import config file"
+msgstr "Importar archivo de configuración"
+
+#: src/views/admin_advanced_tab.php:738
+msgid "Export"
+msgstr "Exportar"
+
+#: src/views/admin_advanced_tab.php:732
+msgid "Export config file"
+msgstr "Exportar archivo de configuración"
+
+#: src/views/admin_advanced_tab.php:727
+msgid "Import/Export"
+msgstr "Importar/Exportar"
+
+#: src/views/admin_faq_tab.php:397
+msgid "time in seconds for cache purge lock. Default: 10"
+msgstr "tiempo en segundos del bloqueo de vaciado de la caché: Por defecto: 10"
+
+#: src/views/third_party/edd.php:32
+msgid "Automatically purge cache when a payment is inserted into the database"
+msgstr "Vaciar automáticamente la caché cuando se introduzca un pago en la base de datos"
+
+#: src/views/third_party/edd.php:22
+msgid "Success page"
+msgstr "Página de éxito"
+
+#: src/views/third_party/edd.php:23
+msgid "Failure page"
+msgstr "Página de fallo"
+
+#: src/views/third_party/edd.php:21
+msgid "Login redirect page"
+msgstr "Página de redirección de acceso"
+
+#: src/views/third_party/edd.php:20
+msgid "Purchase history page"
+msgstr "Página del historial de compras"
+
+#: src/views/third_party/edd.php:19
+msgid "Primary checkout page"
+msgstr "Página principal de finalizar compra"
+
+#: src/views/third_party/edd.php:9
+msgid "Easy Digital Downloads settings"
+msgstr "Ajustes de Easy Digital Downloads"
+
+#: src/views/admin_faq_tab.php:471
+msgid "that for 99.999% of users the default Worker code will work perfectly if they choose to use the Worker mode over the Page Rule mode. This option will be provided <strong>only for Super Advanced Knowledgeable Users</strong> who know exactly what they are doing and which will lead to what. General users should <strong>avoid</strong> tinkering with the Worker Code as this might break your website if you don't know what you are doing."
+msgstr "que para el 99,999% de los usuarios el código del Worker por defecto funcionará perfectamente si deciden utilizar el modo Worker en lugar del modo de reglas de la página. Esta opción se proporcionará <strong>sólo para usuarios con conocimientos súper avanzados</strong> que saben exactamente lo que están haciendo y a qué les llevará. Los usuarios normales deberían <strong>evitar</strong> jugar con el código del Worker ya que esto podría romper su web si no saben lo que están haciendo."
+
+#: src/views/admin_faq_tab.php:466
+msgid "In this way you can take a look at inside the plugin's <code>/assets/js/worker_template.js</code> path and see the Worker code we are using by default. Then you can copy that worker template file in your computer and extend it to add more features and conditionality that you might need in your project. Once you are done with your Worker code, you can simply point your custom Worker template JavaScript file inside <code>wp-config.php</code> using the <code>SWCFPC_CF_WOKER_FULL_PATH </code> PHP constant and the plugin will use your Worker file to create the worker in your website route instead of using the default Worker code. Here is an example of how to use the PHP constant inside your <code>wp-config.php</code>. Please make sure you provide the absolute path of your custom Worker file."
+msgstr "De esta manera puedes echar un vistazo dentro de la ruta <code>/assets/js/worker_template.js</code> del plugin y ver el código del Worker que estamos usando por defecto. Luego puedes copiar ese archivo de plantilla del worker en tu ordenador y ampliarlo para añadir más características y condicionantes que puedas necesitar en tu proyecto. Una vez que hayas terminado con el código del Worker, puedes simplemente apuntar tu archivo JavaScript de plantilla del Worker personalizado dentro de <code>wp-config.php</code> usando la constante PHP <code>SWCFPC_CF_WOKER_FULL_PATH </code> y el plugin usará tu archivo Worker para crear el worker en la ruta de tu web en lugar de usar el código del Worker por defecto. Aquí tienes un ejemplo de cómo usar la constante PHP dentro de tu <code>wp-config.php</code>. Por favor, asegúrate de proporcionar la ruta absoluta de tu archivo personalizado del Worker."
+
+#: src/views/admin_faq_tab.php:464
+msgid "Unfortunately, Cloudflare allows one worker per route. So, as long as our worker is setup in the main route, you cannot use your own worker code in the same route. But you can take advantage of <code>SWCFPC_CF_WOKER_FULL_PATH </code> PHP constant to provide the full path of your own custom JavaScript file."
+msgstr "Desafortunadamente, Cloudflare solo permite un worker por ruta. Así que, como tu worker está configurado en la ruta principal, no puedes usar tu propio código de worker en la misma ruta. Pero puedes aprovechar la constante PHP <code>SWCFPC_CF_WOKER_FULL_PATH </code> para proporcionar la ruta de tu propio archivo JavaScript personalizado."
+
+#: src/views/admin_faq_tab.php:461
+msgid "Can I use my own worker code along with the default worker code this plugin uses?"
+msgstr "¿Puedo usar mi propio código de worker junto con el código del worker por defecto que utiliza este plugin?"
+
+#: src/views/admin_faq_tab.php:445
+msgid "one arguments. Return true to bypass the cache."
+msgstr "un argumento. Devuelve true para omitir la caché."
+
+#: src/views/admin_faq_tab.php:431
+msgid "no arguments. Fired after the Cloudflare cache for specific URLs only is purged."
+msgstr "sin argumentos. Lanzado cuando se haya vaciado la caché de CloudFlare solo para URLs específicas."
+
+#: src/views/admin_faq_tab.php:428
+msgid "no arguments. Fired before purge the Cloudflare cache for specific URLs only."
+msgstr "sin argumentos. Lanzado antes de vaciar la caché de CloudFlare solo para URLs específicas."
+
+#: src/views/admin_faq_tab.php:425
+msgid "no arguments. Fired after the Cloudflare whole cache is purged."
+msgstr "sin argumentos. Lanzado cuando se haya vaciado toda la caché de CloudFlare."
+
+#: src/views/admin_faq_tab.php:422
+msgid "no arguments. Fired before purge the Cloudflare whole cache."
+msgstr "sin argumentos: Lanzado antes de vaciar toda la caché de CloudFlare."
+
+#: src/views/admin_faq_tab.php:419
+msgid "Fired when caches for specific URLs are purged."
+msgstr "Lanzado cuando se han vaciado las cachés para URLs específicas."
+
+#: src/views/admin_faq_tab.php:416
+msgid "Fired when whole caches are purged."
+msgstr "Lanzado cuando se han vaciado todas las cachés."
+
+#: src/views/admin_faq_tab.php:409
+msgid "What hooks can I use?"
+msgstr "¿Qué ganchos puedo usar?"
+
+#: src/views/admin_faq_tab.php:394
+msgid "timeout in seconds for cURL calls. Default: 10"
+msgstr "tiempo de espera en segundos para llamadas cURL. Por defecto: 10"
+
+#: src/views/admin_faq_tab.php:391
+msgid "full path to worker template to use"
+msgstr "ruta completa a la plantilla de worker a utilizar"
+
+#: src/views/admin_faq_tab.php:388
+msgid "route ID"
+msgstr "ID de la ruta"
+
+#: src/views/admin_faq_tab.php:385
+msgid "CF Worker ID"
+msgstr "ID del worker de CF"
+
+#: src/views/admin_faq_tab.php:382
+msgid "true or false"
+msgstr "true o false"
+
+#: src/views/admin_faq_tab.php:376
+msgid "API Token to use"
+msgstr "Token de la API a utilizar"
+
+#: src/views/admin_faq_tab.php:373
+msgid "Cloudflare email to use (API Key authentication mode)"
+msgstr "Correo electrónico de CloudFlare a utilizar (modo de identificación de clave API)"
+
+#: src/views/admin_faq_tab.php:370
+msgid "API Key to use"
+msgstr "Clave API a utilizar"
+
+#: src/views/admin_faq_tab.php:367
+msgid "Cloudflare zone ID"
+msgstr "ID de la zona de CloudFlare"
+
+#: src/views/admin_faq_tab.php:364
+msgid "cache buster name. Default: swcfpc"
+msgstr "nombre del lanzador de caché. Por defecto: swcfpc"
+
+#: src/views/admin_faq_tab.php:360
+msgid "Yes you can use the following PHP constants:"
+msgstr "Sí, puedes usar las siguientes constantes PHP:"
+
+#: src/views/admin_faq_tab.php:357
+msgid "Can I configure this plugin using PHP constants?"
+msgstr "¿Puedo configurar este plugin usando constantes PHP?"
+
+#: src/views/admin_faq_tab.php:353
+msgid "Yes you can by adding the PHP constant <strong>SWCFPC_CACHE_BUSTER</strong> to your wp-config.php"
+msgstr "Sí, puedes hacerlo, añadiendo la constante PHP <strong>SWCFPC_CACHE_BUSTER</strong> a tu wp-config.php"
+
+#: src/views/admin_faq_tab.php:350
+msgid "Can I change <strong>swcfpc</strong> with another one?"
+msgstr "¿Puedo cambiar <strong>swcfpc</strong> por otro?"
+
+#: src/views/admin_faq_tab.php:335
+msgid "Advanced questions"
+msgstr "Preguntas avanzadas"
+
+#: src/views/admin_faq_tab.php:326
+msgid "Yes. Commands list: <strong>wp cfcache</strong>"
+msgstr "Sí. Lista de comandos: <strong>wp cfcache</strong>"
+
+#: src/views/admin_faq_tab.php:323
+msgid "Can I use this plugin with WP CLI?"
+msgstr "¿Puedo usar este plugin con WP CLI?"
+
+#: src/views/admin_faq_tab.php:318
+msgid "After you enter the Cloudflare API details, we push our worker code using Cloudflare API to your Cloudflare account. You can find our Cloudflare Worker code inside the plugin's <code>/assets/js/worker_template.js</code> path."
+msgstr "Cuando hayas introducido los detalles de la API de CloudFlare lanzaremos el código de nuestro worker a tu cuenta de CloudFlare usando la API de CloudFlare. Puedes encontrar el código de nuestro worker de CloudFlare dentro de la ruta  <code>/assets/js/worker_template.js</code> del plugin."
+
+#: src/views/admin_faq_tab.php:315
+msgid "How is the Worker Code is deployed to my Cloudflare Account?"
+msgstr "¿Cómo se lanza el código del worker a mi cuenta de CloudFlare?"
+
+#: src/views/admin_faq_tab.php:310
+msgid "If you have a small to medium site, you can easily use Cloudflare Worker without hesitating about payment as you will not get pass the free quota, but as you grow, and if you still want to use the Cloudflare Workers, you might have to pay for it. Cloudflare Workers are so much more and has so much power that if you are truly taking advantage of the Cloudflare Workers, your can do a lot of cool things. So, in short if you have a big high traffic site and you don't want to pay extra for the Cloudflare Workers, you should just stick with the Page Rules option."
+msgstr "Si tienes un sitio pequeño o mediano, puedes usar fácilmente el worker de Cloudflare sin tener que pagar ya que no pasarás de la cuota gratuita, pero a medida que crezcas, y si todavía quieres usar el worker de Cloudflare, puede que tengas que pagar por ello. Los workers de Cloudflare son mucho más y tienen tanto poder que si realmente aprovechas los workers de Cloudflare, puedes hacer un montón de cosas geniales. Así que, en resumen, si tienes un gran sitio de alto tráfico y no quieres pagar extra por los workers de Cloudflare, sólo debes seguir con la opción de reglas de página."
+
+#: src/views/admin_faq_tab.php:308
+msgid "Please note that, all requests first get intercepted by Cloudflare Worker before Cloudflare decide what to do with that request, so whether your requests gets served from Cloudflare CDN Cache or from origin, it will be counted towards your Worker usage limit."
+msgstr "Por favor, ten en cuenta esto, todas las solicitudes primero las intercepta el worker de CloudFlare, antes de que CloudFlare decida qué hacer con esa solicitud, así que tus solicitudes se sirven desde la caché de la CDN de CloudFlare o desde el origen, se contarán en el límite de uso de tu worker."
+
+#: src/views/admin_faq_tab.php:379
+msgid "max pages to preload. Default: 50"
+msgstr "máximo de páginas a precargar. Por defecto: 50"
+
+#: src/views/admin_faq_tab.php:306
+msgid "Yes & No. It depends on how many visitors your site have.  Cloudflare Workers have a free plan which allows <strong>100,000 requests/day</strong> for FREE. But if your site has more requests than that per day, then you need to opt for the paid plan of <strong>$5/month</strong> which will give you <strong>10 Million Requests/month</strong> and after that <strong>$0.50 per additional 1 Million requests</strong>."
+msgstr "Sí y no. Depende cuántos visitantes tenga tu sitioi. Los workers de Cloudflare tienen un plan gratuito que permiten <strong>100.000 solicitudes/día</strong> GRATIS. Pero si tu sitio tiene más solicitudes que esas al día tendrás que optar por el plan de pago de <strong>5 $/mes</strong> que te ofrecerá <strong>10 millones de solicitudes/mes</strong> y después <strong>0,50 $ por cada millón adicional de solicitudes</strong>."
+
+#: src/views/admin_faq_tab.php:303
+msgid "Isn't Cloudflare Workers are chargeable?"
+msgstr "¿No cuestan dinero los workers de CloudFlare?"
+
+#: src/views/admin_faq_tab.php:298
+msgid "So, in terms of speed, you might not see a difference but the Worker mode is there just for the cases when the page rule mode is not working correctly across the whole website (frontend & backend)."
+msgstr "Así que, en lo que se refiere a velocidad, podrías no ver diferencias, pero el modo worker está ahí solo para los casos en los que el modo de regla de página no esté funcionando correctamente en toda la web (portada y administración)."
+
+#: src/views/admin_faq_tab.php:296
+msgid "The Page Rule option of <strong>Cache Everything</strong> works perfectly in almost every cases but in some situations due to some server config or other reasons, the headers that this plugin sets for each requests, does not get respected by the server and gets stripped out. In those edge case scenarios Cloudflare Worker mode can be really helpful over the page rules mode."
+msgstr "La opción de regla de página de <strong>Cachear todo</strong> funciona perfectamente en casi todos los casos, pero en algunas situaciones, debido a alguna configuración del servidor u otros motivos, las cabeceras que este plugin configura para cada solicitud no las respeta el servidor y se eliminan. En esos raros y extremos escenarios, el modo worker de CloudFlare puede ser realmente más útil que el modo de reglas de página."
+
+#: src/views/admin_faq_tab.php:294
+msgid "Cloudflare Workers is an amazing technology which allows us to run complicated logical operations inside the Cloudflare edges. So, basically before Cloudflare picks up the request, it passes through the Cloudflare worker and then we can programmatically tell Cloudflare what to do and what not to do. This gives us great control over each and every request and how Cloudflare should handle them."
+msgstr "Los workers de CloudFlare son una fantástica tecnología que te permite ejecutar operaciones lógicas complicadas dentro de los servidores de CloudFlare. Básicamente, CloudFlare coge la solicitud, la pasa a través del worker de CloudFlare y luego podemos decirle a CloudFlare programáticamente qué hacer y qué no hacer. Esto nos dan un enorme control sobre todas y cada una de las solicitudes y sobre cómo debe gestionarlas CloudFlare."
+
+#: src/views/admin_faq_tab.php:291
+msgid "What's the benefit of using Cloudflare worker over using page rules?"
+msgstr "¿Cuál es el beneficio de usar un worker de CloudFlare en vez de usar reglas de página?"
+
+#: src/views/admin_faq_tab.php:273
+msgid "Make sure you do not have any other page rules that might conflict with the Cache Everything rule"
+msgstr "Asegúrate de no tener ninguna otra regla de página que pueda entrar en conflicto con la regla de cachear todo"
+
+#: src/views/admin_faq_tab.php:272
+msgid "Make sure you have the orange cloud icon enabled inside the Cloudflare DNS settings for your main domain A record and WWW record."
+msgstr "Asegúrate de tener activo el icono de la nube naranja en los ajustes de DNS de CloudFlare para los registros A y WWW de tu dominio principal."
+
+#: src/views/admin_faq_tab.php:271
+msgid "Make sure that <strong>Development Mode</strong> is NOT enabled for your domain inside Cloudflare."
+msgstr "Asegúrate de que el <strong>Modo de desarrollo</strong> NO esté activo para tu dominio en CloudFlare."
+
+#: src/views/admin_faq_tab.php:268
+msgid "There are a couple of things that can cause this issue and tell Cloudflare not to cache everything. If you are facing this issue, please check the following this:"
+msgstr "Hay un par de cosas que pueden provocar este problema y decirle a CloudFlare que no cachée todo. Si te encuentras con este problema, por favor, comprueba lo siguiente:"
+
+#: src/views/admin_faq_tab.php:265
+msgid "Even after enabling the plugin I'm seeing CF Cache Status DYNAMIC for all the pages"
+msgstr "Después de activar el plugin estoy viendo el estado de caché de CF DINÁMICO en todas las páginas"
+
+#: src/views/admin_faq_tab.php:275
+msgid "Make sure you don't have any plugins which might be adding a lot of unnecessary Cookies in your request header for no reason. If you have any cookie consent plugin or any similar things, try disabling those plugins and check again. You can also enable the <strong>Strip response cookies on pages that should be cached</strong> option under the <strong>Cache</strong> tab to see if this resolves your issue. If it does, that means there are plugin which is injecting cookies into your site header and when Cloudflare sees these Cookies, it think that the page has dynamic content, so it doesn't cache everything."
+msgstr "Asegúrate de que no tienes ningún plugin que pueda estar añadiendo un montón de cookies innecesarias en la cabecera de tu solicitud sin ninguna razón. Si tienes algún plugin de consentimiento de cookies o algo similar, intenta desactivar esos plugins y compruébalo de nuevo. También puedes activar la opción <strong>Quitar cookies de respuesta en las páginas que deben ser cacheadas</strong> en la pestaña <strong>Caché</strong> para ver si esto resuelve tu problema. Si lo hace, significa que hay un plugin que está inyectando cookies en la cabecera de su sitio y cuando Cloudflare ve estas cookies, cree que la página tiene contenido dinámico, por lo que no lo almacena todo."
+
+#: src/views/admin_faq_tab.php:281
+msgid "Should I enable the cURL mode for Disk Cache?"
+msgstr "¿Debería activar el modo cURL para la caché de disco?"
+
+#: src/views/admin_faq_tab.php:286
+msgid "One of the benefit of the cURL mode is that as it uses server level cRUL instead of <code>advanced-cache.php</code> to generate the page cache, the cache files comes out very stable and without any issues. But then again if your enable the cURL mode, that means cURL will fetch every page of your website (which are not excluded from fallback cache) to generate the Page cache and each cURL request is going to increase some server load. So, if you have a small to medium site with not many pages, you can definitely use the cURL mode of fallback cache. But for large high traffic website, unless you have more than enough server resource to handle so many  cURL requests, we will recommend stick to using the default <code>advanced-cache.php</code> option which works flawlessly anyway."
+msgstr "Una de las ventajas del modo cURL es que, como utiliza cRUL a nivel de servidor en lugar de <code>advanced-cache.php</code> para generar la caché de página, los archivos de caché son muy estables y no presentan ningún problema. Pero si activas el modo cURL, esto significa que cURL buscará todas las páginas de tu sitio web (que no estén excluidas de la caché alternativa) para generar la caché de página y cada petición cURL aumentará la carga del servidor. Por lo tanto, si tienes un sitio pequeño o mediano con pocas páginas, puedes utilizar el modo cURL de caché alternativa. Pero para un sitio web grande con mucho tráfico, a menos que tengas recursos de servidor más que suficientes para manejar tantas peticiones cURL, te recomendaremos que sigas utilizando la opción por defecto <code>advanced-cache.php</code>, que de todas formas funciona perfectamente."
+
+#: src/views/admin_faq_tab.php:284
+msgid "In most cases you don't need to enable the cURL mode for fallback cache. If you don't enable the cURL mode, the plugin will use the standard WordPress <code>advanced-cache.php</code> method to generate the Page cache. This system works well in almost all the cases, also this cache generation mechanism is very fast and don't eat much server resource. On the other hand the cURL mode is useful in some edge cases where the <code>advanced-cache.php</code> mode of fallback cache is unable to generate proper HTML for the page. This is rare, but the cURL option is given just for these edge cases."
+msgstr "En la mayoría de los casos no es necesario activar el modo cURL para la caché alternativa. Si no activas el modo cURL, el plugin utilizará el método estándar de WordPress <code>advanced-cache.php</code> para generar la caché de la página. Este sistema funciona bien en casi todos los casos, además este mecanismo de generación de caché es muy rápido y no consume muchos recursos del servidor. Por otro lado, el modo cURL es útil en algunos casos extremos en los que el modo <code>advanced-cache.php</code> de caché alternativa no es capaz de generar el HTML adecuado para la página. Esto es poco frecuente, pero la opción cURL se ofrece solo para estos casos extremos."
+
+#: src/views/admin_faq_tab.php:260
+msgid "Some page builders might copy the admin side links and show that on the front end for all users. This happens because these page builders do not follow the standard WordPress coding guidelines to fetch URLs and instead copy hard code URLs. If you are facing this issue, you can easily fix this by enabling the <strong>SEO redirect</strong> option inside the plugin settings page under the <strong>Advanced</strong> tab. This will auto redirect any URLs which has <em>swcfpc=1</em> in it to it's normal URL when any non-logged in user clicks on that link."
+msgstr "Algunos constructores de páginas pueden copiar los enlaces del lado del administrador y mostrarlos en la interfaz a todos los usuarios. Esto ocurre porque estos creadores de páginas no siguen las directrices de codificación estándar de WordPress para obtener las URLs y, en su lugar, copian las URLs directamente de código. Si tienes este problema, puedes solucionarlo fácilmente activando la opción <strong>Redirección SEO</strong> en la página de ajustes del plugin, en la pestaña <strong>Avanzado</strong>. Esto redirigirá automáticamente cualquier URL que contenga <em>swcfpc=1</em> a su URL normal cuando un usuario no registrado haga clic en ese enlace."
+
+#: src/views/admin_faq_tab.php:274
+msgid "Make sure you do not have any Cloudflare Worker code deployed that might overwrite the normal cache policies"
+msgstr "Asegúrate de no haber lanzado ningún código de worker de CloudFlare que pueda saltarse las políticas normales de caché"
+
+#: src/views/admin_faq_tab.php:257
+msgid "I am seeing ?swcfpc=1 at the front end URLs even when I'm not logged in"
+msgstr "Estoy viendo ?swcfpc=1 en las URLs de portada incluso cuando no estoy conectado"
+
+#: src/views/admin_faq_tab.php:247
+msgid "URLs with swcfpc=1 parameter getting indexed"
+msgstr "URLs con el parámetro swcfpc=1 indexadas"
+
+#: src/views/admin_faq_tab.php:250
+msgid "In very rare cases, it may happen that some third-party plugin stores the cache buster parameter in the database, and therefore this is then also displayed to users who are not logged in and therefore to search engine bots."
+msgstr "En muy raros casos puede pasar que algún plugin de terceros almacene al parámetro de inhibidor de caché en la base de datos, y por lo tanto, éste se muestre también a los usuarios que no estén conectados y, por lo tanto, a los bots de los motores de búsqueda."
+
+#: src/views/admin_faq_tab.php:242
+msgid "If you still don't see the changes despite everything, the problem is to be found elsewhere. For example wrong configuration of wp-config.php."
+msgstr "Si todavía no ves los cambios a pesar de todo, el problema debe estar en otra parte. Por ejemplo, una mala configuración de wp-config.php."
+
+#: src/views/admin_faq_tab.php:240
+msgid "Disable any other page caching plugins or services. Only use this plugin to cache HTML pages."
+msgstr "Desactiva cualquier otro plugin o servicio de caché de página. Utiliza solo este plugin para cachear páginas HTML."
+
+#: src/views/admin_faq_tab.php:234
+msgid "If so, good news: the plugin is working correctly. If not, open a ticket on the support forum."
+msgstr "En esa caso buenas noticias: el plugin está funcionando correctamente. En caso contrario abre un tique en el foro de soporte."
+
+#: src/views/admin_faq_tab.php:232
+msgid "First of all enable the log mode and check if in the log file, after clicking on the update button on the edit page, you see the information about the cache purging."
+msgstr "Lo primero de todo es activar el modo de registro y comprobar si en el archivo de registro, después de hacer clic en el botón de actualizar en la página de edición, ves la información sobre el vaciado de caché."
+
+#: src/views/admin_faq_tab.php:229
+msgid "Why changes are never showed when visiting the website?"
+msgstr "¿Por qué no se muestran nunca los cambios cuando se visita la web?"
+
+#: src/views/admin_faq_tab.php:224
+msgid "If this doesn't work, you can always choose to activate the <strong>Force cache bypassing for backend with an additional Cloudflare page rule</strong> option or to change the caching mode by activating the <strong>Worker mode</strong> option."
+msgstr "Si no funciona, siempre puedes elegir activar la opción de <strong>forzar la omisión de caché para la administración con una regla de página adicional de Cloudflare</strong> o cambiar el modo de caché activando la opción del <strong>modo Worker</strong>."
+
+#: src/views/admin_faq_tab.php:238
+msgid "If you are using <strong>Varnish cache</strong>, make sure you have also enabled the option <strong>Automatically purge Varnish cache when the cache is purged</strong>."
+msgstr "Si estás usando <strong>caché de Varnish</strong>, asegúrate de que también hayas activado la opción de <strong>vaciar automáticamente la caché de Varnish cuando se vacía la caché</strong>."
+
+#: src/views/admin_faq_tab.php:236
+msgid "If you have enabled the <strong>Page cache</strong>, make sure you have also enabled the option <strong>Automatically purge the Page cache when Cloudflare cache is purged</strong>."
+msgstr "Si has activado la <strong>caché de página</strong>, asegúrate de haber activado también la opción <strong>vaciar automáticamente la caché de página cuando se vacíe la caché de Cloudflare</strong>."
+
+#: src/views/admin_faq_tab.php:252
+msgid "If this happened on your site, enable the <strong>SEO redirect</strong> inside the plugin settings page under the <strong>Advanced</strong> tab. This will auto redirect any URLs which has <em>swcfpc=1</em> in it to it's normal URL when any non-logged in user clicks on that link, avoiding duplicate content problems."
+msgstr "Si esto ocurre en tu sitio, activa la <strong>redirección SEO</strong> en la página de ajustes del plugin, en la pestaña <strong>Avanzado</strong>. Esto redirigirá automáticamente cualquier URL que contenga <em>swcfpc=1</em> a su URL normal cuando un usuario no registrado haga clic en ese enlace, evitando problemas de contenido duplicado."
+
+#: src/views/admin_faq_tab.php:210
+msgid "Cache questions and issues"
+msgstr "Preguntas y problemas con la caché"
+
+#: src/views/admin_faq_tab.php:218
+msgid "This should never happen. If it happens, it is because the value of the <strong>Cache-Control</strong> response header is different from that of the <strong>X-WP-CF-Super-Cache-Cache-Control</strong> response header (make sure it is the same)."
+msgstr "Esto no debería pasar nunca. Si pas es debido a que el valor de la cabecera de respuesta <strong>Cache-Control</strong> es diferente de la cabecera de respuesta <strong>X-WP-CF-Super-Cache-Cache-Control</strong>  (asegúrate de que sea la misma)."
+
+#: src/views/admin_faq_tab.php:215
+msgid "WP Admin or WP Admin Bar is being cached"
+msgstr "La barra de WP Admin o WP Admin se está cacheando"
+
+#: src/views/admin_faq_tab.php:200
+msgid "Yes but you don't need it. If you want to use a standard page cache behind Cloudflare, enable the fallback cache option of this plugin."
+msgstr "Sí, pero no lo necesitas. Si quieres usar una caché de página estándar detrás de CloudFlare, activa la opción de caché de reserva de este plugin."
+
+#: src/views/admin_faq_tab.php:197
+msgid "Can I use this plugin together with Varnish Cache?"
+msgstr "¿Puedo usar este plugin conjuntamente con la caché de Varnish?"
+
+#: src/views/admin_faq_tab.php:192 src/views/admin_faq_tab.php:201
+msgid "In order to avoid conflicts, it is strongly recommended to use only this plugin as page caching system."
+msgstr "Para evitar conflictos, se recomienda encarecidamente usar solamente este plugin como sistema de caché de página."
+
+#: src/views/admin_faq_tab.php:191
+msgid "No. The support for these plugin was removed because you can use the fallback cache option of this plugin if you want to use a standard page cache behind Cloudflare."
+msgstr "No. La compatibilidad con este plugin se eliminó debido a que puedes usar la opción de caché de reserva de este plugin si quieres usar una caché de página estándar detrás de CloudFlare."
+
+#: src/views/admin_faq_tab.php:188
+msgid "Can I use this plugin together with other page caching plugins such like Cache Enabler, WP Super Cache and WP Fastest Cache?"
+msgstr "¿Puedo usar este plugin conjuntamente con otros plugins de caché de página como Cache Enabler, WP Super Cache y WP Fastest Cache?"
+
+#: src/views/admin_faq_tab.php:222
+msgid "If you are not using LiteSpeed Server and you are using this plugin together with other performance plugins, enable the <strong>Overwrite the cache-control header for WordPress's pages using web server rules</strong> option, clear the cache and try again."
+msgstr "Si no utilizas LiteSpeed Server y utilizas este plugin junto con otros plugins de rendimiento, activa la opción <strong>Sobrescribir la cabecera cache-control de las páginas de WordPress mediante reglas del servidor web</strong>, borra la caché y vuelve a intentarlo."
+
+#: src/views/admin_faq_tab.php:183
+msgid "Purge the cache"
+msgstr "Vaciar la caché"
+
+#: src/views/admin_faq_tab.php:182
+msgid "Enable the option <strong>Automatically purge the cache when LiteSpeed Cache flushs all caches</strong>"
+msgstr "Activa la opción <strong>Vaciar automáticamente la caché cuando LiteSpeed vacía todas las cachés</strong>"
+
+#: src/views/admin_faq_tab.php:181
+msgid "Scroll to <strong>Litespeed Cache Settings</strong> section"
+msgstr "Haz scroll hasta la sección <strong>Ajustes de caché de LiteSpeed</strong>"
+
+#: src/views/admin_faq_tab.php:180
+msgid "Click on <strong>Third Party</strong> tab"
+msgstr "Haz clic en la pestaña de <strong>Terceros</strong>"
+
+#: src/views/admin_faq_tab.php:179
+msgid "Enter to the settings page of this plugin"
+msgstr "Ve a la página de ajustes de este plugin"
+
+#: src/views/admin_faq_tab.php:173
+msgid "Click on <strong>Save Changes</strong> button"
+msgstr "Haz clic en el botón de <strong>Guardar cambios</strong>"
+
+#: src/views/admin_faq_tab.php:172
+msgid "Click on <strong>OFF</strong> near <strong>Enable Cache</strong>"
+msgstr "Haz clic en <strong>OFF</strong> junto a <strong>Activar caché</strong>"
+
+#: src/views/admin_faq_tab.php:171
+msgid "Go to <strong>Litespeed Cache > Cache</strong>"
+msgstr "Ve a <strong>Caché de Litespeed > Caché</strong>"
+
+#: src/views/admin_faq_tab.php:169
+msgid "Yes you can! You have only to disable its page caching functionality. To do this:"
+msgstr "¡Sí que puedes! Solo tienes que desactivar su funcionalidad de caché de página. Haz esto:"
+
+#: src/views/admin_faq_tab.php:166
+msgid "Can I use this plugin together with Litespeed Cache?"
+msgstr "¿Puedo usar este plugin conjuntamente con la caché de LiteSpeed?"
+
+#: src/views/admin_faq_tab.php:148
+msgid "Does it work with Litespeed Server?"
+msgstr "¿Funciona con un servidor LiteSpeed?"
+
+#: src/views/admin_faq_tab.php:142
+msgid "Third-party integrations"
+msgstr "Integraciones con terceros"
+
+#: src/views/admin_faq_tab.php:130
+msgid "Custom login page does not redirect when you login"
+msgstr "La página de acceso personalizada no redirige cuando accedes"
+
+#: src/views/admin_faq_tab.php:114
+msgid "Check those files. Try the following:"
+msgstr "Revisa esos archivos. Prueba lo siguiente:"
+
+#: src/views/admin_faq_tab.php:93
+msgid "Error: Page Rule validation failed: See messages for details. (err code: 1004 )"
+msgstr "Error: Page Rule validation failed: See messages for details. (err code: 1004 )"
+
+#: src/views/admin_faq_tab.php:101
+msgid "Error: Actor 'com.cloudflare.api.token.' requires permission 'com.cloudflare.api.account.zone.list' to list zones (err code: 0 )"
+msgstr "Error: Actor 'com.cloudflare.api.token.' requires permission 'com.cloudflare.api.account.zone.list' to list zones (err code: 0 )"
+
+#: src/views/admin_faq_tab.php:109
+msgid "PHP Warning: Cannot modify header information - headers already sent in /wp-content/advanced-cache.php"
+msgstr "PHP Warning: Cannot modify header information - headers already sent in /wp-content/advanced-cache.php"
+
+#: src/views/admin_faq_tab.php:133
+msgid "Exclude the custom login URL by adding it into the textarea near the option <strong>Prevent the following URIs to be cached</strong>, then save, purge the cache, wait 30 seconds and retry."
+msgstr "Excluye la URL de acceso personalizada añadiéndola en el área de texto junto a la opción de <strong>Impedir que se cacheen las siguientes URLs</strong>, luego guarda, vacía la caché, espera 30 segundos y vuelve a intentarlo."
+
+#: src/views/admin_faq_tab.php:125
+msgid "In short, the problem is not coming from this plugin but some <strong>mu-plugin</strong> is sending the header before advanced-cache.php can. That's causing the issue. We have thoroughly tested this."
+msgstr "En breve, el problema no es que provenga de este plugin, sino de algún <strong>mu-plugin</strong> que está enviando la cabecera antes de que pueda hacerlo advanced-cache.php. Eso es lo que está provocando el problema. Hemos probado esto ampliamente. "
+
+#: src/views/admin_faq_tab.php:119
+msgid "If still doesn't work check if any of the scripts inside mu-plugins have print, echo, printf, vprintf etc. in the code. For more details check:"
+msgstr "Si todavía no funciona comprueba si alguno de los scripts de los mu-plugins tienen print, echo, printf, vprintf, etc, en su código. Para más detalles revisa:"
+
+#: src/views/admin_faq_tab.php:118
+msgid "If not then check the codes inside the PHP files and see if any of them has an extra newline or space at the end of the script. If they have delete those new lines and spaces and test."
+msgstr "En caso contrario revisa los códigos dentro de los archivos PHP y mira a ver si alguno de ellos tiene alguna línea nueva o espacio adicional al final del script. Si lo tiene borra esas nuevas líneas y espacios y prueba."
+
+#: src/views/admin_faq_tab.php:117
+msgid "If you have any code inside mu-plugin take them out of that folder. Check your server error log and test to see if you are getting the header errors still."
+msgstr "Si tienes algún código dentro de un mu-plugin quítalo de esa carpeta. Revisa el regisro de error de tu servidor y prueba a ver si todavía estás recibiendo los errores de cabecera. "
+
+#: src/views/admin_faq_tab.php:112
+msgid "Maybe you have some extra newline or space in other PHP files executed before advanced-cache.php such like must-use plugins or wp-config.php."
+msgstr "Puede que tengas alguna nueva línea o espacio adicional en otros archivos PHP ejecutados antes de advanced-cache.php, como plugins imprescindibles o en wp-config.php. "
+
+#: src/views/admin_faq_tab.php:104
+msgid "If you are using an <strong>API Token</strong>, check that you entered the domain name <strong>exactly</strong> as on Cloudflare"
+msgstr "Si estás usando un <strong>token de API</strong>, revisa que hayas introducido el nombre de dominio <strong>exactamente</strong> como en Cloudflare"
+
+#: src/views/admin_faq_tab.php:88
+msgid "Also make sure you haven't entered the API Token instead of the API key or vice versa"
+msgstr "También, asegúrate de que no hayas introducido el token de la API en vez de la clave API o viceversa."
+
+#: src/views/admin_faq_tab.php:87
+msgid "<strong>If you are chose the API Token as the authentication mode</strong>, make sure you have entered the correct token, with all the required permissions, and the domain name exactly as it appears in your Cloudflare account."
+msgstr "<strong>Si has elegido el token de la API como modo de identificación</strong>, asegúrate de haber introducido el token correcto, con todos los permisos requeridos, y el nombre de dominio exactamente como aparece en tu cuenta de Cloudflare."
+
+#: src/views/admin_faq_tab.php:86
+msgid "This is a Cloudflare authentication error. <strong>If you chose the API Key as the authentication mode</strong>, make sure you have entered the correct email address associated with your Cloudflare account and the correct Global API key (not your Cloudflare password!)."
+msgstr "Esto es un error de identificación de CloudFlare. <strong>Si elige la clave API como modo de identificación</strong>, asegúrate de que has introducido la dirección de correo electrónico correcta asociada con tu cuenta de CloudFlare y la clave API global correcta (¡no tu contraseña de CloudFlare!)."
+
+#: src/views/admin_faq_tab.php:96
+msgid "Login to Cloudflare, click on your domain and go to Page Rules section. Check if a <strong>Cache Everything</strong> page rule already exists for your domain. If yes, delete it. Now from the settings page of Super Page Cache, disable and re-enable the cache."
+msgstr "Accede a Cloudflare, haz clic en tu dominio y ve a la sección de reglas de página. Comprueba si ya existe una regla de página de <strong>cachear todo</strong> para tu dominio. Si es así, bórrala. Ahora, desde la página de ajustes de Super Page Cache, desactiva y reactiva la caché."
+
+#: src/views/admin_faq_tab.php:78
+msgid "Common issues"
+msgstr "Problemas habituales"
+
+#: src/views/admin_faq_tab.php:83
+msgid "Error: Invalid request headers (err code: 6003 )"
+msgstr "Error: Invalid request headers (err code: 6003 )"
+
+#: src/views/admin_faq_tab.php:47
+msgid "What is Preloader and how it works?"
+msgstr "¿Qué es un precargador y cómo funciona?"
+
+#: src/views/admin_faq_tab.php:50
+msgid "The preloader is a simple crawler that is started in the background and aims to preload pages so that they are cached immediately."
+msgstr "El precargador es un simple rastreador que se inicia en segundo plano y trata de precargar páginas para que se cacheen de inmediato."
+
+#: src/views/admin_faq_tab.php:58
+msgid "If you want to run the preloader at middle of the night when you have low users, you can run the preloader over CRON job as well."
+msgstr "Si quieres ejecutar el precargador en mitad de la noche cuando tienes pocos usuarios, puedes ejecutar también el precargador como un trabajo CRON."
+
+#: src/views/admin_faq_tab.php:56
+msgid "In order to avoid overloading the server, only one preloader will be started at once. It is therefore not possible to start more than one preloader at the same time. Furthermore, between one preload and the other there will be a waiting time of 2 seconds."
+msgstr "Para evitar la sobrecarga del servidor, solo se puede iniciar un precargador cada vez. NO es, por tanto, posible iniciar más de un precargador al mismo tiempo. Es más, entre una precarga y otra debe haber un tiempo de espera de 2 segundos."
+
+#: src/views/admin_faq_tab.php:54
+msgid "It is also possible to automatically start the preloader when the cache is cleared."
+msgstr "También es p posible iniciar automáticamente el precargador cuando se vacía la caché."
+
+#: src/views/admin_faq_tab.php:11
+msgid "Our page cache system works way better than any other disk cache system and plugins out there in the market. In short now you don't need to install any other caching plugin in conjunction with Super Page Cache, as the plugin can now handle Cloudflare caching and disk caching."
+msgstr "Nuestro sistema de caché de página funciona mucho mejor que otros sistemas y plugins de caché de disco que hay en el mercado. En breve, no necesitas instalar ningún otro plugin de caché en conjunto con Super Page Cache, ya que el plugin ahora puede gestionar la caché de CloudFlare y la caché de disco."
+
+#: src/views/admin_faq_tab.php:52
+msgid "Once the preloader is enabled, you need to specify which preloading logic among those available to use. You can choose a combination of options (sitemaps, WordPress menus, recent published posts, etc ..)."
+msgstr "Una vez activado el precargador, tienes que especificar qué lógica de precarga de entre las disponibles vas a utilizar. Puedes elegir una combinación de opciones (mapas del sitio, menús de WordPress, entradas publicadas recientemente, etc...)."
+
+#: src/views/admin_faq_tab.php:18
+msgid "Yes. This is the main purpose of this plugin."
+msgstr "Sí. Este es el propósito principal de este plugin."
+
+#: src/views/admin_faq_tab.php:15
+msgid "Can I use this plugin to take advantage of Cloudflare's Cache Everything rule, bypassing the cache for logged in users even if I'm using the free plan?"
+msgstr "¿Puedo usar este plugin para aprovechar la regla de cachear todo de CloudFlare, omitiendo la caché para usuarios conectados incluso si estoy usando el plan gratuito?"
+
+#: src/views/admin_faq_tab.php:2
+msgid "Common questions"
+msgstr "Preguntas habituales"
+
+#: src/views/admin_advanced_tab.php:691
+msgid "Automatically reset the log file when it exceeded the max file size. Set 0 to never reset it."
+msgstr "Restablecer automáticamente el archivo de registro si supera el tamaño máximo de archivo. Ponlo a 0 para no restablecerlo nunca."
+
+#: src/views/admin_advanced_tab.php:690
+msgid "Max log file size in MB"
+msgstr "Tamaño máximo del archivo de registro en MB"
+
+#: src/views/third_party/autoptimize.php:14
+msgid "Automatically purge the cache when Autoptimize flushs its cache"
+msgstr "Vaciar automáticamente la caché cuando Autoptimize vacía su caché"
+
+#: src/views/third_party/autoptimize.php:8
+msgid "Autoptimize settings"
+msgstr "Ajustes de Autoptimize"
+
+#: src/views/admin_advanced_tab.php:459
+msgid "Preload last 20 published/updated posts, pages & CPTs combined"
+msgstr "Precargar combinadas las 20 últimas páginas, entradas y CPTs publicadas/actualizadas"
+
+#: src/views/admin_advanced_tab.php:70
+msgid "The following response header will never be saved:"
+msgstr "La siguiente cabecera de respuesta no se guardará nunca:"
+
+#: src/views/admin_advanced_tab.php:69
+msgid "Save response headers together with HTML code."
+msgstr "Guardar las cabeceras de respuesta juntas con el código HTML."
+
+#: src/views/admin_advanced_tab.php:68
+msgid "Save response headers"
+msgstr "Guardar cabeceras de respuesta"
+
+#: src/views/admin_cache_tab.php:49
+msgid "One cookie name per line. These strings will be used by preg_grep."
+msgstr "Un nombre de cookies por línea. Estas cadenas las usará preg_grep."
+
+#: src/views/admin_advanced_tab.php:375
+msgid "This is a different way of using Cloudflare as a page caching system. Instead of page rules, you can use Cloudflare workers. This mode is only recommended if there are conflicts with the current web server or other plugins, as it is not 100% free."
+msgstr "Este es un modo diferente de usar CloudFlare como sistema de caché de página. En vez de reglas de página puedes usar los workers de CloudFlare. Este modo solo está recomendado si hay conflictos con el servidor web actual u otros plugins, ya que no es 100% gratuito."
+
+#: src/views/admin_advanced_tab.php:374
+msgid "Cloudflare Workers"
+msgstr "Workers de CloudFlare"
+
+#: src/views/admin_advanced_tab.php:235
+msgid "Robots.txt"
+msgstr "Robots.txt"
+
+#: src/views/admin_advanced_tab.php:234
+msgid "XML sitemaps"
+msgstr "Mapas del sitio XML"
+
+#: src/views/admin_advanced_tab.php:222
+msgid "Don't cache the following static contents:"
+msgstr "No cachear los siguientes contenidos estáticos:"
+
+#: src/views/admin_advanced_tab.php:212
+msgid "Pages with query args"
+msgstr "Páginas con argumentos de consulta"
+
+#: src/views/admin_advanced_tab.php:211
+msgid "Ajax requests"
+msgstr "Peticiones Ajax"
+
+#: src/views/admin_advanced_tab.php:195
+msgid "Don't cache the following dynamic contents:"
+msgstr "No cachear los siguientes contenidos dinámicos:"
+
+#: libs/backend.class.php:192 src/views/admin_advanced_tab.php:342
+msgid "Purge whole cache"
+msgstr "Vaciar toda la caché"
+
+#: src/views/admin_advanced_tab.php:341
+msgid "Purge cache for related pages only"
+msgstr "Vaciar la caché solo para las páginas relacionadas"
+
+#: src/views/admin_advanced_tab.php:329
+msgid "Example: update/publish a post/page"
+msgstr "Ejemplo: actualizar/publicar una entrada/página"
+
+#: src/views/admin_advanced_tab.php:327
+msgid "Automatically purge the Cloudflare's cache when something changes on the website"
+msgstr "Vaciar automáticamente la caché de CloudFlare cuando algo cambia en la web"
+
+#: src/views/cloudflare_auth.php:118
+msgid "Select/add the domain name for which you want to enable the cache exactly as reported on Cloudflare, then click on Update settings."
+msgstr "Selecciona/añade el nombre del dominio para el que quieres activar la caché, tal y cómo está en CloudFlare, luego haz clic en «Actualizar ajustes»."
+
+#: libs/wpcli.class.php:112
+msgid "Cache enabled successfully"
+msgstr "Caché activada correctamente"
+
+#: libs/wpcli.class.php:37
+msgid "An error occurred while purging the cache"
+msgstr "Ocurrió un error al vaciar la caché"
+
+#: libs/wpcli.class.php:35 libs/wpcli.class.php:55 libs/wpcli.class.php:72
+#: libs/wpcli.class.php:84 libs/wpcli.class.php:96
+msgid "Cache purged successfully"
+msgstr "Caché vaciada correctamente"
+
+#: src/Modules/Admin.php:182
+msgid "Please check if the page caching is working by yourself by surfing the website in incognito mode 'cause sometimes Cloudflare bypass the cache for cURL requests. Reload a page two or three times. If you see the response header <strong>cf-cache-status: HIT</strong>, the page caching is working well."
+msgstr "Por favor, comprueba tú mismo si la caché de página está funcionando navegando por la web en modo incógnito, porque a veces CloudFlare se salta la caché de las solicitudes cURL. Recarga una página dos o tres veces. Si ves la cabecera de respuesta <strong>cf-cache-status: HIT</strong> es que la caché de página está funcionando bien."
+
+#: src/views/admin_faq_tab.php:40
+msgid "Why all the pages have \"BYPASS\" as the cf-cache-status?"
+msgstr "¿Por qué todas las páginas tienen «BYPASS» como cf-cache-status?"
+
+#: src/views/admin_faq_tab.php:36
+msgid "Yes you can by click on <strong>Reset all</strong> button."
+msgstr "Sí, puedes hacer clic en el botón de <strong>Restablecer todo</strong>."
+
+#: src/views/admin_faq_tab.php:33
+msgid "Can I restore all Cloudflare settings as before the plugin activation?"
+msgstr "¿Puedo restaurar todos los ajustes de CloudFlare como antes de activar el plugin?"
+
+#: src/views/admin_faq_tab.php:26
+msgid "It is a cache buster. Allows you, while logged in, to bypass the Cloudflare cache for pages that could be cached."
+msgstr "Es un inhibidor de caché. Te permite, mientras estás conectado, saltarte la caché de CloudFlare en páginas que deberían cachearse."
+
+#: src/views/admin_faq_tab.php:23
+msgid "What is the <strong>swcfpc=1</strong> parameter I see to every internal links when I'm logged in?"
+msgstr "¿Qué es el parámetro <strong>swcfpc=1</strong> que veo en todos los enlaces internos cuando estoy conectado?"
+
+#: src/views/admin_faq_tab.php:43
+msgid "Cloudflare does not add in cache pages with cookies because they can have dynamic contents. If you want to force this behavior, strip out cookies by enabling the option <strong>Strip response cookies on pages that should be cached.</strong>"
+msgstr "CloudFlare no añade a la caché páginas con cookies debido a que pueden tener contenido dinámico. Si quieres forzar este comportamiento, quita las cookies activando la opción de <strong>Quitar las cookies de respuesta en las páginas que deberían cachearse.</strong>"
+
+#: src/views/admin_cache_tab.php:48
+msgid "Bypass Page cache when these cookies are present in the request packet"
+msgstr "Omitir la caché de página cuando estén presentes estas cookies en el paquete de solicitud"
+
+#: libs/test_cache.class.php:71 libs/wpcli.class.php:273
+msgid "Cache status: %s - Cloudflare has been instructed to not cache this asset. It has been served directly from the origin."
+msgstr "Estado de la caché: %s - CloudFlare tiene la instrucción de no cachear este recurso. Se ha servido directamente desde el origen."
+
+#: libs/test_cache.class.php:101 libs/test_cache.class.php:107
+#: libs/wpcli.class.php:247
+msgid "Unable to find the X-WP-CF-Super-Cache-Worker-Status response header. Worker mode seems not working correctly."
+msgstr "No ha sido posible encontrar la cabecera de respuesta X-WP-CF-Super-Cache-Worker-Status. El modo worker parece que no funciona correctamente."
+
+#: libs/backend.class.php:1139
+msgid "Visit support forum"
+msgstr "Visitar el foro de soporte"
+
+#: src/Modules/Admin.php:68
+msgid "Rate"
+msgstr "Valorar"
+
+#: libs/test_cache.class.php:93 libs/wpcli.class.php:241
+msgid "Invalid Cache-Control response header. If you are using Litespeed Server, please disable the option <strong>Overwrite the cache-control header for WordPress's pages using web server rules</strong>, purge the cache and retry."
+msgstr "Cabecera de respuesta cache-control no válida. Si estás usando un servidor LiteSpeed, por favor, desactiva la opción <strong>Sobrescribir la cabecera cache-control para las páginas de WordPress que usen las reglas del servidor web</strong>, vacía la caché e inténtalo de nuevo."
+
+#: src/views/third_party/wp_asset_cleanup.php:14
+msgid "Automatically purge the cache when WP Asset Clean Up flushs its own cache"
+msgstr "Vaciar automáticamente la caché cuando WP Asset Clean UP vacía su propia caché"
+
+#: src/views/third_party/wp_asset_cleanup.php:8
+msgid "WP Asset Clean Up settings"
+msgstr "Ajustes de WP Asset Clean Up"
+
+#: src/views/admin_advanced_tab.php:510
+msgid "Secret key to use to start the preloader via URL. Don't touch if you don't know how to use it."
+msgstr "Clave secreta a utilizar para iniciar el precargador desde una URL. No lo toques si no sabes cómo usarlo. "
+
+#: src/views/admin_advanced_tab.php:509
+msgid "Cronjob secret key"
+msgstr "Clave secreta del trabajo cron"
+
+#: src/views/admin_advanced_tab.php:499
+msgid "If you want start the preloader at specific intervals decided by you, you can create a cronjob that hits the following URL"
+msgstr "Si quieres iniciar el precargador a intervalos específicos decididos por ti, puedes crear un trabajo cron que lance la siguiente URL"
+
+#: src/views/admin_advanced_tab.php:496
+msgid "Start the preloader via Cronjob"
+msgstr "Iniciar el precargador desde trabajo cron"
+
+#: src/views/admin_advanced_tab.php:483
+msgid "Start the preloader manually"
+msgstr "Iniciar el precargador manualmente"
+
+#: src/views/admin_advanced_tab.php:362
+msgid "Force cache bypassing for backend with an additional Cloudflare page rule"
+msgstr "Forzar omisión de caché en la administración con una regla de página adicional de CloudFlare"
+
+#: src/Modules/Admin.php:489
+msgid "FAQ"
+msgstr "FAQ"
+
+#: libs/wpcli.class.php:157
+msgid "Page caching seems not working for both dynamic and static pages."
+msgstr "La caché de página parece que no está funcionando ni en páginas dinámicas ni estáticas."
+
+#: libs/test_cache.class.php:129 libs/wpcli.class.php:292
+msgid "Undefined error"
+msgstr "Error indefinido"
+
+#: libs/wpcli.class.php:283
+msgid "Cache status: %s - The resource was not cached by default and your current Cloudflare caching configuration doesn't instruct Cloudflare to cache the resource. Try to enable the <strong>Strip response cookies on pages that should be cached</strong> option and retry."
+msgstr "Estado de la caché: %s - El recurso no se ha almacenado en la caché por defecto y tu configuración actual de caché de Cloudflare no indica a Cloudflare que almacene el recurso en la caché. Intenta activar la opción <strong>Quitar las cookies de respuesta en las páginas que deberían almacenarse en la caché</strong> e inténtalo de nuevo."
+
+#: src/views/admin_advanced_tab.php:363
+msgid "<strong>Read here:</strong> by default, all back-end URLs are not cached thanks to some response headers, but if for some circumstances your backend pages are still cached, you can enable this option which will add an <strong>additional page rule on Cloudflare</strong> to force cache bypassing for the whole WordPress backend directly from Cloudflare. This option will be ignored if worker mode is enabled."
+msgstr "<strong>Lee aquí:</strong> por defecto, todas las URL del backend no se almacenan en caché gracias a algunas cabeceras de respuesta, pero si por alguna circunstancia tus páginas del backend siguen almacenándose en caché, puedes activar esta opción que añadirá una <strong>regla de página adicional en Cloudflare</strong> para forzar la omisión de caché para todo el backend de WordPress directamente desde Cloudflare. Esta opción se ignorará si el modo trabajador está activado."
+
+#: libs/wpcli.class.php:235
+msgid "Unable to find the X-WP-CF-Super-Cache-Cache-Control response header."
+msgstr "No ha sido posible encontrar la cabecera de respuesta X-WP-CF-Super-Cache-Cache-Control"
+
+#: libs/wpcli.class.php:229
+msgid "Unable to find the Cache-Control response header."
+msgstr "No ha sido posible encontrar la cabecera de respuesta cache-control"
+
+#: libs/cache_controller.class.php:3144
+msgid "Unable to start the preloader. Another preloading process is currently running."
+msgstr "No ha sido posible iniciar el precargador. Se está ejecutando otro proceso del precargador."
+
+#: libs/cache_controller.class.php:3118
+msgid "Preloader unlocked successfully"
+msgstr "Precargador desbloqueado correctamente"
+
+#: libs/cache_controller.class.php:3112
+msgid "Preloader is already unlocked"
+msgstr "El precargador ya está desbloqueado"
+
+#: libs/cache_controller.class.php:3106 libs/cache_controller.class.php:3138
+msgid "Preloader is not enabled"
+msgstr "El precargador no está activo"
+
+#: src/views/admin_advanced_tab.php:850
+msgid "Redirect 301 for all URLs that for any reason have been indexed together with the cache buster. Works for logged out users only."
+msgstr "Redirección 301 para todas las URLs que, por alguna razón, se hayan indexado junto al inhibidor de la caché. Funciona solo para los usuarios desconectados."
+
+#: src/views/admin_advanced_tab.php:849
+msgid "SEO redirect"
+msgstr "Redirección SEO"
+
+#: src/views/admin_advanced_tab.php:540
+msgid "Varnish Support"
+msgstr "Compatibilidad con Varnish"
+
+#: src/views/admin_advanced_tab.php:526
+msgid "Unlock preloader"
+msgstr "Desbloquear precargador"
+
+#: src/views/admin_advanced_tab.php:522
+msgid "Manually unlock preloader"
+msgstr "Desbloquear manualmente el precargador"
+
+#: src/views/admin_advanced_tab.php:470
+msgid "One sitemap per line."
+msgstr "Un mapa del sitio por línea."
+
+#: src/views/admin_advanced_tab.php:468
+msgid "Preload all URLs into the following sitemaps"
+msgstr "Precargar todas las URLs de los siguientes mapas del sitio"
+
+#: src/views/admin_advanced_tab.php:415
+msgid "Enable preloader"
+msgstr "Activar el precargador"
+
+#: src/Modules/Admin.php:483
+msgid "Third Party"
+msgstr "Terceros"
+
+#: src/Modules/Admin.php:466
+msgid "Advanced"
+msgstr "Avanzado"
+
+#: libs/backend.class.php:179 src/Modules/Admin.php:455
+#: src/views/admin_advanced_tab.php:37 src/views/admin_media_tab.php:23
+msgid "Cache"
+msgstr "Caché"
+
+#: libs/cache_controller.class.php:2719
+msgid "Connection error while retriving the sitemap %1$s: %2$s"
+msgstr "Error de conexión al obtener el mapa del sitio %1$s: %2$s"
+
+#: libs/test_cache.class.php:53 libs/wpcli.class.php:223
+msgid "Seem that your website is not behind Cloudflare. If you have recently enabled the cache or it is your first test, wait about 30 seconds and try again because the changes take a few seconds for Cloudflare to propagate them on the web. If the error persists, request support for a detailed check."
+msgstr "Parece que tu web no está en CloudFlare. Si has activado recientemente la caché o si es tu primera prueba, espera unos 30 segundos e inténtalo de nuevo, porque los cambios tardan unos pocos segundos en que CloudFlare los propague en la web. Si persiste el error solicita soporte para conseguir una prueba detallada."
+
+#: libs/fallback_cache.class.php:839
+msgid "Fallback cache purged successfully!"
+msgstr "¡Caché de reserva vaciada correctamente!"
+
+#: libs/varnish.class.php:211
+msgid "Varnish cache purged successfully!"
+msgstr "¡Caché de Varnish vaciada correctamente!"
+
+#: libs/varnish.class.php:68
+msgid "Invalid hostname or port"
+msgstr "Hostname o puerto no válidos"
+
+#: src/views/third_party/yasr.php:14
+msgid "Automatically purge the page cache when a visitor votes"
+msgstr "Vaciar automáticamente la caché de página cuando vota un visitante"
+
+#: src/views/third_party/yasr.php:8
+msgid "Yet Another Stars Rating settings"
+msgstr "Ajustes de Yet Another Stars Rating"
+
+#: src/views/third_party/wp_rocket.php:38
+msgid "Disable WP Rocket page cache"
+msgstr "Desactivar la caché de página de WP Rocket"
+
+#: src/views/third_party/nginx_helper.php:14
+msgid "Automatically purge the cache when Nginx Helper flushs the cache"
+msgstr "Vaciar automáticamente la caché cuando el ayudante de Nginx vacía la caché"
+
+#: src/views/third_party/wp_optimize.php:17
+msgid "Automatically purge the cache when WP-Optimize flushs page cache"
+msgstr "Vaciar automáticamente la caché cuando WP-Optimize vacía la caché de página"
+
+#: src/views/third_party/wp_optimize.php:9
+msgid "WP-Optimize settings"
+msgstr "Ajustes de WP-Optimize"
+
+#: src/views/template_functions.php:32
+msgid "It is strongly recommended to disable the page caching functions of other plugins. If you want to add a page cache as fallback to Cloudflare, enable the fallback cache option of this plugin."
+msgstr "Se recomienda encarecidamente desactivar las funciones de caché de página de otros plugins. Si quieres añadir una caché de página como reserva a CloudFlare activa la opción de caché de reserva de este plugin."
+
+#: src/views/admin_advanced_tab.php:564
+msgid "Port"
+msgstr "Puerto"
+
+#: src/views/admin_advanced_tab.php:551
+msgid "Hostname"
+msgstr "Hostname"
+
+#: src/views/admin_advanced_tab.php:535
+msgid "Varnish settings"
+msgstr "Ajustes de Varnish"
+
+#: src/views/admin_advanced_tab.php:283
+msgid "If you are using Plesk, make sure you have disabled the options \"Smart static files processing\" and \"Serve static files directly by Nginx\" on \"Apache & Nginx Settings\" page of your Plesk panel or ask your hosting provider to update browser caching rules for you."
+msgstr "Si estás usando Plesk asegúrate de haver desactivado las opciones de «Procesamiento inteligente de archivos estáticos» y «Servir archivos estáticos directamente mediante Nginx» en la página de «Ajustes de Apache y Nginx» de tu panel Plesk, o pide a tu proveedor de alojamiento que actualice por ti las reglas de caché del navegador."
+
+#: src/views/admin_advanced_tab.php:632
+msgid "Purge cache"
+msgstr "Vaciar caché"
+
+#: src/views/admin_advanced_tab.php:59
+msgid "Enter a value in seconds."
+msgstr "Introduce un valor en segundos."
+
+#: src/views/admin_advanced_tab.php:54
+msgid "Enter 0 for no expiration."
+msgstr "Introduce 0 para que no caduque."
+
+#: src/views/admin_advanced_tab.php:42
+msgid "Use cURL"
+msgstr "Usar cURL"
+
+#: src/views/admin_cache_tab.php:25
+msgid "The directory wp-content is not writable. Please add write permission or you have to use the fallback cache with cURL."
+msgstr "El directorio wp-content no tiene permisos de escritura. Por favor, dale permisos de escritura o tendrás que usar la caché de reserva con cURL."
+
+#: src/views/admin_cache_tab.php:21
+msgid "The file wp-config.php is not writable. Please add write permission to activate the fallback cache."
+msgstr "El archivo wp-config.php no tiene permisos de escritura. Por favor, dale permisos de escritura para activar la caché de reserva."
+
+#: src/views/admin_advanced_tab.php:453
+msgid "Preload all internal links in <strong>%s</strong> WP menu"
+msgstr "Precargar todos los enlaces internos en el menú de WP <strong>%s</strong>"
+
+#: src/views/admin_advanced_tab.php:438
+msgid "Choose the URLs preloading logic that the preloader must use. If no option is chosen, the most recently published URLs and the home page will be preloaded."
+msgstr "Elige la lógica de precarga de URLs que debe usar el precargador. Si no se elige ninguna opción se precargarán las URLs publicadas más recientemente y la página de inicio."
+
+#: src/views/admin_advanced_tab.php:437
+msgid "Preloader operation"
+msgstr "Operación del precargador"
+
+#: src/views/admin_advanced_tab.php:117
+msgid "Cloudflare will not cache when there are cookies in responses unless you strip out them to overwrite the behavior."
+msgstr "CloudFlare no cachea cuando hay cookies en las respuestas, a menos que las quites para omitir este comportamiento."
+
+#: src/views/admin_advanced_tab.php:138
+msgid "This option is not essential and must be disabled if enabled the Workers mode option. In most cases this plugin works out of the box. If the page cache does not work after a considerable number of attempts or you see that max-age and s-maxage values of <strong>X-WP-CF-Super-Cache-Cache-Control</strong> response header are not the same of the ones in <strong>Cache-Control</strong> response header, activate this option."
+msgstr "Esta opción no es esencial y debería desactivarse si está activa en la opción del modo de los workers. In la mayoría de los casos este plugin funciona sin modificar nada. Si no funciona la caché de página después de un considerable número de intentos o ves que los valores de max-age y s-maxage de la respuesta de <strong>X-WP-CF-Super-Cache-Cache-Control</strong> no son las mismas que en la respuesta de la cabecera <strong>Cache-Control</strong> activa esta opción."
+
+#: src/views/admin_advanced_tab.php:628
+msgid "Purge Varnish cache"
+msgstr "Vaciar caché de Varnish"
+
+#: src/views/admin_advanced_tab.php:606
+msgid "Enable this option if you are using Varnish on Cloudways."
+msgstr "Activa esta opción si estás usando Varnish en Cloudways."
+
+#: src/views/admin_advanced_tab.php:605
+msgid "Cloudways Varnish"
+msgstr "Varnish de Cloudways"
+
+#: src/views/admin_advanced_tab.php:592
+msgid "HTTP method for whole page cache purge"
+msgstr "Método HTTP para vaciar al completo la caché de página"
+
+#: src/views/admin_advanced_tab.php:579
+msgid "HTTP method for single page cache purge"
+msgstr "Método HTTP para vaciar la caché de página individual"
+
+#: src/views/admin_advanced_tab.php:351
+msgid "Automatically purge the Page cache when Cloudflare cache is purged"
+msgstr "Vaciar automáticamente la caché de página cuando se vacía la caché de CloudFlare"
+
+#: src/views/admin_cache_tab.php:39
+msgid "If you enable the DIsk Page cache is strongly recommended disable all page caching functions of other plugins."
+msgstr "Si activas la caché de página de disco se recomienda encarecidamente desactivar todas las funciones de caché de otros plugins."
+
+#: src/views/admin_advanced_tab.php:617
+msgid "Automatically purge Varnish cache when the cache is purged."
+msgstr "Vaciar automáticamente la caché de Varnish cuando se vacía la caché."
+
+#: src/views/admin_advanced_tab.php:43
+msgid "Use cURL instead of WordPress advanced-cache.php to generate the Page page. It can increase the time it takes to generate the Page cache but improves compatibility with other performance plugins."
+msgstr "Utiliza cURL en lugar de WordPress advanced-cache.php para generar la página Page. Puede aumentar el tiempo que se tarda en generar la caché de la Página, pero mejora la compatibilidad con otros plugins de rendimiento."
+
+#: src/views/admin_advanced_tab.php:131 src/views/admin_advanced_tab.php:224
+#: src/views/admin_advanced_tab.php:269
+msgid "Writes into .htaccess"
+msgstr "Escribe en .htaccess"
+
+#: src/views/admin_advanced_tab.php:382
+msgid "Use Cloudflare Worker instead of page rule."
+msgstr "Utiliza un worker de CloudFlare en vez de una regla de página."
+
+#: src/views/admin_advanced_tab.php:381
+msgid "Worker mode"
+msgstr "Modo worker"
+
+#: src/views/admin_advanced_tab.php:646
+msgid "Enable this option if you want log all communications between Cloudflare and this plugin."
+msgstr "Activa esta opción si quieres registrar todas las comunicaciones entre CloudFlare y este plugin."
+
+#: libs/views/settings.php:32
+msgid "Unable to create the directory %s"
+msgstr "No se pudo crear el directorio %s"
+
+#: libs/cache_controller.class.php:2352
+msgid "An error occurred while cleaning the cache. Please check log file for further details."
+msgstr "Ocurrió un error al vaciar la caché. Por favor, revisa el archivo de registro para más detalles."
+
+#: libs/wpcli.class.php:285
+msgid "Cache status: %s - The resource was not cached by default and your current Cloudflare caching configuration doesn't instruct Cloudflare to cache the resource.  Instead, the resource was requested from the origin web server."
+msgstr "Estado de la caché: %s - El recurso no se cacheó por defecto y tu configuración actual de caché de CloudFlare no indica a CloudFlare que cachee el recurso. En su lugar, el recurso se solicitó desde el servidor web de origen."
+
+#: libs/test_cache.class.php:65 libs/wpcli.class.php:267
+msgid "Cache status: %s - The resource was served from cache but is expired. The resource is currently being updated by the origin web server. UPDATING is typically seen only for very popular cached resources."
+msgstr "Estado de la caché: %s - El recurso se sirvió desde la caché pero ha caducado. El recurso se está actualizando en este momento desde el servidor web de origen. ACTUALIZANDO se suele ver solo en recursos cacheados muy populares."
+
+#: libs/test_cache.class.php:59 libs/wpcli.class.php:261
+msgid "Cache status: %s - The resource is served from cache but is stale. The resource was revalidated by either an If-Modified-Since header or an If-None-Match header."
+msgstr "Estado de la caché: %s - El recurso se sirve desde la caché pero es antiguo. El recurso se volvió a validar desde una cabecera If-Modified-Since o If-None-Match."
+
+#: src/views/admin_advanced_tab.php:388
+msgid "After enabled this option, enter to <strong>Workers</strong> section of your domain on Cloudflare, click on Edit near to Worker <strong>swcfpc_worker</strong> than select <strong>Fail open</strong> as <em>Request limit failure mode</em> and click on Save"
+msgstr "Después de activar esta opción, entra en la sección de <strong>Workers</strong> de tu dominio en Cloudflare, haz clic en «Editar» junto al Worker <strong>swcfpc_worker</strong>, luego selecciona <strong>Fallo al abrir</strong> como <em>Modo de fallo de límite de solicitudes</em> y haz clic en «Guardar»"
+
+#: libs/wpcli.class.php:211
+msgid "The plugin is not detected on your home page. If you have activated other caching systems, please disable them and retry the test."
+msgstr "No se ha detectado el plugin en tu página de inicio. Si has activado otros sistemas de caché, por favor, desactívalos y vuelve a realizar la prueba."
+
+#: src/Services/Cloudflare_Client.php:239
+msgid "Unable to retrive account ID"
+msgstr "No ha sido posible recuperar el ID de la cuenta"
+
+#: libs/wpcli.class.php:217
+msgid "The cache is not enabled on your home page. It's not possible to verify if the page caching is working properly."
+msgstr "La caché no está activada en tu página de inicio. No es posible verificar si la caché de página está funcionando adecuadamente."
+
+#: src/views/third_party/hummingbird.php:17
+msgid "Automatically purge the cache when Hummingbird flushs page cache"
+msgstr "Vaciar automáticamente la caché cuando Hummingbird vacía la caché de página"
+
+#: src/views/third_party/hummingbird.php:9
+msgid "Hummingbird settings"
+msgstr "Ajustes de Hummingbird"
+
+#: src/views/admin_advanced_tab.php:837
+msgid "Disable metaboxes on single pages and posts"
+msgstr "Desactivar las cajas meta en páginas y entradas individuales"
+
+#: src/views/admin_advanced_tab.php:826
+msgid "Remove purge option from toolbar"
+msgstr "Quitar la opción de vaciar de la barra de herramientas"
+
+#: src/views/third_party/litespeed_cache.php:9
+msgid "LiteSpeed Cache settings"
+msgstr "Ajustes de caché de LiteSpeed"
+
+#: src/views/third_party/woocommerce.php:37
+msgid "Automatically purge cache for product page and related categories when stock quantity changes"
+msgstr "Vaciar automáticamente la caché de la página del producto y las categorías relacionadas cuando cambie la cantidad de inventario"
+
+#: src/views/admin_advanced_tab.php:676
+msgid "Download log file"
+msgstr "Descargar el archivo de registro"
+
+#: src/views/admin_advanced_tab.php:670
+msgid "Download logs"
+msgstr "Descargar registros"
+
+#: src/views/admin_advanced_tab.php:639
+msgid "Logs"
+msgstr "Registros"
+
+#: src/views/admin_advanced_tab.php:488
+msgid "Start preloader"
+msgstr "Precargador inteligente"
+
+#: src/views/admin_advanced_tab.php:410
+msgid "Preloader"
+msgstr "Precargador"
+
+#: src/views/admin_advanced_tab.php:471 src/views/admin_cache_tab.php:63
+msgid "Example"
+msgstr "Ejemplo"
+
+#: src/views/admin_advanced_tab.php:815
+msgid "Secret key to use to purge the whole Cloudflare cache via URL. Don't touch if you don't know how to use it."
+msgstr "Clave secreta a utilizar para vaciar toda la caché de CloudFlare desde una URL. No lo toques si no sabes cómo usarlo."
+
+#: src/views/admin_advanced_tab.php:814
+msgid "Purge cache URL secret key"
+msgstr "Clave secreta para vaciar caché por URL"
+
+#: src/views/admin_advanced_tab.php:662
+msgid "Clear logs now"
+msgstr "Vaciar ahora los registros"
+
+#: src/views/admin_advanced_tab.php:658
+msgid "Delete all the logs currently stored and optimize the log table."
+msgstr "Borra todos los registros actualmente almacenados y optimiza la tabla de registro."
+
+#: src/views/admin_advanced_tab.php:657
+msgid "Clear logs manually"
+msgstr "Vaciar registros manualmente"
+
+#: src/views/admin_advanced_tab.php:118
+msgid "If the cache does not work due to response cookies and you are sure that these cookies are not essential for the website to works, enable this option."
+msgstr "Si no funciona la caché debido a las cookies de respuesta y estás seguro de que esas cookies no son esenciales para que funcione la web, activa esta opción."
+
+#: src/views/admin_advanced_tab.php:116
+msgid "Strip response cookies on pages that should be cached"
+msgstr "Quitar las cookies de respuesta en páginas que deberían cachearse"
+
+#: src/views/admin_advanced_tab.php:645
+msgid "Log mode"
+msgstr "Modo de registro"
+
+#: libs/cache_controller.class.php:2377
+msgid "Cloudflare and all configurations have been reset to the initial settings."
+msgstr "CloudFlare y todas las configuraciones se han restablecido a los ajustes iniciales."
+
+#: libs/cache_controller.class.php:360
+msgid "Bypass the cache for this page"
+msgstr "Omitir la caché en esta página"
+
+#: libs/cache_controller.class.php:346
+msgid "Cloudflare Page Cache Settings"
+msgstr "Ajustes de caché de página de CloudFlare"
+
+#: libs/logs.class.php:154
+msgid "Log cleaned successfully"
+msgstr "Registro vaciado correctamente"
+
+#: libs/backend.class.php:1098
+msgid "Settings updated successfully"
+msgstr "Ajustes actualizados correctamente"
+
+#: libs/cache_controller.class.php:3168
+msgid "Preloader started successfully"
+msgstr "Precargador iniciado correctamente"
+
+#: libs/cache_controller.class.php:3162
+msgid "You cannot start the preloader while the page cache is disabled."
+msgstr "No puedes iniciar el precargador mientras esté desactivada la caché de página."
+
+#: libs/cache_controller.class.php:3156
+msgid "Unable to start background processes: SWCFPC_Preloader_Process does not exists."
+msgstr "No es posible iniciar procesos en segundo plano: SWCFPC_Preloader_Process no existe."
+
+#: libs/cache_controller.class.php:3150
+msgid "Unable to start background processes: WP_Background_Process does not exists."
+msgstr "No es posible iniciar procesos en segundo plano: WP_Background_Process no existe."
+
+#: src/views/admin_advanced_tab.php:484
+msgid "Start preloading the pages of your website to speed up their inclusion in the cache. Make sure the cache is working first."
+msgstr "Empieza a precargar las páginas de tu web para acelerar su inclusión en la caché. Asegúrate primero de que esté funcionando la caché."
+
+#: src/views/cloudflare_auth.php:97
+msgid "The API Token extrapolated from your Cloudflare account."
+msgstr "La token de la API extrapolada desde tu cuenta de CloudFlare."
+
+#: src/views/cloudflare_auth.php:96
+msgid "Cloudflare API Token"
+msgstr "Token de la API de CloudFlare"
+
+#: src/views/cloudflare_auth.php:46
+msgid "API Key"
+msgstr "Clave API"
+
+#: src/views/cloudflare_auth.php:39 src/views/cloudflare_instructions.php:44
+msgid "API Token"
+msgstr "Token de la API"
+
+#: src/views/cloudflare_auth.php:29
+msgid "Authentication mode to use to connect to your Cloudflare account."
+msgstr "Modo de identificación a utilizar para conectar con tu cuenta de CloudFlare."
+
+#: src/views/cloudflare_auth.php:28
+msgid "Authentication mode"
+msgstr "Modo de identificación"
+
+#: src/views/admin_advanced_tab.php:94
+msgid "Automatically purge single post cache when a new comment is inserted into the database or when a comment is approved or deleted"
+msgstr "Vaciar automáticamente la caché de entrada individual cuando se introduce un nuevo comentario en la base de datos o cuando se aprueba o borra un comentario."
+
+#: libs/views/settings.php:35 libs/views/settings.php:46
+#: libs/views/settings.php:55
+msgid "Hide this notice"
+msgstr "Ocultar este aviso"
+
+#: libs/views/settings.php:44
+msgid "Error: %s"
+msgstr "Error: %s"
+
+#: libs/cache_controller.class.php:3199
+msgid "Page cache enabled successfully"
+msgstr "Caché de página activada correctamente"
+
+#: libs/wpcli.class.php:175
+msgid "Page caching is working properly"
+msgstr "La caché de página está funcionando adecuadamente"
+
+#: libs/backend.class.php:276 libs/backend.class.php:296
+#: libs/backend.class.php:1121 libs/backend.class.php:1180
+#: libs/cache_controller.class.php:2299 libs/cache_controller.class.php:2319
+#: libs/cache_controller.class.php:2342 libs/cache_controller.class.php:2371
+#: libs/cache_controller.class.php:2389 libs/cache_controller.class.php:3100
+#: libs/cache_controller.class.php:3132 libs/cache_controller.class.php:3183
+#: libs/html_cache.class.php:311 libs/logs.class.php:148
+msgid "Permission denied"
+msgstr "Permiso denegado"
+
+#: libs/backend.class.php:254 libs/backend.class.php:255
+#: src/Modules/Admin.php:46
+msgid "Settings"
+msgstr "Ajustes"
+
+#: libs/views/nginx.php:38
+msgid "Browser caching rules"
+msgstr "Reglas de caché del navegador"
+
+#: libs/views/nginx.php:31 libs/views/nginx.php:50
+msgid "Save and restart Nginx."
+msgstr "Guardar y reiniciar Nginx."
+
+#: libs/views/nginx.php:22
+msgid "Now open the configuration file of your domain and add the following rules inside the block that deals with the management of PHP pages:"
+msgstr "Ahora abre el archivo de configuración de tu dominio y añade las siguientes reglas dentro del bloque que tiene que ver con la gestión de páginas PHP:"
+
+#: libs/views/nginx.php:13
+msgid "Edit the main Nginx configuration file, usually /etc/nginx.conf, and enter these rules immediately after opening the http block:"
+msgstr "Edita el archivo de configuración principal de Nginx, normalmente en /etc/nginx.conf, e introduce estas reglas después de la apertura del bloque http:"
+
+#: libs/views/nginx.php:10
+msgid "Overwrite the cache-control header"
+msgstr "Omitir la cabecera cache-control"
+
+#: libs/views/settings.php:139
+msgid "Update settings"
+msgstr "Actualizar ajustes"
+
+#: src/views/admin_advanced_tab.php:804
+msgid "If you want purge the whole Cloudflare cache at specific intervals decided by you, you can create a cronjob that hits the following URL"
+msgstr "Si quieres vaciar toda la caché de CloudFlare en intervalos específicos decididos por ti, puedes crear un trabajo cron que lance la siguiente URL"
+
+#: src/views/admin_advanced_tab.php:801
+msgid "Purge the whole Cloudflare cache via Cronjob"
+msgstr "Vaciar toda la caché de CloudFlare mediante una trabajo cron"
+
+#: src/views/admin_advanced_tab.php:774
+msgid "Other settings"
+msgstr "Otros ajustes"
+
+#: src/views/third_party/wp_rocket.php:23
+msgid "WP Rocket flushs single post cache"
+msgstr "WP Rocket vacía la caché de entrada individual"
+
+#: src/views/third_party/wp_rocket.php:22
+msgid "WP Rocket flushs all caches"
+msgstr "WP Rocket vacía todas las cachés"
+
+#: src/views/third_party/wp_rocket.php:10
+msgid "WP Rocket settings"
+msgstr "Ajustes de WP Rocket"
+
+#: src/views/third_party/w3tc.php:26
+msgid "W3TC flushs minify cache"
+msgstr "W3TC vacía la caché minimizada"
+
+#: src/views/third_party/w3tc.php:25
+msgid "W3TC flushs posts cache"
+msgstr "W3TC vacía la caché de entradas"
+
+#: src/views/third_party/w3tc.php:24
+msgid "W3TC flushs object cache"
+msgstr "W3TC vacía la caché de objetos"
+
+#: src/views/third_party/w3tc.php:23
+msgid "W3TC flushs fragment cache"
+msgstr "W3TC vacía la caché de fragmentos"
+
+#: src/views/third_party/w3tc.php:22
+msgid "W3TC flushs database cache"
+msgstr "W3TC vacía la caché de la base de datos"
+
+#: src/views/third_party/w3tc.php:21
+msgid "W3TC flushs all caches"
+msgstr "W3TC vacía todas las cachés"
+
+#: src/views/third_party/litespeed_cache.php:17
+#: src/views/third_party/swift_performance.php:16
+#: src/views/third_party/w3tc.php:17 src/views/third_party/wp_rocket.php:18
+msgid "Automatically purge the cache when"
+msgstr "Vaciar automáticamente la caché cuando"
+
+#: src/views/third_party/w3tc.php:9
+msgid "W3 Total Cache settings"
+msgstr "Ajustes de W3 Total Cache"
+
+#: src/views/third_party/woocommerce.php:27
+msgid "WooCommerce page (is_woocommerce)"
+msgstr "Página de WooCommerce (is_woocommerce)"
+
+#: src/views/third_party/woocommerce.php:26
+msgid "Product category (is_product_category)"
+msgstr "Categoría de productos (is_product_category)"
+
+#: src/views/third_party/woocommerce.php:25
+msgid "Product tag (is_product_tag)"
+msgstr "Etiqueta de productos (is_product_tag)"
+
+#: src/views/third_party/woocommerce.php:24
+msgid "Product taxonomy (is_product_taxonomy)"
+msgstr "Taxonomía de productos (is_product_taxonomy)"
+
+#: src/views/third_party/woocommerce.php:23
+msgid "Shop (is_shop)"
+msgstr "Tienda (is_shop)"
+
+#: src/views/third_party/woocommerce.php:22
+msgid "Product (is_product)"
+msgstr "Producto (is_product)"
+
+#: src/views/third_party/woocommerce.php:21
+msgid "Checkout's pay page (is_checkout_pay_page)"
+msgstr "Página de pago de finalizar compra (is_checkout_pay_page)"
+
+#: src/views/third_party/woocommerce.php:20
+msgid "Checkout (is_checkout)"
+msgstr "Página de finalizar compra (is_checkout)"
+
+#: src/views/third_party/woocommerce.php:19
+msgid "Cart (is_cart)"
+msgstr "Carrito (is_cart)"
+
+#: src/views/third_party/woocommerce.php:15
+msgid "Don't cache the following WooCommerce page types"
+msgstr "No cachear los siguientes tipos de páginas de WooCommerce"
+
+#: src/views/third_party/woocommerce.php:9
+msgid "WooCommerce settings"
+msgstr "Ajustes de WooCommerce"
+
+#: src/views/admin_advanced_tab.php:267
+msgid "Add browser caching rules for static assets"
+msgstr "Añadir reglas de caché del navegador para recursos estáticos"
+
+#: src/views/admin_advanced_tab.php:260
+msgid "Browser caching"
+msgstr "Caché del navegador"
+
+#: src/views/admin_advanced_tab.php:228
+msgid "after saving these settings"
+msgstr "después de guardar estos ajustes"
+
+#: src/views/admin_advanced_tab.php:226
+msgid "it is recommended to add the browser caching rules that you find"
+msgstr "se recomienda añadir las reglas de caché del navegador que encuentres"
+
+#: src/views/admin_advanced_tab.php:226
+msgid "If you only use Nginx"
+msgstr "Si solo usas Nginx"
+
+#: src/views/admin_cache_tab.php:62
+msgid "One URI per line. You can use the * for wildcard URLs."
+msgstr "Una URL por línea. Puedes usar el * para URLs con comodín."
+
+#: src/views/admin_cache_tab.php:60
+msgid "Prevent the following URIs to be cached"
+msgstr "Evitar que se cacheen las siguientes URLs."
+
+#: src/views/admin_advanced_tab.php:210
+msgid "AMP pages"
+msgstr "Páginas AMP"
+
+#: src/views/admin_advanced_tab.php:209
+msgid "Author Pages (is_author)"
+msgstr "Páginas de autor (is_author)"
+
+#: src/views/admin_advanced_tab.php:208
+msgid "Search Pages (is_search)"
+msgstr "Páginas de búsqueda (is_search)"
+
+#: src/views/admin_advanced_tab.php:207
+msgid "Feeds (is_feed)"
+msgstr "Feeds (is_feed)"
+
+#: src/views/admin_advanced_tab.php:206
+msgid "Categories (is_category)"
+msgstr "Categorías (is_category)"
+
+#: src/views/admin_advanced_tab.php:205
+msgid "Tags (is_tag)"
+msgstr "Etiquetas (is_tag)"
+
+#: src/views/admin_advanced_tab.php:204
+msgid "Archives (is_archive)"
+msgstr "Archivos (is_archive)"
+
+#: src/views/admin_advanced_tab.php:203
+msgid "Home (is_home)"
+msgstr "Inicio (is_home)"
+
+#: src/views/admin_advanced_tab.php:202
+msgid "Front Page (is_front_page)"
+msgstr "Portada (is_front_page)"
+
+#: src/views/admin_advanced_tab.php:201
+msgid "Pages (is_page)"
+msgstr "Páginas (is_page)"
+
+#: src/views/admin_advanced_tab.php:200
+msgid "Single posts (is_single)"
+msgstr "Entradas individuales (is_single)"
+
+#: src/views/template_functions.php:172
+msgid "(recommended)"
+msgstr "(recomendado)"
+
+#: src/views/admin_advanced_tab.php:199
+msgid "Page 404 (is_404)"
+msgstr "Página 404 (is_404)"
+
+#: src/views/third_party/edd.php:15
+msgid "Don't cache the following EDD page types"
+msgstr "No cachear los siguientes tipos de página de EDD"
+
+#: libs/cache_controller.class.php:367 src/views/template_functions.php:94
+msgid "No"
+msgstr "No"
+
+#: libs/cache_controller.class.php:373 src/views/template_functions.php:89
+msgid "Yes"
+msgstr "Sí"
+
+#: src/views/admin_advanced_tab.php:153 src/views/admin_advanced_tab.php:228
+#: src/views/admin_advanced_tab.php:276 src/views/admin_advanced_tab.php:334
+msgid "on this page"
+msgstr "en esta página"
+
+#: src/views/admin_advanced_tab.php:152 src/views/admin_advanced_tab.php:273
+msgid "Read here if you only use Nginx"
+msgstr "Lee aquí si solo usas Nginx"
+
+#: src/views/admin_advanced_tab.php:143
+msgid "Read here if you use Apache (htaccess)"
+msgstr "Lee aquí si usas Apache (htaccess)"
+
+#: src/views/admin_advanced_tab.php:248
+msgid "Enter how many posts per page (or category) the theme shows to your users. It will be use to clean up the pagination on cache purge."
+msgstr "Introduce cuántas entradas por página (o categoría) muestra el tema a tus usuarios. Se usará para limpiar la paginación al vaciar la caché."
+
+#: src/views/admin_advanced_tab.php:245
+msgid "Posts per page"
+msgstr "Entradas por página"
+
+#: src/views/admin_advanced_tab.php:310
+msgid "Don't touch if you don't know what is it. Must be greater than zero. Recommended a value between 60 and 600"
+msgstr "No lo toques si no sabes lo que es. Debe ser mayor que cero. Se recomienda un valor entre 60 y 600"
+
+#: src/views/admin_advanced_tab.php:309
+msgid "Browser Cache-Control max-age"
+msgstr "max-age de cache-control del navegador"
+
+#: src/views/admin_advanced_tab.php:295
+msgid "Cloudflare Cache-Control max-age"
+msgstr "max-age de cache-control de CloudFlare"
+
+#: src/views/cloudflare_disconnect.php:35
+msgid "Select a Domain Name"
+msgstr "Selecciona un nombre de dominio"
+
+#: src/views/cloudflare_disconnect.php:30
+msgid "Select the domain for which you want to enable the cache and click on Update settings."
+msgstr "Selecciona el dominio en el que quieres activar la caché y haz clic en «Actualizar ajustes»."
+
+#: src/views/cloudflare_auth.php:117 src/views/cloudflare_disconnect.php:27
+msgid "Cloudflare Domain Name"
+msgstr "Nombre de dominio de CloudFlare"
+
+#: src/views/cloudflare_auth.php:76
+msgid "The Global API Key extrapolated from your Cloudflare account."
+msgstr "La clave API global extrapolada de tu cuenta de CloudFlare."
+
+#: src/views/cloudflare_auth.php:75
+msgid "Cloudflare API Key"
+msgstr "Clave API de CloudFlare"
+
+#: src/views/cloudflare_auth.php:56
+msgid "The email address you use to log in to Cloudflare."
+msgstr "La dirección de correo electrónico que utilizas para acceder a CloudFlare."
+
+#: src/views/cloudflare_auth.php:17
+msgid "Cloudflare General Settings"
+msgstr "Ajustes generales de CloudFlare"
+
+#: libs/views/settings.php:143
+msgid "Reset All"
+msgstr "Restablecer todo"
+
+#: libs/views/settings.php:79
+msgid "Test Cache"
+msgstr "Probar caché"
+
+#: libs/backend.class.php:232 libs/views/settings.php:73
+msgid "Purge Cache"
+msgstr "Vaciar caché"
+
+#: src/views/admin_enable_cache_wizard.php:11
+msgid "Enable Page Caching Now"
+msgstr "Activar ahora la caché de página"
+
+#: src/views/admin_enable_cache_wizard.php:2
+msgid "Enable Page Caching"
+msgstr "Activar la caché de página"
+
+#: src/views/cloudflare_instructions.php:34
+msgid "Enter both API key and e-mail address into the form below and click on Update settings"
+msgstr "Introduce la clave API y la dirección de correo electrónico en el siguiente formulario y haz clic en «Actualizar ajustes»"
+
+#: src/views/cloudflare_instructions.php:33
+msgid "Enter your Cloudflare login password and click on View"
+msgstr "Introduce tu contraseña de acceso a CloudFlare y haz clic en «Ver»"
+
+#: src/views/cloudflare_instructions.php:32
+msgid "Click on API tokens, scroll to API Keys and click on View beside Global API Key"
+msgstr "Haz clic en tokens de API, navega hasta claves de API y haz clic en «Ver» junto a Global API Key"
+
+#: src/views/cloudflare_instructions.php:30
+msgid "and click on My Profile"
+msgstr "y haz clic en «Mi perfil»"
+
+#: src/views/cloudflare_instructions.php:30
+msgid "Log in to your Cloudflare account"
+msgstr "Accede a tu cuenta de CloudFlare"
+
+#: src/Services/Cloudflare_Client.php:168 src/Services/Cloudflare_Rule.php:167
+#: src/Services/Cloudflare_Rule.php:202
+msgid "There is not zone id to use"
+msgstr "No hay ningún id de zona que utilizar"
+
+#: src/Services/Cloudflare_Client.php:89
+msgid "Unable to find Browser Cache TTL settings "
+msgstr "No ha sido posible encontrar los ajustes TTL de caché del navegador"
+
+#: src/Services/Cloudflare_Client.php:345
+msgid "Unable to find domains configured on Cloudflare"
+msgstr "No ha sido posible encontrar dominios configurados en CloudFlare"
+
+#: libs/test_cache.class.php:155 libs/wpcli.class.php:198
+#: src/Services/Cloudflare_Rule.php:468
+msgid "Connection error: "
+msgstr "Error de conexión:"
+
+#: libs/views/nginx.php:41
+msgid "Open the configuration file of your domain and add the following rules:"
+msgstr "Abre el archivo de configuración de tu dominio y añade las siguientes reglas:"
+
+#: src/views/template_functions.php:89
+msgid "Enabled"
+msgstr "Activado"
+
+#: src/views/template_functions.php:94
+msgid "Disabled"
+msgstr "Desactivado"
+
+#: src/views/cloudflare_auth.php:55
+msgid "Cloudflare e-mail"
+msgstr "Correo electrónico de CloudFlare"
+
+#: src/views/third_party/litespeed_cache.php:22
+msgid "LiteSpeed Cache flushs all caches"
+msgstr "La caché de LiteSpeed vacía todas las cachés"
+
+#: src/views/admin_advanced_tab.php:296
+msgid "Don't touch if you don't know what is it. Must be greater than zero. Recommended 31536000 (1 year)"
+msgstr "No lo toques si no sabes lo que es. Debe ser mayor que cero. Se recomienda 31536000 (1 año)"
+
+#: libs/cache_controller.class.php:2306 libs/cache_controller.class.php:2326
+#: libs/cache_controller.class.php:2358
+msgid "Cache purged successfully! It may take up to 30 seconds for the cache to be permanently cleaned."
+msgstr "¡Caché vaciada correctamente! Puede llevar hasta 30 segundos limpiar de manera permanente la caché."
+
+#: src/views/admin_advanced_tab.php:261
+msgid "This option is useful if you want to use Super Page Cache to enable browser caching rules for assets such like images, CSS, scripts, etc. It works automatically if you use Apache as web server or as backend web server."
+msgstr "Esta opción es útil si quieres usar Super Page Cache para activar reglas de caché del navegador para recursos tales como imágenes, CSS, scripts, etc. Funciona automáticamente si usas Apache como servidor web o como servidor web de administración."
+
+#: src/views/admin_advanced_tab.php:153 src/views/admin_advanced_tab.php:273
+msgid "it is not possible for Super Page Cache to automatically change the settings to allow this option to work immediately. For it to work, update these settings and then follow the instructions"
+msgstr "no le es posible a Super Page Cache cambiar automáticamente los ajustes para permitir que esta opción funcione inmediatamente. Para que funcione, actualiza estos ajustes y luego sigue las instrucciones"
+
+#: src/views/admin_advanced_tab.php:133
+msgid "This option is useful if you use Super Page Cache together with other performance plugins that could affect the Cloudflare cache with their cache-control headers. It works automatically if you are using Apache as web server or as backend web server."
+msgstr "Esta opción es útil si usas Super Page Cache junto con otros plugins de rendimiento que pudieran afectar a la caché de CloudFlare con sus cabeceras de control de la caché. Funciona automáticamente si usas Apache como servidor web o como servidor web de administración."
+
+#: src/views/admin_advanced_tab.php:138 src/views/admin_advanced_tab.php:144
+msgid "for overwriting to work, make sure that the rules added by Super Page Cache are placed at the bottom of the htaccess file. If they are present BEFORE other caching rules of other plugins, move them to the bottom manually."
+msgstr "para que funcione la sobrescritura, asegúrate de que las reglas añadidas por Super Page Cache están colocadas al final del archivo «.htaccess». Si hay ANTES reglas de otros plugins de caché, muévelas manualmente al final."
+
+#: src/views/admin_advanced_tab.php:129
+msgid "Overwrite the cache-control header for WordPress's pages using web server rules"
+msgstr "Sobrescribir la cabecera cache-control de las páginas de WordPress mediante reglas del servidor web"
+
+#: src/Services/Cloudflare_Client.php:307
+#: src/Services/Cloudflare_Client.php:332
+msgid "Unable to retrieve zone id due to invalid response data"
+msgstr "No ha sido posible recuperar el id de zona debido a datos de respuesta no válidos"

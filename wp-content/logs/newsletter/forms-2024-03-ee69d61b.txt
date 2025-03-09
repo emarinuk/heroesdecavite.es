@@ -1,0 +1,4 @@
+05-03-2024 09:12:55 - INFO  - 8.1.9 - 24,5 MB/256 MB - [cron] > Weekly check for forms
+12-03-2024 09:12:40 - INFO  - 8.2.1 - 24,3 MB/256 MB - [cron] > Weekly check for forms
+19-03-2024 09:12:58 - INFO  - 8.2.3 - 24,4 MB/256 MB - [cron] > Weekly check for forms
+26-03-2024 09:13:26 - INFO  - 8.2.3 - 34,6 MB/256 MB - [cron] > Weekly check for forms

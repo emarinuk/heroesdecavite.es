@@ -1,0 +1,5 @@
+01-03-2024 10:55:10 - INFO  - 8.1.5 - 25,0 MB/256 MB - [cron] > Weekly check for reports
+08-03-2024 10:53:38 - INFO  - 8.2.1 - 30,6 MB/256 MB - [cron] > Weekly check for reports
+15-03-2024 10:53:20 - INFO  - 8.2.2 - 24,4 MB/256 MB - [cron] > Weekly check for reports
+22-03-2024 10:53:20 - INFO  - 8.2.3 - 34,6 MB/256 MB - [cron] > Weekly check for reports
+29-03-2024 10:53:24 - INFO  - 8.2.3 - 32,7 MB/256 MB - [cron] > Weekly check for reports

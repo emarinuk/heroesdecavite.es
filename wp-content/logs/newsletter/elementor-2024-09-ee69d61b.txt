@@ -1,0 +1,7 @@
+02-09-2024 23:31:35 - INFO  - 8.4.7 - 30,3 MB/256 MB - [cron] > Weekly check for elementor
+03-09-2024 01:03:29 - INFO  - 8.4.7 - 57.7 MB/256 MB - Eduardo > List list_3
+03-09-2024 01:03:29 - INFO  - 8.4.7 - 57.7 MB/256 MB - Eduardo > ID: 3
+09-09-2024 23:31:34 - INFO  - 8.4.9 - 15,5 MB/256 MB - [cron] > Weekly check for elementor
+16-09-2024 23:32:10 - INFO  - 8.5.0 - 14,2 MB/512 MB - [cron] > Weekly check for elementor
+23-09-2024 23:32:06 - INFO  - 8.5.0 - 78,1 MB/512 MB - [cron] > Weekly check for elementor
+30-09-2024 23:35:09 - INFO  - 8.5.2 - 130,5 MB/ - [cron] > Weekly check for elementor

@@ -1,0 +1,2 @@
+01-03-2025 01:25:06 - INFO  - 8.7.0 - 135,8 MB/ - [cron] > Weekly check for pmpro
+08-03-2025 01:25:05 - INFO  - 8.7.0 - 135,8 MB/ - [cron] > Weekly check for pmpro

@@ -1,0 +1,11 @@
+02-03-2025 15:51:15 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+02-03-2025 15:51:15 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Source not set
+02-03-2025 16:28:36 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Processing https://twitter.com/AchCavite
+02-03-2025 16:28:36 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Source not set
+04-03-2025 10:15:09 - INFO  - 8.7.0 - 135,8 MB/ - [cron] > Weekly check for analytics
+04-03-2025 10:20:01 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+04-03-2025 10:20:01 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Source not set
+04-03-2025 10:20:13 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+04-03-2025 10:20:13 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Source not set
+04-03-2025 17:57:11 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Processing https://heroesdecavite.es/noticias/asociacion/semblanza-del-premio/
+04-03-2025 17:57:11 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Domain: heroesdecavite.es

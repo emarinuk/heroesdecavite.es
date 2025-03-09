@@ -1,0 +1,17 @@
+02-12-2024 22:35:11 - INFO  - 8.6.3 - 141,6 MB/ - [cron] > Weekly check for elementor
+08-12-2024 11:19:03 - DEBUG - 8.6.4 - 48,2 MB/512 MB -  > Field not mapped
+08-12-2024 11:19:03 - DEBUG - 8.6.4 - 48,2 MB/512 MB -  > Field not mapped
+08-12-2024 11:19:03 - DEBUG - 8.6.4 - 48,2 MB/512 MB -  > Field not mapped
+08-12-2024 11:19:03 - DEBUG - 8.6.4 - 48,2 MB/512 MB -  > Field not mapped
+08-12-2024 11:19:03 - DEBUG - 8.6.4 - 48,2 MB/512 MB -  > Field not mapped
+08-12-2024 11:19:03 - DEBUG - 8.6.4 - 48,2 MB/512 MB -  > Field not mapped
+08-12-2024 11:19:03 - DEBUG - 8.6.4 - 48,2 MB/512 MB -  > Field not mapped
+08-12-2024 11:19:03 - DEBUG - 8.6.4 - 48,2 MB/512 MB -  > Array
+(
+    [0] => 9
+)
+
+09-12-2024 22:35:05 - INFO  - 8.6.4 - 141,7 MB/ - [cron] > Weekly check for elementor
+16-12-2024 22:35:04 - INFO  - 8.6.4 - 128,1 MB/ - [cron] > Weekly check for elementor
+23-12-2024 22:35:15 - INFO  - 8.6.4 - 128,1 MB/ - [cron] > Weekly check for elementor
+30-12-2024 22:35:06 - INFO  - 8.6.4 - 128,1 MB/ - [cron] > Weekly check for elementor

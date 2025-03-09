@@ -1,0 +1,3032 @@
+01-03-2025 02:58:16 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > TNP_Subscription Object
+(
+    [data] => TNP_Subscription_Data Object
+        (
+            [email] => efarinapoveda@gmail.com
+            [name] => 
+            [surname] => 
+            [sex] => 
+            [language] => 
+            [referrer] => popup
+            [http_referer] => https://heroesdecavite.es/
+            [ip] => 
+            [country] => 
+            [region] => 
+            [city] => 
+            [wp_user_id] => 0
+            [lists] => Array
+                (
+                    [3] => 1
+                )
+
+            [profiles] => Array
+                (
+                )
+
+        )
+
+    [spamcheck] => 1
+    [floodcheck] => 1
+    [optin] => single
+    [if_exists] => 2
+    [send_emails] => 1
+    [welcome_email_id] => 0
+    [welcome_page_id] => 0
+    [autoresponders] => Array
+        (
+        )
+
+)
+
+01-03-2025 02:58:16 - DEBUG - 8.7.0 - 15,3 MB/2 GB -  > stdClass Object
+(
+    [id] => 4287
+    [email] => efarinapoveda@gmail.com
+    [name] => 
+    [token] => 5fc41d1535
+    [language] => 
+    [status] => C
+    [created] => 2025-03-01 01:58:16
+    [updated] => 1740794296
+    [last_activity] => 0
+    [surname] => 
+    [sex] => n
+    [feed_time] => 0
+    [feed] => 0
+    [referrer] => popup
+    [ip] => 85.48.187.98
+    [wp_user_id] => 0
+    [source] => 
+    [http_referer] => 
+    [geo] => 0
+    [country] => 
+    [region] => 
+    [city] => 
+    [bounce_type] => 
+    [bounce_time] => 0
+    [unsub_email_id] => 0
+    [unsub_time] => 0
+    [list_1] => 0
+    [list_2] => 0
+    [list_3] => 1
+    [list_4] => 0
+    [list_5] => 0
+    [list_6] => 0
+    [list_7] => 0
+    [list_8] => 0
+    [list_9] => 0
+    [list_10] => 0
+    [list_11] => 0
+    [list_12] => 0
+    [list_13] => 0
+    [list_14] => 0
+    [list_15] => 0
+    [list_16] => 0
+    [list_17] => 0
+    [list_18] => 0
+    [list_19] => 0
+    [list_20] => 0
+    [list_21] => 0
+    [list_22] => 0
+    [list_23] => 0
+    [list_24] => 0
+    [list_25] => 0
+    [list_26] => 0
+    [list_27] => 0
+    [list_28] => 0
+    [list_29] => 0
+    [list_30] => 0
+    [list_31] => 0
+    [list_32] => 0
+    [list_33] => 0
+    [list_34] => 0
+    [list_35] => 0
+    [list_36] => 0
+    [list_37] => 0
+    [list_38] => 0
+    [list_39] => 0
+    [list_40] => 0
+    [profile_1] => 
+    [profile_2] => 
+    [profile_3] => 
+    [profile_4] => 
+    [profile_5] => 
+    [profile_6] => 
+    [profile_7] => 
+    [profile_8] => 
+    [profile_9] => 
+    [profile_10] => 
+    [profile_11] => 
+    [profile_12] => 
+    [profile_13] => 
+    [profile_14] => 
+    [profile_15] => 
+    [profile_16] => 
+    [profile_17] => 
+    [profile_18] => 
+    [profile_19] => 
+    [profile_20] => 
+    [test] => 0
+    [_new] => 1
+    [_trusted] => 1
+    [_activation] => 
+)
+
+01-03-2025 19:06:50 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > TNP_Subscription Object
+(
+    [data] => TNP_Subscription_Data Object
+        (
+            [email] => iarizacrespo@gmail.com
+            [name] => 
+            [surname] => 
+            [sex] => 
+            [language] => 
+            [referrer] => popup
+            [http_referer] => https://heroesdecavite.es/gibraltar/
+            [ip] => 
+            [country] => 
+            [region] => 
+            [city] => 
+            [wp_user_id] => 0
+            [lists] => Array
+                (
+                    [3] => 1
+                )
+
+            [profiles] => Array
+                (
+                )
+
+        )
+
+    [spamcheck] => 1
+    [floodcheck] => 1
+    [optin] => single
+    [if_exists] => 2
+    [send_emails] => 1
+    [welcome_email_id] => 0
+    [welcome_page_id] => 0
+    [autoresponders] => Array
+        (
+        )
+
+)
+
+01-03-2025 19:06:50 - DEBUG - 8.7.0 - 15,3 MB/2 GB -  > stdClass Object
+(
+    [id] => 4288
+    [email] => iarizacrespo@gmail.com
+    [name] => 
+    [token] => 03eaa8baa6
+    [language] => 
+    [status] => C
+    [created] => 2025-03-01 18:06:50
+    [updated] => 1740852410
+    [last_activity] => 0
+    [surname] => 
+    [sex] => n
+    [feed_time] => 0
+    [feed] => 0
+    [referrer] => popup
+    [ip] => 84.78.242.249
+    [wp_user_id] => 0
+    [source] => 
+    [http_referer] => 
+    [geo] => 0
+    [country] => 
+    [region] => 
+    [city] => 
+    [bounce_type] => 
+    [bounce_time] => 0
+    [unsub_email_id] => 0
+    [unsub_time] => 0
+    [list_1] => 0
+    [list_2] => 0
+    [list_3] => 1
+    [list_4] => 0
+    [list_5] => 0
+    [list_6] => 0
+    [list_7] => 0
+    [list_8] => 0
+    [list_9] => 0
+    [list_10] => 0
+    [list_11] => 0
+    [list_12] => 0
+    [list_13] => 0
+    [list_14] => 0
+    [list_15] => 0
+    [list_16] => 0
+    [list_17] => 0
+    [list_18] => 0
+    [list_19] => 0
+    [list_20] => 0
+    [list_21] => 0
+    [list_22] => 0
+    [list_23] => 0
+    [list_24] => 0
+    [list_25] => 0
+    [list_26] => 0
+    [list_27] => 0
+    [list_28] => 0
+    [list_29] => 0
+    [list_30] => 0
+    [list_31] => 0
+    [list_32] => 0
+    [list_33] => 0
+    [list_34] => 0
+    [list_35] => 0
+    [list_36] => 0
+    [list_37] => 0
+    [list_38] => 0
+    [list_39] => 0
+    [list_40] => 0
+    [profile_1] => 
+    [profile_2] => 
+    [profile_3] => 
+    [profile_4] => 
+    [profile_5] => 
+    [profile_6] => 
+    [profile_7] => 
+    [profile_8] => 
+    [profile_9] => 
+    [profile_10] => 
+    [profile_11] => 
+    [profile_12] => 
+    [profile_13] => 
+    [profile_14] => 
+    [profile_15] => 
+    [profile_16] => 
+    [profile_17] => 
+    [profile_18] => 
+    [profile_19] => 
+    [profile_20] => 
+    [test] => 0
+    [_new] => 1
+    [_trusted] => 1
+    [_activation] => 
+)
+
+02-03-2025 10:06:39 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > TNP_Subscription Object
+(
+    [data] => TNP_Subscription_Data Object
+        (
+            [email] => jidufur1969@gmail.com
+            [name] => 
+            [surname] => 
+            [sex] => 
+            [language] => 
+            [referrer] => popup
+            [http_referer] => https://heroesdecavite.es/
+            [ip] => 
+            [country] => 
+            [region] => 
+            [city] => 
+            [wp_user_id] => 0
+            [lists] => Array
+                (
+                    [3] => 1
+                )
+
+            [profiles] => Array
+                (
+                )
+
+        )
+
+    [spamcheck] => 1
+    [floodcheck] => 1
+    [optin] => single
+    [if_exists] => 2
+    [send_emails] => 1
+    [welcome_email_id] => 0
+    [welcome_page_id] => 0
+    [autoresponders] => Array
+        (
+        )
+
+)
+
+02-03-2025 10:06:39 - DEBUG - 8.7.0 - 15,3 MB/2 GB -  > stdClass Object
+(
+    [id] => 4289
+    [email] => jidufur1969@gmail.com
+    [name] => 
+    [token] => 84d2922e93
+    [language] => 
+    [status] => C
+    [created] => 2025-03-02 09:06:39
+    [updated] => 1740906399
+    [last_activity] => 0
+    [surname] => 
+    [sex] => n
+    [feed_time] => 0
+    [feed] => 0
+    [referrer] => popup
+    [ip] => 90.160.158.52
+    [wp_user_id] => 0
+    [source] => 
+    [http_referer] => 
+    [geo] => 0
+    [country] => 
+    [region] => 
+    [city] => 
+    [bounce_type] => 
+    [bounce_time] => 0
+    [unsub_email_id] => 0
+    [unsub_time] => 0
+    [list_1] => 0
+    [list_2] => 0
+    [list_3] => 1
+    [list_4] => 0
+    [list_5] => 0
+    [list_6] => 0
+    [list_7] => 0
+    [list_8] => 0
+    [list_9] => 0
+    [list_10] => 0
+    [list_11] => 0
+    [list_12] => 0
+    [list_13] => 0
+    [list_14] => 0
+    [list_15] => 0
+    [list_16] => 0
+    [list_17] => 0
+    [list_18] => 0
+    [list_19] => 0
+    [list_20] => 0
+    [list_21] => 0
+    [list_22] => 0
+    [list_23] => 0
+    [list_24] => 0
+    [list_25] => 0
+    [list_26] => 0
+    [list_27] => 0
+    [list_28] => 0
+    [list_29] => 0
+    [list_30] => 0
+    [list_31] => 0
+    [list_32] => 0
+    [list_33] => 0
+    [list_34] => 0
+    [list_35] => 0
+    [list_36] => 0
+    [list_37] => 0
+    [list_38] => 0
+    [list_39] => 0
+    [list_40] => 0
+    [profile_1] => 
+    [profile_2] => 
+    [profile_3] => 
+    [profile_4] => 
+    [profile_5] => 
+    [profile_6] => 
+    [profile_7] => 
+    [profile_8] => 
+    [profile_9] => 
+    [profile_10] => 
+    [profile_11] => 
+    [profile_12] => 
+    [profile_13] => 
+    [profile_14] => 
+    [profile_15] => 
+    [profile_16] => 
+    [profile_17] => 
+    [profile_18] => 
+    [profile_19] => 
+    [profile_20] => 
+    [test] => 0
+    [_new] => 1
+    [_trusted] => 1
+    [_activation] => 
+)
+
+02-03-2025 10:06:41 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > TNP_Subscription Object
+(
+    [data] => TNP_Subscription_Data Object
+        (
+            [email] => jidufur1969@gmail.com
+            [name] => 
+            [surname] => 
+            [sex] => 
+            [language] => 
+            [referrer] => popup
+            [http_referer] => https://heroesdecavite.es/
+            [ip] => 
+            [country] => 
+            [region] => 
+            [city] => 
+            [wp_user_id] => 0
+            [lists] => Array
+                (
+                    [3] => 1
+                )
+
+            [profiles] => Array
+                (
+                )
+
+        )
+
+    [spamcheck] => 1
+    [floodcheck] => 1
+    [optin] => single
+    [if_exists] => 2
+    [send_emails] => 1
+    [welcome_email_id] => 0
+    [welcome_page_id] => 0
+    [autoresponders] => Array
+        (
+        )
+
+)
+
+02-03-2025 13:05:32 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > TNP_Subscription Object
+(
+    [data] => TNP_Subscription_Data Object
+        (
+            [email] => Albert_pas@yahoo.com
+            [name] => 
+            [surname] => 
+            [sex] => 
+            [language] => 
+            [referrer] => popup
+            [http_referer] => https://heroesdecavite.es/
+            [ip] => 
+            [country] => 
+            [region] => 
+            [city] => 
+            [wp_user_id] => 0
+            [lists] => Array
+                (
+                    [3] => 1
+                )
+
+            [profiles] => Array
+                (
+                )
+
+        )
+
+    [spamcheck] => 1
+    [floodcheck] => 1
+    [optin] => single
+    [if_exists] => 2
+    [send_emails] => 1
+    [welcome_email_id] => 0
+    [welcome_page_id] => 0
+    [autoresponders] => Array
+        (
+        )
+
+)
+
+02-03-2025 13:05:32 - DEBUG - 8.7.0 - 15,3 MB/2 GB -  > stdClass Object
+(
+    [id] => 4290
+    [email] => albert_pas@yahoo.com
+    [name] => 
+    [token] => be2c5db503
+    [language] => 
+    [status] => C
+    [created] => 2025-03-02 12:05:32
+    [updated] => 1740917132
+    [last_activity] => 0
+    [surname] => 
+    [sex] => n
+    [feed_time] => 0
+    [feed] => 0
+    [referrer] => popup
+    [ip] => 31.4.211.215
+    [wp_user_id] => 0
+    [source] => 
+    [http_referer] => 
+    [geo] => 0
+    [country] => 
+    [region] => 
+    [city] => 
+    [bounce_type] => 
+    [bounce_time] => 0
+    [unsub_email_id] => 0
+    [unsub_time] => 0
+    [list_1] => 0
+    [list_2] => 0
+    [list_3] => 1
+    [list_4] => 0
+    [list_5] => 0
+    [list_6] => 0
+    [list_7] => 0
+    [list_8] => 0
+    [list_9] => 0
+    [list_10] => 0
+    [list_11] => 0
+    [list_12] => 0
+    [list_13] => 0
+    [list_14] => 0
+    [list_15] => 0
+    [list_16] => 0
+    [list_17] => 0
+    [list_18] => 0
+    [list_19] => 0
+    [list_20] => 0
+    [list_21] => 0
+    [list_22] => 0
+    [list_23] => 0
+    [list_24] => 0
+    [list_25] => 0
+    [list_26] => 0
+    [list_27] => 0
+    [list_28] => 0
+    [list_29] => 0
+    [list_30] => 0
+    [list_31] => 0
+    [list_32] => 0
+    [list_33] => 0
+    [list_34] => 0
+    [list_35] => 0
+    [list_36] => 0
+    [list_37] => 0
+    [list_38] => 0
+    [list_39] => 0
+    [list_40] => 0
+    [profile_1] => 
+    [profile_2] => 
+    [profile_3] => 
+    [profile_4] => 
+    [profile_5] => 
+    [profile_6] => 
+    [profile_7] => 
+    [profile_8] => 
+    [profile_9] => 
+    [profile_10] => 
+    [profile_11] => 
+    [profile_12] => 
+    [profile_13] => 
+    [profile_14] => 
+    [profile_15] => 
+    [profile_16] => 
+    [profile_17] => 
+    [profile_18] => 
+    [profile_19] => 
+    [profile_20] => 
+    [test] => 0
+    [_new] => 1
+    [_trusted] => 1
+    [_activation] => 
+)
+
+02-03-2025 13:19:32 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > TNP_Subscription Object
+(
+    [data] => TNP_Subscription_Data Object
+        (
+            [email] => navarroisrael@hotmail.com
+            [name] => 
+            [surname] => 
+            [sex] => 
+            [language] => 
+            [referrer] => popup
+            [http_referer] => https://heroesdecavite.es/
+            [ip] => 
+            [country] => 
+            [region] => 
+            [city] => 
+            [wp_user_id] => 0
+            [lists] => Array
+                (
+                    [3] => 1
+                )
+
+            [profiles] => Array
+                (
+                )
+
+        )
+
+    [spamcheck] => 1
+    [floodcheck] => 1
+    [optin] => single
+    [if_exists] => 2
+    [send_emails] => 1
+    [welcome_email_id] => 0
+    [welcome_page_id] => 0
+    [autoresponders] => Array
+        (
+        )
+
+)
+
+02-03-2025 13:19:32 - DEBUG - 8.7.0 - 15,3 MB/2 GB -  > stdClass Object
+(
+    [id] => 4291
+    [email] => navarroisrael@hotmail.com
+    [name] => 
+    [token] => e5a845e3f8
+    [language] => 
+    [status] => C
+    [created] => 2025-03-02 12:19:32
+    [updated] => 1740917972
+    [last_activity] => 0
+    [surname] => 
+    [sex] => n
+    [feed_time] => 0
+    [feed] => 0
+    [referrer] => popup
+    [ip] => 81.60.147.83
+    [wp_user_id] => 0
+    [source] => 
+    [http_referer] => 
+    [geo] => 0
+    [country] => 
+    [region] => 
+    [city] => 
+    [bounce_type] => 
+    [bounce_time] => 0
+    [unsub_email_id] => 0
+    [unsub_time] => 0
+    [list_1] => 0
+    [list_2] => 0
+    [list_3] => 1
+    [list_4] => 0
+    [list_5] => 0
+    [list_6] => 0
+    [list_7] => 0
+    [list_8] => 0
+    [list_9] => 0
+    [list_10] => 0
+    [list_11] => 0
+    [list_12] => 0
+    [list_13] => 0
+    [list_14] => 0
+    [list_15] => 0
+    [list_16] => 0
+    [list_17] => 0
+    [list_18] => 0
+    [list_19] => 0
+    [list_20] => 0
+    [list_21] => 0
+    [list_22] => 0
+    [list_23] => 0
+    [list_24] => 0
+    [list_25] => 0
+    [list_26] => 0
+    [list_27] => 0
+    [list_28] => 0
+    [list_29] => 0
+    [list_30] => 0
+    [list_31] => 0
+    [list_32] => 0
+    [list_33] => 0
+    [list_34] => 0
+    [list_35] => 0
+    [list_36] => 0
+    [list_37] => 0
+    [list_38] => 0
+    [list_39] => 0
+    [list_40] => 0
+    [profile_1] => 
+    [profile_2] => 
+    [profile_3] => 
+    [profile_4] => 
+    [profile_5] => 
+    [profile_6] => 
+    [profile_7] => 
+    [profile_8] => 
+    [profile_9] => 
+    [profile_10] => 
+    [profile_11] => 
+    [profile_12] => 
+    [profile_13] => 
+    [profile_14] => 
+    [profile_15] => 
+    [profile_16] => 
+    [profile_17] => 
+    [profile_18] => 
+    [profile_19] => 
+    [profile_20] => 
+    [test] => 0
+    [_new] => 1
+    [_trusted] => 1
+    [_activation] => 
+)
+
+02-03-2025 14:00:21 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > TNP_Subscription Object
+(
+    [data] => TNP_Subscription_Data Object
+        (
+            [email] => Barcenillabartolome@gmail.com
+            [name] => 
+            [surname] => 
+            [sex] => 
+            [language] => 
+            [referrer] => popup
+            [http_referer] => https://heroesdecavite.es/
+            [ip] => 
+            [country] => 
+            [region] => 
+            [city] => 
+            [wp_user_id] => 0
+            [lists] => Array
+                (
+                    [3] => 1
+                )
+
+            [profiles] => Array
+                (
+                )
+
+        )
+
+    [spamcheck] => 1
+    [floodcheck] => 1
+    [optin] => single
+    [if_exists] => 2
+    [send_emails] => 1
+    [welcome_email_id] => 0
+    [welcome_page_id] => 0
+    [autoresponders] => Array
+        (
+        )
+
+)
+
+02-03-2025 14:00:21 - DEBUG - 8.7.0 - 15,3 MB/2 GB -  > stdClass Object
+(
+    [id] => 4292
+    [email] => barcenillabartolome@gmail.com
+    [name] => 
+    [token] => c12213f533
+    [language] => 
+    [status] => C
+    [created] => 2025-03-02 13:00:21
+    [updated] => 1740920421
+    [last_activity] => 0
+    [surname] => 
+    [sex] => n
+    [feed_time] => 0
+    [feed] => 0
+    [referrer] => popup
+    [ip] => 92.189.255.14
+    [wp_user_id] => 0
+    [source] => 
+    [http_referer] => 
+    [geo] => 0
+    [country] => 
+    [region] => 
+    [city] => 
+    [bounce_type] => 
+    [bounce_time] => 0
+    [unsub_email_id] => 0
+    [unsub_time] => 0
+    [list_1] => 0
+    [list_2] => 0
+    [list_3] => 1
+    [list_4] => 0
+    [list_5] => 0
+    [list_6] => 0
+    [list_7] => 0
+    [list_8] => 0
+    [list_9] => 0
+    [list_10] => 0
+    [list_11] => 0
+    [list_12] => 0
+    [list_13] => 0
+    [list_14] => 0
+    [list_15] => 0
+    [list_16] => 0
+    [list_17] => 0
+    [list_18] => 0
+    [list_19] => 0
+    [list_20] => 0
+    [list_21] => 0
+    [list_22] => 0
+    [list_23] => 0
+    [list_24] => 0
+    [list_25] => 0
+    [list_26] => 0
+    [list_27] => 0
+    [list_28] => 0
+    [list_29] => 0
+    [list_30] => 0
+    [list_31] => 0
+    [list_32] => 0
+    [list_33] => 0
+    [list_34] => 0
+    [list_35] => 0
+    [list_36] => 0
+    [list_37] => 0
+    [list_38] => 0
+    [list_39] => 0
+    [list_40] => 0
+    [profile_1] => 
+    [profile_2] => 
+    [profile_3] => 
+    [profile_4] => 
+    [profile_5] => 
+    [profile_6] => 
+    [profile_7] => 
+    [profile_8] => 
+    [profile_9] => 
+    [profile_10] => 
+    [profile_11] => 
+    [profile_12] => 
+    [profile_13] => 
+    [profile_14] => 
+    [profile_15] => 
+    [profile_16] => 
+    [profile_17] => 
+    [profile_18] => 
+    [profile_19] => 
+    [profile_20] => 
+    [test] => 0
+    [_new] => 1
+    [_trusted] => 1
+    [_activation] => 
+)
+
+02-03-2025 14:00:22 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > TNP_Subscription Object
+(
+    [data] => TNP_Subscription_Data Object
+        (
+            [email] => Barcenillabartolome@gmail.com
+            [name] => 
+            [surname] => 
+            [sex] => 
+            [language] => 
+            [referrer] => popup
+            [http_referer] => https://heroesdecavite.es/
+            [ip] => 
+            [country] => 
+            [region] => 
+            [city] => 
+            [wp_user_id] => 0
+            [lists] => Array
+                (
+                    [3] => 1
+                )
+
+            [profiles] => Array
+                (
+                )
+
+        )
+
+    [spamcheck] => 1
+    [floodcheck] => 1
+    [optin] => single
+    [if_exists] => 2
+    [send_emails] => 1
+    [welcome_email_id] => 0
+    [welcome_page_id] => 0
+    [autoresponders] => Array
+        (
+        )
+
+)
+
+03-03-2025 11:38:42 - DEBUG - 8.7.0 - 18,0 MB/2 GB -  > TNP_Subscription Object
+(
+    [data] => TNP_Subscription_Data Object
+        (
+            [email] => gulla.susana@gmail.com
+            [name] => Susana Beatriz
+            [surname] => Gulla Cisneros
+            [sex] => 
+            [language] => 
+            [referrer] => cf7-14812
+            [http_referer] => 
+            [ip] => 
+            [country] => 
+            [region] => 
+            [city] => 
+            [wp_user_id] => 0
+            [lists] => Array
+                (
+                    [3] => 1
+                    [6] => 1
+                )
+
+            [profiles] => Array
+                (
+                )
+
+        )
+
+    [spamcheck] => 1
+    [floodcheck] => 
+    [optin] => single
+    [if_exists] => 2
+    [send_emails] => 1
+    [welcome_email_id] => 0
+    [welcome_page_id] => 0
+    [autoresponders] => Array
+        (
+        )
+
+)
+
+03-03-2025 11:38:42 - DEBUG - 8.7.0 - 18,2 MB/2 GB -  > stdClass Object
+(
+    [id] => 4293
+    [email] => gulla.susana@gmail.com
+    [name] => Susana Beatriz
+    [token] => fe03ba430b
+    [language] => 
+    [status] => C
+    [created] => 2025-03-03 10:38:42
+    [updated] => 1740998322
+    [last_activity] => 0
+    [surname] => Gulla Cisneros
+    [sex] => n
+    [feed_time] => 0
+    [feed] => 0
+    [referrer] => cf7-14812
+    [ip] => 2800:a4:16ee:ca00:a1b7:c473:7f1e:348a
+    [wp_user_id] => 0
+    [source] => 
+    [http_referer] => 
+    [geo] => 0
+    [country] => 
+    [region] => 
+    [city] => 
+    [bounce_type] => 
+    [bounce_time] => 0
+    [unsub_email_id] => 0
+    [unsub_time] => 0
+    [list_1] => 0
+    [list_2] => 0
+    [list_3] => 1
+    [list_4] => 0
+    [list_5] => 0
+    [list_6] => 1
+    [list_7] => 0
+    [list_8] => 0
+    [list_9] => 0
+    [list_10] => 0
+    [list_11] => 0
+    [list_12] => 0
+    [list_13] => 0
+    [list_14] => 0
+    [list_15] => 0
+    [list_16] => 0
+    [list_17] => 0
+    [list_18] => 0
+    [list_19] => 0
+    [list_20] => 0
+    [list_21] => 0
+    [list_22] => 0
+    [list_23] => 0
+    [list_24] => 0
+    [list_25] => 0
+    [list_26] => 0
+    [list_27] => 0
+    [list_28] => 0
+    [list_29] => 0
+    [list_30] => 0
+    [list_31] => 0
+    [list_32] => 0
+    [list_33] => 0
+    [list_34] => 0
+    [list_35] => 0
+    [list_36] => 0
+    [list_37] => 0
+    [list_38] => 0
+    [list_39] => 0
+    [list_40] => 0
+    [profile_1] => 
+    [profile_2] => 
+    [profile_3] => 
+    [profile_4] => 
+    [profile_5] => 
+    [profile_6] => 
+    [profile_7] => 
+    [profile_8] => 
+    [profile_9] => 
+    [profile_10] => 
+    [profile_11] => 
+    [profile_12] => 
+    [profile_13] => 
+    [profile_14] => 
+    [profile_15] => 
+    [profile_16] => 
+    [profile_17] => 
+    [profile_18] => 
+    [profile_19] => 
+    [profile_20] => 
+    [test] => 0
+    [_new] => 1
+    [_trusted] => 1
+    [_activation] => 
+)
+
+03-03-2025 11:43:40 - DEBUG - 8.7.0 - 18,0 MB/2 GB -  > TNP_Subscription Object
+(
+    [data] => TNP_Subscription_Data Object
+        (
+            [email] => gulla.susana@gmail.com
+            [name] => Susana Gulla Cisneros
+            [surname] => 
+            [sex] => 
+            [language] => 
+            [referrer] => cf7-17408
+            [http_referer] => 
+            [ip] => 
+            [country] => 
+            [region] => 
+            [city] => 
+            [wp_user_id] => 0
+            [lists] => Array
+                (
+                    [3] => 1
+                )
+
+            [profiles] => Array
+                (
+                )
+
+        )
+
+    [spamcheck] => 1
+    [floodcheck] => 
+    [optin] => single
+    [if_exists] => 2
+    [send_emails] => 1
+    [welcome_email_id] => 0
+    [welcome_page_id] => 0
+    [autoresponders] => Array
+        (
+        )
+
+)
+
+03-03-2025 11:43:40 - INFO  - 8.7.0 - 18,0 MB/2 GB -  > Existing subscriber: C
+03-03-2025 11:43:40 - DEBUG - 8.7.0 - 18,1 MB/2 GB -  > stdClass Object
+(
+    [id] => 4293
+    [email] => gulla.susana@gmail.com
+    [name] => Susana Gulla Cisneros
+    [token] => fe03ba430b
+    [language] => 
+    [status] => C
+    [created] => 2025-03-03 10:38:42
+    [updated] => 1740998620
+    [last_activity] => 0
+    [surname] => Gulla Cisneros
+    [sex] => n
+    [feed_time] => 0
+    [feed] => 0
+    [referrer] => cf7-17408
+    [ip] => 2800:a4:16ee:ca00:a1b7:c473:7f1e:348a
+    [wp_user_id] => 0
+    [source] => 
+    [http_referer] => 
+    [geo] => 0
+    [country] => 
+    [region] => 
+    [city] => 
+    [bounce_type] => 
+    [bounce_time] => 0
+    [unsub_email_id] => 0
+    [unsub_time] => 0
+    [list_1] => 0
+    [list_2] => 0
+    [list_3] => 1
+    [list_4] => 0
+    [list_5] => 0
+    [list_6] => 1
+    [list_7] => 0
+    [list_8] => 0
+    [list_9] => 0
+    [list_10] => 0
+    [list_11] => 0
+    [list_12] => 0
+    [list_13] => 0
+    [list_14] => 0
+    [list_15] => 0
+    [list_16] => 0
+    [list_17] => 0
+    [list_18] => 0
+    [list_19] => 0
+    [list_20] => 0
+    [list_21] => 0
+    [list_22] => 0
+    [list_23] => 0
+    [list_24] => 0
+    [list_25] => 0
+    [list_26] => 0
+    [list_27] => 0
+    [list_28] => 0
+    [list_29] => 0
+    [list_30] => 0
+    [list_31] => 0
+    [list_32] => 0
+    [list_33] => 0
+    [list_34] => 0
+    [list_35] => 0
+    [list_36] => 0
+    [list_37] => 0
+    [list_38] => 0
+    [list_39] => 0
+    [list_40] => 0
+    [profile_1] => 
+    [profile_2] => 
+    [profile_3] => 
+    [profile_4] => 
+    [profile_5] => 
+    [profile_6] => 
+    [profile_7] => 
+    [profile_8] => 
+    [profile_9] => 
+    [profile_10] => 
+    [profile_11] => 
+    [profile_12] => 
+    [profile_13] => 
+    [profile_14] => 
+    [profile_15] => 
+    [profile_16] => 
+    [profile_17] => 
+    [profile_18] => 
+    [profile_19] => 
+    [profile_20] => 
+    [test] => 0
+    [_activation] => 
+    [_trusted] => 
+    [_new] => 
+)
+
+03-03-2025 12:10:42 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > TNP_Subscription Object
+(
+    [data] => TNP_Subscription_Data Object
+        (
+            [email] => mariodelariva@hotmail.com
+            [name] => 
+            [surname] => 
+            [sex] => 
+            [language] => 
+            [referrer] => popup
+            [http_referer] => https://heroesdecavite.es/muchas-gracias-cuotas/
+            [ip] => 
+            [country] => 
+            [region] => 
+            [city] => 
+            [wp_user_id] => 0
+            [lists] => Array
+                (
+                    [3] => 1
+                )
+
+            [profiles] => Array
+                (
+                )
+
+        )
+
+    [spamcheck] => 1
+    [floodcheck] => 1
+    [optin] => single
+    [if_exists] => 2
+    [send_emails] => 1
+    [welcome_email_id] => 0
+    [welcome_page_id] => 0
+    [autoresponders] => Array
+        (
+        )
+
+)
+
+03-03-2025 12:10:42 - INFO  - 8.7.0 - 15,2 MB/2 GB -  > Existing subscriber: C
+03-03-2025 12:10:42 - DEBUG - 8.7.0 - 15,3 MB/2 GB -  > stdClass Object
+(
+    [id] => 3107
+    [email] => mariodelariva@hotmail.com
+    [name] => Mario
+    [token] => 462a00983e
+    [language] => 
+    [status] => C
+    [created] => 2024-05-30 22:16:43
+    [updated] => 1741000242
+    [last_activity] => 0
+    [surname] => de la Riva Rodríguez
+    [sex] => n
+    [feed_time] => 0
+    [feed] => 0
+    [referrer] => popup
+    [ip] => 81.191.29.200
+    [wp_user_id] => 0
+    [source] => 
+    [http_referer] => 
+    [geo] => 0
+    [country] => ES
+    [region] => León
+    [city] => Trobajo del Camino
+    [bounce_type] => 
+    [bounce_time] => 0
+    [unsub_email_id] => 0
+    [unsub_time] => 0
+    [list_1] => 0
+    [list_2] => 0
+    [list_3] => 1
+    [list_4] => 0
+    [list_5] => 0
+    [list_6] => 0
+    [list_7] => 0
+    [list_8] => 1
+    [list_9] => 0
+    [list_10] => 0
+    [list_11] => 0
+    [list_12] => 0
+    [list_13] => 0
+    [list_14] => 1
+    [list_15] => 0
+    [list_16] => 0
+    [list_17] => 0
+    [list_18] => 0
+    [list_19] => 0
+    [list_20] => 0
+    [list_21] => 0
+    [list_22] => 0
+    [list_23] => 0
+    [list_24] => 0
+    [list_25] => 0
+    [list_26] => 0
+    [list_27] => 0
+    [list_28] => 0
+    [list_29] => 0
+    [list_30] => 0
+    [list_31] => 0
+    [list_32] => 0
+    [list_33] => 0
+    [list_34] => 0
+    [list_35] => 0
+    [list_36] => 0
+    [list_37] => 0
+    [list_38] => 0
+    [list_39] => 0
+    [list_40] => 0
+    [profile_1] => 
+    [profile_2] => es
+    [profile_3] => León
+    [profile_4] => Trobajo del Camino
+    [profile_5] => 183
+    [profile_6] => 23/05/2024
+    [profile_7] => 380
+    [profile_8] => 
+    [profile_9] => 
+    [profile_10] => 
+    [profile_11] => 
+    [profile_12] => 
+    [profile_13] => 
+    [profile_14] => 
+    [profile_15] => 
+    [profile_16] => 
+    [profile_17] => 
+    [profile_18] => 
+    [profile_19] => 
+    [profile_20] => 
+    [test] => 0
+    [_activation] => 
+    [_trusted] => 
+    [_new] => 
+)
+
+03-03-2025 18:49:27 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > TNP_Subscription Object
+(
+    [data] => TNP_Subscription_Data Object
+        (
+            [email] => cdgad24@gmail.com
+            [name] => 
+            [surname] => 
+            [sex] => 
+            [language] => 
+            [referrer] => popup
+            [http_referer] => https://heroesdecavite.es/
+            [ip] => 
+            [country] => 
+            [region] => 
+            [city] => 
+            [wp_user_id] => 0
+            [lists] => Array
+                (
+                    [3] => 1
+                )
+
+            [profiles] => Array
+                (
+                )
+
+        )
+
+    [spamcheck] => 1
+    [floodcheck] => 1
+    [optin] => single
+    [if_exists] => 2
+    [send_emails] => 1
+    [welcome_email_id] => 0
+    [welcome_page_id] => 0
+    [autoresponders] => Array
+        (
+        )
+
+)
+
+03-03-2025 18:49:27 - DEBUG - 8.7.0 - 15,3 MB/2 GB -  > stdClass Object
+(
+    [id] => 4294
+    [email] => cdgad24@gmail.com
+    [name] => 
+    [token] => 9317d44a6b
+    [language] => 
+    [status] => C
+    [created] => 2025-03-03 17:49:27
+    [updated] => 1741024167
+    [last_activity] => 0
+    [surname] => 
+    [sex] => n
+    [feed_time] => 0
+    [feed] => 0
+    [referrer] => popup
+    [ip] => 79.109.92.32
+    [wp_user_id] => 0
+    [source] => 
+    [http_referer] => 
+    [geo] => 0
+    [country] => 
+    [region] => 
+    [city] => 
+    [bounce_type] => 
+    [bounce_time] => 0
+    [unsub_email_id] => 0
+    [unsub_time] => 0
+    [list_1] => 0
+    [list_2] => 0
+    [list_3] => 1
+    [list_4] => 0
+    [list_5] => 0
+    [list_6] => 0
+    [list_7] => 0
+    [list_8] => 0
+    [list_9] => 0
+    [list_10] => 0
+    [list_11] => 0
+    [list_12] => 0
+    [list_13] => 0
+    [list_14] => 0
+    [list_15] => 0
+    [list_16] => 0
+    [list_17] => 0
+    [list_18] => 0
+    [list_19] => 0
+    [list_20] => 0
+    [list_21] => 0
+    [list_22] => 0
+    [list_23] => 0
+    [list_24] => 0
+    [list_25] => 0
+    [list_26] => 0
+    [list_27] => 0
+    [list_28] => 0
+    [list_29] => 0
+    [list_30] => 0
+    [list_31] => 0
+    [list_32] => 0
+    [list_33] => 0
+    [list_34] => 0
+    [list_35] => 0
+    [list_36] => 0
+    [list_37] => 0
+    [list_38] => 0
+    [list_39] => 0
+    [list_40] => 0
+    [profile_1] => 
+    [profile_2] => 
+    [profile_3] => 
+    [profile_4] => 
+    [profile_5] => 
+    [profile_6] => 
+    [profile_7] => 
+    [profile_8] => 
+    [profile_9] => 
+    [profile_10] => 
+    [profile_11] => 
+    [profile_12] => 
+    [profile_13] => 
+    [profile_14] => 
+    [profile_15] => 
+    [profile_16] => 
+    [profile_17] => 
+    [profile_18] => 
+    [profile_19] => 
+    [profile_20] => 
+    [test] => 0
+    [_new] => 1
+    [_trusted] => 1
+    [_activation] => 
+)
+
+03-03-2025 22:27:00 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > TNP_Subscription Object
+(
+    [data] => TNP_Subscription_Data Object
+        (
+            [email] => engau7@gmail.com
+            [name] => 
+            [surname] => 
+            [sex] => 
+            [language] => 
+            [referrer] => popup
+            [http_referer] => https://heroesdecavite.es/la-asociacion/
+            [ip] => 
+            [country] => 
+            [region] => 
+            [city] => 
+            [wp_user_id] => 0
+            [lists] => Array
+                (
+                    [3] => 1
+                )
+
+            [profiles] => Array
+                (
+                )
+
+        )
+
+    [spamcheck] => 1
+    [floodcheck] => 1
+    [optin] => single
+    [if_exists] => 2
+    [send_emails] => 1
+    [welcome_email_id] => 0
+    [welcome_page_id] => 0
+    [autoresponders] => Array
+        (
+        )
+
+)
+
+03-03-2025 22:27:00 - DEBUG - 8.7.0 - 15,3 MB/2 GB -  > stdClass Object
+(
+    [id] => 4295
+    [email] => engau7@gmail.com
+    [name] => 
+    [token] => 8e3d4a8642
+    [language] => 
+    [status] => C
+    [created] => 2025-03-03 21:27:00
+    [updated] => 1741037220
+    [last_activity] => 0
+    [surname] => 
+    [sex] => n
+    [feed_time] => 0
+    [feed] => 0
+    [referrer] => popup
+    [ip] => 79.150.17.169
+    [wp_user_id] => 0
+    [source] => 
+    [http_referer] => 
+    [geo] => 0
+    [country] => 
+    [region] => 
+    [city] => 
+    [bounce_type] => 
+    [bounce_time] => 0
+    [unsub_email_id] => 0
+    [unsub_time] => 0
+    [list_1] => 0
+    [list_2] => 0
+    [list_3] => 1
+    [list_4] => 0
+    [list_5] => 0
+    [list_6] => 0
+    [list_7] => 0
+    [list_8] => 0
+    [list_9] => 0
+    [list_10] => 0
+    [list_11] => 0
+    [list_12] => 0
+    [list_13] => 0
+    [list_14] => 0
+    [list_15] => 0
+    [list_16] => 0
+    [list_17] => 0
+    [list_18] => 0
+    [list_19] => 0
+    [list_20] => 0
+    [list_21] => 0
+    [list_22] => 0
+    [list_23] => 0
+    [list_24] => 0
+    [list_25] => 0
+    [list_26] => 0
+    [list_27] => 0
+    [list_28] => 0
+    [list_29] => 0
+    [list_30] => 0
+    [list_31] => 0
+    [list_32] => 0
+    [list_33] => 0
+    [list_34] => 0
+    [list_35] => 0
+    [list_36] => 0
+    [list_37] => 0
+    [list_38] => 0
+    [list_39] => 0
+    [list_40] => 0
+    [profile_1] => 
+    [profile_2] => 
+    [profile_3] => 
+    [profile_4] => 
+    [profile_5] => 
+    [profile_6] => 
+    [profile_7] => 
+    [profile_8] => 
+    [profile_9] => 
+    [profile_10] => 
+    [profile_11] => 
+    [profile_12] => 
+    [profile_13] => 
+    [profile_14] => 
+    [profile_15] => 
+    [profile_16] => 
+    [profile_17] => 
+    [profile_18] => 
+    [profile_19] => 
+    [profile_20] => 
+    [test] => 0
+    [_new] => 1
+    [_trusted] => 1
+    [_activation] => 
+)
+
+04-03-2025 04:17:24 - DEBUG - 8.7.0 - 39,4 MB/2 GB -  > TNP_Subscription Object
+(
+    [data] => TNP_Subscription_Data Object
+        (
+            [email] => soriano51@live.com
+            [name] => Alex
+            [surname] => Rosario Soriano
+            [sex] => 
+            [language] => 
+            [referrer] => elementor-New Form
+            [http_referer] => 
+            [ip] => 
+            [country] => 
+            [region] => 
+            [city] => 
+            [wp_user_id] => 0
+            [lists] => Array
+                (
+                    [9] => 1
+                )
+
+            [profiles] => Array
+                (
+                )
+
+        )
+
+    [spamcheck] => 1
+    [floodcheck] => 1
+    [optin] => single
+    [if_exists] => 2
+    [send_emails] => 1
+    [welcome_email_id] => 0
+    [welcome_page_id] => 0
+    [autoresponders] => Array
+        (
+        )
+
+)
+
+04-03-2025 04:17:24 - DEBUG - 8.7.0 - 39,5 MB/2 GB -  > stdClass Object
+(
+    [id] => 4296
+    [email] => soriano51@live.com
+    [name] => Alex
+    [token] => d4e2d2262d
+    [language] => 
+    [status] => C
+    [created] => 2025-03-04 03:17:24
+    [updated] => 1741058244
+    [last_activity] => 0
+    [surname] => Rosario Soriano
+    [sex] => n
+    [feed_time] => 0
+    [feed] => 0
+    [referrer] => elementor-New Form
+    [ip] => 2603:6081:7bf0:4030:c089:b978:2f9c:1498
+    [wp_user_id] => 0
+    [source] => 
+    [http_referer] => 
+    [geo] => 0
+    [country] => 
+    [region] => 
+    [city] => 
+    [bounce_type] => 
+    [bounce_time] => 0
+    [unsub_email_id] => 0
+    [unsub_time] => 0
+    [list_1] => 0
+    [list_2] => 0
+    [list_3] => 0
+    [list_4] => 0
+    [list_5] => 0
+    [list_6] => 0
+    [list_7] => 0
+    [list_8] => 0
+    [list_9] => 1
+    [list_10] => 0
+    [list_11] => 0
+    [list_12] => 0
+    [list_13] => 0
+    [list_14] => 0
+    [list_15] => 0
+    [list_16] => 0
+    [list_17] => 0
+    [list_18] => 0
+    [list_19] => 0
+    [list_20] => 0
+    [list_21] => 0
+    [list_22] => 0
+    [list_23] => 0
+    [list_24] => 0
+    [list_25] => 0
+    [list_26] => 0
+    [list_27] => 0
+    [list_28] => 0
+    [list_29] => 0
+    [list_30] => 0
+    [list_31] => 0
+    [list_32] => 0
+    [list_33] => 0
+    [list_34] => 0
+    [list_35] => 0
+    [list_36] => 0
+    [list_37] => 0
+    [list_38] => 0
+    [list_39] => 0
+    [list_40] => 0
+    [profile_1] => 
+    [profile_2] => 
+    [profile_3] => 
+    [profile_4] => 
+    [profile_5] => 
+    [profile_6] => 
+    [profile_7] => 
+    [profile_8] => 
+    [profile_9] => 
+    [profile_10] => 
+    [profile_11] => 
+    [profile_12] => 
+    [profile_13] => 
+    [profile_14] => 
+    [profile_15] => 
+    [profile_16] => 
+    [profile_17] => 
+    [profile_18] => 
+    [profile_19] => 
+    [profile_20] => 
+    [test] => 0
+    [_new] => 1
+    [_trusted] => 1
+    [_activation] => 
+)
+
+04-03-2025 09:37:09 - DEBUG - 8.7.0 - 18,0 MB/2 GB -  > TNP_Subscription Object
+(
+    [data] => TNP_Subscription_Data Object
+        (
+            [email] => kristinannenacilla@gmail.com
+            [name] => Kristin Nacilla
+            [surname] => 
+            [sex] => 
+            [language] => 
+            [referrer] => cf7-17408
+            [http_referer] => 
+            [ip] => 
+            [country] => 
+            [region] => 
+            [city] => 
+            [wp_user_id] => 0
+            [lists] => Array
+                (
+                    [3] => 1
+                )
+
+            [profiles] => Array
+                (
+                )
+
+        )
+
+    [spamcheck] => 1
+    [floodcheck] => 
+    [optin] => single
+    [if_exists] => 2
+    [send_emails] => 1
+    [welcome_email_id] => 0
+    [welcome_page_id] => 0
+    [autoresponders] => Array
+        (
+        )
+
+)
+
+04-03-2025 09:37:09 - DEBUG - 8.7.0 - 18,1 MB/2 GB -  > stdClass Object
+(
+    [id] => 4297
+    [email] => kristinannenacilla@gmail.com
+    [name] => Kristin Nacilla
+    [token] => 6e05856f82
+    [language] => 
+    [status] => C
+    [created] => 2025-03-04 08:37:09
+    [updated] => 1741077429
+    [last_activity] => 0
+    [surname] => 
+    [sex] => n
+    [feed_time] => 0
+    [feed] => 0
+    [referrer] => cf7-17408
+    [ip] => 2001:4450:81f8:1000:e8f3:e4d3:1d81:2fe7
+    [wp_user_id] => 0
+    [source] => 
+    [http_referer] => 
+    [geo] => 0
+    [country] => 
+    [region] => 
+    [city] => 
+    [bounce_type] => 
+    [bounce_time] => 0
+    [unsub_email_id] => 0
+    [unsub_time] => 0
+    [list_1] => 0
+    [list_2] => 0
+    [list_3] => 1
+    [list_4] => 0
+    [list_5] => 0
+    [list_6] => 0
+    [list_7] => 0
+    [list_8] => 0
+    [list_9] => 0
+    [list_10] => 0
+    [list_11] => 0
+    [list_12] => 0
+    [list_13] => 0
+    [list_14] => 0
+    [list_15] => 0
+    [list_16] => 0
+    [list_17] => 0
+    [list_18] => 0
+    [list_19] => 0
+    [list_20] => 0
+    [list_21] => 0
+    [list_22] => 0
+    [list_23] => 0
+    [list_24] => 0
+    [list_25] => 0
+    [list_26] => 0
+    [list_27] => 0
+    [list_28] => 0
+    [list_29] => 0
+    [list_30] => 0
+    [list_31] => 0
+    [list_32] => 0
+    [list_33] => 0
+    [list_34] => 0
+    [list_35] => 0
+    [list_36] => 0
+    [list_37] => 0
+    [list_38] => 0
+    [list_39] => 0
+    [list_40] => 0
+    [profile_1] => 
+    [profile_2] => 
+    [profile_3] => 
+    [profile_4] => 
+    [profile_5] => 
+    [profile_6] => 
+    [profile_7] => 
+    [profile_8] => 
+    [profile_9] => 
+    [profile_10] => 
+    [profile_11] => 
+    [profile_12] => 
+    [profile_13] => 
+    [profile_14] => 
+    [profile_15] => 
+    [profile_16] => 
+    [profile_17] => 
+    [profile_18] => 
+    [profile_19] => 
+    [profile_20] => 
+    [test] => 0
+    [_new] => 1
+    [_trusted] => 1
+    [_activation] => 
+)
+
+04-03-2025 17:08:45 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > TNP_Subscription Object
+(
+    [data] => TNP_Subscription_Data Object
+        (
+            [email] => yeminaalbornozcori@gmail.com
+            [name] => 
+            [surname] => 
+            [sex] => 
+            [language] => 
+            [referrer] => popup
+            [http_referer] => https://heroesdecavite.es/
+            [ip] => 
+            [country] => 
+            [region] => 
+            [city] => 
+            [wp_user_id] => 0
+            [lists] => Array
+                (
+                    [3] => 1
+                )
+
+            [profiles] => Array
+                (
+                )
+
+        )
+
+    [spamcheck] => 1
+    [floodcheck] => 1
+    [optin] => single
+    [if_exists] => 2
+    [send_emails] => 1
+    [welcome_email_id] => 0
+    [welcome_page_id] => 0
+    [autoresponders] => Array
+        (
+        )
+
+)
+
+04-03-2025 17:08:45 - DEBUG - 8.7.0 - 15,3 MB/2 GB -  > stdClass Object
+(
+    [id] => 4298
+    [email] => yeminaalbornozcori@gmail.com
+    [name] => 
+    [token] => dde285f0aa
+    [language] => 
+    [status] => C
+    [created] => 2025-03-04 16:08:45
+    [updated] => 1741104525
+    [last_activity] => 0
+    [surname] => 
+    [sex] => n
+    [feed_time] => 0
+    [feed] => 0
+    [referrer] => popup
+    [ip] => 190.43.75.114
+    [wp_user_id] => 0
+    [source] => 
+    [http_referer] => 
+    [geo] => 0
+    [country] => 
+    [region] => 
+    [city] => 
+    [bounce_type] => 
+    [bounce_time] => 0
+    [unsub_email_id] => 0
+    [unsub_time] => 0
+    [list_1] => 0
+    [list_2] => 0
+    [list_3] => 1
+    [list_4] => 0
+    [list_5] => 0
+    [list_6] => 0
+    [list_7] => 0
+    [list_8] => 0
+    [list_9] => 0
+    [list_10] => 0
+    [list_11] => 0
+    [list_12] => 0
+    [list_13] => 0
+    [list_14] => 0
+    [list_15] => 0
+    [list_16] => 0
+    [list_17] => 0
+    [list_18] => 0
+    [list_19] => 0
+    [list_20] => 0
+    [list_21] => 0
+    [list_22] => 0
+    [list_23] => 0
+    [list_24] => 0
+    [list_25] => 0
+    [list_26] => 0
+    [list_27] => 0
+    [list_28] => 0
+    [list_29] => 0
+    [list_30] => 0
+    [list_31] => 0
+    [list_32] => 0
+    [list_33] => 0
+    [list_34] => 0
+    [list_35] => 0
+    [list_36] => 0
+    [list_37] => 0
+    [list_38] => 0
+    [list_39] => 0
+    [list_40] => 0
+    [profile_1] => 
+    [profile_2] => 
+    [profile_3] => 
+    [profile_4] => 
+    [profile_5] => 
+    [profile_6] => 
+    [profile_7] => 
+    [profile_8] => 
+    [profile_9] => 
+    [profile_10] => 
+    [profile_11] => 
+    [profile_12] => 
+    [profile_13] => 
+    [profile_14] => 
+    [profile_15] => 
+    [profile_16] => 
+    [profile_17] => 
+    [profile_18] => 
+    [profile_19] => 
+    [profile_20] => 
+    [test] => 0
+    [_new] => 1
+    [_trusted] => 1
+    [_activation] => 
+)
+
+04-03-2025 21:55:24 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > TNP_Subscription Object
+(
+    [data] => TNP_Subscription_Data Object
+        (
+            [email] => mesparza505@gmail.com
+            [name] => 
+            [surname] => 
+            [sex] => 
+            [language] => 
+            [referrer] => popup
+            [http_referer] => https://heroesdecavite.es/ipeg/?fbclid=IwZXh0bgNhZW0CMTEAAR0_GZ_9ERwSL6XJ38GYjjaa-44x8qBn-fXsIinyooFfid9C2Oamen1dhsw_aem_5Z7C6m2xn9ICfSQLxBuGpw
+            [ip] => 
+            [country] => 
+            [region] => 
+            [city] => 
+            [wp_user_id] => 0
+            [lists] => Array
+                (
+                    [3] => 1
+                )
+
+            [profiles] => Array
+                (
+                )
+
+        )
+
+    [spamcheck] => 1
+    [floodcheck] => 1
+    [optin] => single
+    [if_exists] => 2
+    [send_emails] => 1
+    [welcome_email_id] => 0
+    [welcome_page_id] => 0
+    [autoresponders] => Array
+        (
+        )
+
+)
+
+04-03-2025 21:55:24 - DEBUG - 8.7.0 - 15,3 MB/2 GB -  > stdClass Object
+(
+    [id] => 4299
+    [email] => mesparza505@gmail.com
+    [name] => 
+    [token] => be66ab5dcf
+    [language] => 
+    [status] => C
+    [created] => 2025-03-04 20:55:24
+    [updated] => 1741121724
+    [last_activity] => 0
+    [surname] => 
+    [sex] => n
+    [feed_time] => 0
+    [feed] => 0
+    [referrer] => popup
+    [ip] => 2600:387:f:5c1a::2
+    [wp_user_id] => 0
+    [source] => 
+    [http_referer] => 
+    [geo] => 0
+    [country] => 
+    [region] => 
+    [city] => 
+    [bounce_type] => 
+    [bounce_time] => 0
+    [unsub_email_id] => 0
+    [unsub_time] => 0
+    [list_1] => 0
+    [list_2] => 0
+    [list_3] => 1
+    [list_4] => 0
+    [list_5] => 0
+    [list_6] => 0
+    [list_7] => 0
+    [list_8] => 0
+    [list_9] => 0
+    [list_10] => 0
+    [list_11] => 0
+    [list_12] => 0
+    [list_13] => 0
+    [list_14] => 0
+    [list_15] => 0
+    [list_16] => 0
+    [list_17] => 0
+    [list_18] => 0
+    [list_19] => 0
+    [list_20] => 0
+    [list_21] => 0
+    [list_22] => 0
+    [list_23] => 0
+    [list_24] => 0
+    [list_25] => 0
+    [list_26] => 0
+    [list_27] => 0
+    [list_28] => 0
+    [list_29] => 0
+    [list_30] => 0
+    [list_31] => 0
+    [list_32] => 0
+    [list_33] => 0
+    [list_34] => 0
+    [list_35] => 0
+    [list_36] => 0
+    [list_37] => 0
+    [list_38] => 0
+    [list_39] => 0
+    [list_40] => 0
+    [profile_1] => 
+    [profile_2] => 
+    [profile_3] => 
+    [profile_4] => 
+    [profile_5] => 
+    [profile_6] => 
+    [profile_7] => 
+    [profile_8] => 
+    [profile_9] => 
+    [profile_10] => 
+    [profile_11] => 
+    [profile_12] => 
+    [profile_13] => 
+    [profile_14] => 
+    [profile_15] => 
+    [profile_16] => 
+    [profile_17] => 
+    [profile_18] => 
+    [profile_19] => 
+    [profile_20] => 
+    [test] => 0
+    [_new] => 1
+    [_trusted] => 1
+    [_activation] => 
+)
+
+04-03-2025 22:21:45 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > TNP_Subscription Object
+(
+    [data] => TNP_Subscription_Data Object
+        (
+            [email] => schengen2000@hotmail.com
+            [name] => 
+            [surname] => 
+            [sex] => 
+            [language] => 
+            [referrer] => popup
+            [http_referer] => https://heroesdecavite.es/gibraltar/
+            [ip] => 
+            [country] => 
+            [region] => 
+            [city] => 
+            [wp_user_id] => 0
+            [lists] => Array
+                (
+                    [3] => 1
+                )
+
+            [profiles] => Array
+                (
+                )
+
+        )
+
+    [spamcheck] => 1
+    [floodcheck] => 1
+    [optin] => single
+    [if_exists] => 2
+    [send_emails] => 1
+    [welcome_email_id] => 0
+    [welcome_page_id] => 0
+    [autoresponders] => Array
+        (
+        )
+
+)
+
+04-03-2025 22:21:45 - INFO  - 8.7.0 - 15,2 MB/2 GB -  > Existing subscriber: C
+04-03-2025 22:21:45 - DEBUG - 8.7.0 - 15,3 MB/2 GB -  > stdClass Object
+(
+    [id] => 3565
+    [email] => schengen2000@hotmail.com
+    [name] => 
+    [token] => e8ab80edd2
+    [language] => 
+    [status] => C
+    [created] => 2024-09-05 10:04:48
+    [updated] => 1741123305
+    [last_activity] => 1739370645
+    [surname] => 
+    [sex] => n
+    [feed_time] => 0
+    [feed] => 0
+    [referrer] => popup
+    [ip] => 79.148.190.103
+    [wp_user_id] => 0
+    [source] => 
+    [http_referer] => 
+    [geo] => 1
+    [country] => 
+    [region] => 
+    [city] => 
+    [bounce_type] => 
+    [bounce_time] => 0
+    [unsub_email_id] => 0
+    [unsub_time] => 0
+    [list_1] => 0
+    [list_2] => 0
+    [list_3] => 1
+    [list_4] => 0
+    [list_5] => 0
+    [list_6] => 0
+    [list_7] => 0
+    [list_8] => 0
+    [list_9] => 0
+    [list_10] => 0
+    [list_11] => 0
+    [list_12] => 0
+    [list_13] => 0
+    [list_14] => 0
+    [list_15] => 0
+    [list_16] => 0
+    [list_17] => 0
+    [list_18] => 0
+    [list_19] => 0
+    [list_20] => 0
+    [list_21] => 0
+    [list_22] => 0
+    [list_23] => 0
+    [list_24] => 0
+    [list_25] => 0
+    [list_26] => 0
+    [list_27] => 0
+    [list_28] => 0
+    [list_29] => 0
+    [list_30] => 0
+    [list_31] => 0
+    [list_32] => 0
+    [list_33] => 0
+    [list_34] => 0
+    [list_35] => 0
+    [list_36] => 0
+    [list_37] => 0
+    [list_38] => 0
+    [list_39] => 0
+    [list_40] => 0
+    [profile_1] => 
+    [profile_2] => 
+    [profile_3] => 
+    [profile_4] => 
+    [profile_5] => 
+    [profile_6] => 
+    [profile_7] => 
+    [profile_8] => 
+    [profile_9] => 
+    [profile_10] => 
+    [profile_11] => 
+    [profile_12] => 
+    [profile_13] => 
+    [profile_14] => 
+    [profile_15] => 
+    [profile_16] => 
+    [profile_17] => 
+    [profile_18] => 
+    [profile_19] => 
+    [profile_20] => 
+    [test] => 0
+    [_activation] => 
+    [_trusted] => 
+    [_new] => 
+)
+
+05-03-2025 19:17:31 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > TNP_Subscription Object
+(
+    [data] => TNP_Subscription_Data Object
+        (
+            [email] => sybarismagazine@yahoo.es
+            [name] => 
+            [surname] => 
+            [sex] => 
+            [language] => 
+            [referrer] => popup
+            [http_referer] => https://heroesdecavite.es/
+            [ip] => 
+            [country] => 
+            [region] => 
+            [city] => 
+            [wp_user_id] => 0
+            [lists] => Array
+                (
+                    [3] => 1
+                )
+
+            [profiles] => Array
+                (
+                )
+
+        )
+
+    [spamcheck] => 1
+    [floodcheck] => 1
+    [optin] => single
+    [if_exists] => 2
+    [send_emails] => 1
+    [welcome_email_id] => 0
+    [welcome_page_id] => 0
+    [autoresponders] => Array
+        (
+        )
+
+)
+
+05-03-2025 19:17:31 - DEBUG - 8.7.0 - 15,3 MB/2 GB -  > stdClass Object
+(
+    [id] => 4300
+    [email] => sybarismagazine@yahoo.es
+    [name] => 
+    [token] => 653dd601de
+    [language] => 
+    [status] => C
+    [created] => 2025-03-05 18:17:31
+    [updated] => 1741198651
+    [last_activity] => 0
+    [surname] => 
+    [sex] => n
+    [feed_time] => 0
+    [feed] => 0
+    [referrer] => popup
+    [ip] => 85.48.187.12
+    [wp_user_id] => 0
+    [source] => 
+    [http_referer] => 
+    [geo] => 0
+    [country] => 
+    [region] => 
+    [city] => 
+    [bounce_type] => 
+    [bounce_time] => 0
+    [unsub_email_id] => 0
+    [unsub_time] => 0
+    [list_1] => 0
+    [list_2] => 0
+    [list_3] => 1
+    [list_4] => 0
+    [list_5] => 0
+    [list_6] => 0
+    [list_7] => 0
+    [list_8] => 0
+    [list_9] => 0
+    [list_10] => 0
+    [list_11] => 0
+    [list_12] => 0
+    [list_13] => 0
+    [list_14] => 0
+    [list_15] => 0
+    [list_16] => 0
+    [list_17] => 0
+    [list_18] => 0
+    [list_19] => 0
+    [list_20] => 0
+    [list_21] => 0
+    [list_22] => 0
+    [list_23] => 0
+    [list_24] => 0
+    [list_25] => 0
+    [list_26] => 0
+    [list_27] => 0
+    [list_28] => 0
+    [list_29] => 0
+    [list_30] => 0
+    [list_31] => 0
+    [list_32] => 0
+    [list_33] => 0
+    [list_34] => 0
+    [list_35] => 0
+    [list_36] => 0
+    [list_37] => 0
+    [list_38] => 0
+    [list_39] => 0
+    [list_40] => 0
+    [profile_1] => 
+    [profile_2] => 
+    [profile_3] => 
+    [profile_4] => 
+    [profile_5] => 
+    [profile_6] => 
+    [profile_7] => 
+    [profile_8] => 
+    [profile_9] => 
+    [profile_10] => 
+    [profile_11] => 
+    [profile_12] => 
+    [profile_13] => 
+    [profile_14] => 
+    [profile_15] => 
+    [profile_16] => 
+    [profile_17] => 
+    [profile_18] => 
+    [profile_19] => 
+    [profile_20] => 
+    [test] => 0
+    [_new] => 1
+    [_trusted] => 1
+    [_activation] => 
+)
+
+05-03-2025 19:21:35 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > TNP_Subscription Object
+(
+    [data] => TNP_Subscription_Data Object
+        (
+            [email] => atenderolozano@gmail.com
+            [name] => 
+            [surname] => 
+            [sex] => 
+            [language] => 
+            [referrer] => popup
+            [http_referer] => https://heroesdecavite.es/
+            [ip] => 
+            [country] => 
+            [region] => 
+            [city] => 
+            [wp_user_id] => 0
+            [lists] => Array
+                (
+                    [3] => 1
+                )
+
+            [profiles] => Array
+                (
+                )
+
+        )
+
+    [spamcheck] => 1
+    [floodcheck] => 1
+    [optin] => single
+    [if_exists] => 2
+    [send_emails] => 1
+    [welcome_email_id] => 0
+    [welcome_page_id] => 0
+    [autoresponders] => Array
+        (
+        )
+
+)
+
+05-03-2025 19:21:35 - DEBUG - 8.7.0 - 15,3 MB/2 GB -  > stdClass Object
+(
+    [id] => 4301
+    [email] => atenderolozano@gmail.com
+    [name] => 
+    [token] => 57533a871e
+    [language] => 
+    [status] => C
+    [created] => 2025-03-05 18:21:35
+    [updated] => 1741198895
+    [last_activity] => 0
+    [surname] => 
+    [sex] => n
+    [feed_time] => 0
+    [feed] => 0
+    [referrer] => popup
+    [ip] => 46.222.10.201
+    [wp_user_id] => 0
+    [source] => 
+    [http_referer] => 
+    [geo] => 0
+    [country] => 
+    [region] => 
+    [city] => 
+    [bounce_type] => 
+    [bounce_time] => 0
+    [unsub_email_id] => 0
+    [unsub_time] => 0
+    [list_1] => 0
+    [list_2] => 0
+    [list_3] => 1
+    [list_4] => 0
+    [list_5] => 0
+    [list_6] => 0
+    [list_7] => 0
+    [list_8] => 0
+    [list_9] => 0
+    [list_10] => 0
+    [list_11] => 0
+    [list_12] => 0
+    [list_13] => 0
+    [list_14] => 0
+    [list_15] => 0
+    [list_16] => 0
+    [list_17] => 0
+    [list_18] => 0
+    [list_19] => 0
+    [list_20] => 0
+    [list_21] => 0
+    [list_22] => 0
+    [list_23] => 0
+    [list_24] => 0
+    [list_25] => 0
+    [list_26] => 0
+    [list_27] => 0
+    [list_28] => 0
+    [list_29] => 0
+    [list_30] => 0
+    [list_31] => 0
+    [list_32] => 0
+    [list_33] => 0
+    [list_34] => 0
+    [list_35] => 0
+    [list_36] => 0
+    [list_37] => 0
+    [list_38] => 0
+    [list_39] => 0
+    [list_40] => 0
+    [profile_1] => 
+    [profile_2] => 
+    [profile_3] => 
+    [profile_4] => 
+    [profile_5] => 
+    [profile_6] => 
+    [profile_7] => 
+    [profile_8] => 
+    [profile_9] => 
+    [profile_10] => 
+    [profile_11] => 
+    [profile_12] => 
+    [profile_13] => 
+    [profile_14] => 
+    [profile_15] => 
+    [profile_16] => 
+    [profile_17] => 
+    [profile_18] => 
+    [profile_19] => 
+    [profile_20] => 
+    [test] => 0
+    [_new] => 1
+    [_trusted] => 1
+    [_activation] => 
+)
+
+06-03-2025 11:55:20 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > TNP_Subscription Object
+(
+    [data] => TNP_Subscription_Data Object
+        (
+            [email] => ramon@linkend.com
+            [name] => 
+            [surname] => 
+            [sex] => 
+            [language] => 
+            [referrer] => popup
+            [http_referer] => https://heroesdecavite.es/
+            [ip] => 
+            [country] => 
+            [region] => 
+            [city] => 
+            [wp_user_id] => 0
+            [lists] => Array
+                (
+                    [3] => 1
+                )
+
+            [profiles] => Array
+                (
+                )
+
+        )
+
+    [spamcheck] => 1
+    [floodcheck] => 1
+    [optin] => single
+    [if_exists] => 2
+    [send_emails] => 1
+    [welcome_email_id] => 0
+    [welcome_page_id] => 0
+    [autoresponders] => Array
+        (
+        )
+
+)
+
+06-03-2025 11:55:20 - DEBUG - 8.7.0 - 15,3 MB/2 GB -  > stdClass Object
+(
+    [id] => 4302
+    [email] => ramon@linkend.com
+    [name] => 
+    [token] => 2000a00b27
+    [language] => 
+    [status] => C
+    [created] => 2025-03-06 10:55:20
+    [updated] => 1741258520
+    [last_activity] => 0
+    [surname] => 
+    [sex] => n
+    [feed_time] => 0
+    [feed] => 0
+    [referrer] => popup
+    [ip] => 81.34.232.21
+    [wp_user_id] => 0
+    [source] => 
+    [http_referer] => 
+    [geo] => 0
+    [country] => 
+    [region] => 
+    [city] => 
+    [bounce_type] => 
+    [bounce_time] => 0
+    [unsub_email_id] => 0
+    [unsub_time] => 0
+    [list_1] => 0
+    [list_2] => 0
+    [list_3] => 1
+    [list_4] => 0
+    [list_5] => 0
+    [list_6] => 0
+    [list_7] => 0
+    [list_8] => 0
+    [list_9] => 0
+    [list_10] => 0
+    [list_11] => 0
+    [list_12] => 0
+    [list_13] => 0
+    [list_14] => 0
+    [list_15] => 0
+    [list_16] => 0
+    [list_17] => 0
+    [list_18] => 0
+    [list_19] => 0
+    [list_20] => 0
+    [list_21] => 0
+    [list_22] => 0
+    [list_23] => 0
+    [list_24] => 0
+    [list_25] => 0
+    [list_26] => 0
+    [list_27] => 0
+    [list_28] => 0
+    [list_29] => 0
+    [list_30] => 0
+    [list_31] => 0
+    [list_32] => 0
+    [list_33] => 0
+    [list_34] => 0
+    [list_35] => 0
+    [list_36] => 0
+    [list_37] => 0
+    [list_38] => 0
+    [list_39] => 0
+    [list_40] => 0
+    [profile_1] => 
+    [profile_2] => 
+    [profile_3] => 
+    [profile_4] => 
+    [profile_5] => 
+    [profile_6] => 
+    [profile_7] => 
+    [profile_8] => 
+    [profile_9] => 
+    [profile_10] => 
+    [profile_11] => 
+    [profile_12] => 
+    [profile_13] => 
+    [profile_14] => 
+    [profile_15] => 
+    [profile_16] => 
+    [profile_17] => 
+    [profile_18] => 
+    [profile_19] => 
+    [profile_20] => 
+    [test] => 0
+    [_new] => 1
+    [_trusted] => 1
+    [_activation] => 
+)
+
+07-03-2025 13:53:23 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > TNP_Subscription Object
+(
+    [data] => TNP_Subscription_Data Object
+        (
+            [email] => arruzaarriaran@gmail.com
+            [name] => 
+            [surname] => 
+            [sex] => 
+            [language] => 
+            [referrer] => popup
+            [http_referer] => https://heroesdecavite.es/
+            [ip] => 
+            [country] => 
+            [region] => 
+            [city] => 
+            [wp_user_id] => 0
+            [lists] => Array
+                (
+                    [3] => 1
+                )
+
+            [profiles] => Array
+                (
+                )
+
+        )
+
+    [spamcheck] => 1
+    [floodcheck] => 1
+    [optin] => single
+    [if_exists] => 2
+    [send_emails] => 1
+    [welcome_email_id] => 0
+    [welcome_page_id] => 0
+    [autoresponders] => Array
+        (
+        )
+
+)
+
+07-03-2025 13:53:23 - DEBUG - 8.7.0 - 15,3 MB/2 GB -  > stdClass Object
+(
+    [id] => 4309
+    [email] => arruzaarriaran@gmail.com
+    [name] => 
+    [token] => f50798f8ff
+    [language] => 
+    [status] => C
+    [created] => 2025-03-07 12:53:23
+    [updated] => 1741352003
+    [last_activity] => 0
+    [surname] => 
+    [sex] => n
+    [feed_time] => 0
+    [feed] => 0
+    [referrer] => popup
+    [ip] => 193.144.208.101
+    [wp_user_id] => 0
+    [source] => 
+    [http_referer] => 
+    [geo] => 0
+    [country] => 
+    [region] => 
+    [city] => 
+    [bounce_type] => 
+    [bounce_time] => 0
+    [unsub_email_id] => 0
+    [unsub_time] => 0
+    [list_1] => 0
+    [list_2] => 0
+    [list_3] => 1
+    [list_4] => 0
+    [list_5] => 0
+    [list_6] => 0
+    [list_7] => 0
+    [list_8] => 0
+    [list_9] => 0
+    [list_10] => 0
+    [list_11] => 0
+    [list_12] => 0
+    [list_13] => 0
+    [list_14] => 0
+    [list_15] => 0
+    [list_16] => 0
+    [list_17] => 0
+    [list_18] => 0
+    [list_19] => 0
+    [list_20] => 0
+    [list_21] => 0
+    [list_22] => 0
+    [list_23] => 0
+    [list_24] => 0
+    [list_25] => 0
+    [list_26] => 0
+    [list_27] => 0
+    [list_28] => 0
+    [list_29] => 0
+    [list_30] => 0
+    [list_31] => 0
+    [list_32] => 0
+    [list_33] => 0
+    [list_34] => 0
+    [list_35] => 0
+    [list_36] => 0
+    [list_37] => 0
+    [list_38] => 0
+    [list_39] => 0
+    [list_40] => 0
+    [profile_1] => 
+    [profile_2] => 
+    [profile_3] => 
+    [profile_4] => 
+    [profile_5] => 
+    [profile_6] => 
+    [profile_7] => 
+    [profile_8] => 
+    [profile_9] => 
+    [profile_10] => 
+    [profile_11] => 
+    [profile_12] => 
+    [profile_13] => 
+    [profile_14] => 
+    [profile_15] => 
+    [profile_16] => 
+    [profile_17] => 
+    [profile_18] => 
+    [profile_19] => 
+    [profile_20] => 
+    [test] => 0
+    [_new] => 1
+    [_trusted] => 1
+    [_activation] => 
+)
+
+08-03-2025 01:06:14 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > TNP_Subscription Object
+(
+    [data] => TNP_Subscription_Data Object
+        (
+            [email] => nabil.alturek@gmail.com
+            [name] => 
+            [surname] => 
+            [sex] => 
+            [language] => 
+            [referrer] => popup
+            [http_referer] => https://heroesdecavite.es/
+            [ip] => 
+            [country] => 
+            [region] => 
+            [city] => 
+            [wp_user_id] => 0
+            [lists] => Array
+                (
+                    [3] => 1
+                )
+
+            [profiles] => Array
+                (
+                )
+
+        )
+
+    [spamcheck] => 1
+    [floodcheck] => 1
+    [optin] => single
+    [if_exists] => 2
+    [send_emails] => 1
+    [welcome_email_id] => 0
+    [welcome_page_id] => 0
+    [autoresponders] => Array
+        (
+        )
+
+)
+
+08-03-2025 01:06:14 - DEBUG - 8.7.0 - 15,3 MB/2 GB -  > stdClass Object
+(
+    [id] => 4310
+    [email] => nabil.alturek@gmail.com
+    [name] => 
+    [token] => 07a7a74fe6
+    [language] => 
+    [status] => C
+    [created] => 2025-03-08 00:06:14
+    [updated] => 1741392374
+    [last_activity] => 0
+    [surname] => 
+    [sex] => n
+    [feed_time] => 0
+    [feed] => 0
+    [referrer] => popup
+    [ip] => 2a0c:5a81:a40a:600:55e2:fe33:a494:2e6f
+    [wp_user_id] => 0
+    [source] => 
+    [http_referer] => 
+    [geo] => 0
+    [country] => 
+    [region] => 
+    [city] => 
+    [bounce_type] => 
+    [bounce_time] => 0
+    [unsub_email_id] => 0
+    [unsub_time] => 0
+    [list_1] => 0
+    [list_2] => 0
+    [list_3] => 1
+    [list_4] => 0
+    [list_5] => 0
+    [list_6] => 0
+    [list_7] => 0
+    [list_8] => 0
+    [list_9] => 0
+    [list_10] => 0
+    [list_11] => 0
+    [list_12] => 0
+    [list_13] => 0
+    [list_14] => 0
+    [list_15] => 0
+    [list_16] => 0
+    [list_17] => 0
+    [list_18] => 0
+    [list_19] => 0
+    [list_20] => 0
+    [list_21] => 0
+    [list_22] => 0
+    [list_23] => 0
+    [list_24] => 0
+    [list_25] => 0
+    [list_26] => 0
+    [list_27] => 0
+    [list_28] => 0
+    [list_29] => 0
+    [list_30] => 0
+    [list_31] => 0
+    [list_32] => 0
+    [list_33] => 0
+    [list_34] => 0
+    [list_35] => 0
+    [list_36] => 0
+    [list_37] => 0
+    [list_38] => 0
+    [list_39] => 0
+    [list_40] => 0
+    [profile_1] => 
+    [profile_2] => 
+    [profile_3] => 
+    [profile_4] => 
+    [profile_5] => 
+    [profile_6] => 
+    [profile_7] => 
+    [profile_8] => 
+    [profile_9] => 
+    [profile_10] => 
+    [profile_11] => 
+    [profile_12] => 
+    [profile_13] => 
+    [profile_14] => 
+    [profile_15] => 
+    [profile_16] => 
+    [profile_17] => 
+    [profile_18] => 
+    [profile_19] => 
+    [profile_20] => 
+    [test] => 0
+    [_new] => 1
+    [_trusted] => 1
+    [_activation] => 
+)
+
+08-03-2025 14:11:48 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > TNP_Subscription Object
+(
+    [data] => TNP_Subscription_Data Object
+        (
+            [email] => eduagugil@yahoo.com.ar
+            [name] => 
+            [surname] => 
+            [sex] => 
+            [language] => 
+            [referrer] => popup
+            [http_referer] => https://heroesdecavite.es/
+            [ip] => 
+            [country] => 
+            [region] => 
+            [city] => 
+            [wp_user_id] => 0
+            [lists] => Array
+                (
+                    [3] => 1
+                )
+
+            [profiles] => Array
+                (
+                )
+
+        )
+
+    [spamcheck] => 1
+    [floodcheck] => 1
+    [optin] => single
+    [if_exists] => 2
+    [send_emails] => 1
+    [welcome_email_id] => 0
+    [welcome_page_id] => 0
+    [autoresponders] => Array
+        (
+        )
+
+)
+
+08-03-2025 14:11:48 - DEBUG - 8.7.1 - 16,0 MB/2 GB -  > stdClass Object
+(
+    [id] => 4311
+    [email] => eduagugil@yahoo.com.ar
+    [name] => 
+    [token] => ca6a3e012d
+    [language] => 
+    [status] => C
+    [created] => 2025-03-08 13:11:48
+    [updated] => 1741439508
+    [last_activity] => 0
+    [surname] => 
+    [sex] => n
+    [feed_time] => 0
+    [feed] => 0
+    [referrer] => popup
+    [ip] => 2800:810:471:8769:35a1:36bb:b625:737b
+    [wp_user_id] => 0
+    [source] => 
+    [http_referer] => 
+    [geo] => 0
+    [country] => 
+    [region] => 
+    [city] => 
+    [bounce_type] => 
+    [bounce_time] => 0
+    [unsub_email_id] => 0
+    [unsub_time] => 0
+    [list_1] => 0
+    [list_2] => 0
+    [list_3] => 1
+    [list_4] => 0
+    [list_5] => 0
+    [list_6] => 0
+    [list_7] => 0
+    [list_8] => 0
+    [list_9] => 0
+    [list_10] => 0
+    [list_11] => 0
+    [list_12] => 0
+    [list_13] => 0
+    [list_14] => 0
+    [list_15] => 0
+    [list_16] => 0
+    [list_17] => 0
+    [list_18] => 0
+    [list_19] => 0
+    [list_20] => 0
+    [list_21] => 0
+    [list_22] => 0
+    [list_23] => 0
+    [list_24] => 0
+    [list_25] => 0
+    [list_26] => 0
+    [list_27] => 0
+    [list_28] => 0
+    [list_29] => 0
+    [list_30] => 0
+    [list_31] => 0
+    [list_32] => 0
+    [list_33] => 0
+    [list_34] => 0
+    [list_35] => 0
+    [list_36] => 0
+    [list_37] => 0
+    [list_38] => 0
+    [list_39] => 0
+    [list_40] => 0
+    [profile_1] => 
+    [profile_2] => 
+    [profile_3] => 
+    [profile_4] => 
+    [profile_5] => 
+    [profile_6] => 
+    [profile_7] => 
+    [profile_8] => 
+    [profile_9] => 
+    [profile_10] => 
+    [profile_11] => 
+    [profile_12] => 
+    [profile_13] => 
+    [profile_14] => 
+    [profile_15] => 
+    [profile_16] => 
+    [profile_17] => 
+    [profile_18] => 
+    [profile_19] => 
+    [profile_20] => 
+    [test] => 0
+    [_new] => 1
+    [_trusted] => 1
+    [_activation] => 
+)
+

@@ -1,0 +1,42 @@
+09-10-2024 17:10:46 - INFO  - 8.5.2 - 34,0 MB/512 MB - Eduardo > Saving newsletter 76 from composer
+09-10-2024 17:10:50 - INFO  - 8.5.2 - 34,1 MB/512 MB - Eduardo > Saving newsletter: 76
+09-10-2024 17:11:25 - INFO  - 8.5.2 - 34,1 MB/512 MB - Eduardo > Scheduling newsletter: 76
+09-10-2024 18:34:41 - INFO  - 8.5.2 - 34,1 MB/512 MB - Eduardo > Newsletter 76 paused
+09-10-2024 18:34:52 - INFO  - 8.5.2 - 34,1 MB/512 MB - Eduardo > Newsletter 76 restarted
+09-10-2024 18:41:40 - INFO  - 8.5.2 - 34,1 MB/512 MB - Eduardo > Newsletter 76 paused
+09-10-2024 18:41:52 - INFO  - 8.5.2 - 34,1 MB/512 MB - Eduardo > Scheduling newsletter: 76
+09-10-2024 18:46:05 - INFO  - 8.5.2 - 34,1 MB/512 MB - Eduardo > Newsletter 76 paused
+09-10-2024 18:47:36 - INFO  - 8.5.2 - 34,0 MB/512 MB - Eduardo > Saving newsletter 76 from composer
+09-10-2024 18:47:38 - INFO  - 8.5.2 - 34,0 MB/512 MB - Eduardo > Saving newsletter 76 from composer
+09-10-2024 18:47:43 - INFO  - 8.5.2 - 34,1 MB/512 MB - Eduardo > Newsletter 76 restarted
+21-10-2024 11:56:52 - INFO  - 8.5.6 - 23,3 MB/512 MB - Eduardo > Saving new newsletter from composer
+21-10-2024 11:56:55 - INFO  - 8.5.6 - 23,3 MB/512 MB - Eduardo > Saving newsletter 77 from composer
+21-10-2024 11:57:11 - INFO  - 8.5.6 - 23,4 MB/512 MB - Eduardo > Sending newsletter: 77
+25-10-2024 12:46:08 - INFO  - 8.5.8 - 41,0 MB/512 MB - Eduardo > Saving newsletter 78 from composer
+25-10-2024 12:46:11 - INFO  - 8.5.8 - 41,0 MB/512 MB - Eduardo > Saving newsletter 78 from composer
+25-10-2024 12:46:53 - INFO  - 8.5.8 - 41,1 MB/512 MB - Eduardo > Saving newsletter: 78
+25-10-2024 12:46:58 - INFO  - 8.5.8 - 41,0 MB/512 MB - Eduardo > Sending newsletter: 78
+25-10-2024 12:47:02 - INFO  - 8.5.8 - 41,0 MB/512 MB - Eduardo > Newsletter 78 paused
+25-10-2024 13:32:32 - INFO  - 8.5.8 - 41,0 MB/512 MB - Eduardo > Newsletter 78 restarted
+29-10-2024 12:19:20 - INFO  - 8.5.8 - 41,0 MB/512 MB - Eduardo > Saving newsletter 79 from composer
+29-10-2024 12:19:23 - INFO  - 8.5.8 - 40,9 MB/512 MB - Eduardo > Saving newsletter 79 from composer
+29-10-2024 12:20:00 - INFO  - 8.5.8 - 41,0 MB/512 MB - Eduardo > Sending newsletter: 79
+29-10-2024 12:20:07 - INFO  - 8.5.8 - 41,0 MB/512 MB - Eduardo > Newsletter 79 paused
+29-10-2024 12:20:48 - INFO  - 8.5.8 - 40,9 MB/512 MB - Eduardo > Saving newsletter 79 from composer
+29-10-2024 12:21:20 - INFO  - 8.5.8 - 40,9 MB/512 MB - Eduardo > Saving newsletter 79 from composer
+29-10-2024 12:21:23 - INFO  - 8.5.8 - 40,9 MB/512 MB - Eduardo > Saving newsletter 79 from composer
+29-10-2024 12:24:10 - INFO  - 8.5.8 - 40,9 MB/512 MB - Eduardo > Saving newsletter 79 from composer
+29-10-2024 12:24:15 - INFO  - 8.5.8 - 40,9 MB/512 MB - Eduardo > Saving newsletter 79 from composer
+29-10-2024 12:24:17 - INFO  - 8.5.8 - 40,9 MB/512 MB - Eduardo > Saving newsletter 79 from composer
+29-10-2024 12:24:51 - INFO  - 8.5.8 - 41,0 MB/512 MB - Eduardo > Saving newsletter: 79
+29-10-2024 12:25:21 - INFO  - 8.5.8 - 41,0 MB/512 MB - Eduardo > Newsletter 79 restarted
+31-10-2024 11:12:14 - INFO  - 8.5.9 - 21,8 MB/512 MB - Eduardo > Saving newsletter 80 from composer
+31-10-2024 11:18:35 - INFO  - 8.5.9 - 21,8 MB/512 MB - Eduardo > Saving newsletter 80 from composer
+31-10-2024 11:18:37 - INFO  - 8.5.9 - 21,8 MB/512 MB - Eduardo > Saving newsletter 80 from composer
+31-10-2024 11:20:10 - INFO  - 8.5.9 - 21,8 MB/512 MB - Eduardo > Saving newsletter 80 from composer
+31-10-2024 11:20:14 - INFO  - 8.5.9 - 21,8 MB/512 MB - Eduardo > Saving newsletter 80 from composer
+31-10-2024 11:20:43 - INFO  - 8.5.9 - 21,8 MB/512 MB - Eduardo > Saving newsletter 80 from composer
+31-10-2024 11:20:45 - INFO  - 8.5.9 - 21,8 MB/512 MB - Eduardo > Saving newsletter 80 from composer
+31-10-2024 11:23:06 - INFO  - 8.5.9 - 21,8 MB/512 MB - Eduardo > Saving newsletter 80 from composer
+31-10-2024 11:23:16 - INFO  - 8.5.9 - 21,8 MB/512 MB - Eduardo > Saving newsletter 80 from composer
+31-10-2024 11:23:35 - INFO  - 8.5.9 - 21,8 MB/512 MB - Eduardo > Sending newsletter: 80

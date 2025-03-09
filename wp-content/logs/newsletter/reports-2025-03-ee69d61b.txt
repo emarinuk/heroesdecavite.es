@@ -1,0 +1,1 @@
+07-03-2025 11:55:05 - INFO  - 8.7.0 - 136,2 MB/ - [cron] > Weekly check for reports

@@ -1,0 +1,683 @@
+01-03-2025 02:25:24 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7NjExOzNhZjRiZjk1OTM4ZmEyNDY1MmM0MGFkMzA0MWQ1NTVk
+01-03-2025 02:25:24 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+01-03-2025 02:25:24 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.80.102' where email_id=88 and user_id=611 and open<1 limit 1
+01-03-2025 02:25:24 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1740792324 where id=611 limit 1
+01-03-2025 06:45:33 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7Mjc1Njs3NmU3MjM3MTI0NmNmNTkzNWYxMWM1M2U5YjNhZTk2Yw==
+01-03-2025 06:45:33 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+01-03-2025 06:45:33 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='146.75.182.14' where email_id=88 and user_id=2756 and open<1 limit 1
+01-03-2025 06:45:33 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1740807933 where id=2756 limit 1
+01-03-2025 10:21:42 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODk7MzY1NzthZmNjNTZmOWEwOWFhMDgxZmQwYzcxN2EzYTVmMWQzMw==
+01-03-2025 10:21:42 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+01-03-2025 10:21:42 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+01-03-2025 10:21:42 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.141' where email_id=89 and user_id=3657 and open<1 limit 1
+01-03-2025 10:21:42 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1740820902 where id=3657 limit 1
+01-03-2025 10:53:37 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: NDM7NzA0OzIyOWY2NzE1MzEyYWE4MThlNDBhNmI4NDc1ZjBkMjgw
+01-03-2025 10:53:37 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+01-03-2025 10:53:37 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+01-03-2025 10:53:37 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.84.100' where email_id=43 and user_id=704 and open<1 limit 1
+01-03-2025 10:53:37 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1740822817 where id=704 limit 1
+01-03-2025 11:24:02 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MzEwMDtjMjkyNTA5M2U3YjVkMzkwZDY2ODQzZDI1MTM4ZTBkNA==
+01-03-2025 11:24:02 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+01-03-2025 11:24:02 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.133' where email_id=88 and user_id=3100 and open<1 limit 1
+01-03-2025 11:24:02 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1740824642 where id=3100 limit 1
+01-03-2025 12:22:51 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7Mzg2NztlZjUyZDA3MWU3MmQ5MDg0YjQ5MWYxODcwZDVjYmM5YQ==
+01-03-2025 12:22:51 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+01-03-2025 12:22:51 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='139.47.23.26' where email_id=88 and user_id=3867 and open<1 limit 1
+01-03-2025 12:22:51 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1740828171 where id=3867 limit 1
+01-03-2025 14:01:55 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MzI2MDs3OTkyZjZlMzk3MjYxYWQ1MDQ1ZmRjYzYxYjY3M2EzOQ==
+01-03-2025 14:01:55 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+01-03-2025 14:01:55 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.141' where email_id=88 and user_id=3260 and open<1 limit 1
+01-03-2025 14:01:55 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1740834115 where id=3260 limit 1
+01-03-2025 16:38:20 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MTk1MDtiNzMzYWU4Y2Y1ZTc4YzY0ZTBlZTllNGI2NjhkYTUyOA==
+01-03-2025 16:38:20 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+01-03-2025 16:38:20 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.142' where email_id=88 and user_id=1950 and open<1 limit 1
+01-03-2025 16:38:20 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1740843500 where id=1950 limit 1
+01-03-2025 18:30:41 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MzQzMDszMDgyYWQ0ODhmOGZmNjFkZGNiNWI4OGJkY2Y2MWJlNQ==
+01-03-2025 18:30:41 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+01-03-2025 18:30:41 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.132' where email_id=88 and user_id=3430 and open<1 limit 1
+01-03-2025 18:30:41 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1740850241 where id=3430 limit 1
+01-03-2025 20:42:51 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7NDIxOzVhMmNmZjEyZDg4NjQxZmY1MDZiYTkzZDJkNmJkMDg4
+01-03-2025 20:42:51 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+01-03-2025 20:42:51 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='2a02:26f7:ef0c:4000:e12b:ec12:81d4:5acf' where email_id=88 and user_id=421 and open<1 limit 1
+01-03-2025 20:42:51 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1740858171 where id=421 limit 1
+02-03-2025 08:11:33 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODk7NDI0OTszMDcxNDZhMWY0ZjkwMTk0YzIzOWNhODY0ZDBhZDMxNQ==
+02-03-2025 08:11:33 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+02-03-2025 08:11:33 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+02-03-2025 08:11:33 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.132' where email_id=89 and user_id=4249 and open<1 limit 1
+02-03-2025 08:11:33 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1740899493 where id=4249 limit 1
+02-03-2025 09:15:33 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MjI0Njs3YmI2ZTJlOGYwNTc3OWRmOWY1Y2U1ZDM1ZjM4YjYwMg==
+02-03-2025 09:15:33 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+02-03-2025 09:15:33 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='2a09:bac2:3125:191::28:c4' where email_id=88 and user_id=2246 and open<1 limit 1
+02-03-2025 09:15:33 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1740903333 where id=2246 limit 1
+02-03-2025 11:51:12 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: MjY7MTUxNjtjZjkwYjhhODE0MTliMjkyOGRjYzhjOGVhZmQyMjk1YQ==
+02-03-2025 11:51:12 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+02-03-2025 11:51:12 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+02-03-2025 11:51:12 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.141' where email_id=26 and user_id=1516 and open<1 limit 1
+02-03-2025 11:51:12 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1740912672 where id=1516 limit 1
+02-03-2025 13:32:59 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MTg0NDswYmQyMzhiOWVlYWE0YTk4ODY0MmUxMjNjMTYxNTQ5OQ==
+02-03-2025 13:32:59 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+02-03-2025 13:32:59 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.133' where email_id=88 and user_id=1844 and open<1 limit 1
+02-03-2025 13:32:59 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1740918779 where id=1844 limit 1
+02-03-2025 13:50:07 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7NDYzOzIyOWMzNTNlYjkyMDQyMzI2NWU1NDc0YzFjYzg5MDM1
+02-03-2025 13:50:07 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+02-03-2025 13:50:07 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='37.134.160.246' where email_id=88 and user_id=463 and open<1 limit 1
+02-03-2025 13:50:07 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1740919807 where id=463 limit 1
+02-03-2025 15:50:40 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MzkxMTs5OTg2YjI4YTRlMjhmMzFjNGU4ODQ0MWVmY2U2ZjU2OA==
+02-03-2025 15:50:40 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+02-03-2025 15:50:40 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='87.248.115.16' where email_id=88 and user_id=3911 and open<1 limit 1
+02-03-2025 15:50:40 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1740927040 where id=3911 limit 1
+02-03-2025 15:51:15 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > inserting into table hero_newsletter_stats
+02-03-2025 15:51:15 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=2, ip='2a02:9130:94a3:1a66:5d7:c545:bd82:2f63' where email_id=88 and user_id=3911 and open<2 limit 1
+02-03-2025 15:51:15 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set ip='2a02:9130:94a3:1a66:5d7:c545:bd82:2f63', geo=0 where ip<>'2a02:9130:94a3:1a66:5d7:c545:bd82:2f63' and id=3911 limit 1
+02-03-2025 15:51:15 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1740927075 where id=3911 limit 1
+02-03-2025 15:58:06 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MjIyNjs3NDJjZDhjYjY5ZThhMDRiYjBhYmQzZDAxZjVmODNlOA==
+02-03-2025 15:58:06 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+02-03-2025 15:58:06 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='2a09:bac3:1e91:791::c1:3f' where email_id=88 and user_id=2226 and open<1 limit 1
+02-03-2025 15:58:06 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1740927486 where id=2226 limit 1
+02-03-2025 16:25:18 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MzEwMDtjMjkyNTA5M2U3YjVkMzkwZDY2ODQzZDI1MTM4ZTBkNA==
+02-03-2025 16:25:18 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+02-03-2025 16:25:18 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.102.8.68' where email_id=88 and user_id=3100 and open<1 limit 1
+02-03-2025 16:25:18 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1740929118 where id=3100 limit 1
+02-03-2025 16:28:36 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > inserting into table hero_newsletter_stats
+02-03-2025 16:28:36 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=2, ip='179.28.135.113' where email_id=88 and user_id=3100 and open<2 limit 1
+02-03-2025 16:28:36 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > update hero_newsletter set ip='179.28.135.113', geo=0 where ip<>'179.28.135.113' and id=3100 limit 1
+02-03-2025 16:28:36 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > update hero_newsletter set last_activity=1740929316 where id=3100 limit 1
+02-03-2025 17:23:57 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7NDIyMzs5M2Q4Zjc0NzU1YTA2NmM4ZDAyMDMyYmI0YWYwN2MyNw==
+02-03-2025 17:23:57 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+02-03-2025 17:23:57 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='2a09:bac3:708b:e78::171:26f' where email_id=88 and user_id=4223 and open<1 limit 1
+02-03-2025 17:23:57 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1740932637 where id=4223 limit 1
+02-03-2025 18:18:35 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MzQ3ODs1Yjg1NDE4MWUyNWI3MTA5Njg3NmMwNzJmMjgwMDFiNQ==
+02-03-2025 18:18:35 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+02-03-2025 18:18:35 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.141' where email_id=88 and user_id=3478 and open<1 limit 1
+02-03-2025 18:18:35 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1740935915 where id=3478 limit 1
+02-03-2025 20:09:10 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7NTAwO2Y1Mzk5NWFkOGUzNjZmOWYwNjVlNzVkZWU0YTMxZjgw
+02-03-2025 20:09:10 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+02-03-2025 20:09:10 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='2a09:bac2:3137:1eb::31:7c' where email_id=88 and user_id=500 and open<1 limit 1
+02-03-2025 20:09:10 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1740942550 where id=500 limit 1
+02-03-2025 20:18:40 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODk7NDI1OTszYzdiNjNlYmYxNmNhYTE2YjczYzA5NjdlZmIyOWRjYw==
+02-03-2025 20:18:40 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+02-03-2025 20:18:40 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+02-03-2025 20:18:40 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='2a09:bac3:311c:245a::39f:a5' where email_id=89 and user_id=4259 and open<1 limit 1
+02-03-2025 20:18:40 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1740943120 where id=4259 limit 1
+02-03-2025 22:13:49 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7NDA5MDsxZDBlMTc2OTQ4MWNhOWExZjRiOGY2OWNiMWZiM2RhOA==
+02-03-2025 22:13:49 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+02-03-2025 22:13:49 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='88.27.87.171' where email_id=88 and user_id=4090 and open<1 limit 1
+02-03-2025 22:13:49 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1740950029 where id=4090 limit 1
+03-03-2025 05:23:24 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7NjExOzNhZjRiZjk1OTM4ZmEyNDY1MmM0MGFkMzA0MWQ1NTVk
+03-03-2025 05:23:24 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+03-03-2025 05:23:24 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.80.102' where email_id=88 and user_id=611 and open<1 limit 1
+03-03-2025 05:23:24 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1740975804 where id=611 limit 1
+03-03-2025 08:02:04 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODk7NDI0OTszMDcxNDZhMWY0ZjkwMTk0YzIzOWNhODY0ZDBhZDMxNQ==
+03-03-2025 08:02:04 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+03-03-2025 08:02:04 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+03-03-2025 08:02:04 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.142' where email_id=89 and user_id=4249 and open<1 limit 1
+03-03-2025 08:02:04 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1740985324 where id=4249 limit 1
+03-03-2025 08:29:39 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7Mzk3MTswZWE5NWQ0NWY2ZDhmNTZjYWFlODNiMWNkNTYzNGY5Yg==
+03-03-2025 08:29:39 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+03-03-2025 08:29:39 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.134' where email_id=88 and user_id=3971 and open<1 limit 1
+03-03-2025 08:29:39 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1740986979 where id=3971 limit 1
+03-03-2025 09:19:02 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MzMzNztkZTcyY2NlZTNkY2YyYmVlNDY3YjhlYmFlODQxNjMxYg==
+03-03-2025 09:19:02 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+03-03-2025 09:19:02 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='2a02:26f7:e348:4000:6f8f:5daf:635a:5ec' where email_id=88 and user_id=3337 and open<1 limit 1
+03-03-2025 09:19:02 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1740989942 where id=3337 limit 1
+03-03-2025 10:25:55 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MjMzMzthMDNlNzQ2N2QyZWYzNWY4YWE1M2U4NGM5N2Y1ZjQzOA==
+03-03-2025 10:25:55 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+03-03-2025 10:25:55 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='2a02:a03f:68a7:901:95bc:87c8:72b8:e1b3' where email_id=88 and user_id=2333 and open<1 limit 1
+03-03-2025 10:25:55 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1740993955 where id=2333 limit 1
+03-03-2025 10:28:16 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: Nzk7MzkwOTs5MGYyM2E1NWQ1MzMwOGUwM2Y1ZjJhMGRmZTIyOTlmMA==
+03-03-2025 10:28:16 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+03-03-2025 10:28:16 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+03-03-2025 10:28:16 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.134' where email_id=79 and user_id=3909 and open<1 limit 1
+03-03-2025 10:28:16 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1740994096 where id=3909 limit 1
+03-03-2025 12:03:06 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MTU1NztjZmE4NmQzNmRlYWU4OGYwOGRhMjIxZmY4OTMwMTVkNQ==
+03-03-2025 12:03:06 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+03-03-2025 12:03:06 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.141' where email_id=88 and user_id=1557 and open<1 limit 1
+03-03-2025 12:03:06 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1740999786 where id=1557 limit 1
+03-03-2025 12:25:49 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7Mzc1Mzs0MzRjZmY3MTVmMzk5ZjZiYmIyMDQxMGZhYTUwMTkxZA==
+03-03-2025 12:25:49 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+03-03-2025 12:25:49 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='81.44.14.237' where email_id=88 and user_id=3753 and open<1 limit 1
+03-03-2025 12:25:49 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741001149 where id=3753 limit 1
+03-03-2025 12:41:05 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MTk4ODs3MTAwNjRlNGJmMjA0YjhiOTMwYTdiMGU5ZDNhZThiNQ==
+03-03-2025 12:41:05 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+03-03-2025 12:41:05 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.134' where email_id=88 and user_id=1988 and open<1 limit 1
+03-03-2025 12:41:05 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741002065 where id=1988 limit 1
+03-03-2025 13:54:28 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MzEwMDtjMjkyNTA5M2U3YjVkMzkwZDY2ODQzZDI1MTM4ZTBkNA==
+03-03-2025 13:54:28 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+03-03-2025 13:54:28 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.132' where email_id=88 and user_id=3100 and open<1 limit 1
+03-03-2025 13:54:28 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741006468 where id=3100 limit 1
+03-03-2025 16:57:52 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7Mjg1NDs0OGY0N2NmMzQxNDY5ZjM0NjgxYWFmMTUwZjY1YTJkMg==
+03-03-2025 16:57:52 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+03-03-2025 16:57:52 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='2a02:26f7:ef10:4000:d4ef:b02b:a292:5853' where email_id=88 and user_id=2854 and open<1 limit 1
+03-03-2025 16:57:52 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741017472 where id=2854 limit 1
+03-03-2025 17:22:51 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MzAyNDtjZTdhY2JjYjgwZWRkZTIzMGYxMGQ2YmJhMzdhNjU3Mw==
+03-03-2025 17:22:51 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+03-03-2025 17:22:51 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='2a09:bac2:3117:191::28:ff' where email_id=88 and user_id=3024 and open<1 limit 1
+03-03-2025 17:22:51 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741018971 where id=3024 limit 1
+03-03-2025 18:05:36 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7Mzg5NDs4ZTczMTc4MGE2Njg4NGI2ZTM4NmI4M2M2OTliYmE5Ng==
+03-03-2025 18:05:36 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+03-03-2025 18:05:36 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.134' where email_id=88 and user_id=3894 and open<1 limit 1
+03-03-2025 18:05:36 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741021536 where id=3894 limit 1
+03-03-2025 18:05:37 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7Mzg5NDs4ZTczMTc4MGE2Njg4NGI2ZTM4NmI4M2M2OTliYmE5Ng==
+03-03-2025 18:05:37 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+03-03-2025 18:05:37 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.132' where email_id=88 and user_id=3894 and open<1 limit 1
+03-03-2025 18:05:37 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741021537 where id=3894 limit 1
+03-03-2025 18:16:31 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MjQxMDs4ZDZmMTViYzcyODg2OTBkOGZlMzI5NDg3MWJmYjY4MA==
+03-03-2025 18:16:31 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+03-03-2025 18:16:31 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.133' where email_id=88 and user_id=2410 and open<1 limit 1
+03-03-2025 18:16:31 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741022191 where id=2410 limit 1
+03-03-2025 18:40:14 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MzU0NDszYzA1ZWQxNGI5NzgzODRhMDAzZTliNzUzMmM3ZWU0NQ==
+03-03-2025 18:40:14 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+03-03-2025 18:40:14 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.84.101' where email_id=88 and user_id=3544 and open<1 limit 1
+03-03-2025 18:40:14 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741023614 where id=3544 limit 1
+03-03-2025 19:45:15 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7Mzk1NjsxYzUyNTg3ZTZiYTVmOTlmYzk4Y2FmN2FjMjA5YmIyYQ==
+03-03-2025 19:45:15 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+03-03-2025 19:45:15 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='2a09:bac3:3129:191::28:138' where email_id=88 and user_id=3956 and open<1 limit 1
+03-03-2025 19:45:15 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741027515 where id=3956 limit 1
+03-03-2025 19:53:38 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MzkyMjtmZmIyMDA4ZTQ5ZDBmMDFlNWVlZTgxOTdhM2VlNjNhMg==
+03-03-2025 19:53:38 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+03-03-2025 19:53:38 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.140' where email_id=88 and user_id=3922 and open<1 limit 1
+03-03-2025 19:53:38 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741028018 where id=3922 limit 1
+03-03-2025 19:57:54 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MjYxMztjNjQ2MjhmYzczNGM2YjQ5OTVmMjFmOTNhNDFmMmE0Mg==
+03-03-2025 19:57:54 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+03-03-2025 19:57:54 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='2a09:bac3:3130:191::28:111' where email_id=88 and user_id=2613 and open<1 limit 1
+03-03-2025 19:57:54 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741028274 where id=2613 limit 1
+03-03-2025 20:06:47 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7NzM1OzY2Yzk5MTNlZjQ5YWIxMGUyNTczMGFiNjJjMzJmYTFl
+03-03-2025 20:06:47 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+03-03-2025 20:06:47 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.134' where email_id=88 and user_id=735 and open<1 limit 1
+03-03-2025 20:06:48 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741028808 where id=735 limit 1
+03-03-2025 23:11:00 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MzI5NDs3YTAxNzI5MDc3OWRhZjIxODg5MjZkZDIyYTFiNDQ1MA==
+03-03-2025 23:11:00 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+03-03-2025 23:11:00 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.142' where email_id=88 and user_id=3294 and open<1 limit 1
+03-03-2025 23:11:00 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741039860 where id=3294 limit 1
+03-03-2025 23:45:48 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MjUxNjswYmZmNDNkOGI2NThiZGFiMzcwNTkzNDBhODE4MmYwMQ==
+03-03-2025 23:45:48 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+03-03-2025 23:45:48 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='2a04:4e41:22:7::1eb6:3af3' where email_id=88 and user_id=2516 and open<1 limit 1
+03-03-2025 23:45:48 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741041948 where id=2516 limit 1
+04-03-2025 01:01:51 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MzIwMTszNDNlMmNlMDZhM2I4NTY2MDc5NTI4NTlkY2UyMzIwMw==
+04-03-2025 01:01:51 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+04-03-2025 01:01:51 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='140.248.30.1' where email_id=88 and user_id=3201 and open<1 limit 1
+04-03-2025 01:01:51 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741046511 where id=3201 limit 1
+04-03-2025 07:20:34 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MjA0NTs2OTEzZGM2ZWJkMWYyNTZhZjE4ZGVkZTg5MTU4NTQwMQ==
+04-03-2025 07:20:34 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+04-03-2025 07:20:34 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.141' where email_id=88 and user_id=2045 and open<1 limit 1
+04-03-2025 07:20:34 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741069234 where id=2045 limit 1
+04-03-2025 10:19:30 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7Mzk1MDtmNWIyN2JiMTlhZDExOTgzMDA3Zjg4ODA5Mzc5Njc5OA==
+04-03-2025 10:19:30 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+04-03-2025 10:19:30 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.132' where email_id=88 and user_id=3950 and open<1 limit 1
+04-03-2025 10:19:30 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741079970 where id=3950 limit 1
+04-03-2025 10:20:01 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > inserting into table hero_newsletter_stats
+04-03-2025 10:20:01 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=2, ip='145.1.241.189' where email_id=88 and user_id=3950 and open<2 limit 1
+04-03-2025 10:20:01 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set ip='145.1.241.189', geo=0 where ip<>'145.1.241.189' and id=3950 limit 1
+04-03-2025 10:20:01 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741080001 where id=3950 limit 1
+04-03-2025 10:20:13 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > inserting into table hero_newsletter_stats
+04-03-2025 10:20:13 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=2, ip='77.26.255.5' where email_id=88 and user_id=3950 and open<2 limit 1
+04-03-2025 10:20:13 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set ip='77.26.255.5', geo=0 where ip<>'77.26.255.5' and id=3950 limit 1
+04-03-2025 10:20:13 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741080013 where id=3950 limit 1
+04-03-2025 10:28:55 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: Nzk7MjY2MTsyMzk4NDg5NDJhYmFhYzZhMWZiOTg4ZDI4ZjMyMjQ2Mw==
+04-03-2025 10:28:55 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+04-03-2025 10:28:55 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+04-03-2025 10:28:55 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.132' where email_id=79 and user_id=2661 and open<1 limit 1
+04-03-2025 10:28:55 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741080535 where id=2661 limit 1
+04-03-2025 10:29:49 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: NDQ7MjY2MTtmNWRjMmVkNTFlZmM1MTM2YTY4NWYyYTY2MWI5MTI4Yg==
+04-03-2025 10:29:49 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+04-03-2025 10:29:49 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.134' where email_id=44 and user_id=2661 and open<1 limit 1
+04-03-2025 10:29:49 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741080589 where id=2661 limit 1
+04-03-2025 13:01:16 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MTQ1NTsxN2JiNjIzOTVmZWFjNWUyMDk3NGY4ZTQ5MGIxNDIyNw==
+04-03-2025 13:01:16 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+04-03-2025 13:01:16 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.132' where email_id=88 and user_id=1455 and open<1 limit 1
+04-03-2025 13:01:16 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741089676 where id=1455 limit 1
+04-03-2025 14:26:23 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7NDE1NDtmNzQxODZkZjYxOGUxMjRiMGJkOTA4ZjhjMzBlNDY3Zg==
+04-03-2025 14:26:23 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+04-03-2025 14:26:23 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.84.100' where email_id=88 and user_id=4154 and open<1 limit 1
+04-03-2025 14:26:23 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741094783 where id=4154 limit 1
+04-03-2025 17:54:26 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MTgyMzs2MmY2NWE0ZTFlNmI4YjEyMjM1MjE1YzhiOGZjMTRlNQ==
+04-03-2025 17:54:26 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+04-03-2025 17:54:26 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='85.251.158.120' where email_id=88 and user_id=1823 and open<1 limit 1
+04-03-2025 17:54:26 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741107266 where id=1823 limit 1
+04-03-2025 17:54:29 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODY7MTgyMzs4N2VlYmZiOTI4NDJlNWM4ZWNjZTg3NjY0NGM3NmZhZQ==
+04-03-2025 17:54:29 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+04-03-2025 17:54:29 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+04-03-2025 17:54:29 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='85.251.158.120' where email_id=86 and user_id=1823 and open<1 limit 1
+04-03-2025 17:54:29 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741107269 where id=1823 limit 1
+04-03-2025 17:54:31 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODQ7Mzk0NDszYjJlZmJmNjQ2MjAwMjM4YzQ2MDJmYmRiZDFkNzE4ZQ==
+04-03-2025 17:54:31 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+04-03-2025 17:54:31 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+04-03-2025 17:54:31 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='85.251.158.120' where email_id=84 and user_id=3944 and open<1 limit 1
+04-03-2025 17:54:31 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741107271 where id=3944 limit 1
+04-03-2025 17:55:12 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: MjY7MTgyMzsxNGIyMzRmMzI3OTk3NGIzYjE5OWMxMGM5NTU2MTFlYg==
+04-03-2025 17:55:12 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+04-03-2025 17:55:12 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+04-03-2025 17:55:12 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='85.251.158.120' where email_id=26 and user_id=1823 and open<1 limit 1
+04-03-2025 17:55:12 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741107312 where id=1823 limit 1
+04-03-2025 17:55:52 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: NTI7MTgyMzs1NmUzN2UzMzgwMjNlMmQ1OGY4MzNkNDcyNmY3ZWRhYw==
+04-03-2025 17:55:52 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+04-03-2025 17:55:52 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+04-03-2025 17:55:52 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='85.251.158.120' where email_id=52 and user_id=1823 and open<1 limit 1
+04-03-2025 17:55:52 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741107352 where id=1823 limit 1
+04-03-2025 17:56:22 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: MjY7MTgyMzsxNGIyMzRmMzI3OTk3NGIzYjE5OWMxMGM5NTU2MTFlYg==
+04-03-2025 17:56:22 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+04-03-2025 17:56:22 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+04-03-2025 17:56:22 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='85.251.158.120' where email_id=26 and user_id=1823 and open<1 limit 1
+04-03-2025 17:56:22 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741107382 where id=1823 limit 1
+04-03-2025 17:56:38 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: MzI7MTgyMzs5YjRkZTA0YmQ2YmM4Nzg0ZjlmMmY1MDZlNDc2NTU5NA==
+04-03-2025 17:56:38 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+04-03-2025 17:56:38 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+04-03-2025 17:56:38 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='85.251.158.120' where email_id=32 and user_id=1823 and open<1 limit 1
+04-03-2025 17:56:38 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741107398 where id=1823 limit 1
+04-03-2025 17:57:11 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > inserting into table hero_newsletter_stats
+04-03-2025 17:57:11 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=2, ip='85.251.158.120' where email_id=32 and user_id=1823 and open<2 limit 1
+04-03-2025 17:57:11 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set ip='85.251.158.120', geo=0 where ip<>'85.251.158.120' and id=1823 limit 1
+04-03-2025 17:57:11 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741107431 where id=1823 limit 1
+04-03-2025 19:14:40 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MTk4ODs3MTAwNjRlNGJmMjA0YjhiOTMwYTdiMGU5ZDNhZThiNQ==
+04-03-2025 19:14:40 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+04-03-2025 19:14:40 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.134' where email_id=88 and user_id=1988 and open<1 limit 1
+04-03-2025 19:14:40 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741112080 where id=1988 limit 1
+04-03-2025 19:16:14 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MzQzMDszMDgyYWQ0ODhmOGZmNjFkZGNiNWI4OGJkY2Y2MWJlNQ==
+04-03-2025 19:16:14 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+04-03-2025 19:16:14 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.133' where email_id=88 and user_id=3430 and open<1 limit 1
+04-03-2025 19:16:14 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741112174 where id=3430 limit 1
+04-03-2025 21:55:18 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MzcyNTs5YjBhMmM1NDVjNTVlMTUzNmU1ZTA2MDhlMTBmMDY2Nw==
+04-03-2025 21:55:18 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+04-03-2025 21:55:18 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='2a02:26f7:fb04:4000:f000::1a' where email_id=88 and user_id=3725 and open<1 limit 1
+04-03-2025 21:55:18 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741121718 where id=3725 limit 1
+04-03-2025 22:29:16 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MTUzNDtiYTAzMjgxYTk1NjEyZTJhNjRlZDY5MWE2OGVlNzE3Zg==
+04-03-2025 22:29:16 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+04-03-2025 22:29:16 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='2a04:4e41:22:7::46f2:62d3' where email_id=88 and user_id=1534 and open<1 limit 1
+04-03-2025 22:29:16 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741123756 where id=1534 limit 1
+04-03-2025 22:56:58 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODk7NDI0OTszMDcxNDZhMWY0ZjkwMTk0YzIzOWNhODY0ZDBhZDMxNQ==
+04-03-2025 22:56:58 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+04-03-2025 22:56:58 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+04-03-2025 22:56:58 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.141' where email_id=89 and user_id=4249 and open<1 limit 1
+04-03-2025 22:56:58 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741125418 where id=4249 limit 1
+04-03-2025 23:03:09 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MjMwMztiMGZmZTM2MWE3ZjBhMzMzMjdjYjJjZTc1NWJlYjI3MA==
+04-03-2025 23:03:09 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+04-03-2025 23:03:09 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='83.54.166.89' where email_id=88 and user_id=2303 and open<1 limit 1
+04-03-2025 23:03:09 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741125789 where id=2303 limit 1
+04-03-2025 23:03:09 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MjMwMztiMGZmZTM2MWE3ZjBhMzMzMjdjYjJjZTc1NWJlYjI3MA==
+04-03-2025 23:03:09 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+04-03-2025 23:03:09 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='83.54.166.89' where email_id=88 and user_id=2303 and open<1 limit 1
+04-03-2025 23:03:09 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741125789 where id=2303 limit 1
+04-03-2025 23:33:02 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODk7MTk4ODs3YzBhMzk5OGNmOTNmYzNhZTNlN2UzN2NmZGU2NmFlOQ==
+04-03-2025 23:33:02 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+04-03-2025 23:33:02 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+04-03-2025 23:33:02 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.133' where email_id=89 and user_id=1988 and open<1 limit 1
+04-03-2025 23:33:02 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741127582 where id=1988 limit 1
+04-03-2025 23:37:18 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MTk4ODs3MTAwNjRlNGJmMjA0YjhiOTMwYTdiMGU5ZDNhZThiNQ==
+04-03-2025 23:37:18 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+04-03-2025 23:37:18 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.140' where email_id=88 and user_id=1988 and open<1 limit 1
+04-03-2025 23:37:18 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741127838 where id=1988 limit 1
+05-03-2025 03:46:47 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MjAzNztmMmIxOTk4YWYxZTVmZDM2Y2QzNThlNTcwYjllYmJiZg==
+05-03-2025 03:46:47 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+05-03-2025 03:46:47 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='2a09:bac3:4ad4:78::c:337' where email_id=88 and user_id=2037 and open<1 limit 1
+05-03-2025 03:46:47 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741142807 where id=2037 limit 1
+05-03-2025 09:18:51 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: NzY7MTA4MTswM2RiNjBjMWJlZDE3MGQxNTJkZjVhZjY3NGQ1MzI3Zg==
+05-03-2025 09:18:51 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+05-03-2025 09:18:51 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+05-03-2025 09:18:51 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.141' where email_id=76 and user_id=1081 and open<1 limit 1
+05-03-2025 09:18:51 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741162731 where id=1081 limit 1
+05-03-2025 14:56:07 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MzI2MDs3OTkyZjZlMzk3MjYxYWQ1MDQ1ZmRjYzYxYjY3M2EzOQ==
+05-03-2025 14:56:07 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+05-03-2025 14:56:07 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.141' where email_id=88 and user_id=3260 and open<1 limit 1
+05-03-2025 14:56:07 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741182967 where id=3260 limit 1
+05-03-2025 14:59:00 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > Open tracking: ODQ7Mzk0NDszYjJlZmJmNjQ2MjAwMjM4YzQ2MDJmYmRiZDFkNzE4ZQ==
+05-03-2025 14:59:00 - INFO  - 8.7.0 - 15,2 MB/2 GB -  > Email with no token hence not signature to check
+05-03-2025 14:59:00 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > inserting into table hero_newsletter_stats
+05-03-2025 14:59:00 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='85.251.158.120' where email_id=84 and user_id=3944 and open<1 limit 1
+05-03-2025 14:59:00 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > update hero_newsletter set last_activity=1741183140 where id=3944 limit 1
+05-03-2025 16:20:19 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7Mjk5NDs2NTVkYWRiNDFiMzNlODExZDlkNWEyZjBjMDNkYzZiOQ==
+05-03-2025 16:20:19 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+05-03-2025 16:20:19 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.141' where email_id=88 and user_id=2994 and open<1 limit 1
+05-03-2025 16:20:19 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741188019 where id=2994 limit 1
+05-03-2025 21:26:15 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MjAzNztmMmIxOTk4YWYxZTVmZDM2Y2QzNThlNTcwYjllYmJiZg==
+05-03-2025 21:26:15 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+05-03-2025 21:26:15 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='2a09:bac3:49a7:15d7::22d:e0' where email_id=88 and user_id=2037 and open<1 limit 1
+05-03-2025 21:26:15 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741206375 where id=2037 limit 1
+05-03-2025 23:04:44 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MTk4ODs3MTAwNjRlNGJmMjA0YjhiOTMwYTdiMGU5ZDNhZThiNQ==
+05-03-2025 23:04:44 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+05-03-2025 23:04:44 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.134' where email_id=88 and user_id=1988 and open<1 limit 1
+05-03-2025 23:04:44 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741212284 where id=1988 limit 1
+05-03-2025 23:18:00 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: NzsxMTc7ODYwYjM3ZTI4ZWM3YmE2MTRmMDBmOTI0Njk0OTU2MWQ=
+05-03-2025 23:18:00 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+05-03-2025 23:18:00 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+05-03-2025 23:18:00 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.133' where email_id=7 and user_id=117 and open<1 limit 1
+05-03-2025 23:18:00 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741213080 where id=117 limit 1
+05-03-2025 23:18:02 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: MTI7MTE3O2UyOWI3MjJlMzUwNDBiODg2NzhlMjVhMWVjMDMyYTIx
+05-03-2025 23:18:02 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+05-03-2025 23:18:02 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+05-03-2025 23:18:02 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.134' where email_id=12 and user_id=117 and open<1 limit 1
+05-03-2025 23:18:02 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741213082 where id=117 limit 1
+05-03-2025 23:18:19 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: MTk7MTE3OzI2M2M2MmRkMzMyNTg0NDQ5YzIyMDQyNmIyZGNmMjRm
+05-03-2025 23:18:19 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+05-03-2025 23:18:19 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.132' where email_id=19 and user_id=117 and open<1 limit 1
+05-03-2025 23:18:19 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741213099 where id=117 limit 1
+05-03-2025 23:18:56 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: Mjg7MTE3OzZjYTNmN2FjYjhhYjZjOGZmNjEyM2Q1NGM4M2FiODQ0
+05-03-2025 23:18:56 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+05-03-2025 23:18:56 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+05-03-2025 23:18:56 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.132' where email_id=28 and user_id=117 and open<1 limit 1
+05-03-2025 23:18:56 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741213136 where id=117 limit 1
+05-03-2025 23:19:13 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: NDE7MTE3OzdhYWQ5ZDNmODRkMWQ4YzRkZDdjOGJmZmU2Zjk0NzNj
+05-03-2025 23:19:13 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+05-03-2025 23:19:13 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.132' where email_id=41 and user_id=117 and open<1 limit 1
+05-03-2025 23:19:13 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741213153 where id=117 limit 1
+05-03-2025 23:19:33 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: NDQ7MTE3OzRjMTM1Nzc2NzBjYmIxYjBhZGRlNGFkYTI4ZjE0YmIx
+05-03-2025 23:19:33 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+05-03-2025 23:19:33 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.134' where email_id=44 and user_id=117 and open<1 limit 1
+05-03-2025 23:19:33 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741213173 where id=117 limit 1
+05-03-2025 23:19:50 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: Nzk7MTE3OzBhOWEwYjBhZDBlZmEyM2EyMWY2NmMxNjFjZDAzYzA5
+05-03-2025 23:19:50 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+05-03-2025 23:19:50 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+05-03-2025 23:19:50 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.134' where email_id=79 and user_id=117 and open<1 limit 1
+05-03-2025 23:19:50 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741213190 where id=117 limit 1
+06-03-2025 00:32:35 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7Mzg2MjthMjJkOTEzZTgwZDAzYTdmM2ViNmM1Nzg4YmJjMWNlNw==
+06-03-2025 00:32:35 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+06-03-2025 00:32:35 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.132' where email_id=88 and user_id=3862 and open<1 limit 1
+06-03-2025 00:32:35 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741217555 where id=3862 limit 1
+06-03-2025 01:49:23 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MzEwMDtjMjkyNTA5M2U3YjVkMzkwZDY2ODQzZDI1MTM4ZTBkNA==
+06-03-2025 01:49:23 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+06-03-2025 01:49:23 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.102.8.77' where email_id=88 and user_id=3100 and open<1 limit 1
+06-03-2025 01:49:23 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741222163 where id=3100 limit 1
+06-03-2025 04:06:57 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MTcxMztkNjllZmI4NjU0YTczMjBmZTU5NjdjMzg3ZmU5YTUyNw==
+06-03-2025 04:06:57 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+06-03-2025 04:06:57 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='2a02:26f7:ef10:4000:e15a:8ced:f9f9:b89b' where email_id=88 and user_id=1713 and open<1 limit 1
+06-03-2025 04:06:57 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > update hero_newsletter set last_activity=1741230417 where id=1713 limit 1
+06-03-2025 07:19:44 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODk7NDI1OTszYzdiNjNlYmYxNmNhYTE2YjczYzA5NjdlZmIyOWRjYw==
+06-03-2025 07:19:44 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+06-03-2025 07:19:44 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+06-03-2025 07:19:44 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='2a09:bac3:30d3:245a::39f:29' where email_id=89 and user_id=4259 and open<1 limit 1
+06-03-2025 07:19:44 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741241984 where id=4259 limit 1
+06-03-2025 11:21:10 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MTIzMjs1ZGM4YTdkMWI4NzVmNWRlZGFkNjUzYzQyZWY3YjNlZA==
+06-03-2025 11:21:10 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+06-03-2025 11:21:10 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.140' where email_id=88 and user_id=1232 and open<1 limit 1
+06-03-2025 11:21:10 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741256470 where id=1232 limit 1
+06-03-2025 12:21:59 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODk7NDI0OTszMDcxNDZhMWY0ZjkwMTk0YzIzOWNhODY0ZDBhZDMxNQ==
+06-03-2025 12:21:59 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+06-03-2025 12:21:59 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+06-03-2025 12:21:59 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.141' where email_id=89 and user_id=4249 and open<1 limit 1
+06-03-2025 12:21:59 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741260119 where id=4249 limit 1
+06-03-2025 12:31:13 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MjEwNztlMTBkNDJhNjFjOTRmZWM5OTI3YmJkMjg4MmE3OGI3Mg==
+06-03-2025 12:31:13 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+06-03-2025 12:31:13 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.140' where email_id=88 and user_id=2107 and open<1 limit 1
+06-03-2025 12:31:13 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741260673 where id=2107 limit 1
+06-03-2025 12:35:50 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MjU3NTtiOGZlYzVlNzY1MzczNzlkN2E2ZGQxYmYzOGU2MmJhMw==
+06-03-2025 12:35:50 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+06-03-2025 12:35:50 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='87.248.116.78' where email_id=88 and user_id=2575 and open<1 limit 1
+06-03-2025 12:35:50 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741260950 where id=2575 limit 1
+06-03-2025 12:56:20 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MjYxNTszYzA1ODBjMmMxYWEyZGY0YTA3N2QzYjQwNGI1MTM0MA==
+06-03-2025 12:56:20 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+06-03-2025 12:56:20 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.142' where email_id=88 and user_id=2615 and open<1 limit 1
+06-03-2025 12:56:20 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741262180 where id=2615 limit 1
+07-03-2025 01:27:33 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MjE2O2U5MjEzNDBkNDVmMTZiOWMwNjU5MTg4ODY4Zjc1ZDMy
+07-03-2025 01:27:33 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+07-03-2025 01:27:33 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.84.100' where email_id=88 and user_id=216 and open<1 limit 1
+07-03-2025 01:27:33 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741307253 where id=216 limit 1
+07-03-2025 01:27:37 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MjE2O2U5MjEzNDBkNDVmMTZiOWMwNjU5MTg4ODY4Zjc1ZDMy
+07-03-2025 01:27:37 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+07-03-2025 01:27:37 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.84.73' where email_id=88 and user_id=216 and open<1 limit 1
+07-03-2025 01:27:37 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741307257 where id=216 limit 1
+07-03-2025 04:29:56 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MzA0MDsxM2RmMDNjNmM3MTlhNzYzMTkyM2QzYjFiNTg3ZjM2Mg==
+07-03-2025 04:29:56 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+07-03-2025 04:29:56 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='2a09:bac2:2bcf:2482::3a3:58' where email_id=88 and user_id=3040 and open<1 limit 1
+07-03-2025 04:29:56 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741318196 where id=3040 limit 1
+07-03-2025 10:08:25 - DEBUG - 8.7.0 - 24,2 MB/2 GB - Eduardo > delete from hero_newsletter_sent where email_id=90
+07-03-2025 10:08:25 - DEBUG - 8.7.0 - 24,1 MB/2 GB - Eduardo > delete from hero_newsletter_stats where email_id=90
+07-03-2025 10:15:12 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: OTA7MTc3NTtiMDEyMzljYTE2MzY4M2EwM2NlYTdiOWY0ZmY3ZTJhYg==
+07-03-2025 10:15:12 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+07-03-2025 10:15:12 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+07-03-2025 10:15:12 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='84.78.24.79' where email_id=90 and user_id=1775 and open<1 limit 1
+07-03-2025 10:15:12 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741338912 where id=1775 limit 1
+07-03-2025 10:30:18 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: OTA7NDMwNjs0MTkyMTZkMDA3ZGIyNzMzMGZhZDhkZTdkMjg2MmRmNw==
+07-03-2025 10:30:18 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+07-03-2025 10:30:18 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+07-03-2025 10:30:18 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.134' where email_id=90 and user_id=4306 and open<1 limit 1
+07-03-2025 10:30:18 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741339818 where id=4306 limit 1
+07-03-2025 10:30:21 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: OTA7NDMwNjs0MTkyMTZkMDA3ZGIyNzMzMGZhZDhkZTdkMjg2MmRmNw==
+07-03-2025 10:30:21 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+07-03-2025 10:30:21 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+07-03-2025 10:30:21 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.140' where email_id=90 and user_id=4306 and open<1 limit 1
+07-03-2025 10:30:21 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741339821 where id=4306 limit 1
+07-03-2025 10:32:16 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: OTA7NDMwODsxYjc5ZjFhN2RhMTk4ZWNjZDk5ZmQ0YWRiNTQxZmYwMg==
+07-03-2025 10:32:16 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+07-03-2025 10:32:16 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+07-03-2025 10:32:16 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.140' where email_id=90 and user_id=4308 and open<1 limit 1
+07-03-2025 10:32:16 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741339936 where id=4308 limit 1
+07-03-2025 10:32:17 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: OTA7NDMwODsxYjc5ZjFhN2RhMTk4ZWNjZDk5ZmQ0YWRiNTQxZmYwMg==
+07-03-2025 10:32:17 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+07-03-2025 10:32:17 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+07-03-2025 10:32:17 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.140' where email_id=90 and user_id=4308 and open<1 limit 1
+07-03-2025 10:32:17 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741339937 where id=4308 limit 1
+07-03-2025 10:36:14 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: OTA7MjI2MTs1MWE1MmZlOThkZjM0MDlmZTIwNzI2MTZhNzM5MTBlMQ==
+07-03-2025 10:36:14 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+07-03-2025 10:36:14 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+07-03-2025 10:36:14 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='81.41.174.116' where email_id=90 and user_id=2261 and open<1 limit 1
+07-03-2025 10:36:14 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741340174 where id=2261 limit 1
+07-03-2025 10:37:32 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: MTQ7ODE0OzdlOTJhMmQ3M2VhYjVjY2IzMzY3N2I1MmJmMTk4MDE4
+07-03-2025 10:37:32 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+07-03-2025 10:37:32 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.141' where email_id=14 and user_id=814 and open<1 limit 1
+07-03-2025 10:37:32 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741340252 where id=814 limit 1
+07-03-2025 10:51:50 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: OTA7MjI2Mzs4NDU3ZjBjMTE2ZGZmNmMwNGRiNzUyMTNhOTkxYjI4YQ==
+07-03-2025 10:51:50 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+07-03-2025 10:51:50 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+07-03-2025 10:51:50 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='87.248.116.78' where email_id=90 and user_id=2263 and open<1 limit 1
+07-03-2025 10:51:50 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741341110 where id=2263 limit 1
+07-03-2025 10:58:56 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: OTA7NDI4MTswOTEzZWI2MGI1YzY0Y2IyZTk2OGI4MGE5ZGQ2NjJjOA==
+07-03-2025 10:58:56 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+07-03-2025 10:58:56 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+07-03-2025 10:58:56 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='88.21.55.105' where email_id=90 and user_id=4281 and open<1 limit 1
+07-03-2025 10:58:56 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741341536 where id=4281 limit 1
+07-03-2025 11:02:22 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: OTA7NDI3MTtjMTdmZWI0YjVjMzIwMDQxYTgxMTg4YjZlYjQxMWQ0MQ==
+07-03-2025 11:02:22 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+07-03-2025 11:02:22 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+07-03-2025 11:02:22 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='2a04:4e41:22:7::dd59:7935' where email_id=90 and user_id=4271 and open<1 limit 1
+07-03-2025 11:02:22 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741341742 where id=4271 limit 1
+07-03-2025 11:35:53 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: OTA7Mjg0MDs5Nzk3NDk5OWY0ZjIwMDY5OGRkMDFkODMyZTAxYmM4MQ==
+07-03-2025 11:35:53 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+07-03-2025 11:35:53 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+07-03-2025 11:35:53 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.141' where email_id=90 and user_id=2840 and open<1 limit 1
+07-03-2025 11:35:53 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741343753 where id=2840 limit 1
+07-03-2025 12:09:02 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: OTA7NDI3MTtjMTdmZWI0YjVjMzIwMDQxYTgxMTg4YjZlYjQxMWQ0MQ==
+07-03-2025 12:09:02 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+07-03-2025 12:09:02 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+07-03-2025 12:09:02 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='2a02:26f7:ef14:4000:bebf:46eb:5b4c:e6cd' where email_id=90 and user_id=4271 and open<1 limit 1
+07-03-2025 12:09:02 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741345742 where id=4271 limit 1
+07-03-2025 12:49:36 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: OTA7MjI2Mzs4NDU3ZjBjMTE2ZGZmNmMwNGRiNzUyMTNhOTkxYjI4YQ==
+07-03-2025 12:49:36 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+07-03-2025 12:49:36 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+07-03-2025 12:49:36 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='87.248.115.84' where email_id=90 and user_id=2263 and open<1 limit 1
+07-03-2025 12:49:36 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741348176 where id=2263 limit 1
+07-03-2025 12:56:58 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MzI2MDs3OTkyZjZlMzk3MjYxYWQ1MDQ1ZmRjYzYxYjY3M2EzOQ==
+07-03-2025 12:56:58 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+07-03-2025 12:56:58 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.140' where email_id=88 and user_id=3260 and open<1 limit 1
+07-03-2025 12:56:58 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741348618 where id=3260 limit 1
+07-03-2025 13:29:41 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: OTA7NDMwMztiNTY5NzY0N2Q3OWEzNzQ2ZDUzMTc1M2NjNTk2ZTYwNA==
+07-03-2025 13:29:41 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+07-03-2025 13:29:41 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+07-03-2025 13:29:41 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.132' where email_id=90 and user_id=4303 and open<1 limit 1
+07-03-2025 13:29:41 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741350581 where id=4303 limit 1
+07-03-2025 14:49:59 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MjA4ODs2NzJhZDE5NjU1NDJjN2U2MjcxM2QxY2Y3MWZkYzlmMg==
+07-03-2025 14:49:59 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+07-03-2025 14:49:59 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.142' where email_id=88 and user_id=2088 and open<1 limit 1
+07-03-2025 14:49:59 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741355399 where id=2088 limit 1
+07-03-2025 15:00:22 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: NzM7MzE5NzsxZDdjODQ2YjFkODU2MjI5YjBmZDczZmE1MjE4ZmRmMw==
+07-03-2025 15:00:22 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+07-03-2025 15:00:22 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+07-03-2025 15:00:22 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='2a02:26f7:ef14:4000:9e6e:7b0c:4758:ea37' where email_id=73 and user_id=3197 and open<1 limit 1
+07-03-2025 15:00:22 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741356022 where id=3197 limit 1
+07-03-2025 15:00:26 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: OTA7MzczODs3MmExNjg3MzE5N2JmNDliZDE3NzFhN2M3OWIyZTk0Ng==
+07-03-2025 15:00:26 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+07-03-2025 15:00:26 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+07-03-2025 15:00:26 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='87.248.116.214' where email_id=90 and user_id=3738 and open<1 limit 1
+07-03-2025 15:00:26 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741356026 where id=3738 limit 1
+07-03-2025 15:18:30 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODk7MTk4ODs3YzBhMzk5OGNmOTNmYzNhZTNlN2UzN2NmZGU2NmFlOQ==
+07-03-2025 15:18:30 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+07-03-2025 15:18:30 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+07-03-2025 15:18:30 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.140' where email_id=89 and user_id=1988 and open<1 limit 1
+07-03-2025 15:18:30 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741357110 where id=1988 limit 1
+07-03-2025 16:00:39 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7Mjk3MjsyODdlZTZiMDI3ZTU4YzdhMjViYmVkZTA2M2QxNjBmNg==
+07-03-2025 16:00:39 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+07-03-2025 16:00:39 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.134' where email_id=88 and user_id=2972 and open<1 limit 1
+07-03-2025 16:00:39 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741359639 where id=2972 limit 1
+07-03-2025 16:13:39 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7NDIxNztlMGRkNzMxMWUyYzc1YzQ3MjgzYTc3ZDhmNzE0Nzg3Nw==
+07-03-2025 16:13:39 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+07-03-2025 16:13:39 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.102.8.78' where email_id=88 and user_id=4217 and open<1 limit 1
+07-03-2025 16:13:39 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741360419 where id=4217 limit 1
+07-03-2025 16:42:03 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7OTs1NjNlZGYzYjE3NTM4MzYzZDQzZDgyNWJlNjEwNzVjMA==
+07-03-2025 16:42:03 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+07-03-2025 16:42:03 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.102.9.98' where email_id=88 and user_id=9 and open<1 limit 1
+07-03-2025 16:42:03 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741362123 where id=9 limit 1
+07-03-2025 16:42:08 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7OTs1NjNlZGYzYjE3NTM4MzYzZDQzZDgyNWJlNjEwNzVjMA==
+07-03-2025 16:42:08 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+07-03-2025 16:42:08 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.102.9.99' where email_id=88 and user_id=9 and open<1 limit 1
+07-03-2025 16:42:08 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741362128 where id=9 limit 1
+07-03-2025 17:14:24 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: OTA7NDIwMzszMTJiN2JiZDExOTllZGQ5MDE5NjVhOWZjODAwZTYzOA==
+07-03-2025 17:14:24 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+07-03-2025 17:14:24 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+07-03-2025 17:14:24 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='2a09:bac2:63fc:1250::1d3:6c' where email_id=90 and user_id=4203 and open<1 limit 1
+07-03-2025 17:14:24 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741364064 where id=4203 limit 1
+07-03-2025 17:21:56 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: OTA7NDIwMDs0MmRlYmFmMTA2YWUxY2RiZjc2NTllYmRlNjVmYjBiYg==
+07-03-2025 17:21:56 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+07-03-2025 17:21:56 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+07-03-2025 17:21:56 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='87.248.115.85' where email_id=90 and user_id=4200 and open<1 limit 1
+07-03-2025 17:21:56 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741364516 where id=4200 limit 1
+07-03-2025 17:29:21 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: OTA7NDMwNTtiNGZkNTBjMDg3MWM2NjU4OTM3MDcyMDNkNjc2YzBlYg==
+07-03-2025 17:29:21 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+07-03-2025 17:29:21 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+07-03-2025 17:29:21 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.134' where email_id=90 and user_id=4305 and open<1 limit 1
+07-03-2025 17:29:21 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741364961 where id=4305 limit 1
+07-03-2025 18:50:40 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7Mjk3MTtlZTE4MGFjYTgxZGQ1YjZiNDViY2RmY2Q5MDdiZWVhNg==
+07-03-2025 18:50:40 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+07-03-2025 18:50:40 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='87.248.116.78' where email_id=88 and user_id=2971 and open<1 limit 1
+07-03-2025 18:50:40 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741369840 where id=2971 limit 1
+07-03-2025 19:14:31 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: OTA7NDMwODsxYjc5ZjFhN2RhMTk4ZWNjZDk5ZmQ0YWRiNTQxZmYwMg==
+07-03-2025 19:14:31 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+07-03-2025 19:14:31 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+07-03-2025 19:14:31 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='2a04:4e41:22:7::5f5f:f126' where email_id=90 and user_id=4308 and open<1 limit 1
+07-03-2025 19:14:31 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741371271 where id=4308 limit 1
+07-03-2025 20:45:04 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: OTA7NDI4MTswOTEzZWI2MGI1YzY0Y2IyZTk2OGI4MGE5ZGQ2NjJjOA==
+07-03-2025 20:45:04 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+07-03-2025 20:45:04 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+07-03-2025 20:45:04 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='88.21.55.105' where email_id=90 and user_id=4281 and open<1 limit 1
+07-03-2025 20:45:04 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741376704 where id=4281 limit 1
+07-03-2025 20:51:52 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: OTA7NDI3MTtjMTdmZWI0YjVjMzIwMDQxYTgxMTg4YjZlYjQxMWQ0MQ==
+07-03-2025 20:51:52 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+07-03-2025 20:51:52 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+07-03-2025 20:51:52 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='2a04:4e41:22:7::15df:89a0' where email_id=90 and user_id=4271 and open<1 limit 1
+07-03-2025 20:51:52 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741377112 where id=4271 limit 1
+07-03-2025 22:14:18 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODk7Mjk4ODs5YWNjZjdkYmE1NTkyN2M5MjViYWQ5NzM2MGU5ZDdjMg==
+07-03-2025 22:14:18 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+07-03-2025 22:14:18 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+07-03-2025 22:14:18 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.133' where email_id=89 and user_id=2988 and open<1 limit 1
+07-03-2025 22:14:18 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741382058 where id=2988 limit 1
+07-03-2025 22:24:32 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7Mzc2ODtiYmU0ODA1ZWZhNDk3NWY1MmNmYjkyYTRiZTAxYjY5Nw==
+07-03-2025 22:24:32 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+07-03-2025 22:24:32 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='146.75.182.15' where email_id=88 and user_id=3768 and open<1 limit 1
+07-03-2025 22:24:32 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741382672 where id=3768 limit 1
+07-03-2025 23:00:25 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MzY4MDs4YWI5NThiZjQwZWYwMjk0NDZhYzA4NmQzNjZjMDhjYg==
+07-03-2025 23:00:25 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+07-03-2025 23:00:25 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='83.36.161.3' where email_id=88 and user_id=3680 and open<1 limit 1
+07-03-2025 23:00:25 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741384825 where id=3680 limit 1
+08-03-2025 03:04:26 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: Mzg7MTEwMzsxZjM5YWU3N2NiMWY0ZmU1YTk1NjNhZThjZDQzMWVmZA==
+08-03-2025 03:04:26 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+08-03-2025 03:04:26 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+08-03-2025 03:04:26 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.84.38' where email_id=38 and user_id=1103 and open<1 limit 1
+08-03-2025 03:04:26 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741399466 where id=1103 limit 1
+08-03-2025 07:36:58 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODk7MzUzNTtlMGFlYjQzNzU2NDk2Y2MxZmJhYzMzNzkxNDhiMWY5OQ==
+08-03-2025 07:36:58 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+08-03-2025 07:36:58 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+08-03-2025 07:36:58 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='2a09:bac2:3147:245a::39f:7b' where email_id=89 and user_id=3535 and open<1 limit 1
+08-03-2025 07:36:58 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741415818 where id=3535 limit 1
+08-03-2025 09:45:31 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MjQxODtiOWQ0YzdiZGQ5ODZlMTA4YzNjZDE5MWZlMWNlM2RlMg==
+08-03-2025 09:45:31 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+08-03-2025 09:45:31 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.141' where email_id=88 and user_id=2418 and open<1 limit 1
+08-03-2025 09:45:31 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741423531 where id=2418 limit 1
+08-03-2025 11:49:36 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7Mjk3MTtlZTE4MGFjYTgxZGQ1YjZiNDViY2RmY2Q5MDdiZWVhNg==
+08-03-2025 11:49:36 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+08-03-2025 11:49:36 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='87.248.116.215' where email_id=88 and user_id=2971 and open<1 limit 1
+08-03-2025 11:49:36 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741430976 where id=2971 limit 1
+08-03-2025 12:26:56 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MzI3O2VlNTlkYjk5MmRmMmVjOWJiN2JjZmYwMGMwZmY5MjI4
+08-03-2025 12:26:56 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+08-03-2025 12:26:56 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.141' where email_id=88 and user_id=327 and open<1 limit 1
+08-03-2025 12:26:56 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741433216 where id=327 limit 1
+08-03-2025 12:29:29 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODk7NDE3OTtmMTI5YmZlNDI2YmQ4OTlhODIzOTJjMzI4NGViMjFkMg==
+08-03-2025 12:29:29 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+08-03-2025 12:29:29 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+08-03-2025 12:29:29 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='90.162.124.109' where email_id=89 and user_id=4179 and open<1 limit 1
+08-03-2025 12:29:29 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741433369 where id=4179 limit 1
+08-03-2025 12:29:29 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODk7NDE3OTtmMTI5YmZlNDI2YmQ4OTlhODIzOTJjMzI4NGViMjFkMg==
+08-03-2025 12:29:29 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+08-03-2025 12:29:29 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+08-03-2025 12:29:29 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='90.162.124.109' where email_id=89 and user_id=4179 and open<1 limit 1
+08-03-2025 12:29:29 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741433369 where id=4179 limit 1
+08-03-2025 12:30:06 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODk7NDE3OTtmMTI5YmZlNDI2YmQ4OTlhODIzOTJjMzI4NGViMjFkMg==
+08-03-2025 12:30:06 - INFO  - 8.7.0 - 15,1 MB/2 GB -  > Email with no token hence not signature to check
+08-03-2025 12:30:06 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+08-03-2025 12:30:06 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='90.162.124.109' where email_id=89 and user_id=4179 and open<1 limit 1
+08-03-2025 12:30:06 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741433406 where id=4179 limit 1
+08-03-2025 12:41:51 - DEBUG - 8.7.0 - 15,0 MB/2 GB -  > Open tracking: ODg7MzI3O2VlNTlkYjk5MmRmMmVjOWJiN2JjZmYwMGMwZmY5MjI4
+08-03-2025 12:41:51 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > inserting into table hero_newsletter_stats
+08-03-2025 12:41:51 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.132' where email_id=88 and user_id=327 and open<1 limit 1
+08-03-2025 12:41:51 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > update hero_newsletter set last_activity=1741434111 where id=327 limit 1
+08-03-2025 14:14:25 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > Open tracking: ODk7NDI0OTszMDcxNDZhMWY0ZjkwMTk0YzIzOWNhODY0ZDBhZDMxNQ==
+08-03-2025 14:14:25 - INFO  - 8.7.1 - 15,9 MB/2 GB -  > Email with no token hence not signature to check
+08-03-2025 14:14:25 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > inserting into table hero_newsletter_stats
+08-03-2025 14:14:25 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.141' where email_id=89 and user_id=4249 and open<1 limit 1
+08-03-2025 14:14:25 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > update hero_newsletter set last_activity=1741439665 where id=4249 limit 1
+08-03-2025 15:29:12 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > Open tracking: ODg7MzE2ODtlY2I2NDBiYmNlZDM4YTEyYTdjNjU2MDlmYjczODY4Ng==
+08-03-2025 15:29:12 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > inserting into table hero_newsletter_stats
+08-03-2025 15:29:12 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='2a02:26f7:e584:4000:8000::9' where email_id=88 and user_id=3168 and open<1 limit 1
+08-03-2025 15:29:12 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > update hero_newsletter set last_activity=1741444152 where id=3168 limit 1
+08-03-2025 15:56:15 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > Open tracking: ODg7NDU3Ozc0MGJlYTExZDRlODI1MTNhNGY4MmFjZWZiMDFjN2Vi
+08-03-2025 15:56:15 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > inserting into table hero_newsletter_stats
+08-03-2025 15:56:15 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='2a09:bac3:3121:432::6b:86' where email_id=88 and user_id=457 and open<1 limit 1
+08-03-2025 15:56:15 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > update hero_newsletter set last_activity=1741445775 where id=457 limit 1
+08-03-2025 17:06:26 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > Open tracking: ODk7NDI0ODszYzZiNmFiNWFmMDM0MmYzMzIxM2VlYTgzY2FkMWQ4NQ==
+08-03-2025 17:06:26 - INFO  - 8.7.1 - 15,9 MB/2 GB -  > Email with no token hence not signature to check
+08-03-2025 17:06:26 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > inserting into table hero_newsletter_stats
+08-03-2025 17:06:26 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='2a02:9130:fd15:392a:49ef:6efd:4902:3d92' where email_id=89 and user_id=4248 and open<1 limit 1
+08-03-2025 17:06:26 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > update hero_newsletter set last_activity=1741449986 where id=4248 limit 1
+08-03-2025 18:35:38 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > Open tracking: ODg7NDA4Mzs0NjAxNTFlZGM0ODcyMDIwYzMxZWY3MzkwMzllNmYyNw==
+08-03-2025 18:35:38 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > inserting into table hero_newsletter_stats
+08-03-2025 18:35:38 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='2a09:bac3:3145:1eb::31:179' where email_id=88 and user_id=4083 and open<1 limit 1
+08-03-2025 18:35:38 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > update hero_newsletter set last_activity=1741455338 where id=4083 limit 1
+08-03-2025 19:15:11 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > Open tracking: ODg7MzAzODsyZmI3NDY2YzIwNWZiNDg5OWE1NjM4ZjkzZmJkYWQ1NQ==
+08-03-2025 19:15:11 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > inserting into table hero_newsletter_stats
+08-03-2025 19:15:12 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='2a09:bac3:30f2:432::6b:9f' where email_id=88 and user_id=3038 and open<1 limit 1
+08-03-2025 19:15:12 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > update hero_newsletter set last_activity=1741457712 where id=3038 limit 1
+08-03-2025 20:13:35 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > Open tracking: ODg7NDExNjtmZmVhN2YzM2UxOGNjOGFlZDBhMDJjMzE3ZTIzZTI0Nw==
+08-03-2025 20:13:35 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > inserting into table hero_newsletter_stats
+08-03-2025 20:13:35 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='2a09:bac2:311b:245a::39f:69' where email_id=88 and user_id=4116 and open<1 limit 1
+08-03-2025 20:13:35 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > update hero_newsletter set last_activity=1741461215 where id=4116 limit 1
+08-03-2025 21:44:58 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > Open tracking: ODg7Mjg3OTtlZjE4M2M1MGMxZmMxN2MyM2FhYzNiY2RiZjVjYTFmNw==
+08-03-2025 21:44:58 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > inserting into table hero_newsletter_stats
+08-03-2025 21:44:58 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.142' where email_id=88 and user_id=2879 and open<1 limit 1
+08-03-2025 21:44:58 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > update hero_newsletter set last_activity=1741466698 where id=2879 limit 1
+08-03-2025 23:42:51 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > Open tracking: ODk7NDI1OTszYzdiNjNlYmYxNmNhYTE2YjczYzA5NjdlZmIyOWRjYw==
+08-03-2025 23:42:51 - INFO  - 8.7.1 - 15,9 MB/2 GB -  > Email with no token hence not signature to check
+08-03-2025 23:42:51 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > inserting into table hero_newsletter_stats
+08-03-2025 23:42:51 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='2a04:4e41:22:7::7a18:7ec8' where email_id=89 and user_id=4259 and open<1 limit 1
+08-03-2025 23:42:51 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > update hero_newsletter set last_activity=1741473771 where id=4259 limit 1
+09-03-2025 00:31:57 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > Open tracking: OTA7NDI0MTtiZDk1MGQ5YjlmNmQ1ODlmMmRiMmJlZjU0NmY0OTZlNQ==
+09-03-2025 00:31:57 - INFO  - 8.7.1 - 15,9 MB/2 GB -  > Email with no token hence not signature to check
+09-03-2025 00:31:57 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > inserting into table hero_newsletter_stats
+09-03-2025 00:31:57 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='87.248.116.146' where email_id=90 and user_id=4241 and open<1 limit 1
+09-03-2025 00:31:57 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > update hero_newsletter set last_activity=1741476717 where id=4241 limit 1
+09-03-2025 00:57:30 - DEBUG - 8.7.1 - 15,8 MB/2 GB -  > Open tracking: ODg7NDE2MDs3ZTAzOWE5NGMxOTY3ODdmNzI4YTFkMjVlN2I5ZDUyMg==
+09-03-2025 00:57:30 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > inserting into table hero_newsletter_stats
+09-03-2025 00:57:30 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.133' where email_id=88 and user_id=4160 and open<1 limit 1
+09-03-2025 00:57:30 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > update hero_newsletter set last_activity=1741478250 where id=4160 limit 1
+09-03-2025 07:35:15 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > Open tracking: ODg7Mzg2MTtkZTAzMzBiYWQxMTEyNDJlZDJhMDMwYTg2ODZiMTI4OQ==
+09-03-2025 07:35:15 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > inserting into table hero_newsletter_stats
+09-03-2025 07:35:15 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.84.104' where email_id=88 and user_id=3861 and open<1 limit 1
+09-03-2025 07:35:15 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > update hero_newsletter set last_activity=1741502115 where id=3861 limit 1
+09-03-2025 07:46:14 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > Open tracking: MTk7Nzc2O2ZkOThhZmY2N2U2MzNkZThlZDZjYzk3ZWY4MDVmMDFl
+09-03-2025 07:46:14 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > inserting into table hero_newsletter_stats
+09-03-2025 07:46:14 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.141' where email_id=19 and user_id=776 and open<1 limit 1
+09-03-2025 07:46:14 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > update hero_newsletter set last_activity=1741502774 where id=776 limit 1
+09-03-2025 07:46:18 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > Open tracking: MTY7Nzc2Ozc4OWJiZDNlYjUxZTczMTVjZjk5OTUzMDZiYjM5OWY1
+09-03-2025 07:46:18 - INFO  - 8.7.1 - 15,9 MB/2 GB -  > Email with no token hence not signature to check
+09-03-2025 07:46:18 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > inserting into table hero_newsletter_stats
+09-03-2025 07:46:18 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.132' where email_id=16 and user_id=776 and open<1 limit 1
+09-03-2025 07:46:18 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > update hero_newsletter set last_activity=1741502778 where id=776 limit 1
+09-03-2025 07:46:20 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > Open tracking: MTQ7Nzc2OzAwNmM0YTllMzU1MWE0ZTFkYmIwYjY2YjRjOTdkNzJh
+09-03-2025 07:46:20 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > inserting into table hero_newsletter_stats
+09-03-2025 07:46:20 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > update hero_newsletter_sent set open=1, ip='66.249.93.132' where email_id=14 and user_id=776 and open<1 limit 1
+09-03-2025 07:46:20 - DEBUG - 8.7.1 - 15,9 MB/2 GB -  > update hero_newsletter set last_activity=1741502780 where id=776 limit 1

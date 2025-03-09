@@ -1,0 +1,4 @@
+05-07-2024 12:53:19 - INFO  - 8.3.9 - 18,2 MB/256 MB - [cron] > Weekly check for reports
+12-07-2024 12:53:38 - INFO  - 8.4.4 - 20,6 MB/256 MB - [cron] > Weekly check for reports
+19-07-2024 12:54:07 - INFO  - 8.4.7 - 13,7 MB/256 MB - [cron] > Weekly check for reports
+26-07-2024 12:53:18 - INFO  - 8.4.7 - 13,7 MB/256 MB - [cron] > Weekly check for reports

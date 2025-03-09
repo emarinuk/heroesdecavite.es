@@ -1,0 +1,90 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ovatheme MegaMenu\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-07 04:51+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.1.1"
+
+#: inc/class-ova-megamenu-process.php:188
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: inc/class-ova-megamenu-process.php:138
+#: inc/class-ova-megamenu-process.php:143
+msgid "Edit Menu Item"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://themeforest.net/user/ovatheme"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://themeforest.net/user/ovatheme/portfolio"
+msgstr ""
+
+#: inc/class-ova-megamenu-process.php:197
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: inc/class-ova-megamenu-process.php:211
+msgid "Menu Column (for mega menu)"
+msgstr ""
+
+#: inc/class-ova-megamenu-process.php:238
+msgid "Menu height (for mega menu). Ex: 830px"
+msgstr ""
+
+#: inc/class-ova-megamenu-process.php:136
+msgid "Move down"
+msgstr ""
+
+#. %s: title of menu item in draft status
+#: inc/class-ova-megamenu-process.php:123
+msgid "Move up"
+msgstr ""
+
+#: inc/class-ova-megamenu-process.php:161
+msgid "Navigation Label"
+msgstr ""
+
+#: inc/class-ova-megamenu-process.php:174
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#. Author of the plugin
+msgid "Ovatheme"
+msgstr ""
+
+#. Description of the plugin
+msgid "OvaTheme MegaMenu"
+msgstr ""
+
+#. Name of the plugin
+msgid "Ovatheme MegaMenu"
+msgstr ""
+
+#: inc/class-ova-megamenu-process.php:248
+msgid "Shortcode"
+msgstr ""
+
+#: inc/class-ova-megamenu-process.php:263
+msgid "Show as a heading"
+msgstr ""
+
+#: inc/class-ova-megamenu-process.php:179
+msgid "Title Attribute"
+msgstr ""
+
+#: inc/class-ova-megamenu-process.php:151
+msgid "URL"
+msgstr ""

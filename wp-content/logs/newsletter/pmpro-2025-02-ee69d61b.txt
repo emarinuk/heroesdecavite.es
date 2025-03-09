@@ -1,0 +1,16 @@
+01-02-2025 01:25:04 - INFO  - 8.6.4 - 138,3 MB/ - [cron] > Weekly check for pmpro
+08-02-2025 01:25:04 - INFO  - 8.6.8 - 139,6 MB/ - [cron] > Weekly check for pmpro
+10-02-2025 15:31:35 - INFO  - 8.7.0 - 15,6 MB/512 MB - NL.garrido > New user registration with id 64
+10-02-2025 15:31:35 - DEBUG - 8.7.0 - 15,6 MB/512 MB - NL.garrido > Array
+(
+)
+
+10-02-2025 15:31:35 - DEBUG - 8.7.0 - 15,6 MB/512 MB - NL.garrido > Subscription disabled
+10-02-2025 15:31:36 - DEBUG - 8.7.0 - 15,9 MB/512 MB - NL.garrido > Array
+(
+)
+
+10-02-2025 15:31:36 - DEBUG - 8.7.0 - 15,9 MB/512 MB - NL.garrido > Checking user ID 64
+10-02-2025 15:31:36 - DEBUG - 8.7.0 - 15,9 MB/512 MB - NL.garrido > Subscriber not found
+15-02-2025 01:25:04 - INFO  - 8.7.0 - 152,1 MB/ - [cron] > Weekly check for pmpro
+22-02-2025 01:25:05 - INFO  - 8.7.0 - 135,8 MB/ - [cron] > Weekly check for pmpro

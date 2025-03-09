@@ -1,0 +1,4 @@
+03-09-2024 11:12:32 - INFO  - 8.4.9 - 15,4 MB/256 MB - [cron] > Weekly check for extensions
+10-09-2024 11:12:35 - INFO  - 8.4.9 - 15,5 MB/256 MB - [cron] > Weekly check for extensions
+17-09-2024 11:13:53 - INFO  - 8.5.0 - 17,9 MB/512 MB - [cron] > Weekly check for extensions
+24-09-2024 11:12:38 - INFO  - 8.5.0 - 78,5 MB/512 MB - [cron] > Weekly check for extensions

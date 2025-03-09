@@ -1,0 +1,1 @@
+07-03-2025 11:55:04 - INFO  - 8.7.0 - 135,8 MB/ - [cron] > Weekly check for blocks

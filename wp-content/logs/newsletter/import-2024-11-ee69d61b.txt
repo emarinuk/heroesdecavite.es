@@ -1,0 +1,71 @@
+05-11-2024 10:15:10 - INFO  - 8.6.0 - 135,6 MB/ - [cron] > Weekly check for import
+11-11-2024 12:21:43 - INFO  - 8.6.0 - 38,6 MB/512 MB - Eduardo > Starting
+11-11-2024 12:21:43 - INFO  - 8.6.0 - 38,6 MB/512 MB - Eduardo > Starting from 0
+11-11-2024 12:21:43 - DEBUG - 8.6.0 - 38,6 MB/512 MB - Eduardo > Mode update
+11-11-2024 12:21:43 - DEBUG - 8.6.0 - 38,6 MB/512 MB - Eduardo > Processing 0453;5/11/2024;Arroyo Rodríguez-Valdés;Alejandro;alexpente@hotmail.com;Madrid;Madrid;es
+11-11-2024 12:21:43 - INFO  - 8.6.0 - 38,6 MB/512 MB - Eduardo > Current email: alexpente@hotmail.com
+11-11-2024 12:21:43 - INFO  - 8.6.0 - 38,7 MB/512 MB - Eduardo > Matched subscriber ID 3786
+11-11-2024 12:21:43 - DEBUG - 8.6.0 - 38,8 MB/512 MB - Eduardo > Processing 0454;5/11/2024;Belmonte Cortés;Fernando;plferbelco@hotmail.com;La Gineta;Albacete;es
+11-11-2024 12:21:43 - INFO  - 8.6.0 - 38,8 MB/512 MB - Eduardo > Current email: plferbelco@hotmail.com
+11-11-2024 12:21:43 - INFO  - 8.6.0 - 38,8 MB/512 MB - Eduardo > Matched subscriber ID 1551
+11-11-2024 12:21:43 - DEBUG - 8.6.0 - 38,8 MB/512 MB - Eduardo > Processing 0461;5/11/2024;Celestino García;Antonio;acg387@gmail.com;Boadilla del Monte;Madrid;es
+11-11-2024 12:21:43 - INFO  - 8.6.0 - 38,8 MB/512 MB - Eduardo > Current email: acg387@gmail.com
+11-11-2024 12:21:43 - INFO  - 8.6.0 - 38,8 MB/512 MB - Eduardo > Matched subscriber ID 3938
+11-11-2024 12:21:43 - DEBUG - 8.6.0 - 38,8 MB/512 MB - Eduardo > Processing 0465;5/11/2024;de la Riva García;Dominica;domidelarivagarcia@gmail.com;Pedrún de Torio;León;es
+11-11-2024 12:21:43 - INFO  - 8.6.0 - 38,8 MB/512 MB - Eduardo > Current email: domidelarivagarcia@gmail.com
+11-11-2024 12:21:43 - INFO  - 8.6.0 - 38,8 MB/512 MB - Eduardo > Matched subscriber ID 3785
+11-11-2024 12:21:43 - DEBUG - 8.6.0 - 38,8 MB/512 MB - Eduardo > Processing 0222;5/11/2024;Estop Zafra;Mercedes;mercestop@gmail.com;Bilbao;Vizcaya;es
+11-11-2024 12:21:43 - INFO  - 8.6.0 - 38,8 MB/512 MB - Eduardo > Current email: mercestop@gmail.com
+11-11-2024 12:21:43 - INFO  - 8.6.0 - 38,8 MB/512 MB - Eduardo > Matched subscriber ID 28
+11-11-2024 12:21:43 - DEBUG - 8.6.0 - 38,8 MB/512 MB - Eduardo > Processing 0455;5/11/2024;García;Francisco;soyelchistes@gmail.com;Vista Alegre - Cartagena;Murcia;es
+11-11-2024 12:21:43 - INFO  - 8.6.0 - 38,8 MB/512 MB - Eduardo > Current email: soyelchistes@gmail.com
+11-11-2024 12:21:43 - INFO  - 8.6.0 - 38,8 MB/512 MB - Eduardo > Matched subscriber ID 3793
+11-11-2024 12:21:43 - DEBUG - 8.6.0 - 38,8 MB/512 MB - Eduardo > Processing 0458;5/11/2024;García Salazar;Isabel;isabel8cgs@gmail.com;Cartagena;Murcia;es
+11-11-2024 12:21:43 - INFO  - 8.6.0 - 38,8 MB/512 MB - Eduardo > Current email: isabel8cgs@gmail.com
+11-11-2024 12:21:43 - INFO  - 8.6.0 - 38,8 MB/512 MB - Eduardo > New subscriber
+11-11-2024 12:21:43 - DEBUG - 8.6.0 - 38,8 MB/512 MB - Eduardo > Processing 0457;5/11/2024;Gómez Villanueva;Juan Antonio;jagomezvillanueva@gmail.com;Santander;Cantabria;es
+11-11-2024 12:21:43 - INFO  - 8.6.0 - 38,8 MB/512 MB - Eduardo > Current email: jagomezvillanueva@gmail.com
+11-11-2024 12:21:43 - INFO  - 8.6.0 - 38,8 MB/512 MB - Eduardo > Matched subscriber ID 3819
+11-11-2024 12:21:43 - DEBUG - 8.6.0 - 38,8 MB/512 MB - Eduardo > Processing 0459;5/11/2024;Iñíguez Torres;Manuel;lavilladeldragon@gmail.com;Cartagena;Murcia;es
+11-11-2024 12:21:43 - INFO  - 8.6.0 - 38,8 MB/512 MB - Eduardo > Current email: lavilladeldragon@gmail.com
+11-11-2024 12:21:43 - INFO  - 8.6.0 - 38,8 MB/512 MB - Eduardo > New subscriber
+11-11-2024 12:21:43 - DEBUG - 8.6.0 - 38,8 MB/512 MB - Eduardo > Processing 0466;5/11/2024;Mayo Fernandez;Maria Asunción;masuncion.mayo@senado.es;León;León;es
+11-11-2024 12:21:43 - INFO  - 8.6.0 - 38,8 MB/512 MB - Eduardo > Current email: masuncion.mayo@senado.es
+11-11-2024 12:21:43 - INFO  - 8.6.0 - 38,8 MB/512 MB - Eduardo > Matched subscriber ID 3947
+11-11-2024 12:21:43 - DEBUG - 8.6.0 - 38,8 MB/512 MB - Eduardo > Processing 0254;5/11/2024;Pallarés Muñoz;Miguel;n00kturnal@gmail.com;Oliva;Valencia;es
+11-11-2024 12:21:43 - INFO  - 8.6.0 - 38,8 MB/512 MB - Eduardo > Current email: n00kturnal@gmail.com
+11-11-2024 12:21:43 - INFO  - 8.6.0 - 38,8 MB/512 MB - Eduardo > Matched subscriber ID 1471
+11-11-2024 12:21:43 - DEBUG - 8.6.0 - 38,8 MB/512 MB - Eduardo > Processing 0462;5/11/2024;Pastor Pastor;José Ramón;jrpastor@movistar.es;La Nucía;Alicante;es
+11-11-2024 12:21:43 - INFO  - 8.6.0 - 38,8 MB/512 MB - Eduardo > Current email: jrpastor@movistar.es
+11-11-2024 12:21:43 - INFO  - 8.6.0 - 38,8 MB/512 MB - Eduardo > Matched subscriber ID 3828
+11-11-2024 12:21:43 - DEBUG - 8.6.0 - 38,8 MB/512 MB - Eduardo > Processing 0467;5/11/2024;Pena Garea;Víctor;penagareavictor@yahoo.es;Arzúa;La Coruña;es
+11-11-2024 12:21:43 - INFO  - 8.6.0 - 38,8 MB/512 MB - Eduardo > Current email: penagareavictor@yahoo.es
+11-11-2024 12:21:43 - INFO  - 8.6.0 - 38,9 MB/512 MB - Eduardo > Matched subscriber ID 142
+11-11-2024 12:21:43 - DEBUG - 8.6.0 - 38,8 MB/512 MB - Eduardo > Processing 0256;5/11/2024;Pulido Escribano;Estrella;estrellapulidoes@gmail.com;Madrid;Madrid;es
+11-11-2024 12:21:43 - INFO  - 8.6.0 - 38,8 MB/512 MB - Eduardo > Current email: estrellapulidoes@gmail.com
+11-11-2024 12:21:43 - INFO  - 8.6.0 - 38,9 MB/512 MB - Eduardo > New subscriber
+11-11-2024 12:21:43 - DEBUG - 8.6.0 - 38,8 MB/512 MB - Eduardo > Processing 0138;5/11/2024;Rodríguez Pertusa;Víctor;vrodriguezpertusa@gmail.com;Bigastro;Alicante;es
+11-11-2024 12:21:43 - INFO  - 8.6.0 - 38,8 MB/512 MB - Eduardo > Current email: vrodriguezpertusa@gmail.com
+11-11-2024 12:21:43 - INFO  - 8.6.0 - 38,9 MB/512 MB - Eduardo > Matched subscriber ID 1801
+11-11-2024 12:21:43 - DEBUG - 8.6.0 - 38,8 MB/512 MB - Eduardo > Processing 0463;5/11/2024;Rollnert Liern;Göran;Goran.Rollnert@gmail.com;Alboraya (playa de La Patacona);Valencia;es
+11-11-2024 12:21:43 - INFO  - 8.6.0 - 38,8 MB/512 MB - Eduardo > Current email: goran.rollnert@gmail.com
+11-11-2024 12:21:43 - INFO  - 8.6.0 - 38,9 MB/512 MB - Eduardo > Matched subscriber ID 3835
+11-11-2024 12:21:43 - DEBUG - 8.6.0 - 38,9 MB/512 MB - Eduardo > Processing 0468;5/11/2024;Salmerón Lucena;Antonio Cecilio;ansalu@gmail.com;Granada;Granada;es
+11-11-2024 12:21:43 - INFO  - 8.6.0 - 38,9 MB/512 MB - Eduardo > Current email: ansalu@gmail.com
+11-11-2024 12:21:43 - INFO  - 8.6.0 - 38,9 MB/512 MB - Eduardo > Matched subscriber ID 3442
+11-11-2024 12:21:43 - DEBUG - 8.6.0 - 38,9 MB/512 MB - Eduardo > Processing 0460;5/11/2024;Sánchez-Valladares Sánchez;Tomás;sanchezwilling@gmail.com;Madrid;Madrid;es
+11-11-2024 12:21:43 - INFO  - 8.6.0 - 38,9 MB/512 MB - Eduardo > Current email: sanchezwilling@gmail.com
+11-11-2024 12:21:43 - INFO  - 8.6.0 - 38,9 MB/512 MB - Eduardo > Matched subscriber ID 189
+11-11-2024 12:21:43 - DEBUG - 8.6.0 - 38,9 MB/512 MB - Eduardo > Processing 0464;5/11/2024;Súarez Rodríguez;Carlos;carsuar42@yahoo.es;León;León;es
+11-11-2024 12:21:43 - INFO  - 8.6.0 - 38,9 MB/512 MB - Eduardo > Current email: carsuar42@yahoo.es
+11-11-2024 12:21:43 - INFO  - 8.6.0 - 38,9 MB/512 MB - Eduardo > Matched subscriber ID 3939
+11-11-2024 12:21:43 - DEBUG - 8.6.0 - 38,9 MB/512 MB - Eduardo > Processing 0456;5/11/2024;Vílchez Barros;Jónatan;jvbmotril@gmail.com;Méngibar;Jaen;es
+11-11-2024 12:21:43 - INFO  - 8.6.0 - 38,9 MB/512 MB - Eduardo > Current email: jvbmotril@gmail.com
+11-11-2024 12:21:43 - INFO  - 8.6.0 - 38,9 MB/512 MB - Eduardo > Matched subscriber ID 3800
+11-11-2024 12:21:43 - DEBUG - 8.6.0 - 38,9 MB/512 MB - Eduardo > Processing 0212;5/11/2024;Villegas Soler;Salvador;salvavillegas@me.com;Cartagena;Murcia;es
+11-11-2024 12:21:43 - INFO  - 8.6.0 - 38,9 MB/512 MB - Eduardo > Current email: salvavillegas@me.com
+11-11-2024 12:21:43 - INFO  - 8.6.0 - 38,9 MB/512 MB - Eduardo > Matched subscriber ID 3529
+11-11-2024 12:21:43 - INFO  - 8.6.0 - 38,9 MB/512 MB - Eduardo > Finished
+12-11-2024 10:15:08 - INFO  - 8.6.0 - 135,7 MB/ - [cron] > Weekly check for import
+19-11-2024 10:15:08 - INFO  - 8.6.1 - 142,0 MB/ - [cron] > Weekly check for import
+26-11-2024 10:15:06 - INFO  - 8.6.1 - 142,0 MB/ - [cron] > Weekly check for import

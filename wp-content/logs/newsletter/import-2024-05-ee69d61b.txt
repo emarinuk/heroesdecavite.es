@@ -1,0 +1,1517 @@
+07-05-2024 09:12:42 - INFO  - 8.3.2 - 12,1 MB/256 MB - [cron] > Weekly check for import
+14-05-2024 09:12:39 - INFO  - 8.3.2 - 11,9 MB/256 MB - [cron] > Weekly check for import
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,8 MB/256 MB - Eduardo > Starting
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,8 MB/256 MB - Eduardo > Starting from 0
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,8 MB/256 MB - Eduardo > Current email: ignacio.alcazar@gmail.com
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,8 MB/256 MB - Eduardo > Matched subscriber ID 2838
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,8 MB/256 MB - Eduardo > Skipped
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,8 MB/256 MB - Eduardo > Current email: retrorotulo@gmail.com
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,8 MB/256 MB - Eduardo > New subscriber
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: sergiodde94@gmail.com
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > New subscriber
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: nachodiazripoll@hotmail.com
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > New subscriber
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: ldiego2004@hotmail.com
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Matched subscriber ID 2064
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Skipped
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: carlosyandres83@gmail.com
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Matched subscriber ID 2892
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Skipped
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: ldiego2004@hotmail.com
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Matched subscriber ID 2064
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Skipped
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: carnerero@gmail.com
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > New subscriber
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: eulaliagervas@gmail.com
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Matched subscriber ID 384
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Skipped
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: leizael@gmail.com
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Matched subscriber ID 2556
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Skipped
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: raimundo@gomez-revilla.es
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Matched subscriber ID 2865
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Skipped
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: gonzalezplazajavier@gmail.com
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Matched subscriber ID 117
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Skipped
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: luisgorrocha@gmail.com
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Matched subscriber ID 517
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Skipped
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: cetesa@hotmail.com
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > New subscriber
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: julio.jiron84@gmail.com
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > New subscriber
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: florllopismartinez@gmail.com
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Matched subscriber ID 2899
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Skipped
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: fmartinez.villanubla@gmail.com
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Matched subscriber ID 2827
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Skipped
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: vmarzalfe@movistar.es
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Matched subscriber ID 2283
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Skipped
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: alpasro@hotmail.com
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > New subscriber
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: albertcosmen@gmail.com
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > New subscriber
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: jachaleon@gmail.com
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > New subscriber
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: jeronimorayafct@gmail.com
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > New subscriber
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: franciscorodriguezgon@gmail.com
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > New subscriber
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: franciscorodriguezgon@gmail.com
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Matched subscriber ID 2911
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Skipped
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: ppsola@gmail.com
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > New subscriber
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: jorgetorralbamateo@gmail.com
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > New subscriber
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: violfe@hotmail.com
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Matched subscriber ID 678
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Skipped
+19-05-2024 15:36:04 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Finished
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,8 MB/256 MB - Eduardo > Starting
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,8 MB/256 MB - Eduardo > Starting from 0
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,8 MB/256 MB - Eduardo > Current email: ignacio.alcazar@gmail.com
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,8 MB/256 MB - Eduardo > Matched subscriber ID 2838
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: retrorotulo@gmail.com
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Matched subscriber ID 2901
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: sergiodde94@gmail.com
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Matched subscriber ID 2902
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: nachodiazripoll@hotmail.com
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Matched subscriber ID 2903
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: ldiego2004@hotmail.com
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Matched subscriber ID 2064
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: carlosyandres83@gmail.com
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Matched subscriber ID 2892
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: ldiego2004@hotmail.com
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Matched subscriber ID 2064
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: carnerero@gmail.com
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Matched subscriber ID 2904
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: eulaliagervas@gmail.com
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Matched subscriber ID 384
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: leizael@gmail.com
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Matched subscriber ID 2556
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: raimundo@gomez-revilla.es
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Matched subscriber ID 2865
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: gonzalezplazajavier@gmail.com
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Matched subscriber ID 117
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: luisgorrocha@gmail.com
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Matched subscriber ID 517
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: cetesa@hotmail.com
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Matched subscriber ID 2905
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: julio.jiron84@gmail.com
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Matched subscriber ID 2906
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: florllopismartinez@gmail.com
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Matched subscriber ID 2899
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: fmartinez.villanubla@gmail.com
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Matched subscriber ID 2827
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: vmarzalfe@movistar.es
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Matched subscriber ID 2283
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: alpasro@hotmail.com
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Matched subscriber ID 2907
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: albertcosmen@gmail.com
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Matched subscriber ID 2908
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: jachaleon@gmail.com
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Matched subscriber ID 2909
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: jeronimorayafct@gmail.com
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Matched subscriber ID 2910
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: franciscorodriguezgon@gmail.com
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Matched subscriber ID 2911
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: franciscorodriguezgon@gmail.com
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Matched subscriber ID 2911
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: ppsola@gmail.com
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Matched subscriber ID 2912
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: jorgetorralbamateo@gmail.com
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Matched subscriber ID 2913
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: violfe@hotmail.com
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Matched subscriber ID 678
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Current email: josed.sanchez8@outlook.es
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Matched subscriber ID 2366
+19-05-2024 15:37:23 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Finished
+19-05-2024 18:08:35 - INFO  - 8.3.2 - 29,8 MB/256 MB - Eduardo > Starting
+19-05-2024 18:08:35 - INFO  - 8.3.2 - 29,8 MB/256 MB - Eduardo > Starting from 0
+19-05-2024 18:08:35 - INFO  - 8.3.2 - 29,8 MB/256 MB - Eduardo > Current email: paraes@mac.com
+19-05-2024 18:08:35 - INFO  - 8.3.2 - 29,8 MB/256 MB - Eduardo > New subscriber
+19-05-2024 18:08:35 - INFO  - 8.3.2 - 29,9 MB/256 MB - Eduardo > Finished
+21-05-2024 09:12:38 - INFO  - 8.3.2 - 11,9 MB/256 MB - [cron] > Weekly check for import
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,5 MB/256 MB - Eduardo > Starting
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,6 MB/256 MB - Eduardo > Starting from 0
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,6 MB/256 MB - Eduardo > Current email: mjainaga7@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,6 MB/256 MB - Eduardo > Matched subscriber ID 1533
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: azcarmelo@hotmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 2915
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: malkocinado@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > New subscriber
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: jcalguacil@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > New subscriber
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: jalonsod1@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 2073
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: alonso@kromson.es
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 73
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: fernan2_fac@hotmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 390
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: enalno01@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 2255
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: gusamor@skynet.be
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 2757
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: amandoantonano@gmx.es
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 65
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: varbizu@rice.edu
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > New subscriber
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: manuelariascousas@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 2871
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: jma.uelarmada@hotmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > New subscriber
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: sergiberia@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 1788
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: ebar.rami@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 2858
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: alfonsobenitorica@hotmail.es
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 264
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: angelbenzal@hotmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 279
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: maria.berdejo@yahoo.es
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > New subscriber
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: jmblanco01@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 2454
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: seminario1962@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 106
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: pilarblsc@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > New subscriber
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: cesardirect@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > New subscriber
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: l.cabada42@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 2999
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: paz.cabero@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 1717
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: anacalvomateo@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 276
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: javilonda@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 1802
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: pototeo@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 2383
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: josec.ferrandoabogados@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 1143
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: marteva@hotmail.es
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 1729
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: codesrafa@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 329
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: a.c.almendros@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 1784
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: scordobag59@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 1768
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: raulekus@hotmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 2554
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: jahc@cemad.es
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > New subscriber
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: udemarcos@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 2813
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: edo.del.olmo@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 2930
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: fatagatunte@yahoo.es
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 2891
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: delacanoniga@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 2812
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: neneavi@yahoo.es
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 573
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: ldiego2004@hotmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 2064
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: carmeloelia@hotmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 1930
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: juancarlosembarba@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 2782
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: rescamez2@yahoo.es
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 153
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: pilarfernandez00@yahoo.es
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 1736
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: carnerero@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 2904
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: beprina@yahoo.es
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > New subscriber
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: evafruit@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > New subscriber
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: berdefox@hotmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > New subscriber
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: igallardopillet@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > New subscriber
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: christian.galloespinel@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > New subscriber
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: poderzulu@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 92
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: foreromaka@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 137
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: miguelernesto0403@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 148
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: anabelmerayo@hotmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > New subscriber
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: ogarrido@gmx.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > New subscriber
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: manuelgilquiles@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > New subscriber
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: litli504848@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > New subscriber
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: govisagod512@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > New subscriber
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: emilio.gonzalezmegia@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > New subscriber
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: margagor@hotmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 537
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: gonzalezplazajavier@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 117
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: ggonzalez.espresati@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 1831
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: pedro.jesus.granado@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > New subscriber
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: manolodaneri@hotmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 2431
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: cain.marko33@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 2975
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: lolatercera@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 506
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: henche@henchecarreras.es
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > New subscriber
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: lhcunchillos@hotmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 2815
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: antoniohl1974@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 1678
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: pablohernansanz@hotmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > New subscriber
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: negreteza@hotmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 571
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: jtony00@hotmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 2927
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: fhmiron@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 1742
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: jizquierdo@izveconsulting.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 2885
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: terrell.kelley@att.net
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > New subscriber
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: falasa2000@yahoo.es
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 1731
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: d_largo@hotmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 1460
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: jmlasuncion@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 474
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: florllopismartinez@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 2899
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: hector.lollett@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 1493
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: longui111@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 508
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: 
+21-05-2024 22:54:12 - FATAL - 8.3.2 - 27,7 MB/256 MB - Eduardo > Invalid email on line 109;López Arroyo;Eugenio;Villaviciosa de Odón;Madrid;es;eugenio@grupomxp.com.
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: antoniocuestas@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > New subscriber
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: ralolu1963@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 1818
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: ulisesrlm@hotmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 1809
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: dlros83@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 354
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: angeles.lorente@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 79
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: marateneapalas@yahoo.es
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > New subscriber
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: jllucas40@hotmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 1779
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: miguelymariadelazequiela@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 1804
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: mr.eduardo.marin@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 1
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: rafael55martin@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > New subscriber
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: gemarme@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 413
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: mmartinmelendez@hotmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 1657
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: trasto350@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > New subscriber
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: hildamtz234@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > New subscriber
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: leon_y_castillo@protonmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 2896
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: heroesdecavitegranada@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 2921
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: arcox@arcox-tmc.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 2432
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: curi.misterios@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > New subscriber
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: h.m1973martin@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 2541
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: guido2@gmx.es
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 2262
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: igmp11@hotmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 436
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: fmorenodelcollado@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 120
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: negreirajuan@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > New subscriber
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: adudaqueanda@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > New subscriber
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: lrordoneztx@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 2243
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: g.palacios.pelayo@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 159
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: maria.palmap@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > New subscriber
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: jacobo_aa@yahoo.es
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 1826
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: j_lpa@yahoo.es
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 753
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: delking9@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 2145
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: altrantran@hotmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 2582
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: perezmjc@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 1758
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: apzv06@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 1747
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: 59jperezsan@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 2661
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: pimof@cableworld.es
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 38
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: narciso.pinilla@hotmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 1964
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: augprego@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > New subscriber
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: susonovix@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 2784
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: eva.ramirezrodriguez@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 2832
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: jaimerocha2801@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 2889
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: salemca17@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 2759
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: davidrodfer@outlook.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 2486
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: jmcaracol@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 2526
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: jmrmdeleon@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 204
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: rharcos25@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 2119
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: alromo296@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > New subscriber
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: reginarosique77@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > New subscriber
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: danasturias@yahoo.es
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 1790
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: enrubpon@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 2883
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: luiserubio@yahoo.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 2616
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: jardod@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 452
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: daniel.villena@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 1726
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: heguirimon@hotmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 1823
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: jlsamper1@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 170
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: josed.sanchez8@outlook.es
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 2366
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: hermariasanchez@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > New subscriber
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: enriquesanchis11@hotmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 1740
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: guille77@hotmail.de
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > New subscriber
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: jsantillan@gadireditirial.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > New subscriber
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: mirando.al.mar@hotmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > New subscriber
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: juliaijose@yahoo.es
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > New subscriber
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: harald.schrage@googlemail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > New subscriber
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: luiserbar@hotmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > New subscriber
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: vero.sirgo@hotmail.es
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 676
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: socoli8439@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 2886
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: migasar@yahoo.es
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 2575
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: truhan3@hotmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > New subscriber
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: oscar.uceda@historiadors.cat
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 2420
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: mureagallardo@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 1735
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: chile32@hotmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > New subscriber
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: manuel.varo@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > New subscriber
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: darwvas@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 97
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: vegazo@yahoo.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > New subscriber
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: avb1971@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 12
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: saboyano30@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 2205
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: mvillar79@hotmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > New subscriber
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Current email: pzalonsomail@gmail.com
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Matched subscriber ID 2855
+21-05-2024 22:54:12 - INFO  - 8.3.2 - 27,7 MB/256 MB - Eduardo > Finished
+28-05-2024 09:13:10 - INFO  - 8.3.3 - 11,9 MB/256 MB - [cron] > Weekly check for import
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,1 MB/256 MB - Eduardo > Starting
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,1 MB/256 MB - Eduardo > Starting from 0
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,1 MB/256 MB - Eduardo > Current email: fabellan@um.es
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,1 MB/256 MB - Eduardo > New subscriber
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: mjainaga7@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1533
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: azcarmelo@hotmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2915
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: malkocinado@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3004
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jcalguacil@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3005
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jalonsod1@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2073
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: alonso@kromson.es
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 73
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: fernan2_fac@hotmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 390
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: enalno01@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2255
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: gusamor@skynet.be
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2757
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: amandoantonano@gmx.es
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 65
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: varbizu@rice.edu
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3006
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: manuelariascousas@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2871
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jma.uelarmada@hotmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3007
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: sergiberia@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1788
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: ebar.rami@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2858
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: alfonsobenitorica@hotmail.es
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 264
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: angelbenzal@hotmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 279
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: maria.berdejo@yahoo.es
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3008
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jmblanco01@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2454
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: seminario1962@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 106
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: pilarblsc@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3009
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: ramongborras@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3064
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: cesardirect@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3010
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: l.cabada42@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2999
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: paz.cabero@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1717
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: anacalvomateo@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 276
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: javilonda@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1802
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: pototeo@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2383
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: josec.ferrandoabogados@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1143
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: marteva@hotmail.es
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1729
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: alcegar25@hotmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3078
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: codesrafa@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 329
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: a.c.almendros@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1784
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: igggnaccciocontreras@yahoo.es
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2419
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: scordobag59@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1768
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: raulekus@hotmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2554
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: mariodelariva@hotmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > New subscriber
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jahc@cemad.es
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3011
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: udemarcos@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2813
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: edo.del.olmo@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2930
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: fatagatunte@yahoo.es
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2891
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: delacanoniga@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2812
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: neneavi@yahoo.es
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 573
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: ldiego2004@hotmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2064
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: carmeloelia@hotmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1930
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: juancarlosembarba@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2782
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: rescamez2@yahoo.es
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 153
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: pilarfernandez00@yahoo.es
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1736
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: carnerero@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2904
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: beprina@yahoo.es
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3012
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: evafruit@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3013
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: berdefox@hotmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3014
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: igallardopillet@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3015
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: christian.galloespinel@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3016
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: poderzulu@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 92
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: foreromaka@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 137
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: miguelernesto0403@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 148
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: anabelmerayo@hotmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3017
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: ogarrido@gmx.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3018
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: manuelgilquiles@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3019
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: litli504848@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3020
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: govisagod512@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3021
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: emilio.gonzalezmegia@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3022
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: margagor@hotmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 537
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: gonzalezplazajavier@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 117
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: ggonzalez.espresati@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1831
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: pedro.jesus.granado@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3023
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: manolodaneri@hotmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2431
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: cain.marko33@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2975
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: lolatercera@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 506
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: henche@henchecarreras.es
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3024
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: lhcunchillos@hotmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2815
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: antoniohl1974@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1678
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: pablohernansanz@hotmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3025
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: negreteza@hotmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 571
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jtony00@hotmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2927
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: fhmiron@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1742
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jizquierdo@izveconsulting.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2885
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: terrell.kelley@att.net
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3026
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: falasa2000@yahoo.es
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1731
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: d_largo@hotmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1460
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jmlasuncion@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 474
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: florllopismartinez@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2899
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: hector.lollett@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1493
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: longui111@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 508
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: 
+30-05-2024 22:16:43 - FATAL - 8.3.3 - 27,2 MB/256 MB - Eduardo > Invalid email on line 34;2 de mayo de 2024;;;López Arroyo;Eugenio;Si;eugenio@grupomxp.com.;+34686941541;C. Cabriel 1;Villaviciosa de Odón;Madrid;28670;es;;;;;;;;
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: antoniocuestas@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3027
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: ralolu1963@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1818
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: ulisesrlm@hotmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1809
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: dlros83@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 354
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: angeles.lorente@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 79
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: marateneapalas@yahoo.es
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3028
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jllucas40@hotmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1779
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: miguelymariadelazequiela@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1804
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: mr.eduardo.marin@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: rafael55martin@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3029
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: mmartinmelendez@hotmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1657
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: gemarme@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 413
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: trasto350@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3030
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: hildamtz234@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3031
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: leon_y_castillo@protonmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2896
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: heroesdecavitegranada@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2921
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: rimendu@yahoo.es
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3060
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: arcox@arcox-tmc.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2432
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: curi.misterios@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3032
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: h.m1973martin@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2541
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: guido2@gmx.es
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2262
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: igmp11@hotmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 436
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: fmorenodelcollado@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 120
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: negreirajuan@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3033
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: adudaqueanda@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3034
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: 
+30-05-2024 22:16:43 - FATAL - 8.3.3 - 27,2 MB/256 MB - Eduardo > Invalid email on line ";Alcantarilla;Murcia;30820;es;;;;;;;;
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: lrordoneztx@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2243
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: g.palacios.pelayo@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 159
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: maria.palmap@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3035
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jacobo_aa@yahoo.es
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1826
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: j_lpa@yahoo.es
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 753
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: delking9@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2145
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: altrantran@hotmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2582
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: perezmjc@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1758
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: apzv06@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1747
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: 59jperezsan@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2661
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: pimof@cableworld.es
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 38
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: narciso.pinilla@hotmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1964
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jpoyatos@cpa.upv.es
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3103
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: augprego@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3036
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: yol.pe_72@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > New subscriber
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: susonovix@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2784
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: eva.ramirezrodriguez@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2832
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: pakoor12@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2698
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jesusrobledomarina@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2822
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jaimerocha2801@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2889
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: salemca17@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2759
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: davidrodfer@outlook.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2486
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jmcaracol@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2526
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jmrmdeleon@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 204
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: rharcos25@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2119
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: alromo296@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3037
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: reginarosique77@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3038
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: danasturias@yahoo.es
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1790
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: enrubpon@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2883
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: luiserubio@yahoo.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2616
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: eruizabellan43@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1992
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jardod@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 452
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: daniel.villena@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1726
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: asaettonej@hotmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3058
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: heguirimon@hotmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1823
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jlsamper1@gmail.com
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 170
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: josed.sanchez8@outlook.es
+30-05-2024 22:16:43 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2366
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: hermariasanchez@gmail.com
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3039
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: juansantiago.sanchez@gmail.com
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 125
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: enriquesanchis11@hotmail.com
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1740
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: guille77@hotmail.de
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3040
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jsantillan@gadireditirial.com
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3041
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: mirando.al.mar@hotmail.com
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3042
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: juliaijose@yahoo.es
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3043
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: sasi51@outlook.es
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > New subscriber
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: harald.schrage@googlemail.com
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3044
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: luiserbar@hotmail.com
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3045
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: vero.sirgo@hotmail.es
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 676
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: socoli8439@gmail.com
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2886
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: migasar@yahoo.es
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2575
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: truhan3@hotmail.com
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3046
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: oscar.uceda@historiadors.cat
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2420
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: mureagallardo@gmail.com
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1735
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: chile32@hotmail.com
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3047
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: manuel.varo@gmail.com
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3048
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: darwvas@gmail.com
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 97
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: vegazo@yahoo.com
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3049
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: teresaveljus@outlook.com
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2254
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: avb1971@gmail.com
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 12
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: saboyano30@gmail.com
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2205
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: mvillar79@hotmail.com
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3050
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: pzalonsomail@gmail.com
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2855
+30-05-2024 22:16:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Finished
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,1 MB/256 MB - Eduardo > Starting
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,1 MB/256 MB - Eduardo > Starting from 0
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,1 MB/256 MB - Eduardo > Current email: fabellan@um.es
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,1 MB/256 MB - Eduardo > Matched subscriber ID 3106
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: mjainaga7@gmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 1533
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: azcarmelo@hotmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2915
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: malkocinado@gmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3004
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jcalguacil@gmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3005
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jalonsod1@gmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2073
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: alonso@kromson.es
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 73
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: fernan2_fac@hotmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 390
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: enalno01@gmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2255
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: gusamor@skynet.be
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2757
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: amandoantonano@gmx.es
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 65
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: varbizu@rice.edu
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3006
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: manuelariascousas@gmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2871
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jma.uelarmada@hotmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3007
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: sergiberia@gmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 1788
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: ebar.rami@gmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2858
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: alfonsobenitorica@hotmail.es
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 264
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: angelbenzal@hotmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 279
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: maria.berdejo@yahoo.es
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3008
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jmblanco01@gmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2454
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: seminario1962@gmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 106
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: pilarblsc@gmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3009
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: ramongborras@gmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3064
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: cesardirect@gmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3010
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: l.cabada42@gmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2999
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: paz.cabero@gmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 1717
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: anacalvomateo@gmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 276
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: javilonda@gmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 1802
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: pototeo@gmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2383
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: josec.ferrandoabogados@gmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 1143
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: marteva@hotmail.es
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 1729
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: alcegar25@hotmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3078
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: codesrafa@gmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 329
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: a.c.almendros@gmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 1784
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: igggnaccciocontreras@yahoo.es
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2419
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: scordobag59@gmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 1768
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: raulekus@hotmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2554
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: mariodelariva@hotmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3107
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jahc@cemad.es
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3011
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: udemarcos@gmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2813
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: edo.del.olmo@gmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2930
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: fatagatunte@yahoo.es
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2891
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: delacanoniga@gmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2812
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: neneavi@yahoo.es
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 573
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: ldiego2004@hotmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2064
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: carmeloelia@hotmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 1930
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: juancarlosembarba@gmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2782
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: rescamez2@yahoo.es
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 153
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: pilarfernandez00@yahoo.es
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 1736
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: carnerero@gmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2904
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: beprina@yahoo.es
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3012
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: evafruit@gmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3013
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: berdefox@hotmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3014
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: igallardopillet@gmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3015
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: christian.galloespinel@gmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3016
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: poderzulu@gmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 92
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: foreromaka@gmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 137
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: miguelernesto0403@gmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 148
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: anabelmerayo@hotmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3017
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: ogarrido@gmx.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3018
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: manuelgilquiles@gmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3019
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: litli504848@gmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3020
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: govisagod512@gmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3021
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: emilio.gonzalezmegia@gmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3022
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: margagor@hotmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 537
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: gonzalezplazajavier@gmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 117
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: ggonzalez.espresati@gmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 1831
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: pedro.jesus.granado@gmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3023
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: manolodaneri@hotmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2431
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: cain.marko33@gmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2975
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: lolatercera@gmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 506
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: henche@henchecarreras.es
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3024
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: lhcunchillos@hotmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2815
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: antoniohl1974@gmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 1678
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: pablohernansanz@hotmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3025
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: negreteza@hotmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 571
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jtony00@hotmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2927
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: fhmiron@gmail.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 1742
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jizquierdo@izveconsulting.com
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2885
+30-05-2024 22:19:44 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: terrell.kelley@att.net
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3026
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: falasa2000@yahoo.es
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 1731
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: d_largo@hotmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 1460
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jmlasuncion@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 474
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: florllopismartinez@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2899
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: hector.lollett@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 1493
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: longui111@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 508
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: eugenio@grupomxp.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2685
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: antoniocuestas@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3027
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: ralolu1963@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 1818
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: ulisesrlm@hotmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 1809
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: dlros83@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 354
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: angeles.lorente@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 79
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: marateneapalas@yahoo.es
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3028
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jllucas40@hotmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 1779
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: miguelymariadelazequiela@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 1804
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: mr.eduardo.marin@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 1
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: rafael55martin@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3029
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: mmartinmelendez@hotmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 1657
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: gemarme@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 413
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: trasto350@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3030
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: hildamtz234@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3031
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: leon_y_castillo@protonmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2896
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: heroesdecavitegranada@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2921
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: rimendu@yahoo.es
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3060
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: arcox@arcox-tmc.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2432
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: curi.misterios@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3032
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: h.m1973martin@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2541
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: guido2@gmx.es
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2262
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: igmp11@hotmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 436
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: fmorenodelcollado@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 120
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: negreirajuan@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3033
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: adudaqueanda@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3034
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: 
+30-05-2024 22:19:45 - FATAL - 8.3.3 - 27,2 MB/256 MB - Eduardo > Invalid email on line ";Alcantarilla;Murcia;30820;es
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: lrordoneztx@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2243
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: g.palacios.pelayo@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 159
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: maria.palmap@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3035
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jacobo_aa@yahoo.es
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 1826
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: j_lpa@yahoo.es
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 753
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: delking9@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2145
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: altrantran@hotmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2582
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: perezmjc@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 1758
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: apzv06@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 1747
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: 59jperezsan@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2661
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: pimof@cableworld.es
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 38
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: narciso.pinilla@hotmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 1964
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jpoyatos@cpa.upv.es
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3103
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: augprego@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3036
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: yol.pe_72@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3108
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: susonovix@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2784
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: eva.ramirezrodriguez@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2832
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: pakoor12@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2698
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jesusrobledomarina@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2822
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jaimerocha2801@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2889
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: salemca17@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2759
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: davidrodfer@outlook.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2486
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jmcaracol@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2526
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jmrmdeleon@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 204
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: rharcos25@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2119
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: alromo296@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3037
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: reginarosique77@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3038
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: danasturias@yahoo.es
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 1790
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: enrubpon@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2883
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: luiserubio@yahoo.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2616
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: eruizabellan43@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 1992
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jardod@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 452
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: daniel.villena@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 1726
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: asaettonej@hotmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3058
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: heguirimon@hotmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 1823
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jlsamper1@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 170
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: josed.sanchez8@outlook.es
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2366
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: hermariasanchez@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3039
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: juansantiago.sanchez@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 125
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: enriquesanchis11@hotmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 1740
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: guille77@hotmail.de
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3040
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jsantillan@gadireditirial.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3041
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: mirando.al.mar@hotmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3042
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: juliaijose@yahoo.es
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3043
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: sasi51@outlook.es
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3109
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: harald.schrage@googlemail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3044
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: luiserbar@hotmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3045
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: vero.sirgo@hotmail.es
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 676
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: socoli8439@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2886
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: migasar@yahoo.es
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2575
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: truhan3@hotmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3046
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: oscar.uceda@historiadors.cat
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2420
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: mureagallardo@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 1735
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: chile32@hotmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3047
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: manuel.varo@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3048
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: darwvas@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 97
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: vegazo@yahoo.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3049
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: teresaveljus@outlook.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2254
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: avb1971@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 12
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: saboyano30@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2205
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: mvillar79@hotmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3050
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: pzalonsomail@gmail.com
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 2855
+30-05-2024 22:19:45 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Finished
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,1 MB/256 MB - Eduardo > Starting
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,1 MB/256 MB - Eduardo > Starting from 0
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,1 MB/256 MB - Eduardo > Current email: fabellan@um.es
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Matched subscriber ID 3106
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: mjainaga7@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1533
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: azcarmelo@hotmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2915
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: malkocinado@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3004
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jcalguacil@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3005
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jalonsod1@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2073
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: alonso@kromson.es
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 73
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: fernan2_fac@hotmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 390
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: enalno01@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2255
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: gusamor@skynet.be
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2757
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: amandoantonano@gmx.es
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 65
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: varbizu@rice.edu
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3006
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: manuelariascousas@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2871
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jma.uelarmada@hotmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3007
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: sergiberia@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1788
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: ebar.rami@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2858
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: alfonsobenitorica@hotmail.es
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 264
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: angelbenzal@hotmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 279
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: maria.berdejo@yahoo.es
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3008
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jmblanco01@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2454
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: seminario1962@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 106
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: pilarblsc@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3009
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: ramongborras@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3064
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: cesardirect@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3010
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: l.cabada42@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2999
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: paz.cabero@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1717
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: anacalvomateo@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 276
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: javilonda@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1802
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: pototeo@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2383
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: josec.ferrandoabogados@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1143
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: marteva@hotmail.es
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1729
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: alcegar25@hotmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3078
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: codesrafa@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 329
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: a.c.almendros@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1784
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: igggnaccciocontreras@yahoo.es
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2419
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: scordobag59@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1768
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: raulekus@hotmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2554
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: mariodelariva@hotmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3107
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jahc@cemad.es
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3011
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: udemarcos@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2813
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: edo.del.olmo@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2930
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: fatagatunte@yahoo.es
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2891
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: delacanoniga@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2812
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: neneavi@yahoo.es
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 573
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: ldiego2004@hotmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2064
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: carmeloelia@hotmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1930
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: juancarlosembarba@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2782
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: rescamez2@yahoo.es
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 153
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: pilarfernandez00@yahoo.es
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1736
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: carnerero@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2904
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: beprina@yahoo.es
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3012
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: evafruit@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3013
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: berdefox@hotmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3014
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: igallardopillet@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3015
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: christian.galloespinel@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3016
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: poderzulu@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 92
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: foreromaka@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 137
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: miguelernesto0403@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 148
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: anabelmerayo@hotmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3017
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: ogarrido@gmx.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3018
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: manuelgilquiles@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3019
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: litli504848@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3020
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: govisagod512@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3021
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: emilio.gonzalezmegia@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3022
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: margagor@hotmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 537
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: gonzalezplazajavier@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 117
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: ggonzalez.espresati@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1831
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: pedro.jesus.granado@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3023
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: manolodaneri@hotmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2431
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: cain.marko33@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2975
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: lolatercera@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 506
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: henche@henchecarreras.es
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3024
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: lhcunchillos@hotmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2815
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: antoniohl1974@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1678
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: pablohernansanz@hotmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3025
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: negreteza@hotmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 571
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jtony00@hotmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2927
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: fhmiron@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1742
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jizquierdo@izveconsulting.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2885
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: terrell.kelley@att.net
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3026
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: falasa2000@yahoo.es
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1731
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: d_largo@hotmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1460
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jmlasuncion@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 474
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: florllopismartinez@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2899
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: hector.lollett@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1493
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: longui111@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 508
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: eugenio@grupomxp.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2685
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: antoniocuestas@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3027
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: ralolu1963@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1818
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: ulisesrlm@hotmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1809
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: dlros83@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 354
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: angeles.lorente@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 79
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: marateneapalas@yahoo.es
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3028
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jllucas40@hotmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1779
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: miguelymariadelazequiela@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1804
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: mr.eduardo.marin@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: rafael55martin@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3029
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: mmartinmelendez@hotmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1657
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: gemarme@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 413
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: trasto350@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3030
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: hildamtz234@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3031
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: leon_y_castillo@protonmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2896
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: heroesdecavitegranada@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2921
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: rimendu@yahoo.es
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3060
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: arcox@arcox-tmc.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2432
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: curi.misterios@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3032
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: h.m1973martin@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2541
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: guido2@gmx.es
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2262
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: igmp11@hotmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 436
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: fmorenodelcollado@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 120
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: negreirajuan@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3033
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: adudaqueanda@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3034
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: lrordoneztx@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2243
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: g.palacios.pelayo@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 159
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: maria.palmap@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3035
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jacobo_aa@yahoo.es
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1826
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: j_lpa@yahoo.es
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 753
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: delking9@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2145
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: altrantran@hotmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2582
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: perezmjc@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1758
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: apzv06@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1747
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: 59jperezsan@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2661
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: pimof@cableworld.es
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 38
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: narciso.pinilla@hotmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1964
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jpoyatos@cpa.upv.es
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3103
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: augprego@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3036
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: yol.pe_72@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3108
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: susonovix@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2784
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: eva.ramirezrodriguez@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2832
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: pakoor12@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2698
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jesusrobledomarina@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2822
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jaimerocha2801@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2889
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: salemca17@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2759
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: davidrodfer@outlook.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2486
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jmcaracol@gmail.com
+30-05-2024 22:22:12 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2526
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jmrmdeleon@gmail.com
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 204
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: rharcos25@gmail.com
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2119
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: alromo296@gmail.com
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3037
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: reginarosique77@gmail.com
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3038
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: danasturias@yahoo.es
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1790
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: enrubpon@gmail.com
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2883
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: luiserubio@yahoo.com
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2616
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: eruizabellan43@gmail.com
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1992
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jardod@gmail.com
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 452
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: daniel.villena@gmail.com
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1726
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: asaettonej@hotmail.com
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3058
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: heguirimon@hotmail.com
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1823
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jlsamper1@gmail.com
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 170
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: josed.sanchez8@outlook.es
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2366
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: hermariasanchez@gmail.com
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3039
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: juansantiago.sanchez@gmail.com
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 125
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: enriquesanchis11@hotmail.com
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1740
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: guille77@hotmail.de
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3040
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: jsantillan@gadireditirial.com
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3041
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: mirando.al.mar@hotmail.com
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3042
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: juliaijose@yahoo.es
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3043
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: sasi51@outlook.es
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3109
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: harald.schrage@googlemail.com
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3044
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: luiserbar@hotmail.com
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3045
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: vero.sirgo@hotmail.es
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 676
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: socoli8439@gmail.com
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2886
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: migasar@yahoo.es
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2575
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: truhan3@hotmail.com
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3046
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: oscar.uceda@historiadors.cat
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2420
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: mureagallardo@gmail.com
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 1735
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: chile32@hotmail.com
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3047
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: manuel.varo@gmail.com
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3048
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: darwvas@gmail.com
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 97
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: vegazo@yahoo.com
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3049
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: teresaveljus@outlook.com
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2254
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: avb1971@gmail.com
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 12
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: saboyano30@gmail.com
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2205
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: mvillar79@hotmail.com
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 3050
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Current email: pzalonsomail@gmail.com
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,3 MB/256 MB - Eduardo > Matched subscriber ID 2855
+30-05-2024 22:22:13 - INFO  - 8.3.3 - 27,2 MB/256 MB - Eduardo > Finished

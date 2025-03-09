@@ -1,0 +1,24 @@
+20-08-2024 18:01:51 - INFO  - 8.4.7 - 36.6 MB/256 MB - Eduardo > Saving new newsletter from composer
+20-08-2024 18:01:56 - INFO  - 8.4.7 - 36.6 MB/256 MB - Eduardo > Saving newsletter 72 from composer
+20-08-2024 18:02:17 - INFO  - 8.4.7 - 36.6 MB/256 MB - Eduardo > Saving newsletter: 72
+20-08-2024 18:02:21 - INFO  - 8.4.7 - 36.6 MB/256 MB - Eduardo > Sending newsletter: 72
+20-08-2024 18:02:26 - INFO  - 8.4.7 - 36.7 MB/256 MB - Eduardo > Newsletter 72 paused
+20-08-2024 18:03:24 - INFO  - 8.4.7 - 36.6 MB/256 MB - Eduardo > Saving newsletter 72 from composer
+20-08-2024 18:03:38 - INFO  - 8.4.7 - 36.6 MB/256 MB - Eduardo > Saving newsletter 72 from composer
+20-08-2024 18:10:20 - INFO  - 8.4.7 - 36.6 MB/256 MB - Eduardo > Saving newsletter 72 from composer
+20-08-2024 18:10:21 - INFO  - 8.4.7 - 36.6 MB/256 MB - Eduardo > Saving newsletter 72 from composer
+20-08-2024 18:15:12 - INFO  - 8.4.7 - 36.6 MB/256 MB - Eduardo > Saving newsletter 72 from composer
+20-08-2024 18:15:15 - INFO  - 8.4.7 - 36.6 MB/256 MB - Eduardo > Saving newsletter 72 from composer
+21-08-2024 18:07:04 - INFO  - 8.4.7 - 36.5 MB/256 MB - Eduardo > Saving newsletter 73 from composer
+21-08-2024 18:08:53 - INFO  - 8.4.7 - 36.5 MB/256 MB - Eduardo > Saving newsletter 73 from composer
+21-08-2024 18:08:56 - INFO  - 8.4.7 - 36.5 MB/256 MB - Eduardo > Saving newsletter 73 from composer
+21-08-2024 18:09:06 - INFO  - 8.4.7 - 36.6 MB/256 MB - Eduardo > Saving newsletter: 73
+21-08-2024 18:09:13 - INFO  - 8.4.7 - 36.6 MB/256 MB - Eduardo > Sending newsletter: 73
+21-08-2024 18:09:16 - INFO  - 8.4.7 - 36.6 MB/256 MB - Eduardo > Newsletter 73 paused
+21-08-2024 18:26:34 - INFO  - 8.4.7 - 36.5 MB/256 MB - Eduardo > Saving newsletter 73 from composer
+21-08-2024 18:26:36 - INFO  - 8.4.7 - 36.5 MB/256 MB - Eduardo > Saving newsletter 73 from composer
+21-08-2024 18:27:00 - INFO  - 8.4.7 - 36.5 MB/256 MB - Eduardo > Saving newsletter 73 from composer
+21-08-2024 18:27:02 - INFO  - 8.4.7 - 36.5 MB/256 MB - Eduardo > Saving newsletter 73 from composer
+21-08-2024 21:33:44 - INFO  - 8.4.7 - 36.5 MB/256 MB - Eduardo > Saving newsletter 73 from composer
+21-08-2024 21:33:47 - INFO  - 8.4.7 - 36.5 MB/256 MB - Eduardo > Saving newsletter 73 from composer
+21-08-2024 21:33:56 - INFO  - 8.4.7 - 36.6 MB/256 MB - Eduardo > Newsletter 73 restarted

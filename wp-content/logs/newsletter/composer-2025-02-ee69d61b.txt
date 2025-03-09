@@ -1,0 +1,486 @@
+09-02-2025 11:42:14 - DEBUG - 8.6.8 - 43,0 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 11:42:14 - DEBUG - 8.6.8 - 43,0 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 11:42:16 - DEBUG - 8.6.8 - 16,3 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 11:42:16 - DEBUG - 8.6.8 - 16,3 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 11:42:36 - DEBUG - 8.6.8 - 39,3 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 11:42:36 - DEBUG - 8.6.8 - 39,3 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 11:43:37 - DEBUG - 8.6.8 - 43,0 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 11:43:37 - DEBUG - 8.6.8 - 43,0 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 11:44:03 - DEBUG - 8.6.8 - 43,0 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 11:44:03 - DEBUG - 8.6.8 - 43,0 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 11:44:12 - DEBUG - 8.6.8 - 39,5 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 11:44:12 - DEBUG - 8.6.8 - 39,5 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 11:44:31 - DEBUG - 8.6.8 - 39,4 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 11:44:31 - DEBUG - 8.6.8 - 39,4 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 11:44:42 - DEBUG - 8.6.8 - 39,5 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 11:44:42 - DEBUG - 8.6.8 - 39,5 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 11:44:42 - DEBUG - 8.6.8 - 39,5 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 11:44:42 - DEBUG - 8.6.8 - 39,5 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 11:44:46 - DEBUG - 8.6.8 - 39,3 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 11:44:46 - DEBUG - 8.6.8 - 39,3 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 11:44:51 - DEBUG - 8.6.8 - 39,2 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 11:44:51 - DEBUG - 8.6.8 - 39,2 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 11:45:25 - DEBUG - 8.6.8 - 39,4 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 11:45:25 - DEBUG - 8.6.8 - 39,4 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 11:49:55 - DEBUG - 8.6.8 - 39,5 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 11:49:55 - DEBUG - 8.6.8 - 39,5 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 11:49:55 - DEBUG - 8.6.8 - 39,5 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 11:49:55 - DEBUG - 8.6.8 - 39,5 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 11:49:56 - DEBUG - 8.6.8 - 39,3 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 11:49:56 - DEBUG - 8.6.8 - 39,3 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 11:50:12 - DEBUG - 8.6.8 - 39,3 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 11:50:12 - DEBUG - 8.6.8 - 39,3 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 11:50:15 - DEBUG - 8.6.8 - 39,4 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 11:50:15 - DEBUG - 8.6.8 - 39,4 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 11:50:33 - DEBUG - 8.6.8 - 39,5 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 11:50:33 - DEBUG - 8.6.8 - 39,5 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 11:50:33 - DEBUG - 8.6.8 - 39,3 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 11:50:33 - DEBUG - 8.6.8 - 39,3 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 11:50:44 - DEBUG - 8.6.8 - 39,3 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 11:50:44 - DEBUG - 8.6.8 - 39,3 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 11:50:45 - DEBUG - 8.6.8 - 39,5 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 11:50:45 - DEBUG - 8.6.8 - 39,5 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 11:50:48 - DEBUG - 8.6.8 - 39,3 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 11:50:48 - DEBUG - 8.6.8 - 39,3 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 11:50:51 - DEBUG - 8.6.8 - 39,2 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 11:50:51 - DEBUG - 8.6.8 - 39,2 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 11:51:01 - DEBUG - 8.6.8 - 39,5 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 11:51:01 - DEBUG - 8.6.8 - 39,5 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 11:51:01 - DEBUG - 8.6.8 - 39,5 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 11:51:01 - DEBUG - 8.6.8 - 39,5 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 11:51:03 - DEBUG - 8.6.8 - 39,5 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 11:51:03 - DEBUG - 8.6.8 - 39,5 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 11:51:03 - DEBUG - 8.6.8 - 39,5 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 11:51:03 - DEBUG - 8.6.8 - 39,5 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 11:51:06 - DEBUG - 8.6.8 - 39,3 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 11:51:06 - DEBUG - 8.6.8 - 39,3 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 11:51:09 - DEBUG - 8.6.8 - 39,5 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 11:51:09 - DEBUG - 8.6.8 - 39,5 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 11:51:12 - DEBUG - 8.6.8 - 39,2 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 11:51:12 - DEBUG - 8.6.8 - 39,2 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 11:51:18 - DEBUG - 8.6.8 - 39,5 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 11:51:18 - DEBUG - 8.6.8 - 39,5 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 11:51:40 - DEBUG - 8.6.8 - 39,5 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 11:51:40 - DEBUG - 8.6.8 - 39,5 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 11:51:57 - DEBUG - 8.6.8 - 39,5 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 11:51:57 - DEBUG - 8.6.8 - 39,5 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 11:51:57 - DEBUG - 8.6.8 - 39,3 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 11:51:57 - DEBUG - 8.6.8 - 39,3 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 11:51:58 - DEBUG - 8.6.8 - 39,5 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 11:51:58 - DEBUG - 8.6.8 - 39,5 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 11:52:08 - DEBUG - 8.6.8 - 42,9 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 11:52:08 - DEBUG - 8.6.8 - 42,9 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 11:52:10 - DEBUG - 8.6.8 - 43,0 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 11:52:10 - DEBUG - 8.6.8 - 43,0 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 11:52:24 - DEBUG - 8.6.8 - 43,2 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 11:52:24 - DEBUG - 8.6.8 - 43,2 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 11:56:18 - DEBUG - 8.6.8 - 43,2 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 11:56:18 - DEBUG - 8.6.8 - 43,2 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 11:56:55 - DEBUG - 8.6.8 - 43,2 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 11:56:55 - DEBUG - 8.6.8 - 43,2 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 11:57:04 - DEBUG - 8.6.8 - 43,0 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 11:57:04 - DEBUG - 8.6.8 - 43,0 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 12:02:24 - DEBUG - 8.6.8 - 43,2 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 12:02:24 - DEBUG - 8.6.8 - 43,2 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 12:02:37 - DEBUG - 8.6.8 - 39,5 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 12:02:37 - DEBUG - 8.6.8 - 39,5 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 12:03:07 - DEBUG - 8.6.8 - 39,5 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 12:03:07 - DEBUG - 8.6.8 - 39,5 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 12:03:07 - DEBUG - 8.6.8 - 39,5 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 12:03:07 - DEBUG - 8.6.8 - 39,5 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 12:03:12 - DEBUG - 8.6.8 - 43,0 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 12:03:12 - DEBUG - 8.6.8 - 43,0 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 12:03:23 - DEBUG - 8.6.8 - 43,2 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 12:03:23 - DEBUG - 8.6.8 - 43,2 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 12:03:32 - DEBUG - 8.6.8 - 43,0 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 12:03:32 - DEBUG - 8.6.8 - 43,0 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 12:03:42 - DEBUG - 8.6.8 - 39,2 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 12:03:42 - DEBUG - 8.6.8 - 39,2 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 12:04:09 - DEBUG - 8.6.8 - 39,3 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 12:04:09 - DEBUG - 8.6.8 - 39,3 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 12:04:09 - DEBUG - 8.6.8 - 39,3 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 12:04:09 - DEBUG - 8.6.8 - 39,3 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 12:04:14 - DEBUG - 8.6.8 - 43,2 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 12:04:14 - DEBUG - 8.6.8 - 43,2 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 12:04:20 - DEBUG - 8.6.8 - 43,0 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 12:04:20 - DEBUG - 8.6.8 - 43,0 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 12:04:37 - DEBUG - 8.6.8 - 43,2 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 12:04:37 - DEBUG - 8.6.8 - 43,2 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 12:04:47 - DEBUG - 8.6.8 - 39,5 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 12:04:47 - DEBUG - 8.6.8 - 39,5 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 12:05:23 - DEBUG - 8.6.8 - 39,5 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 12:05:23 - DEBUG - 8.6.8 - 39,5 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 12:05:23 - DEBUG - 8.6.8 - 39,5 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 12:05:23 - DEBUG - 8.6.8 - 39,5 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 12:05:32 - DEBUG - 8.6.8 - 43,2 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 12:05:32 - DEBUG - 8.6.8 - 43,2 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+09-02-2025 12:05:47 - DEBUG - 8.6.8 - 43,2 MB/512 MB - Eduardo > Folders registered to be scanned for blocks:
+09-02-2025 12:05:47 - DEBUG - 8.6.8 - 43,2 MB/512 MB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+18-02-2025 10:30:42 - DEBUG - 8.7.0 - 23,6 MB/2 GB - Eduardo > Folders registered to be scanned for blocks:
+18-02-2025 10:30:42 - DEBUG - 8.7.0 - 23,6 MB/2 GB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+18-02-2025 10:30:42 - DEBUG - 8.7.0 - 15,5 MB/2 GB - Eduardo > Folders registered to be scanned for blocks:
+18-02-2025 10:30:42 - DEBUG - 8.7.0 - 15,5 MB/2 GB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+18-02-2025 10:30:59 - DEBUG - 8.7.0 - 20,7 MB/2 GB - Eduardo > Folders registered to be scanned for blocks:
+18-02-2025 10:30:59 - DEBUG - 8.7.0 - 20,7 MB/2 GB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+18-02-2025 10:38:02 - DEBUG - 8.7.0 - 20,8 MB/2 GB - Eduardo > Folders registered to be scanned for blocks:
+18-02-2025 10:38:02 - DEBUG - 8.7.0 - 20,8 MB/2 GB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+18-02-2025 10:38:02 - DEBUG - 8.7.0 - 20,8 MB/2 GB - Eduardo > Folders registered to be scanned for blocks:
+18-02-2025 10:38:02 - DEBUG - 8.7.0 - 20,8 MB/2 GB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+18-02-2025 10:38:06 - DEBUG - 8.7.0 - 20,5 MB/2 GB - Eduardo > Folders registered to be scanned for blocks:
+18-02-2025 10:38:06 - DEBUG - 8.7.0 - 20,5 MB/2 GB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+18-02-2025 10:38:30 - DEBUG - 8.7.0 - 20,6 MB/2 GB - Eduardo > Folders registered to be scanned for blocks:
+18-02-2025 10:38:30 - DEBUG - 8.7.0 - 20,6 MB/2 GB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+18-02-2025 10:38:30 - DEBUG - 8.7.0 - 20,6 MB/2 GB - Eduardo > Folders registered to be scanned for blocks:
+18-02-2025 10:38:30 - DEBUG - 8.7.0 - 20,6 MB/2 GB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+18-02-2025 10:38:38 - DEBUG - 8.7.0 - 20,6 MB/2 GB - Eduardo > Folders registered to be scanned for blocks:
+18-02-2025 10:38:38 - DEBUG - 8.7.0 - 20,6 MB/2 GB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+18-02-2025 10:40:32 - DEBUG - 8.7.0 - 20,8 MB/2 GB - Eduardo > Folders registered to be scanned for blocks:
+18-02-2025 10:40:32 - DEBUG - 8.7.0 - 20,8 MB/2 GB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+18-02-2025 10:40:32 - DEBUG - 8.7.0 - 20,8 MB/2 GB - Eduardo > Folders registered to be scanned for blocks:
+18-02-2025 10:40:32 - DEBUG - 8.7.0 - 20,8 MB/2 GB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+18-02-2025 10:40:36 - DEBUG - 8.7.0 - 23,4 MB/2 GB - Eduardo > Folders registered to be scanned for blocks:
+18-02-2025 10:40:36 - DEBUG - 8.7.0 - 23,4 MB/2 GB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+18-02-2025 10:40:37 - DEBUG - 8.7.0 - 15,5 MB/2 GB - Eduardo > Folders registered to be scanned for blocks:
+18-02-2025 10:40:37 - DEBUG - 8.7.0 - 15,5 MB/2 GB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+18-02-2025 10:40:40 - DEBUG - 8.7.0 - 23,4 MB/2 GB - Eduardo > Folders registered to be scanned for blocks:
+18-02-2025 10:40:40 - DEBUG - 8.7.0 - 23,4 MB/2 GB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+22-02-2025 12:05:44 - DEBUG - 8.7.0 - 29,6 MB/2 GB - Eduardo > Folders registered to be scanned for blocks:
+22-02-2025 12:05:44 - DEBUG - 8.7.0 - 29,6 MB/2 GB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+22-02-2025 12:05:45 - DEBUG - 8.7.0 - 16,4 MB/2 GB - Eduardo > Folders registered to be scanned for blocks:
+22-02-2025 12:05:45 - DEBUG - 8.7.0 - 16,4 MB/2 GB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+22-02-2025 12:06:02 - DEBUG - 8.7.0 - 25,0 MB/2 GB - Eduardo > Folders registered to be scanned for blocks:
+22-02-2025 12:06:02 - DEBUG - 8.7.0 - 25,0 MB/2 GB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+22-02-2025 12:07:05 - DEBUG - 8.7.0 - 25,3 MB/2 GB - Eduardo > Folders registered to be scanned for blocks:
+22-02-2025 12:07:05 - DEBUG - 8.7.0 - 25,3 MB/2 GB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+22-02-2025 12:07:05 - DEBUG - 8.7.0 - 25,3 MB/2 GB - Eduardo > Folders registered to be scanned for blocks:
+22-02-2025 12:07:05 - DEBUG - 8.7.0 - 25,3 MB/2 GB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+22-02-2025 12:07:09 - DEBUG - 8.7.0 - 29,6 MB/2 GB - Eduardo > Folders registered to be scanned for blocks:
+22-02-2025 12:07:09 - DEBUG - 8.7.0 - 29,6 MB/2 GB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+22-02-2025 12:07:10 - DEBUG - 8.7.0 - 16,4 MB/2 GB - Eduardo > Folders registered to be scanned for blocks:
+22-02-2025 12:07:10 - DEBUG - 8.7.0 - 16,4 MB/2 GB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+
+22-02-2025 12:07:13 - DEBUG - 8.7.0 - 29,6 MB/2 GB - Eduardo > Folders registered to be scanned for blocks:
+22-02-2025 12:07:13 - DEBUG - 8.7.0 - 29,6 MB/2 GB - Eduardo > Array
+(
+    [0] => /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/plugins/newsletter-blocks/blocks
+)
+

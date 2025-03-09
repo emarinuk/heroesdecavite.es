@@ -1,0 +1,4 @@
+04-06-2024 09:12:40 - INFO  - 8.3.6 - 22,7 MB/256 MB - [cron] > Weekly check for import
+11-06-2024 09:13:47 - INFO  - 8.3.8 - 15.5 MB/256 MB - [cron] > Weekly check for import
+18-06-2024 09:12:35 - INFO  - 8.3.8 - 15,3 MB/256 MB - [cron] > Weekly check for import
+25-06-2024 11:12:36 - INFO  - 8.3.9 - 13,6 MB/256 MB - [cron] > Weekly check for import

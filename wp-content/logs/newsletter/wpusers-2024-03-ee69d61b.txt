@@ -1,0 +1,15 @@
+05-03-2024 09:12:56 - INFO  - 8.1.9 - 24,5 MB/256 MB - [cron] > Weekly check for wpusers
+05-03-2024 23:14:22 - INFO  - 8.1.9 - 22,5 MB/256 MB -  > New user registration with id 27
+05-03-2024 23:14:22 - INFO  - 8.1.9 - 22,5 MB/256 MB -  > Opt-in checkbox required but not set
+05-03-2024 23:16:25 - INFO  - 8.1.9 - 22,5 MB/256 MB -  > New user registration with id 28
+06-03-2024 05:32:22 - INFO  - 8.1.9 - 22,5 MB/256 MB -  > New user registration with id 29
+07-03-2024 10:06:52 - INFO  - 8.2.0 - 24,2 MB/256 MB -  > New user registration with id 30
+07-03-2024 13:48:15 - INFO  - 8.2.1 - 27,2 MB/256 MB - Eduardo > New user registration with id 31
+12-03-2024 09:12:41 - INFO  - 8.2.1 - 24,3 MB/256 MB - [cron] > Weekly check for wpusers
+12-03-2024 13:31:16 - INFO  - 8.2.1 - 24,8 MB/256 MB -  > New user registration with id 32
+13-03-2024 09:52:31 - INFO  - 8.2.1 - 44,5 MB/256 MB - Eduardo > New user registration with id 33
+13-03-2024 09:52:31 - INFO  - 8.2.1 - 44,5 MB/256 MB - Eduardo > Opt-in checkbox required but not set
+13-03-2024 23:06:55 - INFO  - 8.2.1 - 44,5 MB/256 MB - Eduardo > New user registration with id 34
+13-03-2024 23:06:55 - INFO  - 8.2.1 - 44,5 MB/256 MB - Eduardo > Opt-in checkbox required but not set
+19-03-2024 09:12:59 - INFO  - 8.2.3 - 24,4 MB/256 MB - [cron] > Weekly check for wpusers
+26-03-2024 09:13:26 - INFO  - 8.2.3 - 34,7 MB/256 MB - [cron] > Weekly check for wpusers

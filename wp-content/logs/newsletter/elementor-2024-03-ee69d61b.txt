@@ -1,0 +1,4 @@
+04-03-2024 21:32:24 - INFO  - 8.1.5 - 22,0 MB/256 MB - [cron] > Weekly check for elementor
+11-03-2024 21:31:51 - INFO  - 8.2.1 - 24,2 MB/256 MB - [cron] > Weekly check for elementor
+18-03-2024 21:31:47 - INFO  - 8.2.3 - 24,3 MB/256 MB - [cron] > Weekly check for elementor
+25-03-2024 21:32:39 - INFO  - 8.2.3 - 34,6 MB/256 MB - [cron] > Weekly check for elementor

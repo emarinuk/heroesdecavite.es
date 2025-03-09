@@ -1,0 +1,96 @@
+01-11-2023 11:41:48 - ERROR - 8.0.2 - 40,0 MB/256 MB - Eduardo > Unable to create dir /home/1045896.cloudwaysapps.com/nwfqbqrkrg/public_html/wp-content/uploads/newsletter/thumbnails/2023/11
+01-11-2023 15:19:59 - INFO  - 8.0.2 - 30,1 MB/256 MB - [cron] > Newsletter::send> Send email 21
+01-11-2023 15:21:11 - INFO  - 8.0.2 - 30,6 MB/256 MB - [cron] > Newsletter::send> End run for email 21
+01-11-2023 15:25:23 - INFO  - 8.0.2 - 30,1 MB/256 MB - [cron] > Newsletter::send> Send email 21
+01-11-2023 15:26:35 - INFO  - 8.0.2 - 30,6 MB/256 MB - [cron] > Newsletter::send> End run for email 21
+01-11-2023 15:30:28 - INFO  - 8.0.2 - 30,1 MB/256 MB - [cron] > Newsletter::send> Send email 21
+01-11-2023 15:31:39 - INFO  - 8.0.2 - 30,6 MB/256 MB - [cron] > Newsletter::send> End run for email 21
+01-11-2023 15:35:04 - INFO  - 8.0.2 - 30,1 MB/256 MB - [cron] > Newsletter::send> Send email 21
+01-11-2023 15:36:15 - INFO  - 8.0.2 - 30,6 MB/256 MB - [cron] > Newsletter::send> End run for email 21
+01-11-2023 15:39:43 - INFO  - 8.0.2 - 30,1 MB/256 MB - [cron] > Newsletter::send> Send email 21
+01-11-2023 15:40:52 - INFO  - 8.0.2 - 30,6 MB/256 MB - [cron] > Newsletter::send> End run for email 21
+01-11-2023 15:44:44 - INFO  - 8.0.2 - 30,1 MB/256 MB - [cron] > Newsletter::send> Send email 21
+01-11-2023 15:45:55 - INFO  - 8.0.2 - 30,6 MB/256 MB - [cron] > Newsletter::send> End run for email 21
+01-11-2023 15:49:54 - INFO  - 8.0.2 - 30,1 MB/256 MB - [cron] > Newsletter::send> Send email 21
+01-11-2023 15:51:05 - INFO  - 8.0.2 - 30,6 MB/256 MB - [cron] > Newsletter::send> End run for email 21
+01-11-2023 15:54:56 - INFO  - 8.0.2 - 30,1 MB/256 MB - [cron] > Newsletter::send> Send email 21
+01-11-2023 15:56:06 - INFO  - 8.0.2 - 30,6 MB/256 MB - [cron] > Newsletter::send> End run for email 21
+01-11-2023 16:00:01 - INFO  - 8.0.2 - 30,1 MB/256 MB - [cron] > Newsletter::send> Send email 21
+01-11-2023 16:01:12 - INFO  - 8.0.2 - 30,6 MB/256 MB - [cron] > Newsletter::send> End run for email 21
+01-11-2023 16:05:04 - INFO  - 8.0.2 - 30,1 MB/256 MB - [cron] > Newsletter::send> Send email 21
+01-11-2023 16:06:16 - INFO  - 8.0.2 - 30,6 MB/256 MB - [cron] > Newsletter::send> End run for email 21
+01-11-2023 16:09:47 - INFO  - 8.0.2 - 30,1 MB/256 MB - [cron] > Newsletter::send> Send email 21
+01-11-2023 16:11:00 - INFO  - 8.0.2 - 30,6 MB/256 MB - [cron] > Newsletter::send> End run for email 21
+01-11-2023 16:14:43 - INFO  - 8.0.2 - 30,1 MB/256 MB - [cron] > Newsletter::send> Send email 21
+01-11-2023 16:15:54 - INFO  - 8.0.2 - 30,6 MB/256 MB - [cron] > Newsletter::send> End run for email 21
+01-11-2023 16:20:13 - INFO  - 8.0.2 - 30,1 MB/256 MB - [cron] > Newsletter::send> Send email 21
+01-11-2023 16:21:25 - INFO  - 8.0.2 - 30,6 MB/256 MB - [cron] > Newsletter::send> End run for email 21
+01-11-2023 16:24:46 - INFO  - 8.0.2 - 30,1 MB/256 MB - [cron] > Newsletter::send> Send email 21
+01-11-2023 16:25:54 - INFO  - 8.0.2 - 30,6 MB/256 MB - [cron] > Newsletter::send> End run for email 21
+01-11-2023 16:31:25 - INFO  - 8.0.2 - 30,1 MB/256 MB - [cron] > Newsletter::send> Send email 21
+01-11-2023 16:32:36 - INFO  - 8.0.2 - 30,6 MB/256 MB - [cron] > Newsletter::send> End run for email 21
+01-11-2023 16:35:35 - INFO  - 8.0.2 - 30,1 MB/256 MB - [cron] > Newsletter::send> Send email 21
+01-11-2023 16:36:46 - INFO  - 8.0.2 - 30,6 MB/256 MB - [cron] > Newsletter::send> End run for email 21
+01-11-2023 16:39:59 - INFO  - 8.0.2 - 30,1 MB/256 MB - [cron] > Newsletter::send> Send email 21
+01-11-2023 16:41:07 - INFO  - 8.0.2 - 30,6 MB/256 MB - [cron] > Newsletter::send> End run for email 21
+01-11-2023 16:45:01 - INFO  - 8.0.2 - 30,1 MB/256 MB - [cron] > Newsletter::send> Send email 21
+01-11-2023 16:46:13 - INFO  - 8.0.2 - 30,7 MB/256 MB - [cron] > Newsletter::send> End run for email 21
+01-11-2023 16:49:49 - INFO  - 8.0.2 - 30,1 MB/256 MB - [cron] > Newsletter::send> Send email 21
+01-11-2023 16:50:56 - INFO  - 8.0.2 - 30,6 MB/256 MB - [cron] > Newsletter::send> End run for email 21
+01-11-2023 16:55:13 - INFO  - 8.0.2 - 30,1 MB/256 MB - [cron] > Newsletter::send> Send email 21
+01-11-2023 16:56:24 - INFO  - 8.0.2 - 30,6 MB/256 MB - [cron] > Newsletter::send> End run for email 21
+01-11-2023 16:59:55 - INFO  - 8.0.2 - 30,1 MB/256 MB - [cron] > Newsletter::send> Send email 21
+01-11-2023 17:00:58 - INFO  - 8.0.2 - 30,6 MB/256 MB - [cron] > Newsletter::send> End run for email 21
+01-11-2023 17:04:55 - INFO  - 8.0.2 - 30,1 MB/256 MB - [cron] > Newsletter::send> Send email 21
+01-11-2023 17:04:55 - INFO  - 8.0.2 - 30,0 MB/256 MB - [cron] > Newsletter::send> No more users, set as sent
+29-11-2023 21:58:06 - ERROR - 8.0.4 - 36,0 MB/256 MB - Eduardo > Requested size larger than the original one
+29-11-2023 22:20:25 - INFO  - 8.0.4 - 30,8 MB/256 MB - [cron] > Newsletter::send> Send email 22
+29-11-2023 22:21:21 - INFO  - 8.0.4 - 31,2 MB/256 MB - [cron] > Newsletter::send> End run for email 22
+29-11-2023 22:24:47 - INFO  - 8.0.4 - 30,8 MB/256 MB - [cron] > Newsletter::send> Send email 22
+29-11-2023 22:25:48 - INFO  - 8.0.4 - 31,2 MB/256 MB - [cron] > Newsletter::send> End run for email 22
+29-11-2023 22:29:47 - INFO  - 8.0.4 - 30,8 MB/256 MB - [cron] > Newsletter::send> Send email 22
+29-11-2023 22:30:43 - INFO  - 8.0.4 - 31,2 MB/256 MB - [cron] > Newsletter::send> End run for email 22
+29-11-2023 22:34:52 - INFO  - 8.0.4 - 30,8 MB/256 MB - [cron] > Newsletter::send> Send email 22
+29-11-2023 22:35:49 - INFO  - 8.0.4 - 31,2 MB/256 MB - [cron] > Newsletter::send> End run for email 22
+29-11-2023 22:40:34 - INFO  - 8.0.4 - 30,8 MB/256 MB - [cron] > Newsletter::send> Send email 22
+29-11-2023 22:41:28 - INFO  - 8.0.4 - 31,2 MB/256 MB - [cron] > Newsletter::send> End run for email 22
+29-11-2023 22:44:50 - INFO  - 8.0.4 - 30,8 MB/256 MB - [cron] > Newsletter::send> Send email 22
+29-11-2023 22:45:46 - INFO  - 8.0.4 - 31,2 MB/256 MB - [cron] > Newsletter::send> End run for email 22
+29-11-2023 22:49:44 - INFO  - 8.0.4 - 30,8 MB/256 MB - [cron] > Newsletter::send> Send email 22
+29-11-2023 22:50:39 - INFO  - 8.0.4 - 31,2 MB/256 MB - [cron] > Newsletter::send> End run for email 22
+29-11-2023 22:55:03 - INFO  - 8.0.4 - 30,8 MB/256 MB - [cron] > Newsletter::send> Send email 22
+29-11-2023 22:55:59 - INFO  - 8.0.4 - 31,2 MB/256 MB - [cron] > Newsletter::send> End run for email 22
+29-11-2023 22:59:48 - INFO  - 8.0.4 - 30,8 MB/256 MB - [cron] > Newsletter::send> Send email 22
+29-11-2023 23:00:44 - INFO  - 8.0.4 - 31,2 MB/256 MB - [cron] > Newsletter::send> End run for email 22
+29-11-2023 23:05:07 - INFO  - 8.0.4 - 30,8 MB/256 MB - [cron] > Newsletter::send> Send email 22
+29-11-2023 23:06:03 - INFO  - 8.0.4 - 31,2 MB/256 MB - [cron] > Newsletter::send> End run for email 22
+29-11-2023 23:09:59 - INFO  - 8.0.4 - 30,8 MB/256 MB - [cron] > Newsletter::send> Send email 22
+29-11-2023 23:10:57 - INFO  - 8.0.4 - 31,2 MB/256 MB - [cron] > Newsletter::send> End run for email 22
+29-11-2023 23:14:51 - INFO  - 8.0.4 - 30,8 MB/256 MB - [cron] > Newsletter::send> Send email 22
+29-11-2023 23:15:48 - INFO  - 8.0.4 - 31,2 MB/256 MB - [cron] > Newsletter::send> End run for email 22
+29-11-2023 23:19:56 - INFO  - 8.0.4 - 30,8 MB/256 MB - [cron] > Newsletter::send> Send email 22
+29-11-2023 23:20:53 - INFO  - 8.0.4 - 31,2 MB/256 MB - [cron] > Newsletter::send> End run for email 22
+29-11-2023 23:24:54 - INFO  - 8.0.4 - 30,8 MB/256 MB - [cron] > Newsletter::send> Send email 22
+29-11-2023 23:25:52 - INFO  - 8.0.4 - 31,2 MB/256 MB - [cron] > Newsletter::send> End run for email 22
+29-11-2023 23:30:00 - INFO  - 8.0.4 - 30,8 MB/256 MB - [cron] > Newsletter::send> Send email 22
+29-11-2023 23:30:56 - INFO  - 8.0.4 - 31,2 MB/256 MB - [cron] > Newsletter::send> End run for email 22
+29-11-2023 23:34:51 - INFO  - 8.0.4 - 30,8 MB/256 MB - [cron] > Newsletter::send> Send email 22
+29-11-2023 23:35:47 - INFO  - 8.0.4 - 31,2 MB/256 MB - [cron] > Newsletter::send> End run for email 22
+29-11-2023 23:39:49 - INFO  - 8.0.4 - 30,8 MB/256 MB - [cron] > Newsletter::send> Send email 22
+29-11-2023 23:40:44 - INFO  - 8.0.4 - 31,2 MB/256 MB - [cron] > Newsletter::send> End run for email 22
+29-11-2023 23:44:50 - INFO  - 8.0.4 - 30,8 MB/256 MB - [cron] > Newsletter::send> Send email 22
+29-11-2023 23:45:46 - INFO  - 8.0.4 - 31,2 MB/256 MB - [cron] > Newsletter::send> End run for email 22
+29-11-2023 23:49:46 - INFO  - 8.0.4 - 30,8 MB/256 MB - [cron] > Newsletter::send> Send email 22
+29-11-2023 23:50:41 - INFO  - 8.0.4 - 31,2 MB/256 MB - [cron] > Newsletter::send> End run for email 22
+29-11-2023 23:55:15 - INFO  - 8.0.4 - 30,8 MB/256 MB - [cron] > Newsletter::send> Send email 22
+29-11-2023 23:56:11 - INFO  - 8.0.4 - 31,2 MB/256 MB - [cron] > Newsletter::send> End run for email 22
+30-11-2023 00:00:01 - INFO  - 8.0.4 - 30,8 MB/256 MB - [cron] > Newsletter::send> Send email 22
+30-11-2023 00:00:58 - INFO  - 8.0.4 - 31,2 MB/256 MB - [cron] > Newsletter::send> End run for email 22
+30-11-2023 00:04:48 - INFO  - 8.0.4 - 30,7 MB/256 MB - [cron] > Newsletter::send> Send email 22
+30-11-2023 00:05:43 - INFO  - 8.0.4 - 31,2 MB/256 MB - [cron] > Newsletter::send> End run for email 22
+30-11-2023 00:10:14 - INFO  - 8.0.4 - 30,8 MB/256 MB - [cron] > Newsletter::send> Send email 22
+30-11-2023 00:11:09 - INFO  - 8.0.4 - 31,2 MB/256 MB - [cron] > Newsletter::send> End run for email 22
+30-11-2023 00:15:04 - INFO  - 8.0.4 - 30,8 MB/256 MB - [cron] > Newsletter::send> Send email 22
+30-11-2023 00:15:46 - INFO  - 8.0.4 - 31,2 MB/256 MB - [cron] > Newsletter::send> End run for email 22
+30-11-2023 00:19:47 - INFO  - 8.0.4 - 30,8 MB/256 MB - [cron] > Newsletter::send> Send email 22
+30-11-2023 00:19:47 - INFO  - 8.0.4 - 30,7 MB/256 MB - [cron] > Newsletter::send> No more users, set as sent

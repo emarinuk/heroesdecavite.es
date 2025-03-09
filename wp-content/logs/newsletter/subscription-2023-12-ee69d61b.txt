@@ -1,0 +1,322 @@
+01-12-2023 00:55:03 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+01-12-2023 01:56:55 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+01-12-2023 02:21:03 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > Subscription of an address with status C
+01-12-2023 06:45:37 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+01-12-2023 07:21:31 - INFO  - 8.0.4 - 20,4 MB/256 MB -  > New subscriber
+01-12-2023 09:21:18 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > Subscription of an address with status C
+01-12-2023 09:43:38 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+01-12-2023 10:00:47 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+01-12-2023 10:42:10 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > New subscriber
+01-12-2023 10:45:15 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > Subscription of an address with status C
+01-12-2023 11:23:02 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > Subscription of an address with status C
+01-12-2023 11:25:03 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+01-12-2023 11:30:06 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+01-12-2023 12:28:01 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+01-12-2023 13:58:29 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+01-12-2023 14:02:05 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+01-12-2023 14:22:32 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+01-12-2023 18:56:32 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+01-12-2023 21:54:19 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+01-12-2023 22:48:29 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+02-12-2023 08:29:23 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+02-12-2023 08:48:37 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+02-12-2023 13:08:57 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+02-12-2023 16:16:09 - INFO  - 8.0.4 - 21,9 MB/256 MB -  > Subscription of an address with status C
+02-12-2023 16:16:09 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > Subscription of an address with status C
+02-12-2023 16:16:10 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > Subscription of an address with status C
+02-12-2023 16:16:10 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > Subscription of an address with status C
+02-12-2023 16:16:11 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > Subscription of an address with status C
+02-12-2023 17:23:50 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+03-12-2023 04:04:45 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > New subscriber
+03-12-2023 04:36:05 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > New subscriber
+03-12-2023 04:37:36 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > Subscription of an address with status C
+03-12-2023 06:28:27 - INFO  - 8.0.4 - 21,9 MB/256 MB -  > Subscription of an address with status C
+03-12-2023 08:19:12 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+03-12-2023 09:18:37 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+03-12-2023 09:19:08 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > New subscriber
+03-12-2023 09:20:07 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+03-12-2023 09:30:26 - INFO  - 8.0.4 - 21,9 MB/256 MB -  > Subscription of an address with status C
+03-12-2023 09:31:02 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > Subscription of an address with status C
+03-12-2023 09:32:05 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+03-12-2023 09:48:40 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > New subscriber
+03-12-2023 09:56:05 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+03-12-2023 11:09:09 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+03-12-2023 12:05:10 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+03-12-2023 12:25:31 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+03-12-2023 17:52:54 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+03-12-2023 18:49:46 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+03-12-2023 18:51:51 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > New subscriber
+03-12-2023 18:54:16 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > Subscription of an address with status C
+03-12-2023 18:59:04 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > Subscription of an address with status C
+03-12-2023 19:40:18 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+04-12-2023 07:43:23 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+04-12-2023 11:37:58 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+04-12-2023 21:19:00 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+05-12-2023 14:19:56 - INFO  - 8.0.4 - 21,9 MB/256 MB -  > Subscription of an address with status C
+05-12-2023 15:15:22 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+05-12-2023 18:47:20 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+05-12-2023 22:50:41 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+05-12-2023 22:51:51 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > New subscriber
+06-12-2023 07:04:02 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+06-12-2023 09:36:03 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+06-12-2023 19:57:12 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > New subscriber
+06-12-2023 20:56:44 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+06-12-2023 20:59:52 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+07-12-2023 06:09:50 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+07-12-2023 15:19:30 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+07-12-2023 17:36:28 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+07-12-2023 20:03:35 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+08-12-2023 00:54:20 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+08-12-2023 05:19:29 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > New subscriber
+08-12-2023 10:18:18 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+08-12-2023 11:20:35 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+08-12-2023 11:20:37 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+08-12-2023 11:51:16 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > Subscription of an address with status C
+08-12-2023 12:28:49 - INFO  - 8.0.4 - 21,9 MB/256 MB -  > Subscription of an address with status C
+08-12-2023 14:14:35 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+08-12-2023 16:12:00 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+08-12-2023 16:45:51 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+08-12-2023 22:32:46 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+09-12-2023 11:01:42 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+09-12-2023 13:51:39 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+10-12-2023 09:24:01 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+10-12-2023 09:52:57 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+10-12-2023 13:30:14 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+10-12-2023 13:30:57 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+10-12-2023 17:45:41 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+10-12-2023 20:24:03 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+11-12-2023 04:31:25 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+11-12-2023 04:32:42 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > Subscription of an address with status C
+11-12-2023 07:52:06 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+11-12-2023 17:49:11 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+11-12-2023 17:52:55 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > Subscription of an address with status C
+11-12-2023 17:53:17 - INFO  - 8.0.4 - 21,9 MB/256 MB -  > Subscription of an address with status C
+11-12-2023 18:17:17 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > New subscriber
+11-12-2023 22:24:35 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+11-12-2023 22:28:57 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > Subscription of an address with status C
+12-12-2023 23:29:02 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+12-12-2023 23:31:06 - INFO  - 8.0.4 - 21,9 MB/256 MB -  > Subscription of an address with status C
+13-12-2023 04:32:36 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+13-12-2023 08:36:18 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+13-12-2023 11:42:31 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+13-12-2023 12:33:21 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+13-12-2023 15:21:06 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+13-12-2023 17:55:21 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+13-12-2023 19:39:28 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+13-12-2023 19:46:11 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > New subscriber
+13-12-2023 21:25:32 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+13-12-2023 21:47:55 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+13-12-2023 22:46:22 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > New subscriber
+13-12-2023 22:58:23 - INFO  - 8.0.4 - 22,3 MB/256 MB - Eduardo > New subscriber
+14-12-2023 10:38:30 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+14-12-2023 10:56:05 - INFO  - 8.0.4 - 21,9 MB/256 MB -  > Subscription of an address with status C
+14-12-2023 11:13:22 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > Subscription of an address with status C
+14-12-2023 11:17:26 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > Subscription of an address with status C
+14-12-2023 11:19:35 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > Subscription of an address with status C
+14-12-2023 11:33:58 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > Subscription of an address with status C
+14-12-2023 11:34:37 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > Subscription of an address with status C
+14-12-2023 11:35:13 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > Subscription of an address with status C
+14-12-2023 11:58:59 - INFO  - 8.0.4 - 21,9 MB/256 MB -  > Subscription of an address with status C
+14-12-2023 12:13:19 - INFO  - 8.0.4 - 21,9 MB/256 MB -  > Subscription of an address with status C
+14-12-2023 12:32:48 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > Subscription of an address with status C
+14-12-2023 12:42:10 - INFO  - 8.0.4 - 21,9 MB/256 MB -  > Subscription of an address with status C
+14-12-2023 13:19:19 - INFO  - 8.0.4 - 21,9 MB/256 MB -  > Subscription of an address with status C
+14-12-2023 13:51:27 - INFO  - 8.0.4 - 21,9 MB/256 MB -  > Subscription of an address with status C
+14-12-2023 14:02:57 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > Subscription of an address with status C
+14-12-2023 14:17:30 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > Subscription of an address with status C
+14-12-2023 15:12:42 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > Subscription of an address with status C
+14-12-2023 15:42:21 - INFO  - 8.0.4 - 21,9 MB/256 MB -  > Subscription of an address with status C
+14-12-2023 15:47:25 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > New subscriber
+14-12-2023 16:44:38 - INFO  - 8.0.4 - 21,9 MB/256 MB -  > Subscription of an address with status C
+14-12-2023 17:01:25 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+14-12-2023 17:54:40 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > New subscriber
+14-12-2023 18:26:26 - INFO  - 8.0.4 - 21,9 MB/256 MB -  > Subscription of an address with status C
+14-12-2023 18:48:12 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > Subscription of an address with status C
+14-12-2023 18:50:17 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > Subscription of an address with status C
+14-12-2023 18:52:02 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > Subscription of an address with status C
+14-12-2023 20:02:09 - INFO  - 8.0.4 - 21,9 MB/256 MB -  > Subscription of an address with status C
+14-12-2023 20:11:24 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+14-12-2023 20:16:44 - INFO  - 8.0.4 - 21,9 MB/256 MB -  > Subscription of an address with status C
+14-12-2023 20:50:33 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > New subscriber
+14-12-2023 21:46:31 - INFO  - 8.0.4 - 20,1 MB/256 MB -  > New subscriber
+14-12-2023 21:55:09 - INFO  - 8.0.4 - 21,9 MB/256 MB -  > New subscriber
+14-12-2023 23:07:29 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > Subscription of an address with status C
+15-12-2023 01:08:10 - INFO  - 8.0.4 - 21,9 MB/256 MB -  > Subscription of an address with status C
+15-12-2023 07:58:23 - INFO  - 8.0.4 - 21,9 MB/256 MB -  > Subscription of an address with status C
+15-12-2023 09:34:01 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > Subscription of an address with status C
+15-12-2023 12:28:48 - INFO  - 8.0.4 - 21,9 MB/256 MB -  > Subscription of an address with status C
+15-12-2023 13:32:34 - INFO  - 8.0.4 - 21,9 MB/256 MB -  > Subscription of an address with status C
+15-12-2023 13:33:06 - INFO  - 8.0.4 - 21,9 MB/256 MB -  > Subscription of an address with status C
+15-12-2023 16:05:44 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > New subscriber
+15-12-2023 16:11:03 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > Subscription of an address with status C
+15-12-2023 16:12:13 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > Subscription of an address with status C
+15-12-2023 17:02:27 - INFO  - 8.0.4 - 21,9 MB/256 MB -  > Subscription of an address with status C
+15-12-2023 17:02:29 - INFO  - 8.0.4 - 21,8 MB/256 MB -  > Subscription of an address with status C
+16-12-2023 09:30:51 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+16-12-2023 10:39:19 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+16-12-2023 12:42:43 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+16-12-2023 12:55:44 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+16-12-2023 12:56:55 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > Subscription of an address with status C
+16-12-2023 13:12:44 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+16-12-2023 17:00:05 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+16-12-2023 18:56:16 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+16-12-2023 18:57:56 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > Subscription of an address with status C
+16-12-2023 21:06:30 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+16-12-2023 21:09:39 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > Subscription of an address with status C
+16-12-2023 23:01:13 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+17-12-2023 09:04:52 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+17-12-2023 09:47:42 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+17-12-2023 10:13:58 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+17-12-2023 10:48:58 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+17-12-2023 16:03:35 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > Subscription of an address with status C
+17-12-2023 16:04:49 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+17-12-2023 16:15:12 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+17-12-2023 16:16:15 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > Subscription of an address with status C
+17-12-2023 16:27:39 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+17-12-2023 16:28:34 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+17-12-2023 16:38:02 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+17-12-2023 16:41:54 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+17-12-2023 16:47:54 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+17-12-2023 17:32:50 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+17-12-2023 17:42:35 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+17-12-2023 17:50:51 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > Subscription of an address with status C
+17-12-2023 18:10:08 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+17-12-2023 18:15:13 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+17-12-2023 18:41:55 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+17-12-2023 19:19:42 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > Subscription of an address with status C
+17-12-2023 19:54:39 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+17-12-2023 20:04:33 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > Subscription of an address with status C
+17-12-2023 20:57:47 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+17-12-2023 21:08:39 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > Subscription of an address with status C
+17-12-2023 21:44:58 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+17-12-2023 22:00:41 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > Subscription of an address with status C
+17-12-2023 22:27:14 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+17-12-2023 22:59:42 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+17-12-2023 23:14:32 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+17-12-2023 23:18:07 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+18-12-2023 00:01:43 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+18-12-2023 00:27:38 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+18-12-2023 00:29:50 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+18-12-2023 01:12:10 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+18-12-2023 02:35:16 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+18-12-2023 02:36:44 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > Subscription of an address with status C
+18-12-2023 03:07:20 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+18-12-2023 05:58:16 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+18-12-2023 06:07:11 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+18-12-2023 07:32:43 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+18-12-2023 07:44:04 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+18-12-2023 08:09:35 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+18-12-2023 08:34:25 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > Subscription of an address with status U
+18-12-2023 09:40:44 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+18-12-2023 09:40:56 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+18-12-2023 09:43:02 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > Subscription of an address with status C
+18-12-2023 09:43:24 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > Subscription of an address with status C
+18-12-2023 10:08:23 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+18-12-2023 10:10:13 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > Subscription of an address with status C
+18-12-2023 10:33:13 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+18-12-2023 10:49:38 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+18-12-2023 10:57:50 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+18-12-2023 13:08:38 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+18-12-2023 13:26:24 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+18-12-2023 13:59:50 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > Subscription of an address with status C
+18-12-2023 14:02:42 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+18-12-2023 14:23:06 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > Subscription of an address with status C
+18-12-2023 14:30:20 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+18-12-2023 15:08:55 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+18-12-2023 15:09:38 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+18-12-2023 15:58:06 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+18-12-2023 16:07:47 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+18-12-2023 16:22:31 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+18-12-2023 16:58:44 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+18-12-2023 17:13:59 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+18-12-2023 17:19:52 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+18-12-2023 17:35:29 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > Subscription of an address with status C
+18-12-2023 18:00:24 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+18-12-2023 19:32:40 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+18-12-2023 19:42:07 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+18-12-2023 21:40:34 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+18-12-2023 22:00:21 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+18-12-2023 22:43:10 - INFO  - 8.0.6 - 20,4 MB/256 MB -  > Subscription of an address with status C
+19-12-2023 01:58:59 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+19-12-2023 05:27:35 - INFO  - 8.0.6 - 20,3 MB/256 MB -  > New subscriber
+19-12-2023 08:05:51 - INFO  - 8.0.6 - 22,4 MB/256 MB -  > New subscriber
+19-12-2023 08:12:09 - INFO  - 8.0.6 - 22,4 MB/256 MB -  > New subscriber
+19-12-2023 08:14:38 - INFO  - 8.0.6 - 22,4 MB/256 MB -  > New subscriber
+19-12-2023 12:52:11 - INFO  - 8.0.6 - 22,4 MB/256 MB -  > New subscriber
+19-12-2023 12:57:21 - INFO  - 8.0.6 - 22,4 MB/256 MB -  > Subscription of an address with status C
+19-12-2023 13:01:50 - INFO  - 8.0.6 - 22,4 MB/256 MB -  > New subscriber
+19-12-2023 14:24:49 - INFO  - 8.0.6 - 22,4 MB/256 MB -  > Subscription of an address with status C
+19-12-2023 14:35:42 - INFO  - 8.0.6 - 22,4 MB/256 MB -  > New subscriber
+19-12-2023 14:46:29 - INFO  - 8.0.6 - 22,4 MB/256 MB -  > New subscriber
+19-12-2023 15:04:19 - INFO  - 8.0.6 - 22,4 MB/256 MB -  > New subscriber
+19-12-2023 16:32:39 - INFO  - 8.0.6 - 22,4 MB/256 MB -  > New subscriber
+19-12-2023 18:14:11 - INFO  - 8.0.6 - 22,4 MB/256 MB -  > New subscriber
+19-12-2023 21:00:47 - INFO  - 8.0.6 - 22,7 MB/256 MB -  > New subscriber
+19-12-2023 21:13:16 - INFO  - 8.0.6 - 22,7 MB/256 MB -  > New subscriber
+20-12-2023 02:36:08 - INFO  - 8.0.6 - 22,7 MB/256 MB -  > New subscriber
+20-12-2023 02:52:30 - INFO  - 8.0.6 - 22,7 MB/256 MB -  > New subscriber
+20-12-2023 07:32:06 - INFO  - 8.0.6 - 22,7 MB/256 MB -  > New subscriber
+20-12-2023 11:17:49 - INFO  - 8.0.6 - 22,7 MB/256 MB -  > New subscriber
+20-12-2023 12:46:20 - INFO  - 8.0.6 - 22,7 MB/256 MB -  > New subscriber
+20-12-2023 14:03:12 - INFO  - 8.0.6 - 22,7 MB/256 MB -  > Subscription of an address with status C
+20-12-2023 14:24:00 - INFO  - 8.0.6 - 22,7 MB/256 MB -  > New subscriber
+20-12-2023 14:29:49 - INFO  - 8.0.6 - 22,7 MB/256 MB -  > New subscriber
+20-12-2023 16:36:43 - INFO  - 8.0.6 - 22,7 MB/256 MB -  > New subscriber
+20-12-2023 17:10:10 - INFO  - 8.0.6 - 22,7 MB/256 MB -  > New subscriber
+20-12-2023 17:13:21 - INFO  - 8.0.6 - 22,7 MB/256 MB -  > New subscriber
+20-12-2023 22:01:19 - INFO  - 8.0.6 - 22,7 MB/256 MB -  > New subscriber
+21-12-2023 02:13:29 - INFO  - 8.0.6 - 22,7 MB/256 MB -  > Subscription of an address with status C
+21-12-2023 07:58:10 - INFO  - 8.0.6 - 22,7 MB/256 MB -  > New subscriber
+21-12-2023 08:56:28 - INFO  - 8.0.6 - 22,7 MB/256 MB -  > New subscriber
+21-12-2023 11:10:28 - INFO  - 8.0.6 - 22,7 MB/256 MB -  > New subscriber
+21-12-2023 11:32:53 - INFO  - 8.0.6 - 22,7 MB/256 MB -  > New subscriber
+21-12-2023 12:54:44 - INFO  - 8.0.6 - 22,7 MB/256 MB -  > New subscriber
+21-12-2023 13:21:34 - INFO  - 8.0.6 - 22,7 MB/256 MB -  > New subscriber
+21-12-2023 20:45:14 - INFO  - 8.0.6 - 22,7 MB/256 MB -  > Subscription of an address with status C
+22-12-2023 01:45:07 - INFO  - 8.0.6 - 20,5 MB/256 MB -  > New subscriber
+22-12-2023 08:29:08 - INFO  - 8.0.6 - 20,5 MB/256 MB -  > New subscriber
+23-12-2023 00:38:23 - INFO  - 8.0.6 - 20,5 MB/256 MB -  > New subscriber
+23-12-2023 01:36:16 - INFO  - 8.0.6 - 20,5 MB/256 MB -  > Subscription of an address with status C
+23-12-2023 07:14:20 - INFO  - 8.0.6 - 20,5 MB/256 MB -  > New subscriber
+23-12-2023 13:26:12 - INFO  - 8.0.6 - 20,5 MB/256 MB -  > New subscriber
+23-12-2023 18:32:09 - INFO  - 8.0.6 - 20,5 MB/256 MB -  > New subscriber
+24-12-2023 06:31:24 - INFO  - 8.0.6 - 20,5 MB/256 MB -  > New subscriber
+24-12-2023 15:44:50 - INFO  - 8.0.6 - 20,5 MB/256 MB -  > New subscriber
+24-12-2023 16:22:50 - INFO  - 8.0.6 - 20,5 MB/256 MB -  > New subscriber
+25-12-2023 09:11:09 - INFO  - 8.0.6 - 20,5 MB/256 MB -  > New subscriber
+25-12-2023 20:29:48 - INFO  - 8.0.6 - 20,5 MB/256 MB -  > New subscriber
+25-12-2023 22:18:20 - INFO  - 8.0.6 - 20,5 MB/256 MB -  > New subscriber
+26-12-2023 07:26:31 - INFO  - 8.0.6 - 20,5 MB/256 MB -  > New subscriber
+26-12-2023 09:09:02 - INFO  - 8.0.6 - 20,5 MB/256 MB -  > New subscriber
+26-12-2023 09:15:38 - INFO  - 8.0.6 - 20,5 MB/256 MB -  > New subscriber
+26-12-2023 12:21:05 - INFO  - 8.0.6 - 20,5 MB/256 MB -  > New subscriber
+26-12-2023 16:25:13 - INFO  - 8.0.6 - 20,5 MB/256 MB -  > New subscriber
+26-12-2023 18:17:24 - INFO  - 8.0.6 - 20,5 MB/256 MB -  > New subscriber
+27-12-2023 10:00:03 - INFO  - 8.0.6 - 20,5 MB/256 MB -  > New subscriber
+27-12-2023 10:15:57 - INFO  - 8.0.6 - 20,5 MB/256 MB -  > Subscription of an address with status C
+27-12-2023 12:41:22 - INFO  - 8.0.6 - 20,5 MB/256 MB -  > New subscriber
+27-12-2023 20:43:02 - INFO  - 8.0.6 - 20,5 MB/256 MB -  > New subscriber
+28-12-2023 01:50:06 - INFO  - 8.0.6 - 20,5 MB/256 MB -  > New subscriber
+28-12-2023 03:53:39 - INFO  - 8.0.6 - 20,5 MB/256 MB -  > New subscriber
+28-12-2023 08:02:13 - INFO  - 8.0.6 - 20,5 MB/256 MB -  > New subscriber
+28-12-2023 12:30:43 - INFO  - 8.0.6 - 20,6 MB/256 MB -  > New subscriber
+28-12-2023 21:28:31 - INFO  - 8.0.6 - 20,5 MB/256 MB -  > New subscriber
+29-12-2023 07:46:40 - INFO  - 8.0.6 - 20,5 MB/256 MB -  > New subscriber
+29-12-2023 15:46:52 - INFO  - 8.0.6 - 20,6 MB/256 MB -  > Subscription of an address with status C
+29-12-2023 19:47:04 - INFO  - 8.0.6 - 20,5 MB/256 MB -  > New subscriber
+30-12-2023 08:28:17 - INFO  - 8.0.6 - 20,6 MB/256 MB -  > Subscription of an address with status C
+30-12-2023 08:30:10 - INFO  - 8.0.6 - 20,6 MB/256 MB -  > Subscription of an address with status C
+30-12-2023 09:51:36 - INFO  - 8.0.6 - 20,6 MB/256 MB -  > New subscriber
+30-12-2023 12:40:10 - INFO  - 8.0.6 - 20,5 MB/256 MB -  > New subscriber
+30-12-2023 19:11:57 - INFO  - 8.0.6 - 20,5 MB/256 MB -  > New subscriber
+31-12-2023 10:13:30 - INFO  - 8.0.6 - 20,5 MB/256 MB -  > New subscriber
+31-12-2023 10:28:17 - INFO  - 8.0.6 - 20,5 MB/256 MB -  > New subscriber
+31-12-2023 10:46:56 - INFO  - 8.0.6 - 20,6 MB/256 MB -  > New subscriber
+31-12-2023 11:17:48 - INFO  - 8.0.6 - 20,6 MB/256 MB -  > New subscriber
+31-12-2023 11:19:26 - INFO  - 8.0.6 - 20,6 MB/256 MB -  > Subscription of an address with status C
+31-12-2023 11:19:59 - INFO  - 8.0.6 - 20,6 MB/256 MB -  > Subscription of an address with status C
+31-12-2023 12:40:04 - INFO  - 8.0.6 - 20,5 MB/256 MB -  > New subscriber
+31-12-2023 14:10:58 - INFO  - 8.0.6 - 20,5 MB/256 MB -  > New subscriber
+31-12-2023 14:24:09 - INFO  - 8.0.6 - 20,6 MB/256 MB -  > Subscription of an address with status C
+31-12-2023 17:32:15 - INFO  - 8.0.6 - 20,6 MB/256 MB -  > New subscriber
+31-12-2023 19:34:53 - INFO  - 8.0.6 - 20,5 MB/256 MB -  > New subscriber

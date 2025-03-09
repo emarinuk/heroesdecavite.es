@@ -1,0 +1,5 @@
+01-09-2024 16:54:18 - INFO  - 8.4.7 - 27,2 MB/256 MB - [cron] > Weekly check for automated
+08-09-2024 16:54:15 - INFO  - 8.4.9 - 15,5 MB/256 MB - [cron] > Weekly check for automated
+15-09-2024 16:54:15 - INFO  - 8.5.0 - 14,4 MB/256 MB - [cron] > Weekly check for automated
+22-09-2024 16:54:20 - INFO  - 8.5.0 - 78,1 MB/512 MB - [cron] > Weekly check for automated
+29-09-2024 16:55:12 - INFO  - 8.5.0 - 130,3 MB/ - [cron] > Weekly check for automated

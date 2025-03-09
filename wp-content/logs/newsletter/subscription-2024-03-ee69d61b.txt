@@ -1,0 +1,253 @@
+01-03-2024 19:10:33 - INFO  - 8.1.5 - 21,8 MB/256 MB -  > New subscriber
+02-03-2024 12:29:33 - INFO  - 8.1.5 - 21,8 MB/256 MB -  > New subscriber
+02-03-2024 17:29:25 - INFO  - 8.1.5 - 21,8 MB/256 MB -  > New subscriber
+02-03-2024 19:47:46 - INFO  - 8.1.5 - 21,8 MB/256 MB -  > New subscriber
+02-03-2024 22:42:06 - INFO  - 8.1.5 - 21,8 MB/256 MB -  > New subscriber
+03-03-2024 12:04:19 - INFO  - 8.1.5 - 21,8 MB/256 MB -  > New subscriber
+03-03-2024 12:57:47 - INFO  - 8.1.5 - 21,8 MB/256 MB -  > New subscriber
+03-03-2024 16:05:59 - INFO  - 8.1.5 - 21,8 MB/256 MB -  > New subscriber
+03-03-2024 16:36:48 - INFO  - 8.1.5 - 21,8 MB/256 MB -  > Subscription of an address with status C
+03-03-2024 18:36:14 - INFO  - 8.1.5 - 21,8 MB/256 MB -  > New subscriber
+03-03-2024 21:04:03 - INFO  - 8.1.5 - 21,8 MB/256 MB -  > New subscriber
+04-03-2024 06:37:40 - INFO  - 8.1.5 - 21,8 MB/256 MB -  > New subscriber
+04-03-2024 10:08:25 - INFO  - 8.1.5 - 21,8 MB/256 MB -  > Subscription of an address with status C
+04-03-2024 10:54:45 - INFO  - 8.1.5 - 21,8 MB/256 MB -  > New subscriber
+04-03-2024 12:12:02 - INFO  - 8.1.5 - 21,8 MB/256 MB -  > New subscriber
+04-03-2024 23:33:04 - INFO  - 8.1.9 - 22,2 MB/256 MB -  > New subscriber
+05-03-2024 11:57:30 - INFO  - 8.1.9 - 22,2 MB/256 MB -  > New subscriber
+05-03-2024 14:57:52 - INFO  - 8.1.9 - 22,2 MB/256 MB -  > New subscriber
+05-03-2024 15:50:43 - INFO  - 8.1.9 - 22,2 MB/256 MB -  > New subscriber
+05-03-2024 22:06:49 - INFO  - 8.1.9 - 21,9 MB/256 MB -  > New subscriber
+05-03-2024 23:16:25 - INFO  - 8.1.9 - 22,6 MB/256 MB -  > New subscriber
+06-03-2024 05:32:22 - INFO  - 8.1.9 - 22,6 MB/256 MB -  > New subscriber
+06-03-2024 16:04:21 - INFO  - 8.1.9 - 21,9 MB/256 MB -  > New subscriber
+06-03-2024 22:39:24 - INFO  - 8.2.0 - 23,0 MB/256 MB -  > Subscription of an address with status C
+06-03-2024 22:59:17 - INFO  - 8.2.0 - 23,0 MB/256 MB -  > New subscriber
+07-03-2024 05:22:34 - INFO  - 8.2.0 - 23,1 MB/256 MB -  > New subscriber
+07-03-2024 10:06:52 - INFO  - 8.2.0 - 24,3 MB/256 MB -  > Subscription of an address with status C
+07-03-2024 11:36:51 - INFO  - 8.2.0 - 24,4 MB/256 MB -  > New subscriber
+07-03-2024 11:42:18 - INFO  - 8.2.0 - 24,4 MB/256 MB -  > Subscription of an address with status C
+07-03-2024 13:00:40 - INFO  - 8.2.0 - 24,4 MB/256 MB -  > New subscriber
+07-03-2024 13:48:15 - INFO  - 8.2.1 - 27,2 MB/256 MB - Eduardo > New subscriber
+07-03-2024 20:34:59 - INFO  - 8.2.1 - 27,9 MB/256 MB -  > New subscriber
+07-03-2024 22:10:36 - INFO  - 8.2.1 - 27,9 MB/256 MB -  > New subscriber
+08-03-2024 08:07:09 - INFO  - 8.2.1 - 27,9 MB/256 MB -  > New subscriber
+08-03-2024 10:34:33 - INFO  - 8.2.1 - 27,9 MB/256 MB -  > New subscriber
+08-03-2024 12:52:54 - INFO  - 8.2.1 - 27,9 MB/256 MB -  > New subscriber
+09-03-2024 08:39:14 - INFO  - 8.2.1 - 27,9 MB/256 MB -  > New subscriber
+09-03-2024 14:58:19 - INFO  - 8.2.1 - 27,9 MB/256 MB -  > New subscriber
+09-03-2024 15:54:00 - INFO  - 8.2.1 - 27,9 MB/256 MB -  > New subscriber
+09-03-2024 16:07:36 - INFO  - 8.2.1 - 27,9 MB/256 MB -  > New subscriber
+09-03-2024 19:34:42 - INFO  - 8.2.1 - 27,9 MB/256 MB -  > New subscriber
+10-03-2024 09:00:29 - INFO  - 8.2.1 - 27,9 MB/256 MB -  > New subscriber
+10-03-2024 16:25:28 - INFO  - 8.2.1 - 23,2 MB/256 MB -  > New subscriber
+10-03-2024 20:07:16 - INFO  - 8.2.1 - 23,2 MB/256 MB -  > New subscriber
+10-03-2024 23:18:08 - INFO  - 8.2.1 - 23,2 MB/256 MB -  > New subscriber
+11-03-2024 09:17:35 - INFO  - 8.2.1 - 23,2 MB/256 MB -  > New subscriber
+11-03-2024 10:28:54 - INFO  - 8.2.1 - 23,2 MB/256 MB -  > Subscription of an address with status C
+11-03-2024 12:21:52 - INFO  - 8.2.1 - 23,2 MB/256 MB -  > New subscriber
+11-03-2024 18:44:20 - INFO  - 8.2.1 - 23,2 MB/256 MB -  > New subscriber
+11-03-2024 21:05:38 - INFO  - 8.2.1 - 23,2 MB/256 MB -  > New subscriber
+11-03-2024 22:29:56 - INFO  - 8.2.1 - 23,2 MB/256 MB -  > Subscription of an address with status C
+12-03-2024 13:21:02 - INFO  - 8.2.1 - 23,2 MB/256 MB -  > New subscriber
+12-03-2024 13:31:16 - INFO  - 8.2.1 - 24,9 MB/256 MB -  > Subscription of an address with status C
+12-03-2024 18:08:05 - INFO  - 8.2.1 - 27,4 MB/256 MB -  > New subscriber
+12-03-2024 18:09:24 - INFO  - 8.2.1 - 27,5 MB/256 MB -  > New subscriber
+13-03-2024 16:10:33 - INFO  - 8.2.1 - 27,4 MB/256 MB -  > New subscriber
+14-03-2024 16:22:05 - INFO  - 8.2.1 - 27,4 MB/256 MB -  > New subscriber
+14-03-2024 17:47:10 - INFO  - 8.2.1 - 27,4 MB/256 MB -  > New subscriber
+14-03-2024 17:49:10 - INFO  - 8.2.1 - 27,4 MB/256 MB -  > New subscriber
+14-03-2024 18:27:59 - INFO  - 8.2.1 - 27,4 MB/256 MB -  > New subscriber
+14-03-2024 20:53:57 - INFO  - 8.2.1 - 27,4 MB/256 MB -  > New subscriber
+15-03-2024 00:38:41 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+15-03-2024 02:59:56 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+15-03-2024 04:52:06 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+15-03-2024 07:51:06 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+15-03-2024 11:23:00 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+15-03-2024 11:24:07 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > Subscription of an address with status C
+15-03-2024 12:48:33 - INFO  - 8.2.2 - 23,6 MB/256 MB -  > Subscription of an address with status C
+15-03-2024 13:00:34 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > Subscription of an address with status U
+15-03-2024 16:37:32 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+15-03-2024 16:38:19 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > Subscription of an address with status C
+15-03-2024 19:06:52 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+15-03-2024 19:16:03 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+15-03-2024 19:44:50 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+15-03-2024 21:25:46 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+16-03-2024 10:01:22 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+16-03-2024 16:14:38 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > Subscription of an address with status C
+16-03-2024 16:16:46 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > Subscription of an address with status C
+16-03-2024 16:28:54 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > Subscription of an address with status C
+16-03-2024 18:00:51 - INFO  - 8.2.2 - 23,9 MB/256 MB -  > New subscriber
+16-03-2024 21:13:46 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+16-03-2024 23:15:51 - INFO  - 8.2.2 - 23,6 MB/256 MB -  > Subscription of an address with status C
+17-03-2024 05:28:21 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+17-03-2024 07:07:26 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+17-03-2024 08:04:45 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+17-03-2024 08:18:48 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+17-03-2024 08:37:38 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+17-03-2024 08:48:20 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+17-03-2024 09:47:25 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+17-03-2024 10:01:14 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+17-03-2024 10:25:06 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+17-03-2024 11:07:44 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+17-03-2024 11:19:22 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+17-03-2024 11:41:40 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+17-03-2024 11:47:55 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+17-03-2024 12:13:21 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+17-03-2024 12:17:47 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+17-03-2024 12:45:38 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+17-03-2024 13:00:05 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+17-03-2024 13:10:15 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+17-03-2024 13:13:19 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+17-03-2024 13:17:10 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+17-03-2024 13:19:10 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+17-03-2024 13:20:18 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > Subscription of an address with status C
+17-03-2024 13:31:41 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+17-03-2024 13:42:33 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+17-03-2024 13:59:13 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+17-03-2024 14:02:19 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+17-03-2024 14:04:07 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+17-03-2024 14:07:10 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > Subscription of an address with status C
+17-03-2024 14:08:21 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+17-03-2024 14:37:13 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+17-03-2024 14:41:20 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+17-03-2024 14:41:33 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+17-03-2024 15:30:08 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+17-03-2024 15:35:03 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+17-03-2024 15:37:16 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+17-03-2024 15:39:10 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > Subscription of an address with status C
+17-03-2024 16:11:38 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+17-03-2024 16:28:52 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+17-03-2024 16:46:21 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+17-03-2024 16:52:38 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+17-03-2024 17:13:15 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > Subscription of an address with status C
+17-03-2024 17:19:49 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+17-03-2024 17:24:42 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > Subscription of an address with status C
+17-03-2024 17:40:28 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+17-03-2024 17:44:16 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+17-03-2024 18:25:12 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > Subscription of an address with status C
+17-03-2024 18:29:46 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+17-03-2024 19:19:57 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+17-03-2024 19:20:00 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+17-03-2024 19:21:23 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > Subscription of an address with status C
+17-03-2024 19:38:46 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > Subscription of an address with status C
+17-03-2024 20:04:26 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+17-03-2024 20:15:18 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+17-03-2024 20:29:33 - INFO  - 8.2.2 - 23,5 MB/256 MB -  > New subscriber
+17-03-2024 21:21:18 - INFO  - 8.2.3 - 23,2 MB/256 MB -  > New subscriber
+17-03-2024 21:23:48 - INFO  - 8.2.3 - 23,2 MB/256 MB -  > New subscriber
+17-03-2024 22:03:45 - INFO  - 8.2.3 - 23,2 MB/256 MB -  > New subscriber
+17-03-2024 22:16:16 - INFO  - 8.2.3 - 23,2 MB/256 MB -  > New subscriber
+17-03-2024 22:32:27 - INFO  - 8.2.3 - 23,2 MB/256 MB -  > Subscription of an address with status C
+18-03-2024 00:14:07 - INFO  - 8.2.3 - 23,2 MB/256 MB -  > New subscriber
+18-03-2024 00:42:21 - INFO  - 8.2.3 - 23,2 MB/256 MB -  > New subscriber
+18-03-2024 07:20:24 - INFO  - 8.2.3 - 23,2 MB/256 MB -  > New subscriber
+18-03-2024 08:11:11 - INFO  - 8.2.3 - 23,3 MB/256 MB -  > Subscription of an address with status C
+18-03-2024 10:03:23 - INFO  - 8.2.3 - 23,2 MB/256 MB -  > New subscriber
+18-03-2024 11:22:20 - INFO  - 8.2.3 - 23,2 MB/256 MB -  > New subscriber
+18-03-2024 11:40:06 - INFO  - 8.2.3 - 23,2 MB/256 MB -  > New subscriber
+18-03-2024 11:55:05 - INFO  - 8.2.3 - 23,2 MB/256 MB -  > New subscriber
+18-03-2024 14:47:37 - INFO  - 8.2.3 - 23,2 MB/256 MB -  > Subscription of an address with status C
+18-03-2024 15:34:31 - INFO  - 8.2.3 - 23,2 MB/256 MB -  > New subscriber
+18-03-2024 16:35:33 - INFO  - 8.2.3 - 23,2 MB/256 MB -  > Subscription of an address with status C
+18-03-2024 17:23:19 - INFO  - 8.2.3 - 23,2 MB/256 MB -  > New subscriber
+18-03-2024 18:09:10 - INFO  - 8.2.3 - 23,2 MB/256 MB -  > New subscriber
+18-03-2024 20:05:27 - INFO  - 8.2.3 - 23,2 MB/256 MB -  > New subscriber
+19-03-2024 02:57:57 - INFO  - 8.2.3 - 23,3 MB/256 MB -  > New subscriber
+19-03-2024 06:57:32 - INFO  - 8.2.3 - 23,3 MB/256 MB -  > New subscriber
+19-03-2024 07:01:48 - INFO  - 8.2.3 - 23,4 MB/256 MB -  > Subscription of an address with status C
+19-03-2024 10:39:42 - INFO  - 8.2.3 - 23,4 MB/256 MB -  > Subscription of an address with status C
+19-03-2024 10:49:49 - INFO  - 8.2.3 - 23,4 MB/256 MB -  > New subscriber
+19-03-2024 14:50:51 - INFO  - 8.2.3 - 23,3 MB/256 MB -  > New subscriber
+19-03-2024 18:08:22 - INFO  - 8.2.3 - 23,4 MB/256 MB -  > New subscriber
+19-03-2024 18:11:36 - INFO  - 8.2.3 - 23,3 MB/256 MB -  > New subscriber
+19-03-2024 18:14:46 - INFO  - 8.2.3 - 23,4 MB/256 MB -  > Subscription of an address with status C
+19-03-2024 18:20:46 - INFO  - 8.2.3 - 25,2 MB/256 MB -  > Subscription of an address with status C
+19-03-2024 20:51:58 - INFO  - 8.2.3 - 23,4 MB/256 MB -  > New subscriber
+19-03-2024 21:38:57 - INFO  - 8.2.3 - 23,4 MB/256 MB -  > New subscriber
+19-03-2024 22:06:21 - INFO  - 8.2.3 - 23,4 MB/256 MB -  > New subscriber
+19-03-2024 22:08:26 - INFO  - 8.2.3 - 23,4 MB/256 MB -  > Subscription of an address with status C
+19-03-2024 22:10:17 - INFO  - 8.2.3 - 23,4 MB/256 MB -  > New subscriber
+20-03-2024 02:06:47 - INFO  - 8.2.3 - 23,4 MB/256 MB -  > New subscriber
+20-03-2024 13:59:40 - INFO  - 8.2.3 - 23,4 MB/256 MB -  > Subscription of an address with status C
+20-03-2024 13:59:41 - INFO  - 8.2.3 - 23,4 MB/256 MB -  > Subscription of an address with status C
+21-03-2024 09:57:22 - INFO  - 8.2.3 - 23,3 MB/256 MB -  > New subscriber
+21-03-2024 10:02:45 - INFO  - 8.2.3 - 23,4 MB/256 MB -  > Subscription of an address with status C
+21-03-2024 13:36:29 - INFO  - 8.2.3 - 23,3 MB/256 MB -  > New subscriber
+21-03-2024 18:45:44 - INFO  - 8.2.3 - 23,3 MB/256 MB -  > New subscriber
+21-03-2024 20:23:55 - INFO  - 8.2.3 - 23,3 MB/256 MB -  > New subscriber
+21-03-2024 20:56:33 - INFO  - 8.2.3 - 23,3 MB/256 MB -  > New subscriber
+22-03-2024 12:17:55 - INFO  - 8.2.3 - 33,6 MB/256 MB -  > New subscriber
+22-03-2024 12:29:47 - INFO  - 8.2.3 - 33,6 MB/256 MB -  > New subscriber
+22-03-2024 12:41:18 - INFO  - 8.2.3 - 33,6 MB/256 MB -  > New subscriber
+22-03-2024 14:21:18 - INFO  - 8.2.3 - 33,6 MB/256 MB -  > New subscriber
+23-03-2024 01:36:03 - INFO  - 8.2.3 - 33,7 MB/256 MB -  > Subscription of an address with status C
+23-03-2024 02:44:16 - INFO  - 8.2.3 - 33,6 MB/256 MB -  > New subscriber
+23-03-2024 03:46:51 - INFO  - 8.2.3 - 33,6 MB/256 MB -  > Subscription of an address with status C
+23-03-2024 03:46:54 - INFO  - 8.2.3 - 33,6 MB/256 MB -  > Subscription of an address with status C
+23-03-2024 09:38:46 - INFO  - 8.2.3 - 33,6 MB/256 MB -  > New subscriber
+23-03-2024 09:41:22 - INFO  - 8.2.3 - 35,6 MB/256 MB -  > Subscription of an address with status C
+23-03-2024 09:41:24 - INFO  - 8.2.3 - 35,6 MB/256 MB -  > Subscription of an address with status C
+23-03-2024 16:25:29 - INFO  - 8.2.3 - 33,6 MB/256 MB -  > New subscriber
+23-03-2024 16:35:01 - INFO  - 8.2.3 - 33,6 MB/256 MB -  > New subscriber
+23-03-2024 17:23:01 - INFO  - 8.2.3 - 33,6 MB/256 MB -  > New subscriber
+23-03-2024 17:56:28 - INFO  - 8.2.3 - 33,6 MB/256 MB -  > New subscriber
+23-03-2024 20:54:11 - INFO  - 8.2.3 - 33,6 MB/256 MB -  > New subscriber
+23-03-2024 20:57:44 - INFO  - 8.2.3 - 33,6 MB/256 MB -  > Subscription of an address with status C
+23-03-2024 21:57:02 - INFO  - 8.2.3 - 33,6 MB/256 MB -  > New subscriber
+24-03-2024 15:27:18 - INFO  - 8.2.3 - 33,6 MB/256 MB -  > New subscriber
+24-03-2024 17:35:56 - INFO  - 8.2.3 - 33,6 MB/256 MB -  > New subscriber
+24-03-2024 22:50:42 - INFO  - 8.2.3 - 33,6 MB/256 MB -  > New subscriber
+24-03-2024 22:54:55 - INFO  - 8.2.3 - 33,6 MB/256 MB -  > New subscriber
+25-03-2024 06:10:34 - INFO  - 8.2.3 - 33,6 MB/256 MB -  > New subscriber
+25-03-2024 16:13:17 - INFO  - 8.2.3 - 33,6 MB/256 MB -  > New subscriber
+26-03-2024 08:37:26 - INFO  - 8.2.3 - 33,6 MB/256 MB -  > New subscriber
+26-03-2024 11:00:55 - INFO  - 8.2.3 - 33,6 MB/256 MB -  > New subscriber
+26-03-2024 23:46:15 - INFO  - 8.2.3 - 33,6 MB/256 MB -  > New subscriber
+27-03-2024 10:58:06 - INFO  - 8.2.3 - 33,6 MB/256 MB -  > Subscription of an address with status C
+27-03-2024 15:41:22 - INFO  - 8.2.3 - 33,6 MB/256 MB -  > New subscriber
+27-03-2024 15:43:49 - INFO  - 8.2.3 - 33,6 MB/256 MB -  > New subscriber
+27-03-2024 23:44:43 - INFO  - 8.2.3 - 33,6 MB/256 MB -  > Subscription of an address with status C
+28-03-2024 11:08:19 - INFO  - 8.2.3 - 26,2 MB/256 MB -  > New subscriber
+28-03-2024 11:35:36 - INFO  - 8.2.3 - 25,7 MB/256 MB -  > New subscriber
+28-03-2024 16:08:39 - INFO  - 8.2.3 - 25,7 MB/256 MB -  > New subscriber
+28-03-2024 20:52:01 - INFO  - 8.2.3 - 25,7 MB/256 MB -  > New subscriber
+28-03-2024 23:27:20 - INFO  - 8.2.3 - 25,7 MB/256 MB -  > New subscriber
+28-03-2024 23:32:43 - INFO  - 8.2.3 - 25,8 MB/256 MB -  > Subscription of an address with status C
+29-03-2024 07:40:49 - INFO  - 8.2.3 - 25,8 MB/256 MB -  > Subscription of an address with status C
+29-03-2024 08:12:25 - INFO  - 8.2.3 - 25,7 MB/256 MB -  > New subscriber
+29-03-2024 09:05:24 - INFO  - 8.2.3 - 25,7 MB/256 MB -  > New subscriber
+29-03-2024 11:51:45 - INFO  - 8.2.3 - 25,8 MB/256 MB -  > New subscriber
+29-03-2024 17:03:27 - INFO  - 8.2.3 - 25,7 MB/256 MB -  > New subscriber
+29-03-2024 21:09:18 - INFO  - 8.2.3 - 25,7 MB/256 MB -  > New subscriber
+30-03-2024 02:31:12 - INFO  - 8.2.3 - 25,8 MB/256 MB -  > New subscriber
+30-03-2024 07:26:30 - INFO  - 8.2.3 - 25,7 MB/256 MB -  > New subscriber
+30-03-2024 15:38:46 - INFO  - 8.2.3 - 25,7 MB/256 MB -  > New subscriber
+30-03-2024 16:35:13 - INFO  - 8.2.3 - 25,7 MB/256 MB -  > New subscriber
+30-03-2024 19:58:31 - INFO  - 8.2.3 - 25,7 MB/256 MB -  > New subscriber
+30-03-2024 22:28:44 - INFO  - 8.2.3 - 25,7 MB/256 MB -  > New subscriber
+31-03-2024 00:19:09 - INFO  - 8.2.3 - 25,7 MB/256 MB -  > New subscriber
+31-03-2024 00:22:19 - INFO  - 8.2.3 - 29,5 MB/256 MB -  > Subscription of an address with status C
+31-03-2024 00:24:25 - INFO  - 8.2.3 - 25,7 MB/256 MB -  > New subscriber
+31-03-2024 00:32:12 - INFO  - 8.2.3 - 25,7 MB/256 MB -  > New subscriber
+31-03-2024 00:55:31 - INFO  - 8.2.3 - 25,7 MB/256 MB -  > New subscriber
+31-03-2024 01:01:57 - INFO  - 8.2.3 - 29,5 MB/256 MB -  > Subscription of an address with status C
+31-03-2024 04:33:18 - INFO  - 8.2.3 - 25,8 MB/256 MB -  > New subscriber
+31-03-2024 04:39:39 - INFO  - 8.2.3 - 25,8 MB/256 MB -  > New subscriber
+31-03-2024 06:42:42 - INFO  - 8.2.3 - 25,8 MB/256 MB -  > New subscriber
+31-03-2024 07:19:21 - INFO  - 8.2.3 - 25,7 MB/256 MB -  > New subscriber
+31-03-2024 07:21:12 - INFO  - 8.2.3 - 25,8 MB/256 MB -  > Subscription of an address with status C
+31-03-2024 10:29:49 - INFO  - 8.2.3 - 25,7 MB/256 MB -  > New subscriber
+31-03-2024 11:38:13 - INFO  - 8.2.3 - 25,7 MB/256 MB -  > New subscriber
+31-03-2024 12:17:38 - INFO  - 8.2.3 - 25,7 MB/256 MB -  > New subscriber
+31-03-2024 12:55:53 - INFO  - 8.2.3 - 25,8 MB/256 MB -  > Subscription of an address with status C
+31-03-2024 13:11:54 - INFO  - 8.2.3 - 25,7 MB/256 MB -  > New subscriber
+31-03-2024 14:18:06 - INFO  - 8.2.3 - 25,8 MB/256 MB -  > Subscription of an address with status C
+31-03-2024 14:18:08 - INFO  - 8.2.3 - 25,8 MB/256 MB -  > Subscription of an address with status C
+31-03-2024 15:38:55 - INFO  - 8.2.3 - 25,7 MB/256 MB -  > New subscriber
+31-03-2024 16:09:12 - INFO  - 8.2.3 - 25,7 MB/256 MB -  > New subscriber
+31-03-2024 17:11:14 - INFO  - 8.2.3 - 25,7 MB/256 MB -  > New subscriber
+31-03-2024 18:34:28 - INFO  - 8.2.3 - 29,5 MB/256 MB -  > Subscription of an address with status C
+31-03-2024 20:24:10 - INFO  - 8.2.3 - 25,7 MB/256 MB -  > New subscriber
+31-03-2024 23:20:29 - INFO  - 8.2.3 - 25,7 MB/256 MB -  > New subscriber
+31-03-2024 23:55:46 - INFO  - 8.2.3 - 29,5 MB/256 MB -  > New subscriber

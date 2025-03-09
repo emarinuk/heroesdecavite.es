@@ -1,0 +1,56 @@
+.ova_time_countdown {
+	background-color: #006cff;
+	padding: 57px 0px 54px 0px;
+	border-radius: 5px 5px 5px 5px;
+	.due_date {
+		.countdown-section {
+			display: inline-block;
+			&:not(:last-child) {
+				padding-right: 16px;
+			}
+			&:nth-child(1) { 
+				display: none;
+			}
+			&:nth-child(2) { 
+				display: none;
+			}
+			&:nth-child(3) { 
+				display: none;
+			}
+			&:nth-child(4) { 
+				display: none;
+				margin-right: 0;
+			}
+			.countdown-amount {
+				font-size: 80px;
+				color: #ffffff;
+				line-height: 1.2;
+				padding-right: 16px;
+
+			}
+			.countdown-period {
+				font-size: 20px;
+				line-height: 26px;
+				color: #ffffff;
+				text-transform: lowercase;
+			}
+		}
+	}
+}
+@media (max-width: 767px) {
+	.ova_time_countdown {
+		.due_date {
+			.countdown-section {
+				&:not(:last-child) {
+					margin-bottom: 10px;
+				}
+				.countdown-amount {
+					font-size: 40px;
+				}
+				.countdown-period {
+					font-size: 18px;
+				}
+			}
+		}
+	}
+}

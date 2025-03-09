@@ -1,0 +1,4 @@
+04-02-2025 10:15:20 - INFO  - 8.6.8 - 140,1 MB/ - [cron] > Weekly check for smtp
+11-02-2025 10:15:14 - INFO  - 8.7.0 - 138,3 MB/ - [cron] > Weekly check for smtp
+18-02-2025 10:15:08 - INFO  - 8.7.0 - 136,3 MB/ - [cron] > Weekly check for smtp
+25-02-2025 10:15:16 - INFO  - 8.7.0 - 136,3 MB/ - [cron] > Weekly check for smtp

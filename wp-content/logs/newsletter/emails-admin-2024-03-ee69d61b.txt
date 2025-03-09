@@ -1,0 +1,26 @@
+14-03-2024 10:01:09 - INFO  - 8.2.1 - 45,2 MB/256 MB - Eduardo > Saving newsletter 32 from composer
+14-03-2024 10:17:31 - INFO  - 8.2.1 - 45,3 MB/256 MB - Eduardo > Saving newsletter 32 from composer
+14-03-2024 10:25:04 - INFO  - 8.2.1 - 45,2 MB/256 MB - Eduardo > Saving newsletter 32 from composer
+14-03-2024 10:25:07 - INFO  - 8.2.1 - 45,3 MB/256 MB - Eduardo > Saving newsletter 32 from composer
+14-03-2024 10:25:18 - INFO  - 8.2.1 - 45,3 MB/256 MB - Eduardo > Sending newsletter: 32
+14-03-2024 10:25:28 - INFO  - 8.2.1 - 45,3 MB/256 MB - Eduardo > Newsletter 32 paused
+14-03-2024 10:39:54 - INFO  - 8.2.1 - 45,2 MB/256 MB - Eduardo > Saving newsletter 32 from composer
+14-03-2024 11:06:26 - INFO  - 8.2.1 - 45,3 MB/256 MB - Eduardo > Saving newsletter 32 from composer
+14-03-2024 12:03:10 - INFO  - 8.2.1 - 45,3 MB/256 MB - Eduardo > Saving newsletter 32 from composer
+14-03-2024 12:06:12 - INFO  - 8.2.1 - 45,2 MB/256 MB - Eduardo > Saving newsletter 32 from composer
+14-03-2024 12:06:30 - INFO  - 8.2.1 - 45,2 MB/256 MB - Eduardo > Saving newsletter 32 from composer
+14-03-2024 12:12:15 - INFO  - 8.2.1 - 45,3 MB/256 MB - Eduardo > Saving newsletter 32 from composer
+14-03-2024 13:14:59 - INFO  - 8.2.1 - 45,3 MB/256 MB - Eduardo > Saving newsletter 32 from composer
+14-03-2024 16:07:15 - INFO  - 8.2.1 - 45,3 MB/256 MB - Eduardo > Saving newsletter 32 from composer
+14-03-2024 16:07:19 - INFO  - 8.2.1 - 45,2 MB/256 MB - Eduardo > Saving newsletter 32 from composer
+14-03-2024 16:08:06 - INFO  - 8.2.1 - 45,3 MB/256 MB - Eduardo > Saving newsletter: 32
+14-03-2024 16:08:12 - INFO  - 8.2.1 - 45,3 MB/256 MB - Eduardo > Newsletter 32 restarted
+18-03-2024 22:48:28 - INFO  - 8.2.3 - 37,5 MB/256 MB - Eduardo > Saving new newsletter from composer
+22-03-2024 15:54:22 - INFO  - 8.2.3 - 46,8 MB/256 MB - Eduardo > Saving new newsletter from composer
+22-03-2024 15:55:47 - INFO  - 8.2.3 - 46,8 MB/256 MB - Eduardo > Sending newsletter: 34
+22-03-2024 15:55:50 - INFO  - 8.2.3 - 46,8 MB/256 MB - Eduardo > Newsletter 34 paused
+22-03-2024 15:56:45 - INFO  - 8.2.3 - 46,8 MB/256 MB - Eduardo > Saving newsletter 34 from composer
+22-03-2024 15:56:51 - INFO  - 8.2.3 - 46,8 MB/256 MB - Eduardo > Newsletter 34 restarted
+22-03-2024 15:57:10 - INFO  - 8.2.3 - 46,8 MB/256 MB - Eduardo > Newsletter 34 paused
+22-03-2024 15:57:31 - INFO  - 8.2.3 - 46,8 MB/256 MB - Eduardo > Saving newsletter 34 from composer
+22-03-2024 15:57:40 - INFO  - 8.2.3 - 46,8 MB/256 MB - Eduardo > Newsletter 34 restarted

@@ -1,0 +1,58 @@
+.ova_menu_page {
+	.menu {
+		display: flex;
+		list-style-type: none;
+		justify-content: start;
+		flex-wrap: wrap;
+		padding: 0;	
+		li:last-child {
+			margin-right: 0!important;
+		}
+		li:first-child {
+			margin-left: 0!important;
+		}
+		li {
+			position: relative;
+			margin-right: 25px;
+			&:before {
+				position: absolute;
+				content: "";
+				bottom: 0;
+				left: 0;
+				width: 0px;
+				height: 0px;
+				background-color: #b9a271;
+				transform: translateY(100%);
+				transition: 0.5s;
+			}
+			&:hover:before, &.current-menu-item:before {
+				height: 1px;
+				width: 100%;
+			}
+			a {
+				display: block;
+				padding: 20px 0 21px 0;
+				color: #777777;
+				font-size: 17px;
+				&:hover {
+					color: #25282e;
+				}
+			}
+			&.active {
+				a {
+					color: #25282e;
+				}
+			}
+		}
+	}
+}
+
+@media (max-width: 767px) {
+	.ova_menu_page .menu li {
+		margin-right: 30px;
+		a {
+			padding: 10px 0;
+		}
+	} 
+}
+

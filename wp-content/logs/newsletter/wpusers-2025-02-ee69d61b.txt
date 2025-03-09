@@ -1,0 +1,86 @@
+01-02-2025 18:51:23 - DEBUG - 8.6.4 - 15,9 MB/512 MB -  > Logged in user: Eduardo
+01-02-2025 18:51:23 - DEBUG - 8.6.4 - 16,0 MB/512 MB -  > Logged in user was not waiting for confirmation
+02-02-2025 00:23:28 - DEBUG - 8.6.4 - 15,9 MB/512 MB -  > Logged in user: Eduardo
+02-02-2025 00:23:28 - DEBUG - 8.6.4 - 16,0 MB/512 MB -  > Logged in user was not waiting for confirmation
+02-02-2025 18:29:33 - DEBUG - 8.6.8 - 37,4 MB/512 MB -  > Logged in user: Eduardo
+02-02-2025 18:29:33 - DEBUG - 8.6.8 - 37,5 MB/512 MB -  > Logged in user was not waiting for confirmation
+04-02-2025 10:15:21 - INFO  - 8.6.8 - 140,1 MB/ - [cron] > Weekly check for wpusers
+04-02-2025 12:32:53 - DEBUG - 8.6.8 - 36,9 MB/512 MB -  > Logged in user: jose.santurino
+04-02-2025 12:32:53 - DEBUG - 8.6.8 - 37,0 MB/512 MB -  > Logged in user was not waiting for confirmation
+09-02-2025 10:41:26 - DEBUG - 8.6.8 - 16,3 MB/512 MB -  > Logged in user: Eduardo
+09-02-2025 10:41:26 - DEBUG - 8.6.8 - 16,4 MB/512 MB -  > Logged in user was not waiting for confirmation
+09-02-2025 15:56:45 - DEBUG - 8.6.8 - 16,3 MB/512 MB -  > Logged in user: Eduardo
+09-02-2025 15:56:45 - DEBUG - 8.6.8 - 16,4 MB/512 MB -  > Logged in user was not waiting for confirmation
+09-02-2025 19:39:11 - DEBUG - 8.6.8 - 16,3 MB/512 MB -  > Logged in user: Eduardo
+09-02-2025 19:39:11 - DEBUG - 8.6.8 - 16,4 MB/512 MB -  > Logged in user was not waiting for confirmation
+10-02-2025 13:35:04 - DEBUG - 8.6.8 - 16,3 MB/512 MB -  > Logged in user: Rafael
+10-02-2025 13:35:04 - DEBUG - 8.6.8 - 16,4 MB/512 MB -  > No connected subscription found
+10-02-2025 13:37:55 - INFO  - 8.6.8 - 40,8 MB/512 MB - Rafael > New user registration with id 64
+10-02-2025 13:37:55 - INFO  - 8.6.8 - 40,8 MB/512 MB - Rafael > Opt-in checkbox required but not set
+10-02-2025 15:28:26 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Logged in user: NL.garrido
+10-02-2025 15:28:26 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > No connected subscription found
+10-02-2025 21:54:25 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > Logged in user: Eduardo
+10-02-2025 21:54:25 - DEBUG - 8.7.0 - 15,6 MB/512 MB -  > Logged in user was not waiting for confirmation
+11-02-2025 10:15:15 - INFO  - 8.7.0 - 138,3 MB/ - [cron] > Weekly check for wpusers
+11-02-2025 21:40:37 - DEBUG - 8.7.0 - 19,1 MB/512 MB -  > Logged in user: Eduardo
+11-02-2025 21:40:37 - DEBUG - 8.7.0 - 19,2 MB/512 MB -  > Logged in user was not waiting for confirmation
+13-02-2025 12:05:22 - DEBUG - 8.7.0 - 25,5 MB/2 GB -  > Logged in user: Eduardo
+13-02-2025 12:05:22 - DEBUG - 8.7.0 - 25,6 MB/2 GB -  > Logged in user was not waiting for confirmation
+13-02-2025 17:46:20 - DEBUG - 8.7.0 - 26,7 MB/2 GB -  > Logged in user: Eduardo
+13-02-2025 17:46:20 - DEBUG - 8.7.0 - 26,8 MB/2 GB -  > Logged in user was not waiting for confirmation
+13-02-2025 17:52:44 - DEBUG - 8.7.0 - 26,7 MB/2 GB -  > Logged in user: Eduardo
+13-02-2025 17:52:44 - DEBUG - 8.7.0 - 26,8 MB/2 GB -  > Logged in user was not waiting for confirmation
+14-02-2025 16:29:18 - DEBUG - 8.7.0 - 32,5 MB/2 GB -  > Logged in user: Eduardo
+14-02-2025 16:29:18 - DEBUG - 8.7.0 - 32,6 MB/2 GB -  > Logged in user was not waiting for confirmation
+15-02-2025 22:15:46 - DEBUG - 8.7.0 - 36,5 MB/2 GB -  > Logged in user: Eduardo
+15-02-2025 22:15:46 - DEBUG - 8.7.0 - 36,6 MB/2 GB -  > Logged in user was not waiting for confirmation
+16-02-2025 04:09:11 - DEBUG - 8.7.0 - 15,5 MB/2 GB -  > Logged in user: Eduardo
+16-02-2025 04:09:11 - DEBUG - 8.7.0 - 15,6 MB/2 GB -  > Logged in user was not waiting for confirmation
+16-02-2025 10:25:51 - DEBUG - 8.7.0 - 15,5 MB/2 GB -  > Logged in user: Eduardo
+16-02-2025 10:25:51 - DEBUG - 8.7.0 - 15,6 MB/2 GB -  > Logged in user was not waiting for confirmation
+17-02-2025 18:39:34 - DEBUG - 8.7.0 - 15,5 MB/2 GB -  > Logged in user: Eduardo
+17-02-2025 18:39:34 - DEBUG - 8.7.0 - 15,6 MB/2 GB -  > Logged in user was not waiting for confirmation
+17-02-2025 23:57:49 - DEBUG - 8.7.0 - 15,5 MB/2 GB -  > Logged in user: Eduardo
+17-02-2025 23:57:49 - DEBUG - 8.7.0 - 15,6 MB/2 GB -  > Logged in user was not waiting for confirmation
+18-02-2025 00:42:59 - DEBUG - 8.7.0 - 15,5 MB/2 GB -  > Logged in user: Eduardo
+18-02-2025 00:42:59 - DEBUG - 8.7.0 - 15,6 MB/2 GB -  > Logged in user was not waiting for confirmation
+18-02-2025 09:44:37 - DEBUG - 8.7.0 - 15,5 MB/2 GB -  > Logged in user: Eduardo
+18-02-2025 09:44:37 - DEBUG - 8.7.0 - 15,6 MB/2 GB -  > Logged in user was not waiting for confirmation
+18-02-2025 10:15:08 - INFO  - 8.7.0 - 136,3 MB/ - [cron] > Weekly check for wpusers
+18-02-2025 16:36:27 - DEBUG - 8.7.0 - 15,5 MB/2 GB -  > Logged in user: Rafael
+18-02-2025 16:36:27 - DEBUG - 8.7.0 - 15,6 MB/2 GB -  > No connected subscription found
+20-02-2025 00:46:19 - DEBUG - 8.7.0 - 15,5 MB/2 GB -  > Logged in user: Eduardo
+20-02-2025 00:46:19 - DEBUG - 8.7.0 - 15,6 MB/2 GB -  > Logged in user was not waiting for confirmation
+21-02-2025 21:52:16 - DEBUG - 8.7.0 - 15,5 MB/2 GB -  > Logged in user: a.montesino@heroesdecavite.es
+21-02-2025 21:52:16 - DEBUG - 8.7.0 - 15,5 MB/2 GB -  > No connected subscription found
+22-02-2025 12:05:03 - DEBUG - 8.7.0 - 16,0 MB/2 GB -  > Logged in user: Eduardo
+22-02-2025 12:05:03 - DEBUG - 8.7.0 - 16,2 MB/2 GB -  > Logged in user was not waiting for confirmation
+22-02-2025 13:08:32 - DEBUG - 8.7.0 - 16,0 MB/2 GB -  > Logged in user: Rafael
+22-02-2025 13:08:32 - DEBUG - 8.7.0 - 16,1 MB/2 GB -  > No connected subscription found
+23-02-2025 09:06:11 - DEBUG - 8.7.0 - 16,0 MB/2 GB -  > Logged in user: Eduardo
+23-02-2025 09:06:11 - DEBUG - 8.7.0 - 16,2 MB/2 GB -  > Logged in user was not waiting for confirmation
+23-02-2025 11:51:29 - DEBUG - 8.7.0 - 16,0 MB/2 GB -  > Logged in user: Eduardo
+23-02-2025 11:51:29 - DEBUG - 8.7.0 - 16,2 MB/2 GB -  > Logged in user was not waiting for confirmation
+23-02-2025 23:03:00 - DEBUG - 8.7.0 - 16,1 MB/2 GB -  > Logged in user: Eduardo
+23-02-2025 23:03:00 - DEBUG - 8.7.0 - 16,2 MB/2 GB -  > Logged in user was not waiting for confirmation
+24-02-2025 00:21:56 - DEBUG - 8.7.0 - 16,1 MB/2 GB -  > Logged in user: Eduardo
+24-02-2025 00:21:56 - DEBUG - 8.7.0 - 16,2 MB/2 GB -  > Logged in user was not waiting for confirmation
+24-02-2025 09:23:49 - DEBUG - 8.7.0 - 16,1 MB/2 GB -  > Logged in user: Eduardo
+24-02-2025 09:23:49 - DEBUG - 8.7.0 - 16,2 MB/2 GB -  > Logged in user was not waiting for confirmation
+24-02-2025 19:48:43 - DEBUG - 8.7.0 - 16,1 MB/2 GB -  > Logged in user: Eduardo
+24-02-2025 19:48:43 - DEBUG - 8.7.0 - 16,2 MB/2 GB -  > Logged in user was not waiting for confirmation
+25-02-2025 00:10:33 - DEBUG - 8.7.0 - 15,3 MB/2 GB -  > Logged in user: Eduardo
+25-02-2025 00:10:33 - DEBUG - 8.7.0 - 15,4 MB/2 GB -  > Logged in user was not waiting for confirmation
+25-02-2025 10:15:16 - INFO  - 8.7.0 - 136,3 MB/ - [cron] > Weekly check for wpusers
+25-02-2025 15:24:01 - DEBUG - 8.7.0 - 15,3 MB/2 GB -  > Logged in user: Miguel
+25-02-2025 15:24:01 - DEBUG - 8.7.0 - 15,3 MB/2 GB -  > Logged in user was not waiting for confirmation
+25-02-2025 23:11:55 - DEBUG - 8.7.0 - 15,3 MB/2 GB -  > Logged in user: Rafael
+25-02-2025 23:11:55 - DEBUG - 8.7.0 - 15,4 MB/2 GB -  > No connected subscription found
+27-02-2025 09:52:14 - DEBUG - 8.7.0 - 15,3 MB/2 GB -  > Logged in user: Eduardo
+27-02-2025 09:52:14 - DEBUG - 8.7.0 - 15,4 MB/2 GB -  > Logged in user was not waiting for confirmation
+27-02-2025 18:54:21 - DEBUG - 8.7.0 - 15,3 MB/2 GB -  > Logged in user: Eduardo
+27-02-2025 18:54:21 - DEBUG - 8.7.0 - 15,4 MB/2 GB -  > Logged in user was not waiting for confirmation
+27-02-2025 22:08:41 - DEBUG - 8.7.0 - 15,3 MB/2 GB -  > Logged in user: augustooprego
+27-02-2025 22:08:41 - DEBUG - 8.7.0 - 15,3 MB/2 GB -  > No connected subscription found
+28-02-2025 13:38:20 - DEBUG - 8.7.0 - 15,3 MB/2 GB -  > Logged in user: Eduardo
+28-02-2025 13:38:20 - DEBUG - 8.7.0 - 15,4 MB/2 GB -  > Logged in user was not waiting for confirmation

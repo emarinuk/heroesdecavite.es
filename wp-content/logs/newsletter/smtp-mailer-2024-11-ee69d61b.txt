@@ -1,0 +1,21 @@
+01-11-2024 10:21:13 - DEBUG - 8.6.0 - 21,6 MB/512 MB - Eduardo > Start sending to mr.eduardo.marin@gmail.com
+01-11-2024 10:21:13 - INFO  - 8.6.0 - 21,6 MB/512 MB - Eduardo > Setting up PHP mailer
+01-11-2024 10:21:25 - DEBUG - 8.6.0 - 21,6 MB/512 MB - Eduardo > Start sending to mr.eduardo.marin@gmail.com
+01-11-2024 10:21:25 - INFO  - 8.6.0 - 21,6 MB/512 MB - Eduardo > Setting up PHP mailer
+01-11-2024 10:21:31 - DEBUG - 8.6.0 - 21,6 MB/512 MB - Eduardo > Start sending to mr.eduardo.marin@gmail.com
+01-11-2024 10:21:31 - INFO  - 8.6.0 - 21,6 MB/512 MB - Eduardo > Setting up PHP mailer
+01-11-2024 10:22:07 - DEBUG - 8.6.0 - 21,6 MB/512 MB - Eduardo > Start sending to mr.eduardo.marin@gmail.com
+01-11-2024 10:22:07 - INFO  - 8.6.0 - 21,6 MB/512 MB - Eduardo > Setting up PHP mailer
+01-11-2024 10:22:31 - DEBUG - 8.6.0 - 21,6 MB/512 MB - Eduardo > Start sending to mr.eduardo.marin@gmail.com
+01-11-2024 10:22:31 - INFO  - 8.6.0 - 21,6 MB/512 MB - Eduardo > Setting up PHP mailer
+01-11-2024 10:22:41 - ERROR - 8.6.0 - 21,7 MB/512 MB - Eduardo > SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+01-11-2024 10:23:02 - DEBUG - 8.6.0 - 21,6 MB/512 MB - Eduardo > Start sending to mr.eduardo.marin@gmail.com
+01-11-2024 10:23:02 - INFO  - 8.6.0 - 21,6 MB/512 MB - Eduardo > Setting up PHP mailer
+01-11-2024 10:23:12 - ERROR - 8.6.0 - 21,7 MB/512 MB - Eduardo > SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+01-11-2024 10:23:22 - DEBUG - 8.6.0 - 21,6 MB/512 MB - Eduardo > Start sending to mr.eduardo.marin@gmail.com
+01-11-2024 10:23:22 - INFO  - 8.6.0 - 21,6 MB/512 MB - Eduardo > Setting up PHP mailer
+01-11-2024 10:23:23 - ERROR - 8.6.0 - 21,7 MB/512 MB - Eduardo > SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+01-11-2024 10:26:13 - ERROR - 8.6.0 - 21,6 MB/512 MB - Eduardo > SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/TroubleshootingSMTP server error: Failed to connect to server SMTP code: 110 Additional SMTP info: Connection timed out
+01-11-2024 10:26:25 - ERROR - 8.6.0 - 21,7 MB/512 MB - Eduardo > SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/TroubleshootingSMTP server error: Failed to connect to server SMTP code: 110 Additional SMTP info: Connection timed out
+01-11-2024 10:26:31 - ERROR - 8.6.0 - 21,7 MB/512 MB - Eduardo > SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/TroubleshootingSMTP server error: Failed to connect to server SMTP code: 110 Additional SMTP info: Connection timed out
+01-11-2024 10:27:07 - ERROR - 8.6.0 - 21,7 MB/512 MB - Eduardo > SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/TroubleshootingSMTP server error: Failed to connect to server SMTP code: 110 Additional SMTP info: Connection timed out

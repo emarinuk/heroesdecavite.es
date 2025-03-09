@@ -1,0 +1,800 @@
+04-02-2025 10:15:18 - INFO  - 8.6.8 - 139,6 MB/ - [cron] > Weekly check for analytics
+06-02-2025 10:45:21 - DEBUG - 8.6.8 - 36,3 MB/512 MB -  > Processing https://heroesdecavite.es/informe-las-raices-hispanas-de-los-estados-unidos/
+06-02-2025 10:45:21 - DEBUG - 8.6.8 - 36,3 MB/512 MB -  > Domain: heroesdecavite.es
+09-02-2025 12:01:59 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+09-02-2025 12:01:59 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+09-02-2025 15:43:44 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+09-02-2025 15:43:44 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+09-02-2025 15:54:53 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://es.hispanopedia.com/
+09-02-2025 15:54:53 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+09-02-2025 15:54:54 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://es.hispanopedia.com/
+09-02-2025 15:54:54 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+09-02-2025 15:54:55 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://es.hispanopedia.com/
+09-02-2025 15:54:55 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+09-02-2025 15:57:38 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://es.hispanopedia.com/
+09-02-2025 15:57:38 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+09-02-2025 16:16:32 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://es.hispanopedia.com/
+09-02-2025 16:16:32 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+09-02-2025 16:17:05 - DEBUG - 8.6.8 - 15,6 MB/512 MB -  > Processing https://es.hispanopedia.com/
+09-02-2025 16:17:05 - DEBUG - 8.6.8 - 15,6 MB/512 MB -  > Source not set
+09-02-2025 18:11:05 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+09-02-2025 18:11:05 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+09-02-2025 18:11:31 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://es.hispanopedia.com/
+09-02-2025 18:11:31 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+09-02-2025 18:27:20 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+09-02-2025 18:27:20 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+09-02-2025 18:27:51 - DEBUG - 8.6.8 - 15,6 MB/512 MB -  > Processing https://heroesdecavite.es/?na=p&nk=146-9d055949ca&nek=88-b01c48a923
+09-02-2025 18:27:51 - DEBUG - 8.6.8 - 15,6 MB/512 MB -  > Source not set
+09-02-2025 19:46:36 - DEBUG - 8.6.8 - 15,6 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+09-02-2025 19:46:36 - DEBUG - 8.6.8 - 15,6 MB/512 MB -  > Source not set
+09-02-2025 20:21:47 - DEBUG - 8.6.8 - 15,6 MB/512 MB -  > Processing https://proyectoblanca.com/
+09-02-2025 20:21:47 - DEBUG - 8.6.8 - 15,6 MB/512 MB -  > Source not set
+09-02-2025 20:24:14 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+09-02-2025 20:24:14 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+09-02-2025 21:27:09 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://es.hispanopedia.com/
+09-02-2025 21:27:09 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+09-02-2025 22:25:13 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es
+09-02-2025 22:25:13 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+09-02-2025 22:25:14 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://hispanidadcartagena.com/
+09-02-2025 22:25:14 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+09-02-2025 22:25:16 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/clases-de-espanol-para-filipinos/
+09-02-2025 22:25:16 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+09-02-2025 22:25:17 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://es.hispanopedia.com/
+09-02-2025 22:25:17 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+09-02-2025 22:25:18 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://proyectoblanca.com/
+09-02-2025 22:25:18 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+09-02-2025 22:25:20 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://helfer-stab.de/
+09-02-2025 22:25:20 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+09-02-2025 22:25:23 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+09-02-2025 22:25:23 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+09-02-2025 22:25:25 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://www.facebook.com/profile.php?id=100064089460823
+09-02-2025 22:25:25 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+09-02-2025 22:25:25 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://twitter.com/AchCavite
+09-02-2025 22:25:25 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+09-02-2025 22:25:26 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://www.youtube.com/c/Asociaci%C3%B3nCulturalH%C3%A9roesdeCavite
+09-02-2025 22:25:26 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+09-02-2025 22:25:27 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://www.instagram.com/acheroesdecavite/
+09-02-2025 22:25:27 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+09-02-2025 22:25:29 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/?na=u&nk=542-976fc00d14&nek=88-b01c48a923
+09-02-2025 22:25:29 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+09-02-2025 22:25:31 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/?na=p&nk=542-976fc00d14&nek=88-b01c48a923
+09-02-2025 22:25:31 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+09-02-2025 22:25:33 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/?na=v&nk=542-976fc00d14&id=88
+09-02-2025 22:25:33 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+09-02-2025 22:40:12 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://es.hispanopedia.com/
+09-02-2025 22:40:12 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+09-02-2025 22:40:12 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es
+09-02-2025 22:40:12 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+09-02-2025 22:40:12 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://proyectoblanca.com/
+09-02-2025 22:40:12 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+09-02-2025 22:40:13 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://hispanidadcartagena.com/
+09-02-2025 22:40:13 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+09-02-2025 22:40:13 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/clases-de-espanol-para-filipinos/
+09-02-2025 22:40:13 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+09-02-2025 22:40:18 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es
+09-02-2025 22:40:18 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+09-02-2025 22:40:19 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://hispanidadcartagena.com/
+09-02-2025 22:40:19 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+09-02-2025 22:40:19 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://proyectoblanca.com/
+09-02-2025 22:40:19 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+09-02-2025 22:40:19 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://es.hispanopedia.com/
+09-02-2025 22:40:19 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+09-02-2025 22:40:20 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/clases-de-espanol-para-filipinos/
+09-02-2025 22:40:20 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 02:11:34 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+10-02-2025 02:11:34 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 02:11:34 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+10-02-2025 02:11:34 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 02:59:57 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+10-02-2025 02:59:57 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:08:12 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://helfer-stab.de/
+10-02-2025 03:08:12 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:08:12 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://helfer-stab.de/
+10-02-2025 03:08:12 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:08:13 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://www.youtube.com/c/Asociaci%C3%B3nCulturalH%C3%A9roesdeCavite
+10-02-2025 03:08:13 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:08:13 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://www.instagram.com/acheroesdecavite/
+10-02-2025 03:08:13 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:08:14 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://www.instagram.com/acheroesdecavite/
+10-02-2025 03:08:14 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:08:14 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://www.instagram.com/acheroesdecavite/
+10-02-2025 03:08:14 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:08:14 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://helfer-stab.de/
+10-02-2025 03:08:14 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:08:15 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://www.youtube.com/c/Asociaci%C3%B3nCulturalH%C3%A9roesdeCavite
+10-02-2025 03:08:15 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:08:15 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://www.youtube.com/c/Asociaci%C3%B3nCulturalH%C3%A9roesdeCavite
+10-02-2025 03:08:15 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:08:15 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://www.youtube.com/c/Asociaci%C3%B3nCulturalH%C3%A9roesdeCavite
+10-02-2025 03:08:15 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:08:16 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/clases-de-espanol-para-filipinos/
+10-02-2025 03:08:16 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:08:16 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://www.facebook.com/profile.php?id=100064089460823
+10-02-2025 03:08:16 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:08:16 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://www.facebook.com/profile.php?id=100064089460823
+10-02-2025 03:08:16 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:08:17 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://www.facebook.com/profile.php?id=100064089460823
+10-02-2025 03:08:17 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:08:17 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://www.instagram.com/acheroesdecavite/
+10-02-2025 03:08:17 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:08:18 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://twitter.com/AchCavite
+10-02-2025 03:08:18 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:08:18 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/clases-de-espanol-para-filipinos/
+10-02-2025 03:08:18 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:08:18 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://www.facebook.com/profile.php?id=100064089460823
+10-02-2025 03:08:18 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:08:18 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/?na=v&nk=1078-3eb0728124&id=88
+10-02-2025 03:08:18 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:08:19 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/clases-de-espanol-para-filipinos/
+10-02-2025 03:08:19 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:08:19 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/?na=v&nk=1078-3eb0728124&id=88
+10-02-2025 03:08:19 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:08:19 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/?na=v&nk=1078-3eb0728124&id=88
+10-02-2025 03:08:19 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:08:19 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+10-02-2025 03:08:19 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:08:20 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://twitter.com/AchCavite
+10-02-2025 03:08:20 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:08:20 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es
+10-02-2025 03:08:20 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:08:20 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es
+10-02-2025 03:08:20 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:08:20 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://hispanidadcartagena.com/
+10-02-2025 03:08:20 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:08:20 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+10-02-2025 03:08:20 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:08:21 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es
+10-02-2025 03:08:21 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:08:22 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/?na=p&nk=1078-3eb0728124&nek=88-b01c48a923
+10-02-2025 03:08:22 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:08:22 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://es.hispanopedia.com/
+10-02-2025 03:08:22 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:08:23 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://hispanidadcartagena.com/
+10-02-2025 03:08:23 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:08:23 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://es.hispanopedia.com/
+10-02-2025 03:08:23 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:08:24 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://proyectoblanca.com/
+10-02-2025 03:08:24 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:08:24 - DEBUG - 8.6.8 - 15,6 MB/512 MB -  > Processing https://heroesdecavite.es/?na=p&nk=1078-3eb0728124&nek=88-b01c48a923
+10-02-2025 03:08:24 - DEBUG - 8.6.8 - 15,6 MB/512 MB -  > Source not set
+10-02-2025 03:08:24 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://proyectoblanca.com/
+10-02-2025 03:08:24 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:08:24 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://es.hispanopedia.com/
+10-02-2025 03:08:24 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:08:24 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://proyectoblanca.com/
+10-02-2025 03:08:24 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:08:24 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://es.hispanopedia.com/
+10-02-2025 03:08:24 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:08:25 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/?na=p&nk=1078-3eb0728124&nek=88-b01c48a923
+10-02-2025 03:08:25 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:08:26 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://proyectoblanca.com/
+10-02-2025 03:08:26 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:08:26 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+10-02-2025 03:08:26 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:09:38 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://www.instagram.com/acheroesdecavite/
+10-02-2025 03:09:38 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:09:39 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://www.youtube.com/c/Asociaci%C3%B3nCulturalH%C3%A9roesdeCavite
+10-02-2025 03:09:39 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:09:42 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://www.facebook.com/profile.php?id=100064089460823
+10-02-2025 03:09:42 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:09:49 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://es.hispanopedia.com/
+10-02-2025 03:09:49 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:09:52 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://proyectoblanca.com/
+10-02-2025 03:09:52 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:16:42 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/?na=v&nk=1078-3eb0728124&id=88
+10-02-2025 03:16:42 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:16:43 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://helfer-stab.de/
+10-02-2025 03:16:43 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:16:52 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+10-02-2025 03:16:52 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:17:41 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://hispanidadcartagena.com/
+10-02-2025 03:17:41 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:17:43 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://twitter.com/AchCavite
+10-02-2025 03:17:43 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:18:08 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/clases-de-espanol-para-filipinos/
+10-02-2025 03:18:08 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:18:58 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/?na=p&nk=1078-3eb0728124&nek=88-b01c48a923
+10-02-2025 03:18:58 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:19:01 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/?na=p&nk=1078-3eb0728124&nek=88-b01c48a923
+10-02-2025 03:19:01 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 03:19:18 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es
+10-02-2025 03:19:18 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 07:03:46 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/clases-de-espanol-para-filipinos/
+10-02-2025 07:03:46 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 07:03:57 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/clases-de-espanol-para-filipinos/
+10-02-2025 07:03:57 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 07:06:24 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+10-02-2025 07:06:24 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 08:38:27 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://hispanidadcartagena.com/
+10-02-2025 08:38:27 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 08:40:20 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://hispanidadcartagena.com/
+10-02-2025 08:40:20 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 08:40:23 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://hispanidadcartagena.com/
+10-02-2025 08:40:23 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 09:09:01 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/clases-de-espanol-para-filipinos/
+10-02-2025 09:09:01 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 09:21:44 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+10-02-2025 09:21:44 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 09:22:00 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+10-02-2025 09:22:00 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 10:07:03 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+10-02-2025 10:07:03 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 10:07:09 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+10-02-2025 10:07:09 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 10:26:19 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+10-02-2025 10:26:19 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 10:27:16 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+10-02-2025 10:27:16 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 10:36:56 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+10-02-2025 10:36:56 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 11:21:00 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+10-02-2025 11:21:00 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 11:23:39 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+10-02-2025 11:23:39 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 11:58:12 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+10-02-2025 11:58:12 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 11:58:14 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+10-02-2025 11:58:14 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 11:58:34 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+10-02-2025 11:58:34 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 12:24:46 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/?na=u&nk=1480-15525d0052&nek=88-b01c48a923
+10-02-2025 12:24:46 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 12:24:48 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/?na=u&nk=1480-15525d0052&nek=88-b01c48a923
+10-02-2025 12:24:48 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 12:24:59 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/?na=u&nk=1480-15525d0052&nek=88-b01c48a923
+10-02-2025 12:24:59 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 13:10:18 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/clases-de-espanol-para-filipinos/
+10-02-2025 13:10:18 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 13:10:40 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Processing https://helfer-stab.de/
+10-02-2025 13:10:40 - DEBUG - 8.6.8 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 15:41:31 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://helfer-stab.de/
+10-02-2025 15:41:31 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+10-02-2025 16:45:11 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://hispanidadcartagena.com/
+10-02-2025 16:45:11 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+10-02-2025 16:45:11 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://es.hispanopedia.com/
+10-02-2025 16:45:11 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+10-02-2025 16:45:11 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://proyectoblanca.com/
+10-02-2025 16:45:11 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+10-02-2025 16:45:25 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://hispanidadcartagena.com/
+10-02-2025 16:45:25 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+10-02-2025 16:45:25 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://proyectoblanca.com/
+10-02-2025 16:45:25 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+10-02-2025 16:45:26 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://es.hispanopedia.com/
+10-02-2025 16:45:26 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+10-02-2025 16:57:01 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+10-02-2025 16:57:01 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 18:14:58 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > Processing https://es.hispanopedia.com/
+10-02-2025 18:14:58 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 18:18:51 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://es.hispanopedia.com/
+10-02-2025 18:18:51 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+10-02-2025 19:31:11 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+10-02-2025 19:31:11 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 19:50:17 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://heroesdecavite.es
+10-02-2025 19:50:17 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+10-02-2025 19:50:18 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://hispanidadcartagena.com/
+10-02-2025 19:50:18 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+10-02-2025 19:50:20 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://heroesdecavite.es/clases-de-espanol-para-filipinos/
+10-02-2025 19:50:20 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+10-02-2025 19:50:22 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://es.hispanopedia.com/
+10-02-2025 19:50:22 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+10-02-2025 19:50:23 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://proyectoblanca.com/
+10-02-2025 19:50:23 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+10-02-2025 19:50:24 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://helfer-stab.de/
+10-02-2025 19:50:24 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+10-02-2025 19:50:27 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+10-02-2025 19:50:27 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+10-02-2025 19:50:29 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://www.facebook.com/profile.php?id=100064089460823
+10-02-2025 19:50:29 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+10-02-2025 19:50:30 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://twitter.com/AchCavite
+10-02-2025 19:50:30 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+10-02-2025 19:50:30 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://www.youtube.com/c/Asociaci%C3%B3nCulturalH%C3%A9roesdeCavite
+10-02-2025 19:50:30 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+10-02-2025 19:50:31 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://www.instagram.com/acheroesdecavite/
+10-02-2025 19:50:31 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+10-02-2025 19:50:34 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://heroesdecavite.es/?na=u&nk=2281-3d749da77f&nek=88-b01c48a923
+10-02-2025 19:50:34 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+10-02-2025 19:50:35 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://heroesdecavite.es/?na=p&nk=2281-3d749da77f&nek=88-b01c48a923
+10-02-2025 19:50:35 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+10-02-2025 19:50:38 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://heroesdecavite.es/?na=v&nk=2281-3d749da77f&id=88
+10-02-2025 19:50:38 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+10-02-2025 19:53:03 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://heroesdecavite.es
+10-02-2025 19:53:03 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+10-02-2025 20:32:38 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+10-02-2025 20:32:38 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+10-02-2025 21:59:52 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > Processing https://www.facebook.com/profile.php?id=100064089460823
+10-02-2025 21:59:52 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 22:00:00 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > Processing https://www.facebook.com/profile.php?id=100064089460823
+10-02-2025 22:00:00 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > Source not set
+10-02-2025 22:01:42 - DEBUG - 8.7.0 - 15,6 MB/512 MB -  > Processing https://twitter.com/AchCavite
+10-02-2025 22:01:42 - DEBUG - 8.7.0 - 15,6 MB/512 MB -  > Source not set
+10-02-2025 22:02:52 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://www.facebook.com/profile.php?id=100064089460823
+10-02-2025 22:02:52 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+10-02-2025 22:14:04 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+10-02-2025 22:14:04 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+10-02-2025 22:34:56 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://heroesdecavite.es/clases-de-espanol-para-filipinos/
+10-02-2025 22:34:56 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 00:18:28 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://twitter.com/AchCavite
+11-02-2025 00:18:28 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 01:51:18 - DEBUG - 8.7.0 - 15,6 MB/512 MB -  > Processing https://heroesdecavite.es/?na=u&nk=1624-479f9d3d45&nek=88-b01c48a923
+11-02-2025 01:51:18 - DEBUG - 8.7.0 - 15,6 MB/512 MB -  > Source not set
+11-02-2025 03:55:14 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://es.hispanopedia.com/
+11-02-2025 03:55:14 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 03:55:15 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://www.facebook.com/profile.php?id=100064089460823
+11-02-2025 03:55:15 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 03:55:15 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://proyectoblanca.com/
+11-02-2025 03:55:15 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 03:55:15 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://heroesdecavite.es
+11-02-2025 03:55:15 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 03:55:15 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://heroesdecavite.es/?na=u&nk=2757-0e60ca22d1&nek=88-b01c48a923
+11-02-2025 03:55:15 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 03:55:16 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://www.instagram.com/acheroesdecavite/
+11-02-2025 03:55:16 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 03:55:16 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+11-02-2025 03:55:16 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 03:55:16 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://helfer-stab.de/
+11-02-2025 03:55:16 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 03:55:16 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://heroesdecavite.es/?na=v&nk=2757-0e60ca22d1&id=88
+11-02-2025 03:55:16 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 03:55:16 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://twitter.com/AchCavite
+11-02-2025 03:55:16 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 03:55:17 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://heroesdecavite.es/?na=p&nk=2757-0e60ca22d1&nek=88-b01c48a923
+11-02-2025 03:55:17 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 03:55:17 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://hispanidadcartagena.com/
+11-02-2025 03:55:17 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 03:55:17 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://heroesdecavite.es/clases-de-espanol-para-filipinos/
+11-02-2025 03:55:17 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 03:55:17 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://www.youtube.com/c/Asociaci%C3%B3nCulturalH%C3%A9roesdeCavite
+11-02-2025 03:55:17 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 04:33:51 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es
+11-02-2025 04:33:51 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > Source not set
+11-02-2025 05:22:51 - DEBUG - 8.7.0 - 15,6 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+11-02-2025 05:22:51 - DEBUG - 8.7.0 - 15,6 MB/512 MB -  > Source not set
+11-02-2025 05:43:23 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+11-02-2025 05:43:23 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > Source not set
+11-02-2025 05:58:13 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+11-02-2025 05:58:13 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > Source not set
+11-02-2025 05:58:22 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+11-02-2025 05:58:22 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 07:03:04 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://heroesdecavite.es
+11-02-2025 07:03:04 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 07:03:41 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es
+11-02-2025 07:03:41 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > Source not set
+11-02-2025 07:59:57 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://heroesdecavite.es/?na=u&nk=2168-6126158101&nek=88-b01c48a923
+11-02-2025 07:59:57 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 08:06:30 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+11-02-2025 08:06:30 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 08:12:32 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/clases-de-espanol-para-filipinos/
+11-02-2025 08:12:32 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > Source not set
+11-02-2025 08:17:02 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+11-02-2025 08:17:02 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > Source not set
+11-02-2025 08:18:15 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://heroesdecavite.es/?na=p&nk=2769-165983498f&nek=88-b01c48a923
+11-02-2025 08:18:15 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 08:46:31 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+11-02-2025 08:46:31 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 09:29:28 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+11-02-2025 09:29:28 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > Source not set
+11-02-2025 09:55:46 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+11-02-2025 09:55:46 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > Source not set
+11-02-2025 10:11:02 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://hispanidadcartagena.com/
+11-02-2025 10:11:02 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 10:11:36 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://hispanidadcartagena.com/
+11-02-2025 10:11:36 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 10:15:12 - INFO  - 8.7.0 - 137,8 MB/ - [cron] > Weekly check for analytics
+11-02-2025 10:39:00 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://heroesdecavite.es
+11-02-2025 10:39:00 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 10:39:03 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://hispanidadcartagena.com/
+11-02-2025 10:39:03 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 10:39:05 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+11-02-2025 10:39:05 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 10:39:07 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://heroesdecavite.es/clases-de-espanol-para-filipinos/
+11-02-2025 10:39:07 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 10:39:10 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://es.hispanopedia.com/
+11-02-2025 10:39:10 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 10:39:12 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://proyectoblanca.com/
+11-02-2025 10:39:12 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 10:44:36 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > Processing https://helfer-stab.de/
+11-02-2025 10:44:36 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > Source not set
+11-02-2025 10:49:48 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://heroesdecavite.es/clases-de-espanol-para-filipinos/
+11-02-2025 10:49:48 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 10:56:35 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+11-02-2025 10:56:35 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > Source not set
+11-02-2025 11:11:57 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+11-02-2025 11:11:57 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 11:12:11 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+11-02-2025 11:12:11 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 11:15:21 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+11-02-2025 11:15:21 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 11:22:50 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > Processing https://helfer-stab.de/
+11-02-2025 11:22:50 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > Source not set
+11-02-2025 12:28:47 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+11-02-2025 12:28:47 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > Source not set
+11-02-2025 12:29:17 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+11-02-2025 12:29:17 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 12:50:28 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://helfer-stab.de/
+11-02-2025 12:50:28 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 12:51:03 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > Processing https://helfer-stab.de/
+11-02-2025 12:51:03 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > Source not set
+11-02-2025 12:51:50 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://heroesdecavite.es
+11-02-2025 12:51:50 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 12:51:52 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://hispanidadcartagena.com/
+11-02-2025 12:51:52 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 12:51:54 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://heroesdecavite.es/clases-de-espanol-para-filipinos/
+11-02-2025 12:51:54 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 12:51:57 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://es.hispanopedia.com/
+11-02-2025 12:51:57 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 12:51:59 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://proyectoblanca.com/
+11-02-2025 12:51:59 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 12:52:02 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://helfer-stab.de/
+11-02-2025 12:52:02 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 12:52:07 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+11-02-2025 12:52:07 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 12:52:09 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://www.facebook.com/profile.php?id=100064089460823
+11-02-2025 12:52:09 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 12:52:10 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://twitter.com/AchCavite
+11-02-2025 12:52:10 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 12:52:12 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://www.youtube.com/c/Asociaci%C3%B3nCulturalH%C3%A9roesdeCavite
+11-02-2025 12:52:12 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 12:52:14 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://www.instagram.com/acheroesdecavite/
+11-02-2025 12:52:14 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 12:52:18 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://heroesdecavite.es/?na=u&nk=3218-3778781722&nek=88-b01c48a923
+11-02-2025 12:52:18 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 12:52:22 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://heroesdecavite.es/?na=p&nk=3218-3778781722&nek=88-b01c48a923
+11-02-2025 12:52:22 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 12:52:26 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://heroesdecavite.es/?na=v&nk=3218-3778781722&id=88
+11-02-2025 12:52:26 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 12:53:24 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://heroesdecavite.es
+11-02-2025 12:53:24 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 13:12:25 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > Processing https://proyectoblanca.com/
+11-02-2025 13:12:25 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > Source not set
+11-02-2025 13:12:30 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > Processing https://es.hispanopedia.com/
+11-02-2025 13:12:30 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > Source not set
+11-02-2025 13:13:01 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+11-02-2025 13:13:01 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > Source not set
+11-02-2025 13:13:35 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://proyectoblanca.com/
+11-02-2025 13:13:35 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 13:25:05 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > Processing https://es.hispanopedia.com/
+11-02-2025 13:25:05 - DEBUG - 8.7.0 - 15,5 MB/512 MB -  > Source not set
+11-02-2025 13:31:07 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+11-02-2025 13:31:07 - DEBUG - 8.7.0 - 15,4 MB/512 MB -  > Source not set
+11-02-2025 13:40:09 - DEBUG - 8.7.0 - 16,0 MB/512 MB -  > Processing https://heroesdecavite.es/clases-de-espanol-para-filipinos/
+11-02-2025 13:40:09 - DEBUG - 8.7.0 - 16,0 MB/512 MB -  > Source not set
+11-02-2025 13:42:03 - DEBUG - 8.7.0 - 16,0 MB/512 MB -  > Processing https://heroesdecavite.es/clases-de-espanol-para-filipinos/
+11-02-2025 13:42:03 - DEBUG - 8.7.0 - 16,0 MB/512 MB -  > Source not set
+11-02-2025 13:45:23 - DEBUG - 8.7.0 - 16,0 MB/512 MB -  > Processing https://heroesdecavite.es/clases-de-espanol-para-filipinos/
+11-02-2025 13:45:23 - DEBUG - 8.7.0 - 16,0 MB/512 MB -  > Source not set
+11-02-2025 15:31:44 - DEBUG - 8.7.0 - 16,0 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+11-02-2025 15:31:44 - DEBUG - 8.7.0 - 16,0 MB/512 MB -  > Source not set
+11-02-2025 16:30:52 - DEBUG - 8.7.0 - 16,0 MB/512 MB -  > Processing https://helfer-stab.de/
+11-02-2025 16:30:52 - DEBUG - 8.7.0 - 16,0 MB/512 MB -  > Source not set
+11-02-2025 16:32:15 - DEBUG - 8.7.0 - 16,0 MB/512 MB -  > Processing https://heroesdecavite.es/clases-de-espanol-para-filipinos/
+11-02-2025 16:32:15 - DEBUG - 8.7.0 - 16,0 MB/512 MB -  > Source not set
+11-02-2025 16:43:59 - DEBUG - 8.7.0 - 16,0 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+11-02-2025 16:43:59 - DEBUG - 8.7.0 - 16,0 MB/512 MB -  > Source not set
+11-02-2025 18:25:21 - DEBUG - 8.7.0 - 16,0 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+11-02-2025 18:25:21 - DEBUG - 8.7.0 - 16,0 MB/512 MB -  > Source not set
+11-02-2025 19:09:08 - DEBUG - 8.7.0 - 16,0 MB/512 MB -  > Processing https://heroesdecavite.es/?na=p&nk=573-ef10431344&nek=88-b01c48a923
+11-02-2025 19:09:08 - DEBUG - 8.7.0 - 16,0 MB/512 MB -  > Source not set
+11-02-2025 19:14:01 - DEBUG - 8.7.0 - 16,0 MB/512 MB -  > Processing https://heroesdecavite.es/?na=p&nk=573-ef10431344&nek=88-b01c48a923
+11-02-2025 19:14:01 - DEBUG - 8.7.0 - 16,0 MB/512 MB -  > Source not set
+11-02-2025 19:27:33 - DEBUG - 8.7.0 - 16,0 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+11-02-2025 19:27:33 - DEBUG - 8.7.0 - 16,0 MB/512 MB -  > Source not set
+11-02-2025 19:57:34 - DEBUG - 8.7.0 - 15,8 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+11-02-2025 19:57:34 - DEBUG - 8.7.0 - 15,8 MB/512 MB -  > Source not set
+11-02-2025 19:58:27 - DEBUG - 8.7.0 - 15,8 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+11-02-2025 19:58:27 - DEBUG - 8.7.0 - 15,8 MB/512 MB -  > Source not set
+11-02-2025 20:16:36 - DEBUG - 8.7.0 - 15,8 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+11-02-2025 20:16:36 - DEBUG - 8.7.0 - 15,8 MB/512 MB -  > Source not set
+11-02-2025 20:24:03 - DEBUG - 8.7.0 - 15,8 MB/512 MB -  > Processing https://hispanidadcartagena.com/
+11-02-2025 20:24:03 - DEBUG - 8.7.0 - 15,8 MB/512 MB -  > Source not set
+11-02-2025 20:37:15 - DEBUG - 8.7.0 - 15,9 MB/512 MB -  > Processing https://hispanidadcartagena.com/
+11-02-2025 20:37:15 - DEBUG - 8.7.0 - 15,9 MB/512 MB -  > Source not set
+11-02-2025 20:38:23 - DEBUG - 8.7.0 - 15,8 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+11-02-2025 20:38:23 - DEBUG - 8.7.0 - 15,8 MB/512 MB -  > Source not set
+11-02-2025 20:51:14 - DEBUG - 8.7.0 - 15,8 MB/512 MB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+11-02-2025 20:51:14 - DEBUG - 8.7.0 - 15,8 MB/512 MB -  > Source not set
+11-02-2025 21:10:27 - DEBUG - 8.7.0 - 15,6 MB/512 MB -  > Processing https://hispanidadcartagena.com/
+11-02-2025 21:10:27 - DEBUG - 8.7.0 - 15,6 MB/512 MB -  > Source not set
+11-02-2025 21:10:27 - DEBUG - 8.7.0 - 15,6 MB/512 MB -  > Processing https://proyectoblanca.com/
+11-02-2025 21:10:27 - DEBUG - 8.7.0 - 15,6 MB/512 MB -  > Source not set
+11-02-2025 21:10:49 - DEBUG - 8.7.0 - 15,6 MB/512 MB -  > Processing https://hispanidadcartagena.com/
+11-02-2025 21:10:49 - DEBUG - 8.7.0 - 15,6 MB/512 MB -  > Source not set
+11-02-2025 21:11:26 - DEBUG - 8.7.0 - 15,6 MB/512 MB -  > Processing https://proyectoblanca.com/
+11-02-2025 21:11:26 - DEBUG - 8.7.0 - 15,6 MB/512 MB -  > Source not set
+11-02-2025 22:57:36 - DEBUG - 8.7.0 - 15,6 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+11-02-2025 22:57:36 - DEBUG - 8.7.0 - 15,6 MB/2 GB -  > Source not set
+11-02-2025 22:57:53 - DEBUG - 8.7.0 - 15,6 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+11-02-2025 22:57:53 - DEBUG - 8.7.0 - 15,6 MB/2 GB -  > Source not set
+11-02-2025 23:49:29 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Processing https://hispanidadcartagena.com/
+11-02-2025 23:49:29 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Source not set
+11-02-2025 23:50:51 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+11-02-2025 23:50:51 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Source not set
+12-02-2025 00:01:09 - DEBUG - 8.7.0 - 15,6 MB/2 GB -  > Processing https://heroesdecavite.es
+12-02-2025 00:01:09 - DEBUG - 8.7.0 - 15,6 MB/2 GB -  > Source not set
+12-02-2025 02:12:29 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Processing https://heroesdecavite.es
+12-02-2025 02:12:29 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Source not set
+12-02-2025 02:12:36 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Processing https://heroesdecavite.es
+12-02-2025 02:12:36 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Source not set
+12-02-2025 03:45:47 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Processing https://heroesdecavite.es
+12-02-2025 03:45:47 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Source not set
+12-02-2025 03:45:49 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Processing https://hispanidadcartagena.com/
+12-02-2025 03:45:49 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Source not set
+12-02-2025 03:45:50 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Processing https://heroesdecavite.es/clases-de-espanol-para-filipinos/
+12-02-2025 03:45:50 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Source not set
+12-02-2025 03:45:51 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Processing https://es.hispanopedia.com/
+12-02-2025 03:45:51 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Source not set
+12-02-2025 03:45:54 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Processing https://proyectoblanca.com/
+12-02-2025 03:45:54 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Source not set
+12-02-2025 03:45:55 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Processing https://helfer-stab.de/
+12-02-2025 03:45:55 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Source not set
+12-02-2025 03:46:00 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+12-02-2025 03:46:00 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Source not set
+12-02-2025 03:46:01 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Processing https://www.facebook.com/profile.php?id=100064089460823
+12-02-2025 03:46:01 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Source not set
+12-02-2025 03:46:02 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Processing https://twitter.com/AchCavite
+12-02-2025 03:46:02 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Source not set
+12-02-2025 03:46:03 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Processing https://www.youtube.com/c/Asociaci%C3%B3nCulturalH%C3%A9roesdeCavite
+12-02-2025 03:46:03 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Source not set
+12-02-2025 03:46:04 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Processing https://www.instagram.com/acheroesdecavite/
+12-02-2025 03:46:04 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Source not set
+12-02-2025 03:46:06 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Processing https://heroesdecavite.es/?na=u&nk=3947-9af6347078&nek=88-b01c48a923
+12-02-2025 03:46:06 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Source not set
+12-02-2025 03:46:07 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Processing https://heroesdecavite.es/?na=p&nk=3947-9af6347078&nek=88-b01c48a923
+12-02-2025 03:46:07 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Source not set
+12-02-2025 03:46:10 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Processing https://heroesdecavite.es/?na=v&nk=3947-9af6347078&id=88
+12-02-2025 03:46:10 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Source not set
+12-02-2025 03:46:14 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Processing https://heroesdecavite.es
+12-02-2025 03:46:14 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Source not set
+12-02-2025 03:46:14 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Processing https://proyectoblanca.com/
+12-02-2025 03:46:14 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Source not set
+12-02-2025 03:46:14 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Processing https://twitter.com/AchCavite
+12-02-2025 03:46:14 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Source not set
+12-02-2025 03:46:15 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Processing https://hispanidadcartagena.com/
+12-02-2025 03:46:15 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Source not set
+12-02-2025 03:46:15 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Processing https://heroesdecavite.es/clases-de-espanol-para-filipinos/
+12-02-2025 03:46:15 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Source not set
+12-02-2025 03:46:15 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Processing https://heroesdecavite.es/?na=u&nk=3947-9af6347078&nek=88-b01c48a923
+12-02-2025 03:46:15 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Source not set
+12-02-2025 03:46:15 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Processing https://helfer-stab.de/
+12-02-2025 03:46:15 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Source not set
+12-02-2025 03:46:15 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Processing https://es.hispanopedia.com/
+12-02-2025 03:46:15 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Source not set
+12-02-2025 03:46:15 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Processing https://heroesdecavite.es/?na=v&nk=3947-9af6347078&id=88
+12-02-2025 03:46:15 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Source not set
+12-02-2025 03:46:15 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Processing https://www.instagram.com/acheroesdecavite/
+12-02-2025 03:46:15 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Source not set
+12-02-2025 03:46:16 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Processing https://heroesdecavite.es/?na=p&nk=3947-9af6347078&nek=88-b01c48a923
+12-02-2025 03:46:16 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Source not set
+12-02-2025 03:46:16 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+12-02-2025 03:46:16 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Source not set
+12-02-2025 03:46:16 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Processing https://www.facebook.com/profile.php?id=100064089460823
+12-02-2025 03:46:16 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Source not set
+12-02-2025 03:46:16 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Processing https://www.youtube.com/c/Asociaci%C3%B3nCulturalH%C3%A9roesdeCavite
+12-02-2025 03:46:16 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Source not set
+12-02-2025 03:47:36 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Processing https://heroesdecavite.es
+12-02-2025 03:47:36 - DEBUG - 8.7.0 - 15,7 MB/2 GB -  > Source not set
+12-02-2025 04:39:59 - DEBUG - 8.7.0 - 15,8 MB/2 GB -  > Processing https://hispanidadcartagena.com/
+12-02-2025 04:39:59 - DEBUG - 8.7.0 - 15,8 MB/2 GB -  > Source not set
+12-02-2025 04:40:27 - DEBUG - 8.7.0 - 15,8 MB/2 GB -  > Processing https://hispanidadcartagena.com/
+12-02-2025 04:40:27 - DEBUG - 8.7.0 - 15,8 MB/2 GB -  > Source not set
+12-02-2025 06:04:05 - DEBUG - 8.7.0 - 16,1 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+12-02-2025 06:04:05 - DEBUG - 8.7.0 - 16,1 MB/2 GB -  > Source not set
+12-02-2025 06:04:38 - DEBUG - 8.7.0 - 16,1 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+12-02-2025 06:04:38 - DEBUG - 8.7.0 - 16,1 MB/2 GB -  > Source not set
+12-02-2025 06:20:34 - DEBUG - 8.7.0 - 16,2 MB/2 GB -  > Processing https://heroesdecavite.es/?na=p&nk=3627-6e5aa373bb&nek=88-b01c48a923
+12-02-2025 06:20:34 - DEBUG - 8.7.0 - 16,2 MB/2 GB -  > Source not set
+12-02-2025 06:21:13 - DEBUG - 8.7.0 - 16,2 MB/2 GB -  > Processing https://heroesdecavite.es/?na=p&nk=3627-6e5aa373bb&nek=88-b01c48a923
+12-02-2025 06:21:13 - DEBUG - 8.7.0 - 16,2 MB/2 GB -  > Source not set
+12-02-2025 07:28:23 - DEBUG - 8.7.0 - 16,7 MB/2 GB -  > Processing https://heroesdecavite.es/?na=p&nk=4123-b4ee80fbad&nek=88-b01c48a923
+12-02-2025 07:28:23 - DEBUG - 8.7.0 - 16,7 MB/2 GB -  > Source not set
+12-02-2025 07:28:53 - DEBUG - 8.7.0 - 16,7 MB/2 GB -  > Processing https://heroesdecavite.es/?na=u&nk=4123-b4ee80fbad&nek=88-b01c48a923
+12-02-2025 07:28:53 - DEBUG - 8.7.0 - 16,7 MB/2 GB -  > Source not set
+12-02-2025 07:30:17 - DEBUG - 8.7.0 - 16,7 MB/2 GB -  > Processing https://heroesdecavite.es
+12-02-2025 07:30:17 - DEBUG - 8.7.0 - 16,7 MB/2 GB -  > Source not set
+12-02-2025 07:34:32 - DEBUG - 8.7.0 - 16,7 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+12-02-2025 07:34:32 - DEBUG - 8.7.0 - 16,7 MB/2 GB -  > Source not set
+12-02-2025 07:41:27 - DEBUG - 8.7.0 - 16,7 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+12-02-2025 07:41:27 - DEBUG - 8.7.0 - 16,7 MB/2 GB -  > Source not set
+12-02-2025 07:41:30 - DEBUG - 8.7.0 - 16,8 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+12-02-2025 07:41:30 - DEBUG - 8.7.0 - 16,8 MB/2 GB -  > Source not set
+12-02-2025 07:41:41 - DEBUG - 8.7.0 - 16,7 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+12-02-2025 07:41:41 - DEBUG - 8.7.0 - 16,7 MB/2 GB -  > Source not set
+12-02-2025 08:03:09 - DEBUG - 8.7.0 - 16,8 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+12-02-2025 08:03:09 - DEBUG - 8.7.0 - 16,8 MB/2 GB -  > Source not set
+12-02-2025 08:21:21 - DEBUG - 8.7.0 - 16,9 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+12-02-2025 08:21:21 - DEBUG - 8.7.0 - 16,9 MB/2 GB -  > Source not set
+12-02-2025 08:38:45 - DEBUG - 8.7.0 - 17,0 MB/2 GB -  > Processing https://es.hispanopedia.com/
+12-02-2025 08:38:45 - DEBUG - 8.7.0 - 17,0 MB/2 GB -  > Source not set
+12-02-2025 08:47:08 - DEBUG - 8.7.0 - 17,3 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+12-02-2025 08:47:08 - DEBUG - 8.7.0 - 17,3 MB/2 GB -  > Source not set
+12-02-2025 09:02:00 - DEBUG - 8.7.0 - 17,4 MB/2 GB -  > Processing https://heroesdecavite.es/clases-de-espanol-para-filipinos/
+12-02-2025 09:02:00 - DEBUG - 8.7.0 - 17,4 MB/2 GB -  > Source not set
+12-02-2025 09:30:14 - DEBUG - 8.7.0 - 17,5 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+12-02-2025 09:30:14 - DEBUG - 8.7.0 - 17,5 MB/2 GB -  > Source not set
+12-02-2025 09:47:49 - DEBUG - 8.7.0 - 17,6 MB/2 GB -  > Processing https://es.hispanopedia.com/
+12-02-2025 09:47:49 - DEBUG - 8.7.0 - 17,6 MB/2 GB -  > Source not set
+12-02-2025 10:08:04 - DEBUG - 8.7.0 - 17,7 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+12-02-2025 10:08:04 - DEBUG - 8.7.0 - 17,7 MB/2 GB -  > Source not set
+12-02-2025 10:09:10 - DEBUG - 8.7.0 - 17,7 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+12-02-2025 10:09:10 - DEBUG - 8.7.0 - 17,7 MB/2 GB -  > Source not set
+12-02-2025 10:28:12 - DEBUG - 8.7.0 - 17,8 MB/2 GB -  > Processing https://heroesdecavite.es/?na=u&nk=4190-7abbd0c2f0&nek=88-b01c48a923
+12-02-2025 10:28:12 - DEBUG - 8.7.0 - 17,8 MB/2 GB -  > Source not set
+12-02-2025 10:31:11 - DEBUG - 8.7.0 - 17,8 MB/2 GB -  > Processing https://heroesdecavite.es/?na=u&nk=4190-7abbd0c2f0&nek=88-b01c48a923
+12-02-2025 10:31:11 - DEBUG - 8.7.0 - 17,8 MB/2 GB -  > Source not set
+12-02-2025 10:34:20 - DEBUG - 8.7.0 - 17,8 MB/2 GB -  > Processing https://heroesdecavite.es/?na=u&nk=4190-7abbd0c2f0&nek=88-b01c48a923
+12-02-2025 10:34:20 - DEBUG - 8.7.0 - 17,8 MB/2 GB -  > Source not set
+12-02-2025 10:41:18 - DEBUG - 8.7.0 - 17,8 MB/2 GB -  > Processing https://es.hispanopedia.com/
+12-02-2025 10:41:18 - DEBUG - 8.7.0 - 17,8 MB/2 GB -  > Source not set
+12-02-2025 10:48:09 - DEBUG - 8.7.0 - 17,9 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+12-02-2025 10:48:09 - DEBUG - 8.7.0 - 17,9 MB/2 GB -  > Source not set
+12-02-2025 10:51:17 - DEBUG - 8.7.0 - 17,9 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+12-02-2025 10:51:17 - DEBUG - 8.7.0 - 17,9 MB/2 GB -  > Source not set
+12-02-2025 11:10:43 - DEBUG - 8.7.0 - 18,0 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+12-02-2025 11:10:43 - DEBUG - 8.7.0 - 18,0 MB/2 GB -  > Source not set
+12-02-2025 11:11:46 - DEBUG - 8.7.0 - 17,9 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+12-02-2025 11:11:46 - DEBUG - 8.7.0 - 17,9 MB/2 GB -  > Source not set
+12-02-2025 11:11:50 - DEBUG - 8.7.0 - 18,0 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+12-02-2025 11:11:50 - DEBUG - 8.7.0 - 18,0 MB/2 GB -  > Source not set
+12-02-2025 11:12:03 - DEBUG - 8.7.0 - 18,0 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+12-02-2025 11:12:03 - DEBUG - 8.7.0 - 18,0 MB/2 GB -  > Source not set
+12-02-2025 11:12:46 - DEBUG - 8.7.0 - 18,0 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+12-02-2025 11:12:46 - DEBUG - 8.7.0 - 18,0 MB/2 GB -  > Source not set
+12-02-2025 11:20:55 - DEBUG - 8.7.0 - 18,0 MB/2 GB -  > Processing https://hispanidadcartagena.com/
+12-02-2025 11:20:55 - DEBUG - 8.7.0 - 18,0 MB/2 GB -  > Source not set
+12-02-2025 12:39:11 - DEBUG - 8.7.0 - 18,3 MB/2 GB -  > Processing https://heroesdecavite.es/?na=v&nk=3983-a5a839a594&id=88
+12-02-2025 12:39:11 - DEBUG - 8.7.0 - 18,3 MB/2 GB -  > Source not set
+12-02-2025 12:52:54 - DEBUG - 8.7.0 - 19,0 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+12-02-2025 12:52:54 - DEBUG - 8.7.0 - 19,0 MB/2 GB -  > Source not set
+12-02-2025 12:55:41 - DEBUG - 8.7.0 - 19,0 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+12-02-2025 12:55:41 - DEBUG - 8.7.0 - 19,0 MB/2 GB -  > Source not set
+12-02-2025 13:06:15 - DEBUG - 8.7.0 - 19,0 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+12-02-2025 13:06:15 - DEBUG - 8.7.0 - 19,0 MB/2 GB -  > Source not set
+12-02-2025 13:15:21 - DEBUG - 8.7.0 - 19,1 MB/2 GB -  > Processing https://proyectoblanca.com/
+12-02-2025 13:15:21 - DEBUG - 8.7.0 - 19,1 MB/2 GB -  > Source not set
+12-02-2025 13:21:06 - DEBUG - 8.7.0 - 19,1 MB/2 GB -  > Processing https://es.hispanopedia.com/
+12-02-2025 13:21:06 - DEBUG - 8.7.0 - 19,1 MB/2 GB -  > Source not set
+12-02-2025 13:29:52 - DEBUG - 8.7.0 - 19,2 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+12-02-2025 13:29:52 - DEBUG - 8.7.0 - 19,2 MB/2 GB -  > Source not set
+12-02-2025 14:02:10 - DEBUG - 8.7.0 - 19,3 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+12-02-2025 14:02:10 - DEBUG - 8.7.0 - 19,3 MB/2 GB -  > Source not set
+12-02-2025 14:23:08 - DEBUG - 8.7.0 - 19,4 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+12-02-2025 14:23:08 - DEBUG - 8.7.0 - 19,4 MB/2 GB -  > Source not set
+12-02-2025 16:12:02 - DEBUG - 8.7.0 - 19,8 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+12-02-2025 16:12:02 - DEBUG - 8.7.0 - 19,8 MB/2 GB -  > Source not set
+12-02-2025 16:12:32 - DEBUG - 8.7.0 - 19,9 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+12-02-2025 16:12:32 - DEBUG - 8.7.0 - 19,9 MB/2 GB -  > Source not set
+12-02-2025 16:29:04 - DEBUG - 8.7.0 - 19,9 MB/2 GB -  > Processing https://es.hispanopedia.com/
+12-02-2025 16:29:04 - DEBUG - 8.7.0 - 19,9 MB/2 GB -  > Source not set
+12-02-2025 17:18:10 - DEBUG - 8.7.0 - 20,1 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+12-02-2025 17:18:10 - DEBUG - 8.7.0 - 20,1 MB/2 GB -  > Source not set
+12-02-2025 17:18:18 - DEBUG - 8.7.0 - 20,2 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+12-02-2025 17:18:18 - DEBUG - 8.7.0 - 20,2 MB/2 GB -  > Source not set
+12-02-2025 17:45:19 - DEBUG - 8.7.0 - 20,3 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+12-02-2025 17:45:19 - DEBUG - 8.7.0 - 20,3 MB/2 GB -  > Source not set
+12-02-2025 18:40:04 - DEBUG - 8.7.0 - 20,6 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+12-02-2025 18:40:04 - DEBUG - 8.7.0 - 20,6 MB/2 GB -  > Source not set
+12-02-2025 18:41:59 - DEBUG - 8.7.0 - 20,5 MB/2 GB -  > Processing https://www.instagram.com/acheroesdecavite/
+12-02-2025 18:41:59 - DEBUG - 8.7.0 - 20,5 MB/2 GB -  > Source not set
+12-02-2025 19:07:41 - DEBUG - 8.7.0 - 20,7 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+12-02-2025 19:07:41 - DEBUG - 8.7.0 - 20,7 MB/2 GB -  > Source not set
+12-02-2025 19:22:38 - DEBUG - 8.7.0 - 20,7 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+12-02-2025 19:22:38 - DEBUG - 8.7.0 - 20,7 MB/2 GB -  > Source not set
+12-02-2025 19:51:43 - DEBUG - 8.7.0 - 20,9 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+12-02-2025 19:51:43 - DEBUG - 8.7.0 - 20,9 MB/2 GB -  > Source not set
+12-02-2025 20:17:34 - DEBUG - 8.7.0 - 21,0 MB/2 GB -  > Processing https://heroesdecavite.es
+12-02-2025 20:17:34 - DEBUG - 8.7.0 - 21,0 MB/2 GB -  > Source not set
+12-02-2025 20:21:40 - DEBUG - 8.7.0 - 21,0 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+12-02-2025 20:21:40 - DEBUG - 8.7.0 - 21,0 MB/2 GB -  > Source not set
+12-02-2025 20:36:17 - DEBUG - 8.7.0 - 21,0 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+12-02-2025 20:36:17 - DEBUG - 8.7.0 - 21,0 MB/2 GB -  > Source not set
+12-02-2025 20:49:49 - DEBUG - 8.7.0 - 21,0 MB/2 GB -  > Processing https://www.instagram.com/acheroesdecavite/
+12-02-2025 20:49:49 - DEBUG - 8.7.0 - 21,0 MB/2 GB -  > Source not set
+12-02-2025 20:54:20 - DEBUG - 8.7.0 - 21,0 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+12-02-2025 20:54:20 - DEBUG - 8.7.0 - 21,0 MB/2 GB -  > Source not set
+12-02-2025 20:58:46 - DEBUG - 8.7.0 - 21,0 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+12-02-2025 20:58:46 - DEBUG - 8.7.0 - 21,0 MB/2 GB -  > Source not set
+12-02-2025 21:19:22 - DEBUG - 8.7.0 - 21,0 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+12-02-2025 21:19:22 - DEBUG - 8.7.0 - 21,0 MB/2 GB -  > Source not set
+12-02-2025 22:02:32 - DEBUG - 8.7.0 - 21,0 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+12-02-2025 22:02:32 - DEBUG - 8.7.0 - 21,0 MB/2 GB -  > Source not set
+12-02-2025 22:12:26 - DEBUG - 8.7.0 - 21,0 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+12-02-2025 22:12:26 - DEBUG - 8.7.0 - 21,0 MB/2 GB -  > Source not set
+12-02-2025 23:42:12 - DEBUG - 8.7.0 - 21,0 MB/2 GB -  > Processing https://heroesdecavite.es/clases-de-espanol-para-filipinos/
+12-02-2025 23:42:12 - DEBUG - 8.7.0 - 21,0 MB/2 GB -  > Source not set
+12-02-2025 23:43:20 - DEBUG - 8.7.0 - 21,0 MB/2 GB -  > Processing https://helfer-stab.de/
+12-02-2025 23:43:20 - DEBUG - 8.7.0 - 21,0 MB/2 GB -  > Source not set
+12-02-2025 23:48:20 - DEBUG - 8.7.0 - 21,0 MB/2 GB -  > Processing https://hispanidadcartagena.com/
+12-02-2025 23:48:20 - DEBUG - 8.7.0 - 21,0 MB/2 GB -  > Source not set
+13-02-2025 08:57:52 - DEBUG - 8.7.0 - 24,4 MB/2 GB -  > Processing https://heroesdecavite.es/?na=v&nk=2374-7cef5bc10a&id=88
+13-02-2025 08:57:52 - DEBUG - 8.7.0 - 24,4 MB/2 GB -  > Source not set
+13-02-2025 11:00:33 - DEBUG - 8.7.0 - 24,9 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+13-02-2025 11:00:33 - DEBUG - 8.7.0 - 24,9 MB/2 GB -  > Source not set
+13-02-2025 13:20:37 - DEBUG - 8.7.0 - 25,4 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+13-02-2025 13:20:37 - DEBUG - 8.7.0 - 25,4 MB/2 GB -  > Source not set
+13-02-2025 16:08:45 - DEBUG - 8.7.0 - 26,1 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+13-02-2025 16:08:45 - DEBUG - 8.7.0 - 26,1 MB/2 GB -  > Source not set
+13-02-2025 16:13:41 - DEBUG - 8.7.0 - 26,1 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+13-02-2025 16:13:41 - DEBUG - 8.7.0 - 26,1 MB/2 GB -  > Source not set
+13-02-2025 16:21:28 - DEBUG - 8.7.0 - 26,1 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+13-02-2025 16:21:28 - DEBUG - 8.7.0 - 26,1 MB/2 GB -  > Source not set
+13-02-2025 16:24:22 - DEBUG - 8.7.0 - 26,1 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+13-02-2025 16:24:22 - DEBUG - 8.7.0 - 26,1 MB/2 GB -  > Source not set
+13-02-2025 17:10:15 - DEBUG - 8.7.0 - 26,3 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+13-02-2025 17:10:15 - DEBUG - 8.7.0 - 26,3 MB/2 GB -  > Source not set
+13-02-2025 17:31:30 - DEBUG - 8.7.0 - 26,3 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+13-02-2025 17:31:30 - DEBUG - 8.7.0 - 26,3 MB/2 GB -  > Source not set
+13-02-2025 18:06:05 - DEBUG - 8.7.0 - 26,3 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+13-02-2025 18:06:05 - DEBUG - 8.7.0 - 26,3 MB/2 GB -  > Source not set
+13-02-2025 18:09:25 - DEBUG - 8.7.0 - 26,3 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+13-02-2025 18:09:25 - DEBUG - 8.7.0 - 26,3 MB/2 GB -  > Source not set
+13-02-2025 18:29:39 - DEBUG - 8.7.0 - 26,3 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+13-02-2025 18:29:39 - DEBUG - 8.7.0 - 26,3 MB/2 GB -  > Source not set
+13-02-2025 19:05:28 - DEBUG - 8.7.0 - 26,3 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+13-02-2025 19:05:28 - DEBUG - 8.7.0 - 26,3 MB/2 GB -  > Source not set
+13-02-2025 19:36:29 - DEBUG - 8.7.0 - 26,3 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+13-02-2025 19:36:29 - DEBUG - 8.7.0 - 26,3 MB/2 GB -  > Source not set
+13-02-2025 19:46:55 - DEBUG - 8.7.0 - 26,3 MB/2 GB -  > Processing https://es.hispanopedia.com/
+13-02-2025 19:46:55 - DEBUG - 8.7.0 - 26,3 MB/2 GB -  > Source not set
+13-02-2025 22:06:40 - DEBUG - 8.7.0 - 26,4 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+13-02-2025 22:06:40 - DEBUG - 8.7.0 - 26,4 MB/2 GB -  > Source not set
+13-02-2025 23:20:18 - DEBUG - 8.7.0 - 26,3 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+13-02-2025 23:20:18 - DEBUG - 8.7.0 - 26,3 MB/2 GB -  > Source not set
+14-02-2025 00:00:42 - DEBUG - 8.7.0 - 26,3 MB/2 GB -  > Processing https://heroesdecavite.es/3-edicion-del-curso-historia-practica-de-espana/
+14-02-2025 00:00:42 - DEBUG - 8.7.0 - 26,3 MB/2 GB -  > Domain: heroesdecavite.es
+14-02-2025 00:06:23 - DEBUG - 8.7.0 - 26,3 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+14-02-2025 00:06:23 - DEBUG - 8.7.0 - 26,3 MB/2 GB -  > Source not set
+14-02-2025 00:06:46 - DEBUG - 8.7.0 - 26,4 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+14-02-2025 00:06:46 - DEBUG - 8.7.0 - 26,4 MB/2 GB -  > Source not set
+14-02-2025 10:47:08 - DEBUG - 8.7.0 - 31,0 MB/2 GB -  > Processing https://hispanidadcartagena.com/
+14-02-2025 10:47:08 - DEBUG - 8.7.0 - 31,0 MB/2 GB -  > Source not set
+14-02-2025 12:50:06 - DEBUG - 8.7.0 - 31,4 MB/2 GB -  > Processing https://heroesdecavite.es/?na=p&nk=3140-a764a7996b&nek=88-b01c48a923
+14-02-2025 12:50:06 - DEBUG - 8.7.0 - 31,4 MB/2 GB -  > Source not set
+15-02-2025 03:42:28 - DEBUG - 8.7.0 - 32,4 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+15-02-2025 03:42:28 - DEBUG - 8.7.0 - 32,4 MB/2 GB -  > Source not set
+15-02-2025 20:09:32 - DEBUG - 8.7.0 - 35,3 MB/2 GB -  > Processing https://heroesdecavite.es/?na=u&nk=445-4664dfdc7a&nek=88-b01c48a923
+15-02-2025 20:09:32 - DEBUG - 8.7.0 - 35,3 MB/2 GB -  > Source not set
+16-02-2025 07:13:59 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+16-02-2025 07:13:59 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Source not set
+16-02-2025 19:48:13 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Processing https://es.hispanopedia.com/
+16-02-2025 19:48:13 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Source not set
+17-02-2025 04:17:53 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+17-02-2025 04:17:53 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Source not set
+17-02-2025 04:17:54 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+17-02-2025 04:17:54 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Source not set
+17-02-2025 04:18:12 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+17-02-2025 04:18:12 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Source not set
+17-02-2025 04:22:25 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Processing https://heroesdecavite.es/videos/
+17-02-2025 04:22:25 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Domain: heroesdecavite.es
+17-02-2025 04:22:27 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Processing https://heroesdecavite.es/videos/
+17-02-2025 04:22:27 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Domain: heroesdecavite.es
+17-02-2025 14:28:25 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Processing https://heroesdecavite.es/?na=p&nk=4200-3296cd1afb&nek=88-b01c48a923
+17-02-2025 14:28:25 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Source not set
+17-02-2025 15:04:31 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+17-02-2025 15:04:31 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Source not set
+17-02-2025 15:23:20 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+17-02-2025 15:23:20 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Source not set
+17-02-2025 18:35:11 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+17-02-2025 18:35:11 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > Source not set
+18-02-2025 10:15:05 - INFO  - 8.7.0 - 135,8 MB/ - [cron] > Weekly check for analytics
+18-02-2025 11:08:21 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Processing https://heroesdecavite.es
+18-02-2025 11:08:21 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Source not set
+18-02-2025 18:49:38 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+18-02-2025 18:49:38 - DEBUG - 8.7.0 - 15,1 MB/2 GB -  > Source not set
+18-02-2025 18:54:18 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+18-02-2025 18:54:18 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Source not set
+19-02-2025 18:50:28 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+19-02-2025 18:50:28 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Source not set
+19-02-2025 20:21:49 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+19-02-2025 20:21:49 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Source not set
+19-02-2025 20:45:29 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Processing https://heroesdecavite.es/clases-de-espanol-para-filipinos/
+19-02-2025 20:45:29 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Source not set
+24-02-2025 22:38:34 - DEBUG - 8.7.0 - 15,8 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+24-02-2025 22:38:34 - DEBUG - 8.7.0 - 15,8 MB/2 GB -  > Source not set
+25-02-2025 10:15:14 - INFO  - 8.7.0 - 135,8 MB/ - [cron] > Weekly check for analytics
+25-02-2025 19:08:36 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+25-02-2025 19:08:36 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Source not set
+26-02-2025 09:25:57 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Processing https://heroesdecavite.es/formulario-de-registro-de-socios/
+26-02-2025 09:25:57 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Source not set
+27-02-2025 14:45:23 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Processing https://heroesdecavite.es/clases-de-espanol-para-filipinos/
+27-02-2025 14:45:23 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Source not set
+27-02-2025 14:47:17 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Processing https://proyectoblanca.com/
+27-02-2025 14:47:17 - DEBUG - 8.7.0 - 15,2 MB/2 GB -  > Source not set

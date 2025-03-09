@@ -1,0 +1,10 @@
+22-11-2023 10:57:03 - INFO  - 8.0.4 - 6.2 MB/256 MB - Eduardo > Array
+(
+    [`hero_newsletter_forms`] => Created table `hero_newsletter_forms`
+)
+
+22-11-2023 12:20:33 - INFO  - 8.0.4 - 17.6 MB/256 MB -  > Array
+(
+    [`hero_newsletter_forms`] => Created table `hero_newsletter_forms`
+)
+

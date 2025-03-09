@@ -1,0 +1,71 @@
+# 🔹 Ignorar archivos de sistema y ocultos
+.DS_Store
+Thumbs.db
+*.log
+*.bak
+*.swp
+*.swo
+*.swn
+*.sublime-project
+*.sublime-workspace
+*.vscode/
+
+# 🔹 Ignorar WordPress Core (si lo gestionas con Composer o WP-CLI)
+#wp-admin/
+#wp-includes/
+readme.html
+license.txt
+
+# 🔹 Ignorar archivos de configuración sensibles
+wp-config.php
+wp-config-sample.php
+wp-content/advanced-cache.php
+wp-content/wp-cache-config.php
+wp-content/debug.log
+.htaccess
+
+# 🔹 Ignorar plugins y temas (opcional, si no los manejas con Git)
+#wp-content/plugins/
+#wp-content/mu-plugins/
+#wp-content/themes/twentytwenty*/
+
+# 🔹 Permitir tu propio tema y plugins personalizados (descomentar si los versionas)
+# !wp-content/plugins/mi-plugin-personalizado/
+# !wp-content/themes/mi-tema-personalizado/
+
+# 🔹 Ignorar subidas y caché
+wp-content/uploads/
+wp-content/cache/
+wp-content/backup-db/
+wp-content/upgrade/
+
+# 🔹 Ignorar dependencias de herramientas
+node_modules/
+vendor/
+composer.lock
+package-lock.json
+yarn.lock
+
+# 🔹 Ignorar bases de datos locales y exportaciones
+*.sql
+*.sqlite
+*.db
+*.db-journal
+*.tar.gz
+*.zip
+*.gz
+*.rar
+*.7z
+
+# 🔹 Ignorar archivos de compilación (para themes/plugins personalizados)
+*.sass-cache/
+*.map
+*.min.css
+*.min.js
+dist/
+build/
+
+.idea*
+firma/
+borrador/
+*.iml

@@ -1,0 +1,69 @@
+.ova_info {
+	h3, h4 {
+		margin: 0px;
+	}
+	h3.title {
+		font-size: 20px;
+		line-height: 24px;
+		color: #25282e;
+		
+	}
+	h4.sub-title {
+		font-size: 17px;
+		line-height: 1.2;
+		
+		margin-bottom: 11px;
+	}
+	.ova_info_staff {
+		text-align: center;
+		h3.title {
+			margin-bottom: 3px;
+		}
+		h4.sub-title {
+			margin-bottom: 11px;
+			color: #555555;
+			font-family: archivo;
+			line-height: 24px;
+			font-weight: 400;
+			letter-spacing: 0.2px;
+		}
+		.info-contact {
+			a {
+				font-size: 17px;
+				line-height: 1.2;
+				color: #777777;
+			}
+			a.email {
+				position: relative;
+				&:after {
+					position: absolute;
+					content: "";
+					width: 100%;
+					height: 1px;
+					background-color: #b1b1b1;
+					bottom: -2px;
+					left: 0px;
+				}
+			}
+		}
+	}
+	.ova_info_contact {
+		text-align: left;
+		h3.title {
+			margin-bottom: 12px;
+		}
+		h4.sub-title {
+			margin-bottom: 25px;
+			color: #777777;
+		}
+		.info-contact {
+			a {
+				font-size: 17px;
+				line-height: 24px;
+				color: #777777;
+				display: block;
+			}
+
+		}
+	}
+}

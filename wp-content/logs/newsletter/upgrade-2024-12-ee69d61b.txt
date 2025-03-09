@@ -1,0 +1,116 @@
+03-12-2024 09:59:47 - INFO  - 8.6.4 - 17,9 MB/512 MB -  > Start upgrade from 8.6.3
+03-12-2024 09:59:47 - INFO  - 8.6.4 - 21,3 MB/512 MB -  > Array
+(
+    [`hero_newsletter_emails`] => Created table `hero_newsletter_emails`
+)
+
+03-12-2024 09:59:47 - INFO  - 8.6.4 - 21,3 MB/512 MB -  > Array
+(
+    [`hero_newsletter_sent`] => Created table `hero_newsletter_sent`
+)
+
+03-12-2024 09:59:47 - INFO  - 8.6.4 - 21,3 MB/512 MB -  > Array
+(
+    [`hero_newsletter`] => Created table `hero_newsletter`
+)
+
+03-12-2024 09:59:47 - INFO  - 8.6.4 - 21,3 MB/512 MB -  > Array
+(
+    [`hero_newsletter_user_logs`] => Created table `hero_newsletter_user_logs`
+)
+
+03-12-2024 09:59:47 - INFO  - 8.6.4 - 21,3 MB/512 MB -  > Array
+(
+    [`hero_newsletter_user_meta`] => Created table `hero_newsletter_user_meta`
+)
+
+03-12-2024 09:59:47 - INFO  - 8.6.4 - 21,3 MB/512 MB -  > Array
+(
+    [`hero_newsletter_stats`] => Created table `hero_newsletter_stats`
+)
+
+03-12-2024 09:59:47 - INFO  - 8.6.4 - 21,3 MB/512 MB -  > Array
+(
+    [`hero_newsletter_logs`] => Created table `hero_newsletter_logs`
+    [hero_newsletter_logs.status] => Changed type of hero_newsletter_logs.status from int(11) to int
+)
+
+03-12-2024 09:59:47 - INFO  - 8.6.4 - 21,3 MB/512 MB -  > Backing up options of 8.6.3
+03-12-2024 09:59:47 - INFO  - 8.6.4 - 21,5 MB/512 MB -  > End
+03-12-2024 09:59:47 - INFO  - 8.6.4 - 17,8 MB/512 MB -  > Start upgrade from 8.6.3
+03-12-2024 09:59:47 - INFO  - 8.6.4 - 21,3 MB/512 MB -  > Array
+(
+    [`hero_newsletter_emails`] => Created table `hero_newsletter_emails`
+)
+
+03-12-2024 09:59:47 - INFO  - 8.6.4 - 21,3 MB/512 MB -  > Array
+(
+    [`hero_newsletter_sent`] => Created table `hero_newsletter_sent`
+)
+
+03-12-2024 09:59:47 - INFO  - 8.6.4 - 21,3 MB/512 MB -  > Array
+(
+    [`hero_newsletter`] => Created table `hero_newsletter`
+)
+
+03-12-2024 09:59:47 - INFO  - 8.6.4 - 21,3 MB/512 MB -  > Array
+(
+    [`hero_newsletter_user_logs`] => Created table `hero_newsletter_user_logs`
+)
+
+03-12-2024 09:59:47 - INFO  - 8.6.4 - 21,3 MB/512 MB -  > Array
+(
+    [`hero_newsletter_user_meta`] => Created table `hero_newsletter_user_meta`
+)
+
+03-12-2024 09:59:47 - INFO  - 8.6.4 - 21,3 MB/512 MB -  > Array
+(
+    [`hero_newsletter_stats`] => Created table `hero_newsletter_stats`
+)
+
+03-12-2024 09:59:47 - INFO  - 8.6.4 - 21,3 MB/512 MB -  > Array
+(
+    [`hero_newsletter_logs`] => Created table `hero_newsletter_logs`
+    [hero_newsletter_logs.status] => Changed type of hero_newsletter_logs.status from int(11) to int
+)
+
+03-12-2024 09:59:47 - INFO  - 8.6.4 - 21,3 MB/512 MB -  > Deleting settings backup newsletter_backup_8.5.6
+03-12-2024 09:59:47 - INFO  - 8.6.4 - 21,3 MB/512 MB -  > End
+03-12-2024 09:59:50 - INFO  - 8.6.4 - 18,0 MB/512 MB -  > Start upgrade from 8.6.3
+03-12-2024 09:59:50 - INFO  - 8.6.4 - 21,5 MB/512 MB -  > Array
+(
+    [`hero_newsletter_emails`] => Created table `hero_newsletter_emails`
+)
+
+03-12-2024 09:59:50 - INFO  - 8.6.4 - 21,5 MB/512 MB -  > Array
+(
+    [`hero_newsletter_sent`] => Created table `hero_newsletter_sent`
+)
+
+03-12-2024 09:59:50 - INFO  - 8.6.4 - 21,5 MB/512 MB -  > Array
+(
+    [`hero_newsletter`] => Created table `hero_newsletter`
+)
+
+03-12-2024 09:59:50 - INFO  - 8.6.4 - 21,5 MB/512 MB -  > Array
+(
+    [`hero_newsletter_user_logs`] => Created table `hero_newsletter_user_logs`
+)
+
+03-12-2024 09:59:50 - INFO  - 8.6.4 - 21,5 MB/512 MB -  > Array
+(
+    [`hero_newsletter_user_meta`] => Created table `hero_newsletter_user_meta`
+)
+
+03-12-2024 09:59:50 - INFO  - 8.6.4 - 21,5 MB/512 MB -  > Array
+(
+    [`hero_newsletter_stats`] => Created table `hero_newsletter_stats`
+)
+
+03-12-2024 09:59:50 - INFO  - 8.6.4 - 21,4 MB/512 MB -  > Array
+(
+    [`hero_newsletter_logs`] => Created table `hero_newsletter_logs`
+    [hero_newsletter_logs.status] => Changed type of hero_newsletter_logs.status from int(11) to int
+)
+
+03-12-2024 09:59:50 - INFO  - 8.6.4 - 21,5 MB/512 MB -  > End

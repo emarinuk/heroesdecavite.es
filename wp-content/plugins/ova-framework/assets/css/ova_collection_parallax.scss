@@ -1,0 +1,146 @@
+.ova-collection-parallax {
+	background-color: #f8f8f8;
+	h2, p {
+		margin: 0px;
+	}
+	.item-collection {
+		display: flex;
+		flex-wrap: wrap;
+		.image-box {
+			min-height: 655px;
+			flex: 0 0 50%;
+			background-position: center center;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.content {
+			flex: 0 0 640px;
+			flex-wrap: wrap;
+			display: flex;
+			align-content: center;
+			
+			.title, .date, .desc, .readmore {
+				flex: 0 0 100%;
+			}
+			h2.title {
+				a {
+					font-size: 50px;
+					line-height: 60px;
+					color: #25282e;
+					transition: 0.4s;
+					&:hover {
+						color: #c1b696;
+					}
+				}
+			}
+			.date {
+				margin-top: 22px;
+				p {
+					font-size: 20px;
+					line-height: 22px;
+					color: #555555;
+				}
+			}
+			.desc {
+				margin-top: 36px;
+				p {
+					font-size: 18px;
+					line-height: 28px;
+					color: #777777;
+				}
+			}
+			.readmore {
+				margin-top: 40px;
+				a {
+					display: inline-block;
+					font-size: 16px;
+					line-height: 22px;
+					color: #25282e;
+					padding: 12px 39px 11px 39px;
+					background-color: #ffea01;
+					font-weight: 500;
+					transition: 0.4s;
+					&:hover {
+						background-color: #c1b696;
+					}
+				}
+			}
+		}
+		&.odd {
+			.content {
+				padding-left: 80px;
+			}
+		}
+		&.even {
+			flex-direction: row-reverse;
+			.content {
+				justify-content: end;
+				padding-right: 80px;
+			}
+		}
+	}
+}
+
+@media (max-width: 1300px) {
+	.ova-collection-parallax {
+		.item-collection {
+			.content {
+				flex: 0 0 50%;
+			}
+			&.even {
+				.content {
+					padding-left: 40px;
+					padding-right: 40px;
+				}
+			}
+		}
+	}
+}
+
+@media (max-width: 1024px) {
+	.ova-collection-parallax {
+		.item-collection {
+			&.odd {
+				.content {
+					padding-right: 40px;
+					padding-left: 40px;
+				}
+			}
+		}
+	}
+}
+
+@media (max-width: 767px) {
+	.ova-collection-parallax {
+		padding-left: 10px;
+		padding-right: 10px;
+		.item-collection {
+			.image-box {
+				flex: 0 0 100%;
+			}
+			.content {
+				flex: 0 0 100%;
+				padding: 40px 0px;
+				padding-left: 0px;
+				h2.title {
+					a {
+						font-size: 40px;
+						line-height: 50px;
+					}
+				}
+			}
+			&.odd {
+				.content {
+					padding-left: 0px;
+					padding-right: 0px;
+				}
+			}
+			&.even {
+				.content {
+					padding-right: 0px;
+					padding-left: 0px;
+				}
+			}
+		}
+	}
+}

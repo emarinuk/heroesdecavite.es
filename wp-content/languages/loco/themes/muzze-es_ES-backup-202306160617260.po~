@@ -1,0 +1,594 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Muzze\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-15 10:09+0000\n"
+"PO-Revision-Date: 2023-06-16 06:16+0000\n"
+"Last-Translator: Rafael Minuesa\n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: muzze"
+
+#: content/define_blocks_content.php:95
+msgid " 0 comment"
+msgstr "0 comentarios"
+
+#: content/define_blocks_content.php:96
+msgid " 1 comment"
+msgstr "1 comentario"
+
+#: comments.php:9
+msgid "% Comments"
+msgstr "% comentarios"
+
+#: comments.php:25
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarios antiguos"
+
+#: content/define_blocks_content.php:271
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: comments.php:9
+msgid "0 Comments"
+msgstr "0 comentarios"
+
+#: comments.php:9
+msgid "1 Comment"
+msgstr "1 comentario"
+
+#: customize/render-style.php:47 customize/render-style.php:48
+msgctxt ": on or off"
+msgid "on"
+msgstr ""
+
+#: inc/init.php:105
+msgid "</ul></div>"
+msgstr ""
+
+#. Author of the theme
+msgid "<a href=\"https://themeforest.net/user/ovatheme\">Ovatheme</a>"
+msgstr ""
+
+#: inc/init.php:69
+msgid "<div class=\"blog_pagination\"><ul class=\"pagination\">"
+msgstr ""
+
+#: inc/init.php:82 inc/init.php:95
+msgid "<li><span class=\"pagi_dots\">...</span></li>"
+msgstr ""
+
+#: content/post-default.php:87
+msgid "About Author"
+msgstr "Acerca del autor"
+
+#: inc/ova_walker_nav_menu.php:197
+msgid "Add a menu"
+msgstr ""
+
+#: comments.php:39
+msgid "Add Your Comment"
+msgstr "Añada su comentario"
+
+#: customize/class-customize.php:516
+msgid "Archive"
+msgstr "Archivp"
+
+#: extend/breadcrumbs.php:56
+msgid "Archive by date"
+msgstr ""
+
+#: extend/breadcrumbs.php:61
+msgid "Archive by month"
+msgstr ""
+
+#: extend/breadcrumbs.php:118
+msgid "Archive by tag"
+msgstr ""
+
+#: extend/breadcrumbs.php:65
+msgid "Archive by year"
+msgstr ""
+
+#: extend/breadcrumbs.php:122
+msgid "Articles posted by"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:45
+msgid "Awaiting product image"
+msgstr ""
+
+#: single.php:4
+msgid "Back to all Post"
+msgstr ""
+
+#: customize/class-customize.php:511 extend/breadcrumbs.php:124
+#: inc/init.php:241
+msgid "Blog"
+msgstr ""
+
+#: customize/class-customize.php:642
+msgid "Blog  Sub Title Header"
+msgstr ""
+
+#: customize/class-customize.php:627
+msgid "Blog Title Header"
+msgstr ""
+
+#: inc/class_hook.php:401
+msgid "Boxed"
+msgstr ""
+
+#: customize/class-customize.php:425
+msgid "Boxed Container Width (px)"
+msgstr ""
+
+#: customize/class-customize.php:441
+msgid "Boxed Offset (px)"
+msgstr ""
+
+#: content/define_blocks_content.php:60
+msgid "by"
+msgstr "por"
+
+#: content/define_blocks_content.php:152
+msgid "Categories: "
+msgstr "Categorías:"
+
+#: customize/class-customize.php:537
+msgid "Classic"
+msgstr ""
+
+#: comments.php:24
+msgid "Comment navigation"
+msgstr ""
+
+#: content/define_blocks_content.php:99
+msgid "Comment off"
+msgstr ""
+
+#: content/define_blocks_content.php:97
+msgid "comments"
+msgstr ""
+
+#: comments.php:31
+msgid "Comments are closed."
+msgstr ""
+
+#: install_resource/active_plugins.php:65
+msgid "Contact Form 7"
+msgstr ""
+
+#: customize/class-customize.php:165
+msgid "Content Color"
+msgstr ""
+
+#: install_resource/active_plugins.php:102
+msgid "Cubeportfolio"
+msgstr ""
+
+#: customize/class-customize.php:275 customize/class-customize.php:287
+#: customize/class-customize.php:304
+msgid "Custom Font"
+msgstr ""
+
+#: customize/class-customize.php:536 inc/class_hook.php:273
+#: inc/class_hook.php:304
+msgid "Default"
+msgstr ""
+
+#: footer/footer-default.php:4
+msgid "Design and Develop by Ovatheme"
+msgstr ""
+
+#: customize/class-customize.php:966
+msgid "Detail"
+msgstr ""
+
+#: install_resource/active_plugins.php:96
+msgid "Donations"
+msgstr ""
+
+#: install_resource/active_plugins.php:60
+msgid "Elementor"
+msgstr ""
+
+#: comments.php:42
+msgid "Email"
+msgstr ""
+
+#: customize/class-customize.php:144
+msgid "Example: 0px, 0.5em"
+msgstr ""
+
+#: customize/class-customize.php:105
+msgid "Example: 16px, 1.2em"
+msgstr ""
+
+#: customize/class-customize.php:124
+msgid "Example: 28px, 1.6em"
+msgstr ""
+
+#: customize/class-customize.php:202
+msgid "Font"
+msgstr ""
+
+#: customize/class-customize.php:104
+msgid "Font Size"
+msgstr ""
+
+#: customize/class-customize.php:482 customize/class-customize.php:610
+#: customize/class-customize.php:718 customize/class-customize.php:906
+msgid "Footer"
+msgstr ""
+
+#: customize/class-customize.php:922
+msgid "Footer Archive"
+msgstr ""
+
+#: customize/class-customize.php:496
+msgid "Footer Default"
+msgstr ""
+
+#: customize/class-customize.php:940
+msgid "Footer Single"
+msgstr ""
+
+#: customize/class-customize.php:228
+msgid "General Color"
+msgstr ""
+
+#: customize/class-customize.php:66
+msgid "General Typo"
+msgstr ""
+
+#: 404.php:9
+msgid "GO BACK HOME"
+msgstr ""
+
+#: customize/class-customize.php:538
+msgid "Grid"
+msgstr ""
+
+#: customize/class-customize.php:539
+msgid "Grid Sidebar"
+msgstr ""
+
+#: customize/class-customize.php:454 customize/class-customize.php:593
+#: customize/class-customize.php:701 customize/class-customize.php:864
+msgid "Header"
+msgstr ""
+
+#: customize/class-customize.php:879
+msgid "Header Archive"
+msgstr ""
+
+#: customize/class-customize.php:854
+msgid "Header Catalog Background Image"
+msgstr ""
+
+#: customize/class-customize.php:468
+msgid "Header Default"
+msgstr ""
+
+#: customize/class-customize.php:896
+msgid "Header Single"
+msgstr ""
+
+#: extend/breadcrumbs.php:13 extend/breadcrumbs.php:25 inc/init.php:233
+#: inc/init.php:237
+msgid "Home"
+msgstr ""
+
+#. URI of the theme
+msgid "https://themeforest.net/user/ovatheme/portfolio"
+msgstr ""
+
+#: content/define_blocks_content.php:68
+msgid "in"
+msgstr "en"
+
+#: 404.php:8
+msgid ""
+"It looks like nothing was found at this location. Click the button below to "
+"return home."
+msgstr ""
+
+#: content/content-none.php:17
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: customize/class-customize.php:745
+msgid "Language"
+msgstr ""
+
+#: customize/class-customize.php:732
+msgid "Language Countdown"
+msgstr ""
+
+#: customize/class-customize.php:322 customize/class-customize.php:357
+#: customize/class-customize.php:553 customize/class-customize.php:665
+msgid "Layout"
+msgstr ""
+
+#: customize/class-customize.php:821
+msgid "Layout Archive"
+msgstr ""
+
+#: inc/class_hook.php:337
+msgid "Left Sidebar"
+msgstr ""
+
+#: customize/class-customize.php:143
+msgid "Letter Spacing"
+msgstr ""
+
+#: customize/class-customize.php:123
+msgid "Line height"
+msgstr ""
+
+#: customize/custom-control/google-font.php:120
+msgid "Load Font Weight"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:31
+msgid "Login"
+msgstr ""
+
+#: inc/init.php:299
+msgid "Logo Default"
+msgstr ""
+
+#: install_resource/active_plugins.php:85
+msgid "Mailchimp"
+msgstr ""
+
+#: extend/register_menu_widget.php:16 extend/register_menu_widget.php:18
+msgid "Main Sidebar"
+msgstr ""
+
+#: install_resource/active_plugins.php:75
+msgid "Metabox"
+msgstr ""
+
+#. Name of the theme
+msgid "Muzze"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Muzze is a modernized take on an ever-popular WordPress. It has custom color "
+"options with beautiful default color schemes, a harmonious fluid grid using "
+"a mobile-first approach, and impeccable polish in every detail. Muzze will "
+"make your WordPress look beautiful everywhere. Created by <a href=\"https:"
+"//themeforest.net/user/ovatheme\">Ovatheme</a>"
+msgstr ""
+
+#: comments.php:41
+msgid "Name"
+msgstr "Nombre"
+
+#: comments.php:26
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: customize/class-customize.php:343
+msgid "No"
+msgstr ""
+
+#: inc/class_hook.php:335
+msgid "No Sidebar"
+msgstr ""
+
+#: content/content-none.php:2
+msgid "Nothing Found"
+msgstr ""
+
+#: 404.php:7
+msgid "Ohh! Page Not Found"
+msgstr ""
+
+#: install_resource/active_plugins.php:91
+msgid "One click demo import"
+msgstr ""
+
+#: install_resource/active_plugins.php:116
+msgid "OvaTheme Collections"
+msgstr ""
+
+#: install_resource/active_plugins.php:124
+msgid "OvaTheme Events"
+msgstr ""
+
+#: install_resource/active_plugins.php:132
+msgid "OvaTheme Exhibition"
+msgstr ""
+
+#: install_resource/active_plugins.php:108
+msgid "OvaTheme Framework"
+msgstr ""
+
+#: install_resource/active_plugins.php:148
+msgid "OvaTheme Manage Ticket"
+msgstr ""
+
+#: install_resource/active_plugins.php:140
+msgid "OvaTheme MegaMenu"
+msgstr ""
+
+#: content/content-page.php:21
+msgid "Page"
+msgstr ""
+
+#: 404.php:6
+msgid "Page Not Found"
+msgstr ""
+
+#: content/content-page.php:17 content/define_blocks_content.php:113
+msgid "Pages:"
+msgstr ""
+
+#: comments.php:46
+msgid "Post Comment"
+msgstr "Enviar comentario"
+
+#: customize/class-customize.php:337
+msgid "Preload"
+msgstr ""
+
+#: customize/class-customize.php:249
+msgid "Primary color"
+msgstr ""
+
+#: customize/class-customize.php:82
+msgid "Primary Font"
+msgstr ""
+
+#: extend/register_menu_widget.php:6
+msgid "Primary Menu"
+msgstr ""
+
+#: content/define_blocks_content.php:133
+msgid "Read More"
+msgstr "Leer más"
+
+#: content/content-none.php:8
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:34
+msgid "Register"
+msgstr "Registrarse"
+
+#: inc/class_hook.php:336
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/init.php:245
+msgid "Search"
+msgstr "Buscar"
+
+#: extend/breadcrumbs.php:80
+msgid "Search results for"
+msgstr "Resultados de la búsqueda para"
+
+#: search.php:8
+msgid "Search Results for: "
+msgstr "Resultados de la búsqueda para:"
+
+#: customize/class-customize.php:187
+msgid "Second Font"
+msgstr ""
+
+#: content/define_blocks_content.php:184
+msgid "Share"
+msgstr "Compartir"
+
+#: content/define_blocks_content.php:159
+msgid "Share: "
+msgstr "Compartir"
+
+#: customize/class-customize.php:374 customize/class-customize.php:570
+#: customize/class-customize.php:682 customize/class-customize.php:838
+msgid "Sidebar Width (px)"
+msgstr ""
+
+#: customize/class-customize.php:650
+msgid "Single"
+msgstr ""
+
+#: content/content-none.php:12
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Lo sentimos, pero nada coincide con esos términos de búsqueda. Vuelva a "
+"intentarlo con algunas palabras clave diferentes."
+
+#: page.php:10
+msgid "Sorry, no pages matched your criteria."
+msgstr ""
+
+#: customize/class-customize.php:305
+msgid ""
+"Step 1: Insert font-face in style.css file: Refer https://www.w3schools."
+"com/cssref/css3_pr_font-face_rule.asp. Step 2: Insert font-family and font-"
+"weight like format: \n"
+"\t\t\t\t\t\t[\"Perpetua\", \"Regular:Bold:Italic:Light\"] | [\"Name-Font\", "
+"\"Regular:Bold:Italic:Light\"]. Step 3: Refresh customize page to display "
+"new font in dropdown font field."
+msgstr ""
+
+#: inc/init.php:253
+msgid "Tags"
+msgstr ""
+
+#: content/define_blocks_content.php:145 content/define_blocks_content.php:176
+msgid "Tags: "
+msgstr ""
+
+#: customize/class-customize.php:469 customize/class-customize.php:497
+msgid "This isn't effect in Blog"
+msgstr ""
+
+#: header/header-default.php:13
+msgid "Toggle navigation"
+msgstr ""
+
+#: customize/class-customize.php:531
+msgid "Type"
+msgstr "Tipo"
+
+#: customize/class-customize.php:49
+msgid "Typography"
+msgstr ""
+
+#: inc/class_hook.php:400
+msgid "Wide"
+msgstr ""
+
+#: install_resource/active_plugins.php:70
+msgid "Widget importer exporter"
+msgstr ""
+
+#: customize/class-customize.php:391
+msgid "Width Content (px)"
+msgstr ""
+
+#: customize/class-customize.php:408
+msgid "Width Site"
+msgstr ""
+
+#: install_resource/active_plugins.php:80
+msgid "Woocommerce"
+msgstr ""
+
+#: extend/register_menu_widget.php:29 extend/register_menu_widget.php:31
+msgid "Woocommerce Sidebar"
+msgstr ""
+
+#: customize/class-customize.php:342
+msgid "Yes"
+msgstr "Si"
+
+#: extend/breadcrumbs.php:126
+msgid "You got it Error 404 not Found"
+msgstr ""
+
+#: comments.php:45
+msgid "Your comment"
+msgstr "Su comentario"
+
+#: content/define_blocks_content.php:278
+msgid "Your comment is awaiting moderation."
+msgstr "Su comentario está pendiente de moderación."

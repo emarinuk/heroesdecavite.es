@@ -1,0 +1,46 @@
+01-11-2024 10:17:05 - DEBUG - 8.6.0 - 14,3 MB/512 MB -  > Logged in user: Eduardo
+01-11-2024 10:17:05 - DEBUG - 8.6.0 - 14,3 MB/512 MB -  > Logged in user was not waiting for confirmation
+04-11-2024 11:19:14 - DEBUG - 8.6.0 - 14,3 MB/512 MB -  > Logged in user: Eduardo
+04-11-2024 11:19:14 - DEBUG - 8.6.0 - 14,3 MB/512 MB -  > Logged in user was not waiting for confirmation
+04-11-2024 18:04:24 - DEBUG - 8.6.0 - 14,4 MB/512 MB -  > Logged in user: Eduardo
+04-11-2024 18:04:24 - DEBUG - 8.6.0 - 14,3 MB/512 MB -  > Logged in user was not waiting for confirmation
+04-11-2024 18:04:26 - DEBUG - 8.6.0 - 14,8 MB/512 MB - Eduardo > Logged in user: Eduardo
+04-11-2024 18:04:26 - DEBUG - 8.6.0 - 14,8 MB/512 MB - Eduardo > Logged in user was not waiting for confirmation
+04-11-2024 23:15:47 - DEBUG - 8.6.0 - 14,3 MB/512 MB -  > Logged in user: Eduardo
+04-11-2024 23:15:47 - DEBUG - 8.6.0 - 14,3 MB/512 MB -  > Logged in user was not waiting for confirmation
+05-11-2024 10:15:11 - INFO  - 8.6.0 - 135,6 MB/ - [cron] > Weekly check for wpusers
+05-11-2024 22:34:33 - DEBUG - 8.6.0 - 14,7 MB/512 MB -  > Logged in user: Eduardo
+05-11-2024 22:34:33 - DEBUG - 8.6.0 - 14,7 MB/512 MB -  > Logged in user was not waiting for confirmation
+06-11-2024 14:49:51 - DEBUG - 8.6.0 - 14,3 MB/512 MB -  > Logged in user: Eduardo
+06-11-2024 14:49:51 - DEBUG - 8.6.0 - 14,3 MB/512 MB -  > Logged in user was not waiting for confirmation
+07-11-2024 15:39:38 - DEBUG - 8.6.0 - 14,1 MB/512 MB -  > Logged in user: Eduardo
+07-11-2024 15:39:38 - DEBUG - 8.6.0 - 14,1 MB/512 MB -  > Logged in user was not waiting for confirmation
+11-11-2024 11:38:16 - DEBUG - 8.6.0 - 14,1 MB/512 MB -  > Logged in user: Eduardo
+11-11-2024 11:38:16 - DEBUG - 8.6.0 - 14,1 MB/512 MB -  > Logged in user was not waiting for confirmation
+12-11-2024 09:53:24 - DEBUG - 8.6.0 - 14,5 MB/512 MB -  > Logged in user: Eduardo
+12-11-2024 09:53:24 - DEBUG - 8.6.0 - 14,4 MB/512 MB -  > Logged in user was not waiting for confirmation
+12-11-2024 10:15:09 - INFO  - 8.6.0 - 135,7 MB/ - [cron] > Weekly check for wpusers
+13-11-2024 23:07:24 - DEBUG - 8.6.0 - 30,3 MB/512 MB -  > Logged in user: Rafael
+13-11-2024 23:07:24 - DEBUG - 8.6.0 - 30,2 MB/512 MB -  > No connected subscription found
+14-11-2024 00:37:47 - DEBUG - 8.6.0 - 30,3 MB/512 MB -  > Logged in user: Eduardo
+14-11-2024 00:37:47 - DEBUG - 8.6.0 - 30,3 MB/512 MB -  > Logged in user was not waiting for confirmation
+15-11-2024 22:38:52 - DEBUG - 8.6.0 - 30,3 MB/512 MB -  > Logged in user: Eduardo
+15-11-2024 22:38:52 - DEBUG - 8.6.0 - 30,2 MB/512 MB -  > Logged in user was not waiting for confirmation
+16-11-2024 00:50:35 - DEBUG - 8.6.1 - 20,5 MB/512 MB -  > Logged in user: Eduardo
+16-11-2024 00:50:35 - DEBUG - 8.6.1 - 20,6 MB/512 MB -  > Logged in user was not waiting for confirmation
+16-11-2024 00:56:08 - DEBUG - 8.6.1 - 20,5 MB/512 MB -  > Logged in user: Eduardo
+16-11-2024 00:56:08 - DEBUG - 8.6.1 - 20,6 MB/512 MB -  > Logged in user was not waiting for confirmation
+16-11-2024 01:03:32 - DEBUG - 8.6.1 - 20,6 MB/512 MB -  > Logged in user: Eduardo
+16-11-2024 01:03:32 - DEBUG - 8.6.1 - 20,7 MB/512 MB -  > Logged in user was not waiting for confirmation
+19-11-2024 10:15:10 - INFO  - 8.6.1 - 142,0 MB/ - [cron] > Weekly check for wpusers
+20-11-2024 12:45:28 - DEBUG - 8.6.1 - 20,5 MB/512 MB -  > Logged in user: Eduardo
+20-11-2024 12:45:28 - DEBUG - 8.6.1 - 20,6 MB/512 MB -  > Logged in user was not waiting for confirmation
+20-11-2024 13:17:10 - INFO  - 8.6.1 - 27,4 MB/512 MB - Eduardo > New user registration with id 59
+20-11-2024 13:17:10 - INFO  - 8.6.1 - 27,4 MB/512 MB - Eduardo > Opt-in checkbox required but not set
+22-11-2024 11:53:12 - DEBUG - 8.6.1 - 21,1 MB/512 MB -  > Logged in user: Eduardo
+22-11-2024 11:53:12 - DEBUG - 8.6.1 - 21,2 MB/512 MB -  > Logged in user was not waiting for confirmation
+26-11-2024 10:15:07 - INFO  - 8.6.1 - 142,0 MB/ - [cron] > Weekly check for wpusers
+28-11-2024 15:28:53 - DEBUG - 8.6.1 - 21,1 MB/512 MB -  > Logged in user: Eduardo
+28-11-2024 15:28:53 - DEBUG - 8.6.1 - 21,2 MB/512 MB -  > Logged in user was not waiting for confirmation
+29-11-2024 02:42:48 - INFO  - 8.6.3 - 34,2 MB/512 MB - Eduardo > New user registration with id 60
+29-11-2024 02:42:48 - INFO  - 8.6.3 - 34,2 MB/512 MB - Eduardo > Opt-in checkbox required but not set

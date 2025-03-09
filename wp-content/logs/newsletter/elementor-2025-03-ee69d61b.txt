@@ -1,0 +1,13 @@
+03-03-2025 22:35:05 - INFO  - 8.7.0 - 135,8 MB/ - [cron] > Weekly check for elementor
+04-03-2025 04:17:24 - DEBUG - 8.7.0 - 39,4 MB/2 GB -  > Field not mapped
+04-03-2025 04:17:24 - DEBUG - 8.7.0 - 39,4 MB/2 GB -  > Field not mapped
+04-03-2025 04:17:24 - DEBUG - 8.7.0 - 39,4 MB/2 GB -  > Field not mapped
+04-03-2025 04:17:24 - DEBUG - 8.7.0 - 39,4 MB/2 GB -  > Field not mapped
+04-03-2025 04:17:24 - DEBUG - 8.7.0 - 39,4 MB/2 GB -  > Field not mapped
+04-03-2025 04:17:24 - DEBUG - 8.7.0 - 39,4 MB/2 GB -  > Field not mapped
+04-03-2025 04:17:24 - DEBUG - 8.7.0 - 39,4 MB/2 GB -  > Field not mapped
+04-03-2025 04:17:24 - DEBUG - 8.7.0 - 39,4 MB/2 GB -  > Array
+(
+    [0] => 9
+)
+

@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://heroesdecavite.es/sitemap_index.xml

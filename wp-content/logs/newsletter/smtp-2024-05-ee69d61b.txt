@@ -1,0 +1,4 @@
+07-05-2024 09:12:43 - INFO  - 8.3.2 - 12,1 MB/256 MB - [cron] > Weekly check for smtp
+14-05-2024 09:12:39 - INFO  - 8.3.2 - 11,9 MB/256 MB - [cron] > Weekly check for smtp
+21-05-2024 09:12:39 - INFO  - 8.3.2 - 11,9 MB/256 MB - [cron] > Weekly check for smtp
+28-05-2024 09:13:10 - INFO  - 8.3.3 - 11,9 MB/256 MB - [cron] > Weekly check for smtp

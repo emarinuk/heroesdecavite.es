@@ -1,0 +1,273 @@
+li.ova-megamenu {
+    position: relative;
+
+    &:hover{
+		ul.ova-mega-menu{
+			display: block;
+		}
+    }
+
+	ul.ova-mega-menu{
+		
+		border: none;
+	    position: absolute;
+	    top: 74px;
+	    background: #fff;
+	    margin: 0 auto;
+	    border: none!important;
+	    padding: 0!important;
+	    
+
+
+	    .title{
+	    	display: none;
+	    }
+		
+		&.four-columns{
+			>li{
+				width: 25%!important;
+				float: left;
+			}
+		}
+		&.three-columns{
+			>li{
+				width: 33.3333%!important;
+				float: left;
+			}
+		}
+		&.two-columns{
+			>li{
+				width: 50%!important;
+				float: left;
+			}
+		}
+		&.one-columns{
+			>li{
+				width: 100%!important;
+				float: left;
+			}
+		}
+
+		>li{
+			&:first-child{
+				background-color: #fff;
+			}
+			&:nth-child(2){
+				background-color: #1b1f26;
+			}
+
+			li.title {
+			    font-size: 18px;
+			    line-height: 24px;
+			    text-transform: uppercase;
+			    font-weight: 600;
+			    color: #000;
+			    padding: 0px;
+			    position: relative;
+			    margin-bottom: 45px;
+			    margin-top: 10px;
+			    &:after{
+			    	position: absolute;
+			    	width: 50px;
+			    	height: 2px;
+			    	bottom: -5px;
+			    	left: 0;
+			    	background-color: #f53f7b;
+			    	content: "";
+			    }
+			}
+			ul{
+				list-style-type: none;
+				padding: 30px;
+				margin: 0;
+				li{
+					display: block;
+					width: 100%;
+
+					a{
+						padding-left: 0!important;
+						padding-bottom: 8px!important;
+						display: block;
+					}
+					&:last-child{
+						a{
+							padding-bottom: 0px!important;
+						}
+					}
+				}
+			}
+
+			&.top_submenu{
+				width: 100%;
+				margin-top: 0;
+				padding: 30px;
+
+				::before{
+				 	display: none;
+	    			border-right: none;
+				}
+
+					.content{
+						.top_title {
+						    font-size: 30px;
+						    color: #252525;
+						    line-height: 35px;
+						    padding-top: 20px;
+						    padding-bottom: 15px;
+						    font-weight: bold;
+
+						}
+						.top_desc {
+						    font-size: 14px;
+						    color: #898989;
+						    line-height: 24px;
+						    letter-spacing: 0.01em;
+						    padding-bottom: 15px;
+						}
+						.top_linkbottom a {
+						    font-size: 10px!important;
+						    color: #252525!important;
+						    letter-spacing: 0.01em;
+						    font-weight: 300;
+						    border: none;
+						    padding-bottom: 12px;
+						    padding-left: 0;
+						    text-transform: uppercase;
+						}
+					}
+			}
+			> div a {
+			    display: block;
+			}
+		}
+		
+
+	}
+
+	&.col_shortcode_style{
+		ul.ova-mega-menu{
+			&.three-columns{
+				li{
+					width: 20%!important;
+					float: left;
+					&:first-child{
+						width: 60%!important;
+					}
+					&:before{
+						border-right: none;
+					}
+				}
+			}
+		}
+	}
+
+}
+
+
+/* Shortcode */
+.muzze_info_sc {
+	
+		.content{
+			&.hour{
+				margin-bottom: 25px;
+			}
+			&.loc{
+				margin-bottom: 25px;
+			}
+			.lable{
+				color: #dfdfdf;
+				font-size: 18px;
+				font-weight: 500;
+				margin-bottom: 5px;
+			}
+			.info{
+				color: #888888;
+				font-size: 16px;
+				letter-spacing: 0.1px;
+			}
+
+		}
+		.info_btn{
+			display: flex;
+			align-items: baseline;
+			i{
+				color: #c1b696;
+				font-weight: 900!important;
+				padding-right: 5px;
+			}	
+			a{    
+				font-size: 14px!important;
+			    text-transform: uppercase!important;
+			    color: #c1b696!important;
+			    font-weight: 900!important;
+				letter-spacing: 0.2px;
+				padding: 0!important;
+			}	
+			&:hover{
+				i, a{
+					color: #888888!important;
+				}	
+			}
+		}
+	
+}
+
+
+/* Fix Menu Canvans */
+.ova_menu_canvas{
+	li.ova-megamenu{
+		position: relative;
+		ul.ova-mega-menu{
+			position: relative;
+			top: 0;
+			padding: 15px;
+			width: 100%!important;
+			li{
+				width: 100%!important;
+				margin-bottom: 0;
+			    padding-bottom: 0;
+			    height: auto!important;
+			   
+			    ul{
+			   		padding: 0px 0px 0px 15px; 	
+			    }
+			    &::before{
+			    	border-right: none;
+			    }
+			}
+		}
+	}
+}
+
+
+/* Mobile */
+@media ( max-width:1024px ){
+	li.ova-megamenu{
+		position: relative;
+		ul.ova-mega-menu{
+			position: relative;
+			top: 0;
+			padding: 15px;
+			width: 100%;
+			li{
+				width: 100%!important;
+				margin-bottom: 0;
+			    padding-bottom: 0;
+			    height: auto!important;
+			   
+			    ul{
+			   		padding: 0px 0px 0px 15px; 	
+			    }
+			    &::before{
+			    	border-right: none;
+			    }
+			}
+		}
+	} 
+}
+
+
+
+
+
+

@@ -1,0 +1,120 @@
+.muzze_shop{
+	.content_product{
+	    display: -webkit-flex;
+	    display: -webkit-box;
+	    display: -ms-flexbox;
+	    display: flex;
+	    -ms-flex-wrap: wrap;
+	    flex-wrap: wrap;
+	    margin-left: -15px;
+	    margin-right: -15px;
+	    @media(max-width: 1024px){
+	    	margin-left: -10px;
+	    	margin-right: -10px;
+	    }
+		.items{
+		    width: 33.33333%;
+		    text-align: left;
+		    margin-bottom: 61px;
+		    padding-left: 15px;
+		    padding-right: 15px;
+		    @media(max-width: 1024px){
+		    	padding-left: 10px;
+		    	padding-right: 10px;
+		    }
+			&.pr2_columns{
+				width: 50%;
+				@media(max-width: 767px){
+					width: 100%;
+				}
+			}
+			&.pr3_columns{
+				width: 33.3333%;
+				@media(max-width: 768px){
+					width: 50%;
+				}
+				@media(max-width: 767px){
+					width: 100%;
+				}
+			}
+			&.pr4_columns{
+				width: 25%;
+				@media(max-width: 768px){
+					width: 50%;
+				}
+				@media(max-width: 767px){
+					width: 100%;
+				}
+			}
+			.add_to_cart_button{
+				display: block;
+			    background: #25282e;
+			    color: #fff;
+			    text-align: center;
+			    border-radius: 0;
+			    font-size: 15px;
+			    text-transform: uppercase;
+			    -webkit-transition: all .3s;
+			    transition: all .3s;
+			    opacity: 0;
+			    margin-top: -50px;
+			    padding: 12px 25px;
+			    position: relative;
+			    font-weight: 500;
+			    line-height: 26px;
+			}
+			h3{
+				font-size: 17px;
+				text-transform: capitalize;
+				color: #25282e;
+				font-weight: 400;
+				margin-top: 23px;
+				margin-bottom: 10px;
+				a{
+					color: #25282e;
+					-webkit-transition: all .3s;
+					transition: all .3s;
+					&:hover{
+						color: #c1b696;
+					}
+				}
+			}
+			span{
+				&.amount{
+					color: #555555;
+					font-size: 17px;
+					font-weight: 400;
+					cursor: pointer;
+				}
+			}
+			&:hover{
+				.add_to_cart_button{
+					opacity: 1;
+				}
+			}
+		}
+		.search_not_found{
+			display: inline-block;
+			width: 100%;
+			margin-bottom: 60px;
+		}	
+	}
+	.return_shop{
+		text-align: center;
+		.btn_shop{
+			height: 50px;
+			border: 1px solid #e5e5e5;
+			color: #25282e;
+			font-size: 16px;
+			font-weight: 400;
+			padding: 14px 30px 16px;
+			-webkit-transition: all .3s;
+			transition: all .3s;
+			&:hover{
+				background: #c1b696;
+				border-color: #c1b696;
+				color: #fff;
+			}
+		}
+	}
+}

@@ -1,0 +1,1 @@
+26-02-2024 21:35:52 - INFO  - 8.1.5 - 22,0 MB/256 MB - [cron] > Weekly check for elementor

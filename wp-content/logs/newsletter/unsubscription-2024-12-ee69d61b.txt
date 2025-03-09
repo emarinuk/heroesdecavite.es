@@ -1,0 +1,2 @@
+23-12-2024 05:08:10 - DEBUG - 8.6.4 - 14,7 MB/512 MB -  > Status change to U of subscriber 810 from /
+23-12-2024 05:08:10 - DEBUG - 8.6.4 - 14,7 MB/512 MB -  > update hero_newsletter set status='U', updated=1734926890 where id=810 limit 1

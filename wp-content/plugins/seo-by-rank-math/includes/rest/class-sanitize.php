@@ -89,15 +89,15 @@ class Sanitize {
 	/**
 	 * Sanitize array
 	 *
-	 * @param array $values  Field value.
+	 * @param array $array  Field value.
 	 * @param array $method Sanitize Method.
 	 *
 	 * @return mixed  Sanitized value.
 	 */
-	public function loop_sanitize( $values, $method = 'sanitize' ) {
+	public function loop_sanitize( $array, $method = 'sanitize' ) {
 		$sanitized_value = [];
 
-		foreach ( $values  as $key => $value ) {
+		foreach ( $array  as $key => $value ) {
 			$sanitized_value[ CMB2::sanitize_textfield( $key ) ] = is_array( $value ) ? $this->loop_sanitize( $value, $method ) : $this->$method( $key, $value );
 		}
 

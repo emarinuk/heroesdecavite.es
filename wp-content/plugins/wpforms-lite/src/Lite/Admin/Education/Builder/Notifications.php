@@ -124,7 +124,7 @@ class Notifications implements EducationInterface {
 			$content,
 			[
 				'borders'    => [ 'top' ],
-				'class'      => 'wpforms-builder-notifications-advanced opened',
+				'class'      => 'wpforms-builder-notifications-advanced',
 				'default'    => 'opened',
 				'group'      => 'settings_notifications_advanced',
 				'title'      => esc_html__( 'Advanced', 'wpforms-lite' ),

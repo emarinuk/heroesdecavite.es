@@ -130,7 +130,6 @@ var WPFormsEditPostEducation = window.WPFormsEditPostEducation || ( function( do
 				.on( 'DOMSubtreeModified', '.edit-post-layout', app.distractionFreeModeToggle );
 
 			$iframe.contents()
-				.on( 'input', '.editor-post-title__input', _.debounce( app.maybeShowGutenbergNotice, 1000 ) )
 				.on( 'DOMSubtreeModified', '.editor-post-title__input', _.debounce( app.maybeShowGutenbergNotice, 1000 ) );
 		},
 

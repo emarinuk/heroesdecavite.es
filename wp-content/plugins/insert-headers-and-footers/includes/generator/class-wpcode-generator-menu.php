@@ -180,11 +180,13 @@ class WPCode_Generator_Menu extends WPCode_Generator_Type {
 			}
 		}
 
-		return '// Add Custom Navigation Menus
-function ' . $this->get_value( 'function_name' ) . '() {
-    ' . $menus_code . '
+		return <<<EOD
+// Add Custom Navigation Menus
+function {$this->get_value( 'function_name' )}() {
+	$menus_code
 }
-add_action( \'init\', \'' . $this->get_value( 'function_name' ) . '\' );';
+add_action( 'init', '{$this->get_value( 'function_name' )}' );
+EOD;
 	}
 
 }

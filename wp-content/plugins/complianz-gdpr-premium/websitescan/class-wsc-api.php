@@ -102,7 +102,7 @@ if (!class_exists("cmplz_wsc_api")) {
 			// start the processing of the request
 			$result = json_decode($request->get_body());
 
-			if (!isset($result->data->result->trackers) || !is_array($result->data->result->trackers) || count($result->data->result->trackers) === 0) {
+			if (!$result->data->result->trackers || count($result->data->result->trackers) === 0) {
 				return new WP_REST_Response('No cookies found in the result.', 200);
 			}
 

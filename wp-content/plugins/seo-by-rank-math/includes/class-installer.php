@@ -153,7 +153,7 @@ class Installer {
 
 		// Save install date.
 		if ( false === boolval( get_option( 'rank_math_install_date' ) ) ) {
-			update_option( 'rank_math_install_date', Helper::get_current_time() );
+			update_option( 'rank_math_install_date', current_time( 'timestamp' ) ); // phpcs:ignore
 		}
 
 		// Activate Watcher.
@@ -560,6 +560,7 @@ class Installer {
 
 		$titles['remove_product_cat_snippet_data'] = 'on';
 		$titles['remove_product_tag_snippet_data'] = 'on';
+
 	}
 
 	/**
@@ -698,4 +699,5 @@ class Installer {
 			)
 		);
 	}
+
 }

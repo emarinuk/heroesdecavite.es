@@ -51,10 +51,6 @@ class WPForms_Field_Checkbox extends WPForms_Field {
 			],
 		];
 
-		$this->default_settings = [
-			'choices' => $this->defaults,
-		];
-
 		$this->hooks();
 	}
 

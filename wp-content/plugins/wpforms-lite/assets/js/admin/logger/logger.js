@@ -120,7 +120,7 @@ const WPFormsLogger = window.WPFormsLogger || ( function( document, window, $ ) 
 				return;
 			}
 
-			msg = msg ? ': ' + msg : '';
+			msg = _.isEmpty( msg ) ? '' : ': ' + msg;
 			// eslint-disable-next-line no-console
 			console.log( 'WPForms Debug: Error receiving log record data' + msg );
 		},

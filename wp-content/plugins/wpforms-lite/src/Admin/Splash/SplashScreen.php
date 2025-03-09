@@ -121,7 +121,7 @@ class SplashScreen {
 		wp_register_script(
 			'wpforms-splash-modal',
 			WPFORMS_PLUGIN_URL . "assets/js/admin/splash/modal{$min}.js",
-			[ 'jquery', 'wp-util' ],
+			[ 'jquery' ],
 			WPFORMS_VERSION,
 			true
 		);

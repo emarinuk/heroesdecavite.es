@@ -687,9 +687,6 @@ export default ( function( document, window, $ ) {
 			}
 
 			const title = theme.name?.length > 0 ? theme.name : strings.theme_noname;
-			let radioClasses = 'wpforms-gutenberg-form-selector-themes-radio';
-
-			radioClasses += app.isDisabledTheme( slug ) ? ' wpforms-gutenberg-form-selector-themes-radio-disabled' : ' wpforms-gutenberg-form-selector-themes-radio-enabled';
 
 			return (
 				<Radio
@@ -697,17 +694,15 @@ export default ( function( document, window, $ ) {
 					title={ title }
 				>
 					<div
-						className={ radioClasses }
+						className={ app.isDisabledTheme( slug ) ? 'wpforms-gutenberg-form-selector-themes-radio-disabled' : '' }
 					>
 						<div className="wpforms-gutenberg-form-selector-themes-radio-title">{ title }</div>
 					</div>
-					<div className="wpforms-gutenberg-form-selector-themes-indicators">
-						<ColorIndicator colorValue={ theme.settings.buttonBackgroundColor } title={ strings.button_background } data-index="0" />
-						<ColorIndicator colorValue={ theme.settings.buttonTextColor } title={ strings.button_text } data-index="1" />
-						<ColorIndicator colorValue={ theme.settings.labelColor } title={ strings.field_label } data-index="2" />
-						<ColorIndicator colorValue={ theme.settings.labelSublabelColor } title={ strings.field_sublabel } data-index="3" />
-						<ColorIndicator colorValue={ theme.settings.fieldBorderColor } title={ strings.field_border } data-index="4" />
-					</div>
+					<ColorIndicator colorValue={ theme.settings.buttonBackgroundColor } title={ strings.button_background } />
+					<ColorIndicator colorValue={ theme.settings.buttonTextColor } title={ strings.button_text } />
+					<ColorIndicator colorValue={ theme.settings.labelColor } title={ strings.field_label } />
+					<ColorIndicator colorValue={ theme.settings.labelSublabelColor } title={ strings.field_sublabel } />
+					<ColorIndicator colorValue={ theme.settings.fieldBorderColor } title={ strings.field_border } />
 				</Radio>
 			);
 		},

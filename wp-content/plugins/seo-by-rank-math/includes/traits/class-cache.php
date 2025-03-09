@@ -20,27 +20,27 @@ trait Cache {
 	/**
 	 * To generate hash of object.
 	 *
-	 * @param string|array|object $value Object for that hash need to generate.
+	 * @param string|array|object $object Object for that hash need to generate.
 	 *
 	 * @return string Hash value of provided object.
 	 */
-	public function generate_hash( $value ) {
+	public function generate_hash( $object ) {
 
-		if ( empty( $value ) ) {
+		if ( empty( $object ) ) {
 			return '';
 		}
 
-		if ( is_object( $value ) ) {
-			$value = (array) $value;
+		if ( is_object( $object ) ) {
+			$object = (array) $object;
 		}
 
-		if ( is_array( $value ) ) {
-			ksort( $value );
-			$value = wp_json_encode( $value );
+		if ( is_array( $object ) ) {
+			ksort( $object );
+			$object = wp_json_encode( $object );
 		}
 
-		$value = trim( $value );
-		$hash  = hash( 'sha256', $value );
+		$object = trim( $object );
+		$hash   = hash( 'sha256', $object );
 
 		return $hash;
 	}
@@ -115,4 +115,5 @@ trait Cache {
 
 		return apply_filters( 'rank_math/cache/enabled', true );
 	}
+
 }

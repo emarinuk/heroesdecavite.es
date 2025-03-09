@@ -23,8 +23,6 @@
 use WPForms\Db\Payments\Meta as PaymentsMeta;
 use WPForms\Db\Payments\Payment;
 use WPForms\Logger\Repository;
-use WPForms\Pro\Db\Files\ProtectedFiles;
-use WPForms\Pro\Db\Files\Restrictions;
 use WPForms\Tasks\Meta as TasksMeta;
 use WPForms\Tasks\Tasks;
 
@@ -79,14 +77,6 @@ $wpdb->query( 'DROP TABLE IF EXISTS ' . TasksMeta::get_table_name() );
 // Delete logger table.
 // phpcs:ignore WordPress.DB.PreparedSQL.NotPrepared
 $wpdb->query( 'DROP TABLE IF EXISTS ' . Repository::get_table_name() );
-
-// Delete file restrictions table.
-// phpcs:ignore WordPress.DB.PreparedSQL.NotPrepared
-$wpdb->query( 'DROP TABLE IF EXISTS ' . Restrictions::get_table_name() );
-
-// Delete protected files table.
-// phpcs:ignore WordPress.DB.PreparedSQL.NotPrepared
-$wpdb->query( 'DROP TABLE IF EXISTS ' . ProtectedFiles::get_table_name() );
 
 /**
  * Delete tables that might be created by "Add-ons".

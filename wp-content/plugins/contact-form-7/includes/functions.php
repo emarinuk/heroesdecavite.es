@@ -20,7 +20,8 @@ function wpcf7_plugin_path( $path = '' ) {
 function wpcf7_plugin_url( $path = '' ) {
 	$url = plugins_url( $path, WPCF7_PLUGIN );
 
-	if ( is_ssl() and 'http:' === substr( $url, 0, 5 ) ) {
+	if ( is_ssl()
+	and 'http:' == substr( $url, 0, 5 ) ) {
 		$url = 'https:' . substr( $url, 5 );
 	}
 
@@ -66,9 +67,9 @@ function wpcf7_upload_dir( $type = false ) {
 		'url' => $uploads['baseurl'],
 	) );
 
-	if ( 'dir' === $type ) {
+	if ( 'dir' == $type ) {
 		return $uploads['dir'];
-	} if ( 'url' === $type ) {
+	} if ( 'url' == $type ) {
 		return $uploads['url'];
 	}
 
@@ -157,7 +158,7 @@ function wpcf7_flat_join( $input, $options = '' ) {
 	$input = wpcf7_array_flatten( $input );
 	$output = array();
 
-	foreach ( $input as $value ) {
+	foreach ( (array) $input as $value ) {
 		if ( is_scalar( $value ) ) {
 			$output[] = trim( (string) $value );
 		}
@@ -358,7 +359,7 @@ function wpcf7_enctype_value( $enctype ) {
 		'text/plain',
 	);
 
-	if ( in_array( $enctype, $valid_enctypes, true ) ) {
+	if ( in_array( $enctype, $valid_enctypes ) ) {
 		return $enctype;
 	}
 
@@ -405,7 +406,8 @@ function wpcf7_rmdir_p( $dir ) {
 
 	if ( $handle = opendir( $dir ) ) {
 		while ( false !== ( $file = readdir( $handle ) ) ) {
-			if ( '.' === $file or '..' === $file ) {
+			if ( $file == "."
+			or $file == ".." ) {
 				continue;
 			}
 
@@ -503,7 +505,7 @@ function wpcf7_count_code_units( $text ) {
  */
 function wpcf7_is_localhost() {
 	$sitename = wp_parse_url( network_home_url(), PHP_URL_HOST );
-	return in_array( strtolower( $sitename ), array( 'localhost', '127.0.0.1' ), true );
+	return in_array( strtolower( $sitename ), array( 'localhost', '127.0.0.1' ) );
 }
 
 
@@ -686,9 +688,9 @@ function wpcf7_anonymize_ip_addr( $ip_addr ) {
 		return $ip_addr;
 	}
 
-	if ( 4 === strlen( $packed ) ) { // IPv4
+	if ( 4 == strlen( $packed ) ) { // IPv4
 		$mask = '255.255.255.0';
-	} elseif ( 16 === strlen( $packed ) ) { // IPv6
+	} elseif ( 16 == strlen( $packed ) ) { // IPv6
 		$mask = 'ffff:ffff:ffff:0000:0000:0000:0000:0000';
 	} else {
 		return $ip_addr;

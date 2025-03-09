@@ -74,7 +74,7 @@ function wpforms_get_form_preview_url( $form_id, $new_window = false ) {
  */
 function wpforms_decode( $data ) {
 
-	if ( empty( $data ) ) {
+	if ( ! $data || empty( $data ) ) {
 		return false;
 	}
 
@@ -106,24 +106,24 @@ function wpforms_encode( $data = false ) {
 }
 
 /**
- * Decode json-encoded string if it is in JSON format.
+ * Decode json-encoded string if it is in json format.
  *
  * @since 1.7.5
  *
- * @param string $encoded_string A string.
- * @param bool   $associative    Decode to the associative array if true. Decode to object if false.
+ * @param string $string      A string.
+ * @param bool   $associative Decode to the associative array if true. Decode to object if false.
  *
  * @return array|string
  */
-function wpforms_json_decode( $encoded_string, $associative = false ) {
+function wpforms_json_decode( $string, $associative = false ) {
 
-	$encoded_string = html_entity_decode( $encoded_string );
+	$string = html_entity_decode( $string );
 
-	if ( ! wpforms_is_json( $encoded_string ) ) {
-		return $encoded_string;
+	if ( ! wpforms_is_json( $string ) ) {
+		return $string;
 	}
 
-	return json_decode( $encoded_string, $associative );
+	return json_decode( $string, $associative );
 }
 
 /**
@@ -131,33 +131,35 @@ function wpforms_json_decode( $encoded_string, $associative = false ) {
  *
  * @since 1.0.0
  *
- * @param string $key           Setting name.
- * @param mixed  $default_value Default value to return if the setting is not available.
- * @param string $option        Option key, defaults to `wpforms_settings` in the `wp_options` table.
+ * @param string $key     Setting name.
+ * @param mixed  $default Default value to return if the setting is not available.
+ * @param string $option  Option key, defaults to `wpforms_settings` in the `wp_options` table.
  *
  * @return mixed
  */
-function wpforms_setting( $key, $default_value = false, $option = 'wpforms_settings' ) {
+function wpforms_setting( $key, $default = false, $option = 'wpforms_settings' ) {
 
 	$key     = wpforms_sanitize_key( $key );
 	$options = get_option( $option, false );
-	$value   = is_array( $options ) && ! empty( $options[ $key ] ) ? wp_unslash( $options[ $key ] ) : $default_value;
+	$value   = is_array( $options ) && ! empty( $options[ $key ] ) ? wp_unslash( $options[ $key ] ) : $default;
 
 	/**
 	 * Allows plugin setting to be modified.
 	 *
 	 * @since 1.7.8
 	 *
-	 * @param mixed  $value         Setting value.
-	 * @param string $key           Setting key.
-	 * @param mixed  $default_value Setting default value.
-	 * @param string $option        Settings option name.
+	 * @param mixed  $value   Setting value.
+	 * @param string $key     Setting key.
+	 * @param mixed  $default Setting default value.
+	 * @param string $option  Settings option name.
 	 */
-	return apply_filters( 'wpforms_setting', $value, $key, $default_value, $option );
+	$value = apply_filters( 'wpforms_setting', $value, $key, $default, $option );
+
+	return $value;
 }
 
 /**
- * Update the plugin settings option and allow it to be filterable.
+ * Update plugin settings option and allow it to be filterable.
  *
  * The purpose of this function is to save settings when the "Save Settings" button is clicked.
  * If you are programmatically saving setting in the database in cases not triggered by user,
@@ -165,7 +167,7 @@ function wpforms_setting( $key, $default_value = false, $option = 'wpforms_setti
  *
  * @since 1.6.6
  *
- * @param array $settings A plugin settings array that is saved into option table.
+ * @param array $settings A plugin settings array that is saved into options table.
  *
  * @return bool
  */
@@ -202,7 +204,7 @@ function wpforms_update_settings( $settings ) {
 }
 
 /**
- * Check an if form provided contains the specified field type.
+ * Check if form provided contains the specified field type.
  *
  * @since 1.0.5
  *
@@ -212,7 +214,7 @@ function wpforms_update_settings( $settings ) {
  *
  * @return bool
  */
-function wpforms_has_field_type( $type, $form, $multiple = false ) { // phpcs:ignore Generic.Metrics.CyclomaticComplexity.TooHigh
+function wpforms_has_field_type( $type, $form, $multiple = false ) {
 
 	$form_data = '';
 	$field     = false;
@@ -252,7 +254,7 @@ function wpforms_has_field_type( $type, $form, $multiple = false ) { // phpcs:ig
 }
 
 /**
- * Check if the form provided contains a field which a specific setting.
+ * Check if form provided contains a field which a specific setting.
  *
  * @since 1.4.5
  *
@@ -262,7 +264,7 @@ function wpforms_has_field_type( $type, $form, $multiple = false ) { // phpcs:ig
  *
  * @return bool
  */
-function wpforms_has_field_setting( $setting, $form, $multiple = false ) { // phpcs:ignore Generic.Metrics.CyclomaticComplexity.TooHigh
+function wpforms_has_field_setting( $setting, $form, $multiple = false ) {
 
 	$form_data = '';
 	$field     = false;
@@ -314,7 +316,7 @@ function wpforms_has_field_setting( $setting, $form, $multiple = false ) { // ph
  *
  * @return mixed boolean false or array
  */
-function wpforms_get_form_fields( $form = false, $allowlist = [] ) { // phpcs:ignore Generic.Metrics.CyclomaticComplexity.MaxExceeded, Generic.Metrics.NestingLevel.MaxExceeded
+function wpforms_get_form_fields( $form = false, $allowlist = [] ) {
 
 	// Accept form (post) object or form ID.
 	if ( is_object( $form ) ) {
@@ -364,7 +366,7 @@ function wpforms_get_form_fields( $form = false, $allowlist = [] ) { // phpcs:ig
 	 *
 	 * @param array $allowed_form_fields List of allowed form fields.
 	 */
-	$allowed_form_fields = (array) apply_filters( 'wpforms_get_form_fields_allowed', $allowed_form_fields );
+	$allowed_form_fields = apply_filters( 'wpforms_get_form_fields_allowed', $allowed_form_fields );
 
 	if ( ! is_array( $form ) || empty( $form['fields'] ) ) {
 		return false;
@@ -422,13 +424,6 @@ function wpforms_get_conditional_logic_form_fields_supported() {
 		'url',
 	];
 
-	/**
-	 * Filter the list of form fields supported by conditional logic.
-	 *
-	 * @since 1.8.0
-	 *
-	 * @param array $fields_supported List of form fields supported by conditional logic.
-	 */
 	return apply_filters( 'wpforms_get_conditional_logic_form_fields_supported', $fields_supported );
 }
 

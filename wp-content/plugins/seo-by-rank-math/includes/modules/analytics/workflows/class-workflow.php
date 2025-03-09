@@ -90,36 +90,36 @@ class Workflow {
 	/**
 	 * Service workflow
 	 *
-	 * @param string  $action    Action to perform.
-	 * @param integer $days      Number of days to fetch from past.
-	 * @param string  $prev      Previous saved value.
-	 * @param string  $new_value New posted value.
+	 * @param string  $action Action to perform.
+	 * @param integer $days   Number of days to fetch from past.
+	 * @param string  $prev   Previous saved value.
+	 * @param string  $new    New posted value.
 	 */
-	public function start_workflow( $action, $days = 0, $prev = null, $new_value = null ) {
+	public function start_workflow( $action, $days = 0, $prev = null, $new = null ) {
 		do_action(
 			'rank_math/analytics/workflow/' . $action,
 			$days,
 			$prev,
-			$new_value
+			$new
 		);
 	}
 
 	/**
 	 * Service workflow
 	 *
-	 * @param string  $action    Action to perform.
-	 * @param integer $days      Number of days to fetch from past.
-	 * @param string  $prev      Previous saved value.
-	 * @param string  $new_value New posted value.
+	 * @param string  $action Action to perform.
+	 * @param integer $days   Number of days to fetch from past.
+	 * @param string  $prev   Previous saved value.
+	 * @param string  $new    New posted value.
 	 */
-	public static function do_workflow( $action, $days = 0, $prev = null, $new_value = null ) {
+	public static function do_workflow( $action, $days = 0, $prev = null, $new = null ) {
 		as_enqueue_async_action(
 			'rank_math/analytics/workflow',
 			[
 				$action,
 				$days,
 				$prev,
-				$new_value,
+				$new,
 			],
 			'rank-math'
 		);
@@ -139,6 +139,7 @@ class Workflow {
 		as_unschedule_all_actions( 'rank_math/analytics/get_inspections_data' );
 
 		do_action( 'rank_math/analytics/clear_cache' );
+
 	}
 
 	/**

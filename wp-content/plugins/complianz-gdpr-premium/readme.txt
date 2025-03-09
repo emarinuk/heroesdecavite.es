@@ -5,7 +5,7 @@ Requires at least: 5.8
 License: Complianz Terms of Use (Premium, see pro/license.txt), and where applicable GPL 2 (Free)
 Requires PHP: 7.4
 Tested up to: 6.7
-Stable tag: 7.4.2
+Stable tag: 7.4.1
 
 Complianz Privacy Suite with a Cookie Consentbanner and customized Cookie Policy based on the results of the built in Cookie Scan.
 
@@ -23,27 +23,20 @@ IMPORTANT! Complianz Privacy Suite can help you meet compliance requirements, bu
 == Frequently Asked Questions ==
 
 == Change log ==
-= 7.4.2 =
-* March 4th, 2025
-* Enhancement: Add support for New Jersey, Iowa, Delaware, New Hampshire, Nebraska state privacy laws.
-* Enhancement: Email obfuscation now uses HTML entities and CSS to prevent spam bots from reading the email address.
-* Enhancement: Google Tag Manager script placement can now be dynamically set to load in the header or footer based on user preference, addressing Google Diagnostics warnings.
-* Small labels and descriptions adjustments.
-
 = 7.4.1 =
 * February 10th, 2025
-* Fix: small fixes and adjustments.
+Fix: small fixes and adjustments.
 
 = 7.4.0 =
 * January 28th, 2025
-* Enhancement: Website Scan, added services detection.
-* Enhancement: Improved Omnisnippet compatibility.
-* Enhancement: Removed "BETA" references on Google Consent Mode V2 to reflect its finalized status.
-* Enhancement: Removed the soft cookie wall preview functionality and updated its description.
-* Enhancement: Added new Tips & Tricks.
-* Enhancement: Updated email field validation to allow the use of certain special characters.
-* Fix: Resolved issues with vendor links by improving the parsing logic to handle commas in vendor names or URLs correctly.
-* Fix: Triggered GeoIP database installation to ensure proper functionality during upgrades.
+Enhancement: Website Scan, added services detection.
+Enhancement: Improved Omnisnippet compatibility.
+Enhancement: Removed "BETA" references on Google Consent Mode V2 to reflect its finalized status.
+Enhancement: Removed the soft cookie wall preview functionality and updated its description.
+Enhancement: Added new Tips & Tricks.
+Enhancement: Updated email field validation to allow the use of certain special characters.
+Fix: Resolved issues with vendor links by improving the parsing logic to handle commas in vendor names or URLs correctly.
+Fix: Triggered GeoIP database installation to ensure proper functionality during upgrades.
 
 = 7.3.2 =
 * December 16th, 2024

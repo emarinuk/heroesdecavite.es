@@ -3,7 +3,7 @@
  * Plugin Name: Complianz Privacy Suite (GDPR/CCPA) premium
  * Plugin URI: https://complianz.io/pricing
  * Description: Plugin to help you make your website GDPR/CCPa compliant
- * Version: 7.4.2
+ * Version: 7.4.1
  * Requires at least: 5.9
  * Requires PHP: 7.4
  * Text Domain: complianz-gdpr
@@ -160,7 +160,7 @@ if (!class_exists('COMPLIANZ')) {
 			define('cmplz_plugin', plugin_basename(__FILE__));
 			define('cmplz_plugin_file', __FILE__);
 			$debug = (defined('SCRIPT_DEBUG') && SCRIPT_DEBUG) ? '#'.time() : '';
-			define('cmplz_version', '7.4.2' . $debug);
+			define('cmplz_version', '7.4.1' . $debug);
 			define('cmplz_product_name', 'Complianz GDPR/CCPA Premium');
 			define('CMPLZ_ITEM_ID', 994);
 		}

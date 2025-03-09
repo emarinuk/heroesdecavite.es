@@ -10,6 +10,3 @@
 08-02-2025 17:11:41 - FATAL - 8.6.8 - 15,5 MB/512 MB -  > salazaraea1@gmail.com - 2600:387:f:7f14::a - Antiflood triggered
 11-02-2025 12:22:28 - FATAL - 8.7.0 - 15,4 MB/512 MB -  > antonieta006@gmail.com - 83.39.92.151 - Antiflood triggered
 14-02-2025 19:01:18 - FATAL - 8.7.0 - 32,3 MB/2 GB -  > mmartinbarea@gmail.com - 2a02:9130:a02b:ccea:9562:1e72:c67:9d07 - Antiflood triggered
-23-02-2025 16:18:07 - FATAL - 8.7.0 - 15,8 MB/2 GB -  > sybersatanyahu@gmail.com - 79.156.134.115 - Antiflood triggered
-23-02-2025 16:18:07 - FATAL - 8.7.0 - 15,8 MB/2 GB -  > sybersatanyahu@gmail.com - 79.156.134.115 - Antiflood triggered
-24-02-2025 15:22:35 - FATAL - 8.7.0 - 15,8 MB/2 GB -  > pzevallosc@unsa.edu.pe - 181.176.81.124 - Antiflood triggered

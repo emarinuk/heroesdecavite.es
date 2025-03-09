@@ -26,9 +26,7 @@ defined( 'ABSPATH' ) || exit;
  */
 class Common {
 
-	use Hooker;
-	use Ajax;
-	use Meta;
+	use Hooker, Ajax, Meta;
 
 	/**
 	 * Constructor method.
@@ -177,13 +175,13 @@ class Common {
 	/**
 	 * Hide rank math meta keys
 	 *
-	 * @param bool   $is_protected Whether the key is considered protected.
-	 * @param string $meta_key     Meta key.
+	 * @param bool   $protected Whether the key is considered protected.
+	 * @param string $meta_key  Meta key.
 	 *
 	 * @return bool
 	 */
-	public function hide_rank_math_meta( $is_protected, $meta_key ) {
-		return Str::starts_with( 'rank_math_', $meta_key ) ? true : $is_protected;
+	public function hide_rank_math_meta( $protected, $meta_key ) {
+		return Str::starts_with( 'rank_math_', $meta_key ) ? true : $protected;
 	}
 
 	/**

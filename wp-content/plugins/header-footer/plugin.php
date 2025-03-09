@@ -4,9 +4,9 @@
   Plugin Name: Head, Footer and Post Injections
   Plugin URI: https://www.satollo.net/plugins/header-footer
   Description: Header and Footer lets to add html/javascript code to the head and footer and posts of your blog. Some examples are provided on the <a href="http://www.satollo.net/plugins/header-footer">official page</a>.
-  Version: 3.3.2
+  Version: 3.3.0
   Requires PHP: 7.0
-  Requires at least: 5.6
+  Requires at least: 5.1
   Author: Stefano Lissa
   Author URI: https://www.satollo.net
   Disclaimer: Use at your own risk. No warranty expressed or implied is provided.
@@ -31,14 +31,6 @@
  */
 
 defined('ABSPATH') || exit;
-
-if (!defined('HEADER_FOOTER_ALLOW_PHP')) {
-    define('HEADER_FOOTER_ALLOW_PHP', true);
-}
-
-if (!defined('HEADER_FOOTER_MULTISITE_ALLOW_PHP')) {
-    define('HEADER_FOOTER_MULTISITE_ALLOW_PHP', false);
-}
 
 $hefo_options = get_option('hefo', []);
 
@@ -357,14 +349,6 @@ function hefo_replace($buffer) {
 
 function hefo_execute($buffer) {
     global $hefo_options, $post;
-
-    if (!HEADER_FOOTER_ALLOW_PHP) {
-        return $buffer;
-    }
-
-    if (is_multisite() && !HEADER_FOOTER_MULTISITE_ALLOW_PHP) {
-        return $buffer;
-    }
 
     if (apply_filters('hefo_php_exec', !empty($hefo_options['enable_php']))) {
         ob_start();

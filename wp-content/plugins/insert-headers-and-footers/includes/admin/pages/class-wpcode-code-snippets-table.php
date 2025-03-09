@@ -60,9 +60,9 @@ class WPCode_Code_Snippets_Table extends WP_List_Table {
 	 * Adjust query arguments based on GET parameters.
 	 */
 	protected function process_request_parameters() {
-		if ( isset( $_GET['type'] ) && ! empty( $_GET['type'] ) ) {  // phpcs:ignore WordPress.Security.NonceVerification.Recommended
+		if ( isset( $_GET['type'] ) && ! empty( $_GET['type'] ) ) {
 			// Store the type in a class property or use it immediately in query preparations.
-			$this->requested_type = sanitize_text_field( wp_unslash( $_GET['type'] ) );  // phpcs:ignore WordPress.Security.NonceVerification.Recommended
+			$this->requested_type = sanitize_text_field( wp_unslash( $_GET['type'] ) );
 		} else {
 			$this->requested_type = null;
 		}
@@ -221,15 +221,8 @@ class WPCode_Code_Snippets_Table extends WP_List_Table {
 				}
 				break;
 
-			case 'note':
-				$notes = $snippet->get_note();
-				// Simply apply content filters to properly format the HTML.
-				$value = wpautop( wp_kses_post( $notes ) );
-				break;
-
 			case 'priority':
-				$value = esc_html( $snippet->get_priority() );
-				break;
+				echo esc_html( $snippet->get_priority() );
 
 			default:
 				$value = '';
@@ -475,34 +468,6 @@ class WPCode_Code_Snippets_Table extends WP_List_Table {
 	}
 
 	/**
-	 * Get hidden columns for snippets table screen
-	 *
-	 * @return array
-	 */
-	protected function get_hidden_columns() {
-		// Get current screen to ensure correct option name
-		$screen        = get_current_screen();
-		$screen_option = $screen->get_option( 'id' );
-
-		// Get user's saved preferences
-		$hidden = get_user_option( 'manage' . $screen->id . 'columnshidden' );
-
-		// If no user preferences are set, use our defaults
-		if ( ! is_array( $hidden ) ) {
-			$hidden = array(
-				'note',
-				'shortcode',
-				'updated'
-			);
-
-			// Save default preferences
-			update_user_option( get_current_user_id(), 'manage' . $screen->id . 'columnshidden', $hidden, true );
-		}
-
-		return $hidden;
-	}
-
-	/**
 	 * Message to be displayed when there are no snippets.
 	 *
 	 * @since 2.0.0
@@ -520,7 +485,12 @@ class WPCode_Code_Snippets_Table extends WP_List_Table {
 	public function prepare_items() {
 
 		$columns = $this->get_columns();
-		$hidden  = $this->get_hidden_columns();
+		$hidden  = get_user_option( 'manage' . $this->screen->id . 'columnshidden' );
+
+		// Check if $hidden is false and set it to an empty array if so.
+		if ( false === $hidden ) {
+			$hidden = array();
+		}
 
 		$sortable = array(
 			'name'     => array( 'title', false ),
@@ -706,7 +676,6 @@ class WPCode_Code_Snippets_Table extends WP_List_Table {
 			'shortcode' => esc_html__( 'Shortcode', 'insert-headers-and-footers' ),
 			'code_type' => esc_html__( 'Code Type', 'insert-headers-and-footers' ),
 			'priority'  => esc_html__( 'Priority', 'insert-headers-and-footers' ),
-			'note'      => esc_html__( 'Note', 'insert-headers-and-footers' ),
 		);
 		if ( 'trash' !== $this->view ) {
 			$columns['status'] = esc_html__( 'Status', 'insert-headers-and-footers' );
@@ -792,7 +761,7 @@ class WPCode_Code_Snippets_Table extends WP_List_Table {
 
 		// Apply the same filters as used in `prepare_items()`.
 		if ( ! empty( $args['tax_query'] ) ) {
-			$count_args['tax_query'] = $args['tax_query'];  // phpcs:ignore WordPress.DB.SlowDBQuery.slow_db_query_tax_query
+			$count_args['tax_query'] = $args['tax_query'];
 		}
 
 		// Initialize counts.
@@ -833,7 +802,7 @@ class WPCode_Code_Snippets_Table extends WP_List_Table {
 	public function meta_search_join( $join ) {
 		global $wpdb;
 
-		if ( is_admin() && isset( $_GET['s'] ) ) {  // phpcs:ignore WordPress.Security.NonceVerification.Recommended
+		if ( is_admin() && isset( $_GET['s'] ) ) {
 			$join .= ' LEFT JOIN ' . $wpdb->postmeta . ' ON ' . $wpdb->posts . '.ID = ' . $wpdb->postmeta . '.post_id ';
 		}
 
@@ -850,7 +819,7 @@ class WPCode_Code_Snippets_Table extends WP_List_Table {
 	public function meta_search_where( $where ) {
 		global $wpdb;
 
-		if ( is_admin() && isset( $_GET['s'] ) ) {  // phpcs:ignore WordPress.Security.NonceVerification.Recommended
+		if ( is_admin() && isset( $_GET['s'] ) ) {
 			$where = preg_replace(
 				'/\(\s*' . $wpdb->posts . ".post_title\s+LIKE\s*(\'[^\']+\')\s*\)/",
 				'(' . $wpdb->posts . '.post_title LIKE $1) OR (' . $wpdb->postmeta . '.meta_value LIKE $1)',
@@ -870,7 +839,7 @@ class WPCode_Code_Snippets_Table extends WP_List_Table {
 	 */
 	public function meta_search_distinct( $distinct ) {
 
-		if ( is_admin() && isset( $_GET['s'] ) ) {  // phpcs:ignore WordPress.Security.NonceVerification.Recommended
+		if ( is_admin() && isset( $_GET['s'] ) ) {
 			return 'DISTINCT';
 		}
 
@@ -961,9 +930,9 @@ class WPCode_Code_Snippets_Table extends WP_List_Table {
 			'<span class="paging-input">
                         <label for="current-page-selector" class="screen-reader-text">%s</label>
                         <input class="current-page" id="current-page-selector" type="text" value="%d" size="%d" aria-describedby="table-paging" />
-                        <span class="tablenav-paging-text"> ' . esc_html__( 'of', 'insert-headers-and-footers' ) . ' <span class="total-pages">%s</span></span>
+                        <span class="tablenav-paging-text"> ' . esc_html__( 'of' ) . ' <span class="total-pages">%s</span></span>
                     </span>',
-			esc_html__( 'Current Page', 'insert-headers-and-footers' ),
+			esc_html__( 'Current Page' ),
 			esc_html( $current_page ),
 			strlen( $total_pages ),
 			number_format_i18n( $total_pages )
@@ -991,10 +960,9 @@ class WPCode_Code_Snippets_Table extends WP_List_Table {
 
 		// Output the pagination.
 		echo '<div class="tablenav-pages">';
-		/* Translators: %s: the number of items. */
-		echo '<span class="displaying-num">' . esc_html( sprintf( _n( '%s item', '%s items', absint( $total_items ), 'insert-headers-and-footers' ), number_format_i18n( $total_items ) ) ) . '</span>';
+		echo '<span class="displaying-num">' . sprintf( _n( '%s item', '%s items', absint( $total_items ), 'insert-headers-and-footers' ), number_format_i18n( $total_items ) ) . '</span>';
 		echo '<span class="' . esc_attr( $pagination_links_class ) . '">';
-		echo implode( "\n", wp_unslash( $page_links ) ); // phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped
+		echo implode( "\n", wp_unslash( $page_links ) );
 		echo '</span></div>';
 	}
 

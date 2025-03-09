@@ -252,11 +252,13 @@ register_sidebar( \$args );
 			}
 		}
 
-		return '// Add Sidebars
-function ' . $this->get_value( 'function_name' ) . '() {
-    ' . $sidebar_code . '
+		return <<<EOD
+// Add Sidebars
+function {$this->get_value( 'function_name' )}() {
+	$sidebar_code
 }
-add_action( \'widgets_init\', \'' . $this->get_value( 'function_name' ) . '\' );';
+add_action( 'widgets_init', '{$this->get_value( 'function_name' )}' );
+EOD;
 	}
 
 }

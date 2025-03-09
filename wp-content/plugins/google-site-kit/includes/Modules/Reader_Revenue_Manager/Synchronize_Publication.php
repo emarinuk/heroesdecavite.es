@@ -155,7 +155,13 @@ class Synchronize_Publication {
 
 		if ( ! empty( $products ) ) {
 			foreach ( $products as $product ) {
-				$product_ids[] = $product->getName();
+				$name = $product->getName();
+
+				// Extract the product ID from the name, which is in
+				// the format of `publicationID:productID`.
+				if ( strpos( $name, ':' ) !== false ) {
+					$product_ids[] = substr( $name, strpos( $name, ':' ) + 1 );
+				}
 			}
 		}
 

@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Themes - Twenty Twenty-Five package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-01 11:02:57+0000\n"
+"PO-Revision-Date: 2024-12-19 14:12:27+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -99,7 +99,7 @@ msgctxt "Font family name"
 msgid "Fira Sans"
 msgstr "Fira Sans"
 
-#: theme.json styles/03-dusk.json styles/typography/typography-preset-2.json
+#: styles/03-dusk.json styles/typography/typography-preset-2.json theme.json
 msgctxt "Font family name"
 msgid "Fira Code"
 msgstr "Fira Code"
@@ -118,8 +118,8 @@ msgctxt "Font family name"
 msgid "Literata"
 msgstr "Literata"
 
-#: theme.json styles/05-twilight.json
-#: styles/typography/typography-preset-4.json
+#: styles/05-twilight.json styles/typography/typography-preset-4.json
+#: theme.json
 msgctxt "Font family name"
 msgid "Manrope"
 msgstr "Manrope"
@@ -274,57 +274,57 @@ msgctxt "Style variation name"
 msgid "Dusk"
 msgstr "Atardecer"
 
-#: theme.json styles/02-noon.json styles/04-afternoon.json
-#: styles/05-twilight.json styles/06-morning.json styles/08-midnight.json
+#: styles/02-noon.json styles/04-afternoon.json styles/05-twilight.json
+#: styles/06-morning.json styles/08-midnight.json
 #: styles/typography/typography-preset-1.json
 #: styles/typography/typography-preset-3.json
 #: styles/typography/typography-preset-4.json
 #: styles/typography/typography-preset-5.json
-#: styles/typography/typography-preset-7.json
+#: styles/typography/typography-preset-7.json theme.json
 msgctxt "Font size name"
 msgid "Extra Extra Large"
 msgstr "Extra extra grande"
 
-#: theme.json styles/02-noon.json styles/04-afternoon.json
-#: styles/05-twilight.json styles/06-morning.json styles/08-midnight.json
+#: styles/02-noon.json styles/04-afternoon.json styles/05-twilight.json
+#: styles/06-morning.json styles/08-midnight.json
 #: styles/typography/typography-preset-1.json
 #: styles/typography/typography-preset-3.json
 #: styles/typography/typography-preset-4.json
 #: styles/typography/typography-preset-5.json
-#: styles/typography/typography-preset-7.json
+#: styles/typography/typography-preset-7.json theme.json
 msgctxt "Font size name"
 msgid "Extra Large"
 msgstr "Extra grande"
 
-#: theme.json styles/02-noon.json styles/04-afternoon.json
-#: styles/05-twilight.json styles/06-morning.json styles/08-midnight.json
+#: styles/02-noon.json styles/04-afternoon.json styles/05-twilight.json
+#: styles/06-morning.json styles/08-midnight.json
 #: styles/typography/typography-preset-1.json
 #: styles/typography/typography-preset-3.json
 #: styles/typography/typography-preset-4.json
 #: styles/typography/typography-preset-5.json
-#: styles/typography/typography-preset-7.json
+#: styles/typography/typography-preset-7.json theme.json
 msgctxt "Font size name"
 msgid "Large"
 msgstr "Grande"
 
-#: theme.json styles/02-noon.json styles/04-afternoon.json
-#: styles/05-twilight.json styles/06-morning.json styles/08-midnight.json
+#: styles/02-noon.json styles/04-afternoon.json styles/05-twilight.json
+#: styles/06-morning.json styles/08-midnight.json
 #: styles/typography/typography-preset-1.json
 #: styles/typography/typography-preset-3.json
 #: styles/typography/typography-preset-4.json
 #: styles/typography/typography-preset-5.json
-#: styles/typography/typography-preset-7.json
+#: styles/typography/typography-preset-7.json theme.json
 msgctxt "Font size name"
 msgid "Medium"
 msgstr "Medio"
 
-#: theme.json styles/02-noon.json styles/04-afternoon.json
-#: styles/05-twilight.json styles/06-morning.json styles/08-midnight.json
+#: styles/02-noon.json styles/04-afternoon.json styles/05-twilight.json
+#: styles/06-morning.json styles/08-midnight.json
 #: styles/typography/typography-preset-1.json
 #: styles/typography/typography-preset-3.json
 #: styles/typography/typography-preset-4.json
 #: styles/typography/typography-preset-5.json
-#: styles/typography/typography-preset-7.json
+#: styles/typography/typography-preset-7.json theme.json
 msgctxt "Font size name"
 msgid "Small"
 msgstr "Pequeño"
@@ -334,90 +334,90 @@ msgctxt "Style variation name"
 msgid "Noon"
 msgstr "Mediodía"
 
-#: theme.json styles/01-evening.json styles/02-noon.json styles/03-dusk.json
+#: styles/01-evening.json styles/02-noon.json styles/03-dusk.json
 #: styles/04-afternoon.json styles/05-twilight.json styles/06-morning.json
 #: styles/07-sunrise.json styles/08-midnight.json styles/colors/01-evening.json
 #: styles/colors/02-noon.json styles/colors/03-dusk.json
 #: styles/colors/04-afternoon.json styles/colors/05-twilight.json
 #: styles/colors/06-morning.json styles/colors/07-sunrise.json
-#: styles/colors/08-midnight.json
+#: styles/colors/08-midnight.json theme.json
 msgctxt "Color name"
 msgid "Accent 6"
 msgstr "Acento 6"
 
-#: theme.json styles/01-evening.json styles/02-noon.json styles/03-dusk.json
+#: styles/01-evening.json styles/02-noon.json styles/03-dusk.json
 #: styles/04-afternoon.json styles/05-twilight.json styles/06-morning.json
 #: styles/07-sunrise.json styles/08-midnight.json styles/colors/01-evening.json
 #: styles/colors/02-noon.json styles/colors/03-dusk.json
 #: styles/colors/04-afternoon.json styles/colors/05-twilight.json
 #: styles/colors/06-morning.json styles/colors/07-sunrise.json
-#: styles/colors/08-midnight.json
+#: styles/colors/08-midnight.json theme.json
 msgctxt "Color name"
 msgid "Accent 5"
 msgstr "Acento 5"
 
-#: theme.json styles/01-evening.json styles/02-noon.json styles/03-dusk.json
+#: styles/01-evening.json styles/02-noon.json styles/03-dusk.json
 #: styles/04-afternoon.json styles/05-twilight.json styles/06-morning.json
 #: styles/07-sunrise.json styles/08-midnight.json styles/colors/01-evening.json
 #: styles/colors/02-noon.json styles/colors/03-dusk.json
 #: styles/colors/04-afternoon.json styles/colors/05-twilight.json
 #: styles/colors/06-morning.json styles/colors/07-sunrise.json
-#: styles/colors/08-midnight.json
+#: styles/colors/08-midnight.json theme.json
 msgctxt "Color name"
 msgid "Accent 4"
 msgstr "Acento 4"
 
-#: theme.json styles/01-evening.json styles/02-noon.json styles/03-dusk.json
+#: styles/01-evening.json styles/02-noon.json styles/03-dusk.json
 #: styles/04-afternoon.json styles/05-twilight.json styles/06-morning.json
 #: styles/07-sunrise.json styles/08-midnight.json styles/colors/01-evening.json
 #: styles/colors/02-noon.json styles/colors/03-dusk.json
 #: styles/colors/04-afternoon.json styles/colors/05-twilight.json
 #: styles/colors/06-morning.json styles/colors/07-sunrise.json
-#: styles/colors/08-midnight.json
+#: styles/colors/08-midnight.json theme.json
 msgctxt "Color name"
 msgid "Accent 3"
 msgstr "Énfasis 3"
 
-#: theme.json styles/01-evening.json styles/02-noon.json styles/03-dusk.json
+#: styles/01-evening.json styles/02-noon.json styles/03-dusk.json
 #: styles/04-afternoon.json styles/05-twilight.json styles/06-morning.json
 #: styles/07-sunrise.json styles/08-midnight.json styles/colors/01-evening.json
 #: styles/colors/02-noon.json styles/colors/03-dusk.json
 #: styles/colors/04-afternoon.json styles/colors/05-twilight.json
 #: styles/colors/06-morning.json styles/colors/07-sunrise.json
-#: styles/colors/08-midnight.json
+#: styles/colors/08-midnight.json theme.json
 msgctxt "Color name"
 msgid "Accent 2"
 msgstr "Énfasis 2"
 
-#: theme.json styles/01-evening.json styles/02-noon.json styles/03-dusk.json
+#: styles/01-evening.json styles/02-noon.json styles/03-dusk.json
 #: styles/04-afternoon.json styles/05-twilight.json styles/06-morning.json
 #: styles/07-sunrise.json styles/08-midnight.json styles/colors/01-evening.json
 #: styles/colors/02-noon.json styles/colors/03-dusk.json
 #: styles/colors/04-afternoon.json styles/colors/05-twilight.json
 #: styles/colors/06-morning.json styles/colors/07-sunrise.json
-#: styles/colors/08-midnight.json
+#: styles/colors/08-midnight.json theme.json
 msgctxt "Color name"
 msgid "Accent 1"
 msgstr "Énfasis 1"
 
-#: theme.json styles/01-evening.json styles/02-noon.json styles/03-dusk.json
+#: styles/01-evening.json styles/02-noon.json styles/03-dusk.json
 #: styles/04-afternoon.json styles/05-twilight.json styles/06-morning.json
 #: styles/07-sunrise.json styles/08-midnight.json styles/colors/01-evening.json
 #: styles/colors/02-noon.json styles/colors/03-dusk.json
 #: styles/colors/04-afternoon.json styles/colors/05-twilight.json
 #: styles/colors/06-morning.json styles/colors/07-sunrise.json
-#: styles/colors/08-midnight.json
+#: styles/colors/08-midnight.json theme.json
 msgctxt "Color name"
 msgid "Contrast"
 msgstr "Contraste"
 
-#: theme.json styles/01-evening.json styles/02-noon.json styles/03-dusk.json
+#: styles/01-evening.json styles/02-noon.json styles/03-dusk.json
 #: styles/04-afternoon.json styles/05-twilight.json styles/06-morning.json
 #: styles/07-sunrise.json styles/08-midnight.json styles/colors/01-evening.json
 #: styles/colors/02-noon.json styles/colors/03-dusk.json
 #: styles/colors/04-afternoon.json styles/colors/05-twilight.json
 #: styles/colors/06-morning.json styles/colors/07-sunrise.json
-#: styles/colors/08-midnight.json
+#: styles/colors/08-midnight.json theme.json
 msgctxt "Color name"
 msgid "Base"
 msgstr "Base"
@@ -1264,7 +1264,7 @@ msgstr "Escrito por"
 #: patterns/template-query-loop.php:31
 msgctxt "Message explaining that there are no results returned from a search."
 msgid "Sorry, but nothing was found. Please try a search with different keywords."
-msgstr "Lo siento, no se ha encontrado nada. Por favor, prueba a buscar con otras palabras clave."
+msgstr "Lo siente, no se ha encontrado nada. Por favor, intenta buscar con otras palabras clave."
 
 #: patterns/hidden-sidebar.php:37
 #: patterns/template-home-posts-grid-news-blog.php:34

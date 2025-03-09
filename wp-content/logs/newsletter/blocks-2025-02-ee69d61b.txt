@@ -1,4 +1,2 @@
 07-02-2025 11:55:10 - INFO  - 8.6.8 - 139,6 MB/ - [cron] > Weekly check for blocks
 14-02-2025 11:55:09 - INFO  - 8.7.0 - 151,3 MB/ - [cron] > Weekly check for blocks
-21-02-2025 11:55:10 - INFO  - 8.7.0 - 135,8 MB/ - [cron] > Weekly check for blocks
-28-02-2025 11:55:08 - INFO  - 8.7.0 - 135,8 MB/ - [cron] > Weekly check for blocks

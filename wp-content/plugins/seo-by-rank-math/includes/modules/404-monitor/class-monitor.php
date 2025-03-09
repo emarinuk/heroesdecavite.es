@@ -24,8 +24,7 @@ defined( 'ABSPATH' ) || exit;
  */
 class Monitor {
 
-	use Hooker;
-	use Ajax;
+	use Hooker, Ajax;
 
 	/**
 	 * Admin object.

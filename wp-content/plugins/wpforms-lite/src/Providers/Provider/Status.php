@@ -43,7 +43,7 @@ class Status {
 	}
 
 	/**
-	 * Provide an ability to statically init the object.
+	 * Provide ability to statically init the object.
 	 * Useful for inline-invocations.
 	 *
 	 * @example: Status::init( 'drip' )->is_ready();
@@ -68,7 +68,7 @@ class Status {
 
 	/**
 	 * Check whether the defined provider is configured or not.
-	 * "Configured" means has an account that might be checked/updated on Settings > Integrations.
+	 * "Configured" means has an account, that might be checked/updated on Settings > Integrations.
 	 *
 	 * @since 1.4.8
 	 *
@@ -78,28 +78,14 @@ class Status {
 
 		$options = wpforms_get_providers_options();
 
-		/**
-		 * Use this filter to change the configuration status of the provider.
-		 * We need the filter for BC reasons.
-		 *
-		 * @since 1.4.8
-		 *
-		 * @param bool $is_configured Is the provider configured?
-		 */
-		$is_configured = apply_filters( // phpcs:ignore WPForms.PHP.ValidateHooks.InvalidHookName
-			"wpforms_providers_{$this->provider}_configured",
+		// We meed to leave this filter for BC.
+		$is_configured = \apply_filters(
+			'wpforms_providers_' . $this->provider . '_configured',
 			! empty( $options[ $this->provider ] )
 		);
 
-		/**
-		 * Use this filter to change the configuration status of the provider.
-		 *
-		 * @since 1.4.8
-		 *
-		 * @param bool   $is_configured Is the provider configured?
-		 * @param string $provider      Provider slug.
-		 */
-		return apply_filters( 'wpforms_providers_status_is_configured', $is_configured, $this->provider ); // phpcs:ignore WPForms.PHP.ValidateHooks.InvalidHookName
+		// Use this filter to change the configuration status of the provider.
+		return apply_filters( 'wpforms_providers_status_is_configured', $is_configured, $this->provider );
 	}
 
 	/**
@@ -129,15 +115,7 @@ class Status {
 			$is_connected = $this->check_valid_connections();
 		}
 
-		/**
-		 * Use this filter to change the connection status of the provider.
-		 *
-		 * @since 1.4.8
-		 *
-		 * @param bool   $is_connected Is the provider connected to the form?
-		 * @param string $provider     Provider slug.
-		 */
-		return (bool) apply_filters( 'wpforms_providers_status_is_connected', $is_connected, $this->provider ); // phpcs:ignore WPForms.PHP.ValidateHooks.InvalidHookName
+		return apply_filters( 'wpforms_providers_status_is_connected', $is_connected, $this->provider );
 	}
 
 	/**
@@ -156,7 +134,7 @@ class Status {
 	}
 
 	/**
-	 * Check if connections belong to an existing account.
+	 * Check if connections belong to existing account.
 	 *
 	 * @since 1.8.8
 	 *

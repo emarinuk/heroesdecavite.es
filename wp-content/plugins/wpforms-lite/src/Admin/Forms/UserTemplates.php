@@ -353,11 +353,7 @@ class UserTemplates {
 	 */
 	public function ajax_remove_user_template() {
 
-		// Run a security check.
-		check_ajax_referer( 'wpforms-form-templates', 'nonce' );
-
-		// Check for permissions.
-		if ( ! wpforms_current_user_can( 'delete_forms' ) ) {
+		if ( ! check_ajax_referer( 'wpforms-form-templates', 'nonce', false ) ) {
 			wp_send_json_error();
 		}
 
@@ -365,7 +361,7 @@ class UserTemplates {
 			wp_send_json_error();
 		}
 
-		wp_delete_post( absint( $_POST['template'] ), true );
+		wp_delete_post( absint( $_POST['template'] ), true ); // phpcs:ignore WordPress.Security.NonceVerification.Recommended
 
 		wp_send_json_success();
 	}

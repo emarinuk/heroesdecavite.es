@@ -10,7 +10,6 @@
 
 namespace RankMath\WooCommerce;
 
-use RankMath\Traits\Hooker;
 use RankMath\Helper;
 use RankMath\Helpers\Str;
 use RankMath\Helpers\Attachment;
@@ -20,9 +19,7 @@ defined( 'ABSPATH' ) || exit;
 /**
  * WC Sitemap class.
  */
-class Sitemap extends Base {
-
-	use Hooker;
+class Sitemap {
 
 	/**
 	 * Register hooks.
@@ -37,28 +34,28 @@ class Sitemap extends Base {
 	/**
 	 * Make sure product variations and shop coupons are not included in the XML sitemap.
 	 *
-	 * @param bool   $value     Whether or not to include this post type in the XML sitemap.
+	 * @param bool   $bool      Whether or not to include this post type in the XML sitemap.
 	 * @param string $post_type The post type of the post.
 	 *
 	 * @return bool
 	 */
-	public function sitemap_exclude_post_type( $value, $post_type ) {
+	public function sitemap_exclude_post_type( $bool, $post_type ) {
 		if ( in_array( $post_type, [ 'product_variation', 'shop_coupon' ], true ) ) {
 			return true;
 		}
 
-		return $value;
+		return $bool;
 	}
 
 	/**
 	 * Make sure product attribute taxonomies are not included in the XML sitemap.
 	 *
-	 * @param bool   $value    Whether or not to include this post type in the XML sitemap.
+	 * @param bool   $bool     Whether or not to include this post type in the XML sitemap.
 	 * @param string $taxonomy The taxonomy to check against.
 	 *
 	 * @return bool
 	 */
-	public function sitemap_taxonomies( $value, $taxonomy ) {
+	public function sitemap_taxonomies( $bool, $taxonomy ) {
 		if ( in_array( $taxonomy, [ 'product_type', 'product_shipping_class', 'shop_order_status' ], true ) ) {
 			return true;
 		}
@@ -67,7 +64,7 @@ class Sitemap extends Base {
 			return true;
 		}
 
-		return $value;
+		return $bool;
 	}
 
 	/**
@@ -115,12 +112,12 @@ class Sitemap extends Base {
 					continue;
 				}
 
-				$image    = [
+				$image = [
 					'src'   => $this->do_filter( 'sitemap/xml_img_src', $image_src[0], $post_id ),
 					'title' => get_the_title( $attachment_id ),
 					'alt'   => Attachment::get_alt_tag( $attachment_id ),
 				];
-				$images[] = $image;
+				$images[]  = $image;
 
 				unset( $image, $image_src );
 			}

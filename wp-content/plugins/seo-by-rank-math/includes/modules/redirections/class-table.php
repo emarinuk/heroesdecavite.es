@@ -43,6 +43,8 @@ class Table extends List_Table {
 	 * Prepares the list of items for displaying.
 	 */
 	public function prepare_items() {
+		global $per_page;
+
 		$per_page = $this->get_items_per_page( 'rank_math_redirections_per_page', 100 );
 
 		$data = DB::get_redirections(
@@ -237,7 +239,7 @@ class Table extends List_Table {
 			'redirections/table_item',
 			[
 				'id'          => $item['id'],
-				'sources'     => unserialize( $item['sources'] ), //phpcs:ignore -- This will be fixed after moving the sources to JSON.
+				'sources'     => unserialize( $item['sources'] ),
 				'url_to'      => $item['url_to'],
 				'header_code' => $item['header_code'],
 				'status'      => $item['status'],

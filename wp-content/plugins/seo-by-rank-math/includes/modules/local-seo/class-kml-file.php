@@ -24,8 +24,7 @@ defined( 'ABSPATH' ) || exit;
  */
 class KML_File {
 
-	use Ajax;
-	use Hooker;
+	use Ajax, Hooker;
 
 	/**
 	 * The Constructor.

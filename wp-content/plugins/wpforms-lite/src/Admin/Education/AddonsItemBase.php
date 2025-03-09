@@ -2,9 +2,6 @@
 
 namespace WPForms\Admin\Education;
 
-use WPForms\Admin\Addons\Addons;
-use WPForms\Requirements\Requirements;
-
 /**
  * Base class for all "addon item" type Education features.
  *
@@ -17,7 +14,7 @@ abstract class AddonsItemBase implements EducationInterface {
 	 *
 	 * @since 1.6.6
 	 *
-	 * @var Core
+	 * @var \WPForms\Admin\Education\Core
 	 */
 	protected $education;
 
@@ -26,7 +23,7 @@ abstract class AddonsItemBase implements EducationInterface {
 	 *
 	 * @since 1.6.6
 	 *
-	 * @var Addons
+	 * @var \WPForms\Admin\Addons\Addons
 	 */
 	protected $addons;
 
@@ -40,15 +37,12 @@ abstract class AddonsItemBase implements EducationInterface {
 	protected $single_addon_template;
 
 	/**
-	 * Indicate if the current Education feature is allowed to load.
+	 * Indicate if current Education feature is allowed to load.
 	 * Should be called from the child feature class.
 	 *
 	 * @since 1.6.6
 	 *
 	 * @return bool
-	 *
-	 * @noinspection PhpMissingReturnTypeInspection
-	 * @noinspection ReturnTypeCanBeDeclaredInspection
 	 */
 	abstract public function allow_load();
 
@@ -56,8 +50,6 @@ abstract class AddonsItemBase implements EducationInterface {
 	 * Init.
 	 *
 	 * @since 1.6.6
-	 *
-	 * @noinspection ReturnTypeCanBeDeclaredInspection
 	 */
 	public function init() {
 
@@ -88,9 +80,6 @@ abstract class AddonsItemBase implements EducationInterface {
 	 * @since 1.6.6
 	 *
 	 * @param array $addon Addon data.
-	 *
-	 * @noinspection ReturnTypeCanBeDeclaredInspection
-	 * @noinspection PhpMissingParamTypeInspection
 	 */
 	protected function display_single_addon( $addon ) {
 
@@ -113,62 +102,5 @@ abstract class AddonsItemBase implements EducationInterface {
 			$addon,
 			true
 		);
-	}
-
-	/**
-	 * Prepare field data-attributes for the education actions.
-	 * E.g., install, activate, incompatible.
-	 *
-	 * @since 1.9.4
-	 *
-	 * @param array $addon Current addon information.
-	 *
-	 * @return array
-	 */
-	protected function prepare_field_action_data( array $addon ): array {
-
-		if ( empty( $addon['plugin_allow'] ) ) {
-			return [];
-		}
-
-		if ( $addon['action'] === 'install' ) {
-			return [
-				'data'  => [
-					'action'  => 'install',
-					'name'    => $addon['modal_name'],
-					'url'     => $addon['url'],
-					'nonce'   => wp_create_nonce( 'wpforms-admin' ),
-					'license' => $addon['license_level'],
-				],
-				'class' => 'education-modal',
-			];
-		}
-
-		if ( $addon['action'] === 'activate' ) {
-			return [
-				'data'  => [
-					'action' => 'activate',
-					'name'   => sprintf( /* translators: %s - addon name. */
-						esc_html__( '%s addon', 'wpforms-lite' ),
-						$addon['name']
-					),
-					'path'   => $addon['path'],
-					'nonce'  => wp_create_nonce( 'wpforms-admin' ),
-				],
-				'class' => 'education-modal',
-			];
-		}
-
-		if ( $addon['action'] === 'incompatible' ) {
-			return [
-				'data'  => [
-					'action'  => 'incompatible',
-					'message' => Requirements::get_instance()->get_notice( $addon['path'] ),
-				],
-				'class' => 'education-modal',
-			];
-		}
-
-		return [];
 	}
 }

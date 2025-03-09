@@ -47,4 +47,5 @@ class Image_Seo {
 			$this->admin = new Admin();
 		}
 	}
+
 }

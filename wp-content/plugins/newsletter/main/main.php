@@ -14,8 +14,6 @@ if (!$controls->is_action()) {
 
         if (!$language) {
 
-            $controls->data = wp_kses_post_deep($controls->data);
-
             if (!$this->is_email($controls->data['sender_email'])) {
                 $controls->errors .= __('The sender email address is not correct.', 'newsletter') . '<br>';
             } else {

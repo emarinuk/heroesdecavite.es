@@ -24,8 +24,7 @@ defined( 'ABSPATH' ) || exit;
  */
 class Notices implements Runner {
 
-	use Hooker;
-	use Ajax;
+	use Hooker, Ajax;
 
 	/**
 	 * Register hooks.

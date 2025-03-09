@@ -20,7 +20,7 @@ class SplashCache extends CacheBase {
 	 *
 	 * @var string
 	 */
-	public const REMOTE_SOURCE = 'https://wpformsapi.com/feeds/v1/splash/';
+	const REMOTE_SOURCE = 'https://wpformsapi.com/feeds/v1/splash/';
 
 	/**
 	 * Determine if the class is allowed to load.
@@ -146,12 +146,12 @@ class SplashCache extends CacheBase {
 		$blocks = array_values( $blocks );
 
 		return array_map(
-			function ( $block ) {
+			function ( $block, $index ) { //phpcs:ignore Generic.CodeAnalysis.UnusedFunctionParameter.FoundAfterLastUsed
 
 				// Prepare buttons URLs.
 				$block['buttons'] = $this->prepare_buttons( $block['btns'] ?? [] );
 
-				// Set layout based on an image type.
+				// Set layout based on image type.
 				$block['layout'] = $this->get_block_layout( $block['img'] );
 
 				unset( $block['btns'] );

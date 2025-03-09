@@ -51,10 +51,6 @@ class NewsletterLeads extends NewsletterAddon {
             'theme_bar_color' => 'winter',
             'inject_labels' => '1'
         ]);
-
-        $this->update_popup_css();
-        $this->update_topbar_css();
-
     }
 
     function init() {
@@ -181,84 +177,6 @@ class NewsletterLeads extends NewsletterAddon {
                 . '</div>';
     }
 
-    function update_popup_css() {
-        $background_color = '';
-        $font_color = '';
-        $button_color = '';
-
-        switch ($this->options['theme_popup_color']) {
-            case 'custom':
-                $background_color = sanitize_hex_color($this->options['theme_popup_color_1']);
-                $font_color = sanitize_hex_color($this->options['theme_popup_color_3'] ?? '#ffffff');
-                $button_color = sanitize_hex_color($this->options['theme_popup_color_2']);
-                break;
-            case 'default':
-                break;
-            case 'winter':
-            case 'night':
-            case 'sunset':
-                $colors = NewsletterLeads::$leads_colors[$this->options['theme_popup_color']];
-                $background_color = $colors[0];
-                $font_color = '#ffffff';
-                $button_color = $colors[1];
-            default:
-                $colors = NewsletterLeads::$leads_colors[$this->options['theme_popup_color']];
-                $background_color = $colors[0];
-                $font_color = '#ffffff';
-                $button_color = $colors[1];
-        }
-
-        if ($this->options['theme_popup_color'] == 'custom') {
-            $theme_popup_color = array($this->options['theme_popup_color_1'], $this->options['theme_popup_color_2']);
-        } else {
-            $theme_popup_color = NewsletterLeads::$leads_colors[$this->options['theme_popup_color']];
-        }
-
-        $background_image = 'none';
-        if (!empty($this->options['theme_background']['id'])) {
-            $src = wp_get_attachment_image_src($this->options['theme_background']['id'], 'full');
-            $background_image = 'url(\'' . $src[0] . '\')';
-        }
-
-        $css = file_get_contents(__DIR__ . '/public/leads.css');
-
-        $height = empty($this->options['height']) ? 'auto' : (int) $this->options['height'] . 'px';
-        $css = str_replace(['%height%', '%width%', '%background_color%', '%background_image%', '%font_color%', '%button_color%'],
-                [$height, (int) $this->options['width'] . 'px', $background_color, $background_image, $font_color, $button_color],
-                $css);
-
-        update_option('newsletter_leads_popup_css', $css);
-        return $css;
-    }
-
-    function update_topbar_css() {
-        if (isset($this->options['theme_bar_color'])) {
-            if ($this->options['theme_bar_color'] === 'custom') {
-                $theme_bar_color = [$this->options['theme_bar_color_1'], $this->options['theme_bar_color_2']];
-            } else {
-                $theme_bar_color = NewsletterLeads::$leads_colors[$this->options['theme_bar_color']];
-            }
-        }
-        if ($this->options['position'] == "top") {
-            $position = 'top: -200px; transition: top 1s;';
-            $position_show = is_admin_bar_showing() ? 'top: 32px' : 'top: 0px';
-        } else {
-            $position = 'bottom: -200px; transition: bottom 1s;';
-            $position_show = 'bottom: 0px';
-        }
-
-        $css = file_get_contents(__DIR__ . '/public/topbar.css');
-        $css = str_replace(['%position%', '%position_show%', '%background_0%', '%background_1%'],
-                [$position, $position_show, $theme_bar_color[0], $theme_bar_color[1]],
-                $css);
-        update_option('newsletter_leads_topbar_css', $css);
-        return $css;
-    }
-
-    function build_inject_css() {
-
-    }
-
     function hook_wp_enqueue_scripts() {
 
         // If not in test mode and the current visitor is subscribed, do not activate
@@ -298,12 +216,133 @@ class NewsletterLeads extends NewsletterAddon {
         }
 
         if ($this->popup_enabled || $this->popup_test) {
-            $css = get_option('newsletter_leads_popup_css');
+
+            $background_color = '';
+            $font_color = '';
+            $button_color = '';
+
+            switch ($this->options['theme_popup_color']) {
+                case 'custom':
+                    $background_color = sanitize_hex_color($this->options['theme_popup_color_1']);
+                    $font_color = sanitize_hex_color($this->options['theme_popup_color_3'] ?? '#ffffff');
+                    $button_color = sanitize_hex_color($this->options['theme_popup_color_2']);
+                    break;
+                case 'default':
+                    break;
+                case 'winter':
+                case 'night':
+                case 'sunset':
+                    $colors = NewsletterLeads::$leads_colors[$this->options['theme_popup_color']];
+                    $background_color = $colors[0];
+                    $font_color = '#ffffff';
+                    $button_color = $colors[1];
+                default:
+                    $colors = NewsletterLeads::$leads_colors[$this->options['theme_popup_color']];
+                    $background_color = $colors[0];
+                    $font_color = '#ffffff';
+                    $button_color = $colors[1];
+            }
+
+            if ($this->options['theme_popup_color'] == 'custom') {
+                $theme_popup_color = array($this->options['theme_popup_color_1'], $this->options['theme_popup_color_2']);
+            } else {
+                $theme_popup_color = NewsletterLeads::$leads_colors[$this->options['theme_popup_color']];
+            }
+
+            $background_image = 'none';
+            if (!empty($this->options['theme_background']['id'])) {
+                $src = wp_get_attachment_image_src($this->options['theme_background']['id'], 'full');
+                $background_image = 'url(\'' . $src[0] . '\')';
+            }
+
+            ob_start();
+            ?>
+            #tnp-modal-content {
+            height:<?php echo empty($this->options['height']) ? 'auto' : (int) $this->options['height'] . 'px'; ?>;
+            width:<?php echo (int) $this->options['width']; ?>px;
+            background-color: <?php echo $background_color ?> !important;
+            background-image: <?php echo $background_image ?>;
+            background-repeat: no-repeat;
+            background-size: cover;
+            color: <?php echo $font_color ?>;
+            }
+
+            #tnp-modal-body {
+            color: <?php echo $font_color ?>;
+            }
+
+            #tnp-modal-body .tnp-privacy-field {
+            color: <?php echo $font_color ?>;
+            }
+
+            #tnp-modal-body .tnp-privacy-field label a {
+            color: <?php echo $font_color ?>;
+            }
+
+            #tnp-modal-content input.tnp-submit {
+            background-color: <?php echo $button_color ?>;
+            border: none;
+            background-image: none;
+            color: #fff;
+            cursor: pointer;
+            }
+
+            #tnp-modal-content input.tnp-submit:hover {
+            filter: brightness(110%);
+            }
+
+            .tnp-modal {
+            text-align: center;
+            padding: 30px;
+            }
+
+            <?php
+            $css = ob_get_clean();
             wp_add_inline_style('newsletter-leads', $css);
         }
 
         if ($this->bar_enabled || $this->topbar_test) {
-            $css = get_option('newsletter_leads_topbar_css');
+            if (isset($this->options['theme_bar_color'])) {
+                if ($this->options['theme_bar_color'] == 'custom') {
+                    $theme_bar_color = array($this->options['theme_bar_color_1'], $this->options['theme_bar_color_2']);
+                } else {
+                    $theme_bar_color = NewsletterLeads::$leads_colors[$this->options['theme_bar_color']];
+                }
+            }
+            ob_start();
+            ?>
+            #tnp-leads-topbar {
+            <?php if ($this->options['position'] == "top") { ?>
+                top: -200px;
+                transition: top 1s;
+            <?php } else { ?>
+                bottom: -200px;
+                transition: bottom 1s;
+            <?php } ?>
+            }
+            #tnp-leads-topbar.tnp-leads-topbar-show {
+            <?php if ($this->options['position'] == "top") { ?>
+                <?php if (is_admin_bar_showing()) { ?>
+                    top:32px;
+                <?php } else { ?>
+                    top:0px;
+                <?php } ?>
+            <?php } else { ?>
+                bottom:0px;
+            <?php } ?>
+            }
+            #tnp-leads-topbar {
+            background-color: <?php echo $theme_bar_color[0] ?> !important;
+            }
+            #tnp-leads-topbar .tnp-subscription-minimal input.tnp-email {
+            width: auto!important;
+            }
+            #tnp-leads-topbar .tnp-subscription-minimal input.tnp-submit {
+            background-color: <?php echo $theme_bar_color[1] ?> !important;
+            width: auto!important;
+            }
+            <?php
+            $css = ob_get_clean();
             wp_add_inline_style('newsletter-leads', $css);
         }
     }
@@ -314,7 +353,7 @@ class NewsletterLeads extends NewsletterAddon {
             ?>
             <div id="tnp-leads-topbar">
                 <?php echo $this->getBarMinimalForm(); ?>
-                <label id="tnp-leads-topbar-close" onclick="tnp_leads_topbar_close()"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 24 24"><g  transform="translate(0, 0)"><circle fill="#fff" stroke="#fff" stroke-width="1" stroke-linecap="square" stroke-miterlimit="10" cx="12" cy="12" r="11" stroke-linejoin="miter"/><line data-color="color-2" fill="#fff" stroke="#343434" stroke-width="1" stroke-linecap="square" stroke-miterlimit="10" x1="16" y1="8" x2="8" y2="16" stroke-linejoin="miter"/><line data-color="color-2" fill="none" stroke="#343434" stroke-width="1" stroke-linecap="square" stroke-miterlimit="10" x1="16" y1="16" x2="8" y2="8" stroke-linejoin="miter"/></g></svg></label>
+                <label id="tnp-leads-topbar-close" onclick="tnp_leads_close_topbar()"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 24 24"><g  transform="translate(0, 0)"><circle fill="#fff" stroke="#fff" stroke-width="1" stroke-linecap="square" stroke-miterlimit="10" cx="12" cy="12" r="11" stroke-linejoin="miter"/><line data-color="color-2" fill="#fff" stroke="#343434" stroke-width="1" stroke-linecap="square" stroke-miterlimit="10" x1="16" y1="8" x2="8" y2="16" stroke-linejoin="miter"/><line data-color="color-2" fill="none" stroke="#343434" stroke-width="1" stroke-linecap="square" stroke-miterlimit="10" x1="16" y1="16" x2="8" y2="8" stroke-linejoin="miter"/></g></svg></label>
             </div>
             <?php
         }

@@ -1204,32 +1204,19 @@ class SetupWizard {
 
 		check_ajax_referer( 'wpms-admin-nonce', 'nonce' );
 
-		$options    = Options::init();
-		$mailer     = $options->get( 'mail', 'mailer' );
-		$from_email = $options->get( 'mail', 'from_email' );
-		$domain     = '';
-
-		/*
-		 * Some mailers in a test mode allows to send emails only to the registered
-		 * From email address, so we need to cover this case.
-		 */
-		$to_email = $from_email;
-
-		if (
-			defined( 'WPMS_SETUP_WIZARD_TEST_EMAIL_RECIPIENT' ) &&
-			is_email( WPMS_SETUP_WIZARD_TEST_EMAIL_RECIPIENT )
-		) {
-			$to_email = WPMS_SETUP_WIZARD_TEST_EMAIL_RECIPIENT;
-		}
+		$options = Options::init();
+		$mailer  = $options->get( 'mail', 'mailer' );
+		$email   = $options->get( 'mail', 'from_email' );
+		$domain  = '';
 
 		// Send the test mail.
 		$result = wp_mail(
-			$to_email,
+			$email,
 			'WP Mail SMTP Automatic Email Test',
 			TestTab::get_email_message_text(),
-			[
+			array(
 				'X-Mailer-Type:WPMailSMTP/Admin/SetupWizard/Test',
-			]
+			)
 		);
 
 		if ( ! $result ) {
@@ -1246,7 +1233,7 @@ class SetupWizard {
 		}
 
 		// Perform the domain checker API test.
-		$domain_checker = new DomainChecker( $mailer, $from_email, $domain );
+		$domain_checker = new DomainChecker( $mailer, $email, $domain );
 
 		if ( $domain_checker->has_errors() ) {
 			$this->update_completed_stat( false );

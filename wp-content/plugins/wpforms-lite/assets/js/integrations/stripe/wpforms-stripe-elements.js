@@ -275,11 +275,7 @@ var WPFormsStripeElements = window.WPFormsStripeElements || ( function( document
 
 			if ( json.success && json.data.action_required ) {
 				app.stripe.handleCardPayment(
-					json.data.payment_intent_client_secret,
-					{
-						// eslint-disable-next-line camelcase
-						payment_method: json.data.payment_method_id,
-					}
+					json.data.payment_intent_client_secret
 				).then( function( result ) {
 					app.handleCardPaymentCallback( $form, result );
 				} );

@@ -53,8 +53,7 @@ class MeterService extends \WPForms\Vendor\Stripe\Service\AbstractService
         return $this->request('post', '/v1/billing/meters', $params, $opts);
     }
     /**
-     * When a meter is deactivated, no more meter events will be accepted for this
-     * meter. You can’t attach a deactivated meter to a price.
+     * Deactivates a billing meter.
      *
      * @param string $id
      * @param null|array $params
@@ -69,8 +68,7 @@ class MeterService extends \WPForms\Vendor\Stripe\Service\AbstractService
         return $this->request('post', $this->buildPath('/v1/billing/meters/%s/deactivate', $id), $params, $opts);
     }
     /**
-     * When a meter is reactivated, events for this meter can be accepted and you can
-     * attach the meter to a price.
+     * Reactivates a billing meter.
      *
      * @param string $id
      * @param null|array $params

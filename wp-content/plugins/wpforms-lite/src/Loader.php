@@ -23,7 +23,7 @@ class Loader {
 	 *
 	 * @since 1.5.8
 	 */
-	public function init(): void {
+	public function init() {
 
 		$this->populate_classes();
 
@@ -35,7 +35,7 @@ class Loader {
 	 *
 	 * @since 1.5.8
 	 */
-	protected function populate_classes(): void {
+	protected function populate_classes() {
 
 		$this->populate_common();
 		$this->populate_frontend();
@@ -62,7 +62,7 @@ class Loader {
 	 *
 	 * @since 1.8.6
 	 */
-	private function populate_common(): void {
+	private function populate_common() {
 
 		$this->classes[] = [
 			'name' => 'API',
@@ -79,7 +79,7 @@ class Loader {
 	 *
 	 * @since 1.6.2
 	 */
-	private function populate_forms(): void {
+	private function populate_forms() {
 
 		$this->classes[] = [
 			'name' => 'Forms\Preview',
@@ -129,7 +129,7 @@ class Loader {
 	 *
 	 * @since 1.8.1
 	 */
-	private function populate_frontend(): void {
+	private function populate_frontend() {
 
 		$this->classes[] = [
 			'name' => 'Frontend\Amp',
@@ -167,7 +167,7 @@ class Loader {
 	 *
 	 * @since 1.6.0
 	 */
-	private function populate_admin(): void {
+	private function populate_admin() {
 
 		array_push(
 			$this->classes,
@@ -317,7 +317,7 @@ class Loader {
 	 *
 	 * @since 1.8.7
 	 */
-	private function populate_caches(): void {
+	private function populate_caches() {
 
 		array_push(
 			$this->classes,
@@ -341,84 +341,34 @@ class Loader {
 	 *
 	 * @since 1.8.2
 	 */
-	private function populate_fields(): void {
+	private function populate_fields() {
 
-		// Fancy fields.
 		$this->classes[] = [
-			'name' => 'Forms\Fields\Address\Field',
+			'name' => 'Forms\Fields\PaymentCheckbox\Field',
 			'hook' => 'init',
 		];
 
 		$this->classes[] = [
-			'name' => 'Forms\Fields\Content\Field',
+			'name' => 'Forms\Fields\PaymentMultiple\Field',
 			'hook' => 'init',
 		];
 
 		$this->classes[] = [
-			'name' => 'Forms\Fields\DateTime\Field',
+			'name' => 'Forms\Fields\PaymentSelect\Field',
 			'hook' => 'init',
 		];
 
 		$this->classes[] = [
-			'name' => 'Forms\Fields\Divider\Field',
+			'name' => 'Forms\Fields\PaymentSingle\Field',
 			'hook' => 'init',
 		];
 
 		$this->classes[] = [
-			'name' => 'Forms\Fields\FileUpload\Field',
+			'name' => 'Forms\Fields\PaymentTotal\Field',
 			'hook' => 'init',
 		];
 
-		$this->classes[] = [
-			'name' => 'Forms\Fields\Hidden\Field',
-			'hook' => 'init',
-		];
-
-		$this->classes[] = [
-			'name' => 'Forms\Fields\Html\Field',
-			'hook' => 'init',
-		];
-
-		$this->classes[] = [
-			'name' => 'Forms\Fields\Phone\Field',
-			'hook' => 'init',
-		];
-
-		$this->classes[] = [
-			'name' => 'Forms\Fields\EntryPreview\Field',
-			'hook' => 'init',
-		];
-
-		$this->classes[] = [
-			'name' => 'Forms\Fields\Password\Field',
-			'hook' => 'init',
-		];
-
-		$this->classes[] = [
-			'name' => 'Forms\Fields\CreditCard\Field',
-			'hook' => 'init',
-		];
-
-		$this->classes[] = [
-			'name' => 'Forms\Fields\Rating\Field',
-			'hook' => 'init',
-		];
-
-		$this->classes[] = [
-			'name' => 'Forms\Fields\Url\Field',
-			'hook' => 'init',
-		];
-
-		$this->classes[] = [
-			'name' => 'Forms\Fields\Richtext\Field',
-			'hook' => 'init',
-		];
-
-		$this->classes[] = [
-			'name' => 'Forms\Fields\Pagebreak\Field',
-			'hook' => 'init',
-		];
-
+		// Load custom captcha field class.
 		$this->classes[] = [
 			'name' => 'Forms\Fields\CustomCaptcha\Field',
 		];
@@ -453,57 +403,6 @@ class Loader {
 			'name' => 'Forms\Fields\Repeater\Notifications',
 			'hook' => 'init',
 		];
-
-		// Payment fields.
-		$this->classes[] = [
-			'name' => 'Forms\Fields\PaymentCheckbox\Field',
-			'hook' => 'init',
-		];
-
-		$this->classes[] = [
-			'name' => 'Forms\Fields\PaymentMultiple\Field',
-			'hook' => 'init',
-		];
-
-		$this->classes[] = [
-			'name' => 'Forms\Fields\PaymentSelect\Field',
-			'hook' => 'init',
-		];
-
-		$this->classes[] = [
-			'name' => 'Forms\Fields\PaymentSingle\Field',
-			'hook' => 'init',
-		];
-
-		$this->classes[] = [
-			'name' => 'Forms\Fields\PaymentTotal\Field',
-			'hook' => 'init',
-		];
-
-		// Addon fields in Lite.
-		$this->classes[] = [
-			'name'        => 'Forms\Fields\Addons\Coupon\Field',
-			'addon_class' => 'WPFormsCoupons\Field',
-			'addon_slug'  => 'coupons',
-		];
-
-		$this->classes[] = [
-			'name'        => 'Forms\Fields\Addons\Signature\Field',
-			'addon_class' => 'WPFormsSignatures\Fields\Signature',
-			'addon_slug'  => 'signatures',
-		];
-
-		$this->classes[] = [
-			'name'        => 'Forms\Fields\Addons\LikertScale\Field',
-			'addon_class' => 'WPFormsSurveys\Fields\LikertScale\Field',
-			'addon_slug'  => 'surveys-polls',
-		];
-
-		$this->classes[] = [
-			'name'        => 'Forms\Fields\Addons\NetPromoterScore\Field',
-			'addon_class' => 'WPFormsSurveys\Fields\NetPromoterScore\Field',
-			'addon_slug'  => 'surveys-polls',
-		];
 	}
 
 	/**
@@ -511,7 +410,7 @@ class Loader {
 	 *
 	 * @since 1.7.5
 	 */
-	private function populate_forms_overview(): void {
+	private function populate_forms_overview() {
 
 		if ( ! wpforms_is_admin_page( 'overview' ) && ! wpforms_is_admin_ajax() ) {
 			return;
@@ -551,7 +450,7 @@ class Loader {
 	 *
 	 * @since 1.8.6
 	 */
-	private function populate_entries(): void {
+	private function populate_entries() {
 
 		array_push(
 			$this->classes,
@@ -598,7 +497,7 @@ class Loader {
 	 *
 	 * @since 1.6.8
 	 */
-	private function populate_builder(): void {
+	private function populate_builder() {
 
 		array_push(
 			$this->classes,
@@ -656,10 +555,6 @@ class Loader {
 			],
 			[
 				'name' => 'Admin\Builder\Addons',
-			],
-			[
-				'name' => 'Admin\Builder\Ajax\SaveForm',
-				'id'   => 'builder_save_form',
 			]
 		);
 	}
@@ -669,41 +564,28 @@ class Loader {
 	 *
 	 * @since 1.8.2
 	 */
-	private function populate_db(): void {
+	private function populate_db() {
 
-		array_push(
-			$this->classes,
-			[
-				'name' => 'Db\Payments\Payment',
-				'id'   => 'payment',
-				'hook' => false,
-				'run'  => false,
-			],
-			[
-				'name' => 'Db\Payments\Meta',
-				'id'   => 'payment_meta',
-				'hook' => false,
-				'run'  => false,
-			],
-			[
-				'name' => 'Db\Payments\Queries',
-				'id'   => 'payment_queries',
-				'hook' => false,
-				'run'  => false,
-			],
-			[
-				'name' => 'Db\Files\ProtectedFiles',
-				'id'   => 'protected_files',
-				'hook' => false,
-				'run'  => false,
-			],
-			[
-				'name' => 'Db\Files\Restrictions',
-				'id'   => 'file_restrictions',
-				'hook' => false,
-				'run'  => false,
-			]
-		);
+		$this->classes[] = [
+			'name' => 'Db\Payments\Payment',
+			'id'   => 'payment',
+			'hook' => false,
+			'run'  => false,
+		];
+
+		$this->classes[] = [
+			'name' => 'Db\Payments\Meta',
+			'id'   => 'payment_meta',
+			'hook' => false,
+			'run'  => false,
+		];
+
+		$this->classes[] = [
+			'name' => 'Db\Payments\Queries',
+			'id'   => 'payment_queries',
+			'hook' => false,
+			'run'  => false,
+		];
 	}
 
 	/**
@@ -711,7 +593,7 @@ class Loader {
 	 *
 	 * @since 1.5.9
 	 */
-	private function populate_migrations(): void {
+	private function populate_migrations() {
 
 		$this->classes[] = [
 			'name' => 'Migrations\Migrations',
@@ -724,7 +606,7 @@ class Loader {
 	 *
 	 * @since 1.5.8
 	 */
-	private function populate_capabilities(): void {
+	private function populate_capabilities() {
 
 		array_push(
 			$this->classes,
@@ -735,11 +617,6 @@ class Loader {
 			],
 			[
 				'name' => 'Access\Integrations',
-			],
-			[
-				'name'      => 'Access\File',
-				'hook'      => 'init',
-				'condition' => ! is_admin(),
 			],
 			[
 				'name'      => 'Admin\Settings\Access',
@@ -753,7 +630,7 @@ class Loader {
 	 *
 	 * @since 1.5.9
 	 */
-	private function populate_tasks(): void {
+	private function populate_tasks() {
 
 		array_push(
 			$this->classes,
@@ -776,7 +653,7 @@ class Loader {
 	 *
 	 * @since 1.6.7
 	 */
-	private function populate_smart_tags(): void {
+	private function populate_smart_tags() {
 
 		$this->classes[] = [
 			'name' => 'SmartTags\SmartTags',
@@ -790,7 +667,7 @@ class Loader {
 	 *
 	 * @since 1.6.3
 	 */
-	private function populate_logger(): void {
+	private function populate_logger() {
 
 		$this->classes[] = [
 			'name' => 'Logger\Log',
@@ -805,7 +682,7 @@ class Loader {
 	 *
 	 * @since 1.6.6
 	 */
-	private function populate_education(): void {
+	private function populate_education() {
 
 		// Kill switch.
 
@@ -889,7 +766,7 @@ class Loader {
 	 *
 	 * @since 1.7.0
 	 */
-	private function populate_robots(): void {
+	private function populate_robots() {
 
 		$this->classes[] = [
 			'name' => 'Robots',
@@ -902,7 +779,7 @@ class Loader {
 	 *
 	 * @since 1.7.8
 	 */
-	private function populate_anti_spam(): void {
+	private function populate_anti_spam() {
 
 		array_push(
 			$this->classes,

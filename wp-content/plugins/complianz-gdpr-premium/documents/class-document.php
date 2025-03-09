@@ -1201,29 +1201,15 @@ if ( ! class_exists( "cmplz_document" ) ) {
 		}
 
 		/**
-		 * Obfuscates an email address to protect it from spam bots while keeping it readable for users.
+		 * obfuscate the email address
 		 *
-		 * This function applies WordPress' `antispambot()` to encode the email username and domain,
-		 * then injects a fake domain within a `<span>` to further mislead scrapers.
-		 * The real domain remains intact for display purposes.
+		 * @param $email
 		 *
-		 * Note: The fake domain is hidden via CSS on the frontend and removed when generating PDFs.
-		 *
-		 * @param string $email The email address to obfuscate.
-		 *
-		 * @return string The obfuscated email wrapped in a `<span>` for styling and bot prevention.
+		 * @return string
 		 */
-		public function obfuscate_email( $email ) {
-			if ( empty( $email ) ) {
-				return "";
-			}
-			list( $username, $domain ) = explode( '@', $email );
-			$username_obfuscated = antispambot( $username );
-			$domain_obfuscated = antispambot( $domain );
-			$fake_domain_obsfuscated = antispambot( 'ex.com' );
-			$email_obfuscated = sprintf( '%s@<span class="cmplz-fmail-domain">%s</span>%s', $username_obfuscated, $fake_domain_obsfuscated, $domain_obfuscated );
 
-			return sprintf( '<span class="cmplz-obfuscate">%s</span>', $email_obfuscated );
+		public function obfuscate_email( $email ) {
+			return antispambot( $email );
 		}
 
 		/**
@@ -1982,7 +1968,6 @@ if ( ! class_exists( "cmplz_document" ) ) {
 			//==============================================================
 
 			$html = preg_replace('/<input type="checkbox".*?>/', '', $html);
-			$html = preg_replace('/<span class="cmplz-fmail-domain">.*?<\/span>/', '', $html);
 
 			require cmplz_path . '/assets/vendor/autoload.php';
 

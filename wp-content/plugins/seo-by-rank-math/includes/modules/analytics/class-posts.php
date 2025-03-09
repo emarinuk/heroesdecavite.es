@@ -20,8 +20,6 @@ defined( 'ABSPATH' ) || exit;
 
 /**
  * Posts class.
- *
- * @method get_analytics_data()
  */
 class Posts extends Objects {
 

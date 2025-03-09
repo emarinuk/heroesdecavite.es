@@ -42,24 +42,24 @@ $settings = get_option( 'wpcode_settings', array() );
 if ( ! empty( $settings['uninstall_data'] ) ) {
 	// Delete the revisions table.
 	global $wpdb;
-	$wpdb->query( "DROP TABLE IF EXISTS {$wpdb->prefix}wpcode_revisions" );  // phpcs:ignore WordPress.DB.DirectDatabaseQuery, WordPress.DB.DirectDatabaseQuery.NoCaching, WordPress.DB.DirectDatabaseQuery.SchemaChange
+	$wpdb->query( "DROP TABLE IF EXISTS {$wpdb->prefix}wpcode_revisions" );
 
 	// Delete settings.
-	$wpdb->query( "DELETE FROM $wpdb->options WHERE option_name LIKE 'wpcode\_%'" );  // phpcs:ignore WordPress.DB.DirectDatabaseQuery, WordPress.DB.DirectDatabaseQuery.NoCaching
+	$wpdb->query( "DELETE FROM $wpdb->options WHERE option_name LIKE 'wpcode\_%'" );
 	// Delete ihaf data.
-	$wpdb->query( "DELETE FROM $wpdb->options WHERE option_name LIKE 'ihaf\_%'" );  // phpcs:ignore WordPress.DB.DirectDatabaseQuery, WordPress.DB.DirectDatabaseQuery.NoCaching
+	$wpdb->query( "DELETE FROM $wpdb->options WHERE option_name LIKE 'ihaf\_%'" );
 	// Delete plugin user meta.
-	$wpdb->query( "DELETE FROM $wpdb->usermeta WHERE meta_key LIKE 'wpcode\_%'" );  // phpcs:ignore WordPress.DB.DirectDatabaseQuery, WordPress.DB.DirectDatabaseQuery.NoCaching
+	$wpdb->query( "DELETE FROM $wpdb->usermeta WHERE meta_key LIKE 'wpcode\_%'" );
 	// Delete post meta.
-	$wpdb->query( "DELETE FROM $wpdb->postmeta WHERE meta_key LIKE 'wpcode\_%'" );  // phpcs:ignore WordPress.DB.DirectDatabaseQuery, WordPress.DB.DirectDatabaseQuery.NoCaching
-	$wpdb->query( "DELETE FROM $wpdb->postmeta WHERE meta_key LIKE '_wpcode\_%'" );  // phpcs:ignore WordPress.DB.DirectDatabaseQuery, WordPress.DB.DirectDatabaseQuery.NoCaching
+	$wpdb->query( "DELETE FROM $wpdb->postmeta WHERE meta_key LIKE 'wpcode\_%'" );
+	$wpdb->query( "DELETE FROM $wpdb->postmeta WHERE meta_key LIKE '_wpcode\_%'" );
 
 	// Remove any transients we've left behind.
-	$wpdb->query( "DELETE FROM $wpdb->options WHERE option_name LIKE '\_transient\_wpcode\_%'" );  // phpcs:ignore WordPress.DB.DirectDatabaseQuery, WordPress.DB.DirectDatabaseQuery.NoCaching
-	$wpdb->query( "DELETE FROM $wpdb->options WHERE option_name LIKE '\_site\_transient\_wpcode\_%'" );  // phpcs:ignore WordPress.DB.DirectDatabaseQuery, WordPress.DB.DirectDatabaseQuery.NoCaching
-	$wpdb->query( "DELETE FROM $wpdb->options WHERE option_name LIKE '\_transient\_timeout\_wpcode\_%'" );  // phpcs:ignore WordPress.DB.DirectDatabaseQuery, WordPress.DB.DirectDatabaseQuery.NoCaching
-	$wpdb->query( "DELETE FROM $wpdb->options WHERE option_name LIKE '\_site\_transient\_timeout\_wpcode\_%'" );  // phpcs:ignore WordPress.DB.DirectDatabaseQuery, WordPress.DB.DirectDatabaseQuery.NoCaching
-	$wpdb->query( "DELETE FROM $wpdb->options WHERE option_name LIKE '\_wpcode\_transient\_%'" );  // phpcs:ignore WordPress.DB.DirectDatabaseQuery, WordPress.DB.DirectDatabaseQuery.NoCaching
+	$wpdb->query( "DELETE FROM $wpdb->options WHERE option_name LIKE '\_transient\_wpcode\_%'" );
+	$wpdb->query( "DELETE FROM $wpdb->options WHERE option_name LIKE '\_site\_transient\_wpcode\_%'" );
+	$wpdb->query( "DELETE FROM $wpdb->options WHERE option_name LIKE '\_transient\_timeout\_wpcode\_%'" );
+	$wpdb->query( "DELETE FROM $wpdb->options WHERE option_name LIKE '\_site\_transient\_timeout\_wpcode\_%'" );
+	$wpdb->query( "DELETE FROM $wpdb->options WHERE option_name LIKE '\_wpcode\_transient\_%'" );
 
 	// Delete wpcode post types.
 	$wpcode_posts = get_posts(

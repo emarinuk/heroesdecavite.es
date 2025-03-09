@@ -142,8 +142,8 @@ class Registration {
 				]
 			);
 
-			if ( 1 === absint( Param::get( 'analytics' ) ) ) {
-				wp_redirect( Authentication::get_auth_url() ); //phpcs:ignore -- This is used to redirect to the external url.
+			if ( 1 == Param::get( 'analytics' ) ) {
+				wp_redirect( Authentication::get_auth_url() );
 				exit;
 			}
 
@@ -170,7 +170,7 @@ class Registration {
 			return false;
 		}
 
-		$params = json_decode( base64_decode( $params ), true ); // phpcs:ignore -- Verified as safe usage.
+		$params = json_decode( base64_decode( $params ), true );
 		if (
 			! is_array( $params ) ||
 			! isset( $params['username'] ) ||
@@ -354,13 +354,14 @@ class Registration {
 	 * @param array $values Array of values for the step to process.
 	 */
 	private function redirect_to_connect( $values ) {
+
 		if ( ! isset( $values['rank_math_activate'] ) ) {
 			Admin_Helper::deregister_user();
 			return;
 		}
 
 		$url = Admin_Helper::get_activate_url( Helper::get_admin_url( 'registration' ) );
-		wp_safe_redirect( $url );
+		wp_redirect( $url );
 		die();
 	}
 

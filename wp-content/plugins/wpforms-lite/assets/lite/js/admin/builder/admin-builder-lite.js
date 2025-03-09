@@ -1,29 +1,29 @@
-/* global wpforms_builder_lite, wpforms_builder, Choices, wpf */
+/* global wpforms_builder_lite, wpforms_builder */
 
-// noinspection ES6ConvertVarToLetConst
+'use strict';
 
-/**
- * @param wpforms_builder_lite.disable_notifications
- */
+var WPFormsBuilderLite = window.WPFormsBuilderLite || ( function( document, window, $ ) {
 
-var WPFormsBuilderLite = window.WPFormsBuilderLite || ( function( document, window, $ ) { // eslint-disable-line no-var
 	/**
 	 * Public functions and properties.
 	 *
 	 * @since 1.0.0
 	 *
-	 * @type {Object}
+	 * @type {object}
 	 */
-	const app = {
+	var app = {
 
 		/**
 		 * Start the engine.
 		 *
 		 * @since 1.0.0
 		 */
-		init() {
+		init: function() {
+
 			// Document ready
-			$( app.ready );
+			$( app.ready() );
+
+			app.bindUIActions();
 		},
 
 		/**
@@ -31,18 +31,18 @@ var WPFormsBuilderLite = window.WPFormsBuilderLite || ( function( document, wind
 		 *
 		 * @since 1.0.0
 		 */
-		ready() {
-			app.bindUIActions();
-		},
+		ready: function() {},
 
 		/**
 		 * Element bindings.
 		 *
 		 * @since 1.0.0
 		 */
-		bindUIActions() {
+		bindUIActions: function() {
+
 			// Warn users if they disable email notifications.
 			$( document ).on( 'change', '#wpforms-panel-field-settings-notification_enable', function() {
+
 				app.formBuilderNotificationAlert( $( this ).is( ':checked' ) );
 			} );
 		},
@@ -52,9 +52,10 @@ var WPFormsBuilderLite = window.WPFormsBuilderLite || ( function( document, wind
 		 *
 		 * @since 1.5.0
 		 *
-		 * @param {boolean} value Whether notifications enabled or not. 0 is disabled, 1 is enabled.
+		 * @param {bool} value Whether notifications enabled or not. 0 is disabled, 1 is enabled.
 		 */
-		formBuilderNotificationAlert( value ) {
+		formBuilderNotificationAlert: function( value ) {
+
 			if ( value !== false ) {
 				return;
 			}
@@ -73,38 +74,11 @@ var WPFormsBuilderLite = window.WPFormsBuilderLite || ( function( document, wind
 				},
 			} );
 		},
-
-		/**
-		 * Initialize Choices.js for the Coupon field.
-		 *
-		 * @since 1.9.4
-		 */
-		initCouponsChoicesJS() {
-			if ( typeof window.Choices !== 'function' ) {
-				return;
-			}
-
-			$( '.wpforms-field-option-row-allowed_coupons select:not(.choices__input)' ).each( function() {
-				const $select = $( this );
-				const choicesInstance = new Choices(
-					$select.get( 0 ),
-					{
-						shouldSort: false,
-						removeItemButton: true,
-						renderChoicesLimit: 5,
-						callbackOnInit() {
-							wpf.showMoreButtonForChoices( this.containerOuter.element );
-						},
-					} );
-
-				// Save Choices.js instance for future access.
-				$select.data( 'choicesjs', choicesInstance );
-			} );
-		},
 	};
 
 	// Provide access to public functions/properties.
 	return app;
+
 }( document, window, jQuery ) );
 
 WPFormsBuilderLite.init();

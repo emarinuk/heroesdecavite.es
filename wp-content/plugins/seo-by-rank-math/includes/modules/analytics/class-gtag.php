@@ -89,10 +89,13 @@ class GTag {
 
 			// Load amp-analytics component for AMP Reader.
 			$this->filter( 'amp_post_template_data', 'amp_analytics_component_data' );
-		} elseif ( version_compare( get_bloginfo( 'version' ), '5.7', '<' ) ) {
-			$this->action( 'wp_enqueue_scripts', 'enqueue_gtag_js' );
 		} else {
-			$this->action( 'wp_head', 'add_gtag_js' );
+			// For non-AMP. If current WordPress verion is 5.7 or above, use core function introducted from WordPress 5.7 and add async loading to gtag script.
+			if ( version_compare( get_bloginfo( 'version' ), '5.7', '<' ) ) {
+				$this->action( 'wp_enqueue_scripts', 'enqueue_gtag_js' );
+			} else {
+				$this->action( 'wp_head', 'add_gtag_js' );
+			}
 		}
 	}
 
@@ -185,7 +188,7 @@ class GTag {
 			'google_gtagjs',
 			$gtag_script_info['url'],
 			false,
-			null, // phpcs:ignore
+			null,
 			false
 		);
 
@@ -320,7 +323,7 @@ class GTag {
 		}
 
 		$value = isset( $this->options[ $id ] ) ? $this->options[ $id ] : false;
-		if ( $value && 'property_id' === $id ) {
+		if ( $value && 'property_id' === $id && ! Str::starts_with( 'UA-', $value ) ) {
 			$value = $this->get( 'measurement_id' );
 		}
 

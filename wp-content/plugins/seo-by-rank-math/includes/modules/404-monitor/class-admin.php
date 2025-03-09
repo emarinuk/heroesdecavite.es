@@ -56,7 +56,7 @@ class Admin extends Base {
 	 * The Constructor.
 	 */
 	public function __construct() {
-		$directory = __DIR__;
+		$directory = dirname( __FILE__ );
 		$this->config(
 			[
 				'id'             => '404-monitor',

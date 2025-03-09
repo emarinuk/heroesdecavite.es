@@ -13,16 +13,12 @@
 
 namespace RankMath\Sitemap;
 
-use RankMath\Traits\Hooker;
-
 defined( 'ABSPATH' ) || exit;
 
 /**
  * XML.
  */
 abstract class XML {
-
-	use Hooker;
 
 	/**
 	 * HTTP protocol to use in headers.

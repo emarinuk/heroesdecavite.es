@@ -54,7 +54,7 @@ class Admin extends Base {
 	 */
 	public function __construct() {
 
-		$directory = __DIR__;
+		$directory = dirname( __FILE__ );
 		$this->config(
 			[
 				'id'        => 'seo-analysis',

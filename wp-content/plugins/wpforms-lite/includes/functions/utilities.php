@@ -321,7 +321,7 @@ function wpforms_get_render_engine() {
 }
 
 /**
- * Get comma-separated list string from an array.
+ * Get comma-separated list string from requirements' array.
  *
  * @since 1.9.0
  *

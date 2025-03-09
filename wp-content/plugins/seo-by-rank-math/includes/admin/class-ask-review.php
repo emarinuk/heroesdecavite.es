@@ -21,8 +21,7 @@ defined( 'ABSPATH' ) || exit;
  */
 class Ask_Review {
 
-	use Hooker;
-	use Ajax;
+	use Hooker, Ajax;
 
 	/**
 	 * Now.
@@ -49,7 +48,7 @@ class Ask_Review {
 	 * Constructor method.
 	 */
 	public function __construct() {
-		$this->current_time = Helper::get_current_time();
+		$this->current_time = current_time( 'timestamp' );
 		$this->record_date  = strtotime( $this->record_date );
 		$this->install_date = get_option( 'rank_math_install_date' );
 		if ( false === $this->install_date ) {
@@ -236,7 +235,7 @@ class Ask_Review {
 	public function already_reviewed() {
 		check_ajax_referer( 'rank-math-ajax-nonce', 'security' );
 		$this->has_cap_ajax( 'onpage_general' );
-		update_option( 'rank_math_already_reviewed', Helper::get_current_time() );
+		update_option( 'rank_math_already_reviewed', current_time( 'timestamp' ) );
 		$this->success( 'success' );
 	}
 }

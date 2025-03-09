@@ -21,7 +21,7 @@ msgstr ""
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPathExcluded-0: *.js\n"
 
-#: cookiebanner/class-banner-loader.php:1144
+#: cookiebanner/class-banner-loader.php:1134
 msgid "%s at %s"
 msgstr "%s ved %s"
 
@@ -45,6 +45,14 @@ msgid_plural "%s are located in the United States."
 msgstr[0] "%s befinder sig i USA."
 msgstr[1] "%s befinder sig i USA."
 
+#: settings/build/1624.f334c63a8a8658dfd8c3.js:1
+#: settings/build/3068.09f0fbdb62122f907b91.js:1
+#: settings/build/3078.7547fadc99516cff6788.js:1
+#: settings/build/7234.f41964069d02c6bac205.js:1
+#: settings/build/8550.dbd370965126fb42424d.js:1
+msgid "%s items selected"
+msgstr ""
+
 #: pro/filters-actions.php:61
 msgid "%s on %s"
 msgstr "%s på %s"
@@ -52,6 +60,10 @@ msgstr "%s på %s"
 #: functions.php:1075
 msgid "%s on line %s of %s"
 msgstr "%s på linje %s af %s"
+
+#: settings/build/9487.e36e1ed4df8b9cfcb7e5.js:1
+msgid "%s rating based on %d ratings"
+msgstr ""
 
 #: pro/tcf/templates/vendor.php:30
 msgid "%s Seconds"
@@ -62,7 +74,7 @@ msgstr "%s sekunder"
 msgid "%s/%s activations available."
 msgstr "%s/%s aktiveringer tilgængelige."
 
-#: cookiebanner/class-banner-loader.php:1164
+#: cookiebanner/class-banner-loader.php:1154
 msgid "(not synced yet)"
 msgstr "(ikke synkroniseret endnu)"
 
@@ -79,6 +91,20 @@ msgstr "(Se afsnit %s)"
 msgid "(START)TLS / SSL / DANE Encryption"
 msgstr "(START)TLS / SSL / DANE-kryptering"
 
+#: settings/build/1624.f334c63a8a8658dfd8c3.js:1
+#: settings/build/3068.09f0fbdb62122f907b91.js:1
+#: settings/build/3078.7547fadc99516cff6788.js:1
+#: settings/build/7234.f41964069d02c6bac205.js:1
+#: settings/build/8550.dbd370965126fb42424d.js:1
+msgid "1 item selected"
+msgstr ""
+
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+#: settings/build/6729.19c8d571a3e5c3f29966.js:1
+#: settings/build/7102.d63e14ead73195579256.js:1
+msgid "1 year"
+msgstr ""
+
 #: pro/dataleak/class-dataleak.php:257
 msgid "48 hours"
 msgstr "48 timer"
@@ -93,8 +119,16 @@ msgid "72 hours"
 msgstr "72 timer"
 
 #. translators: %s: website name.
-#: websitescan/class-wsc-scanner.php:927
+#: websitescan/class-wsc-scanner.php:921
 msgid "[Complianz] Compliance report for %s"
+msgstr ""
+
+#: settings/build/2058.1832f4cf65b8f9297b34.js:1
+msgid "A consent banner is not required"
+msgstr ""
+
+#: settings/build/2058.1832f4cf65b8f9297b34.js:1
+msgid "A consent banner is required"
 msgstr ""
 
 #: settings/config/fields/wizard/general.php:138
@@ -135,6 +169,15 @@ msgstr ""
 #, fuzzy
 msgid "A Privacy Statement is required to inform your visitors about the way you deal with the privacy of website visitors. A link to this document is placed on your consent banner."
 msgstr "En erklæring om beskyttelse af personlige oplysninger er nødvendig for at informere dine besøgende om, hvordan du håndterer de besøgendes privatliv. Et link til dette dokument placeres på dit samtykkebanner."
+
+#: settings/build/index.8b8c3b6249ec4e641ef3.js:1
+msgid "A problem was detected during the loading of the settings"
+msgstr ""
+
+#: settings/build/5175.40650358aeec2c431639.js:1
+#: settings/build/6946.5bd434ec4ef0894d67b2.js:1
+msgid "A Processing Agreement outside Complianz Privacy Suite"
+msgstr ""
 
 #: cookie/class-sync.php:120
 #: cookie/class-sync.php:419
@@ -177,6 +220,28 @@ msgstr "Et gratis telefonnummer"
 #: pro/dataleak/type-2/questions.php:23
 msgid "A user name or email address, in combination with a password or security question and answer that would permit access to an online account."
 msgstr "Et brugernavn eller emailadresse kombineret med et kodeord eller sikkerhedsspørgsmål, der giver adgang til en online konto."
+
+#: settings/build/348.08abf3f718ffd9ea409e.js:1
+msgid "A/B is enabled and will end in %s days."
+msgstr ""
+
+#: settings/build/348.08abf3f718ffd9ea409e.js:1
+msgid "A/B is enabled and will end in 1 day."
+msgstr ""
+
+#: settings/build/348.08abf3f718ffd9ea409e.js:1
+msgid "A/B is enabled and will end today."
+msgstr ""
+
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
+#: settings/build/6644.2ea25b710cb1cc5b721b.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
+msgid "A/B Testing"
+msgstr ""
+
+#: settings/build/348.08abf3f718ffd9ea409e.js:1
+msgid "A/B testing is disabled. Previously made progress is saved."
+msgstr ""
 
 #: upgrade/upgrade-to-pro.php:82
 #, fuzzy
@@ -267,13 +332,41 @@ msgstr "Kontonummer eller kredit- eller betalingskortnummer i kombination med en
 msgid "Acquiring IP-addresses is blocked"
 msgstr "Tilegnelse af IP-adresser er blokeret"
 
+#: settings/build/4186.e705512d139f60fbc9c1.js:1
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
+#: settings/build/5035.7278ed43f873ee74a6a1.js:1
+#: settings/build/7338.425f8db82ab0c7784070.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
+#: settings/build/9487.e36e1ed4df8b9cfcb7e5.js:1
+msgid "Activate"
+msgstr ""
+
+#: settings/build/4604.800fe0bbc2f4f357fe19.js:1
+msgid "Activate Website Scan"
+msgstr ""
+
+#: settings/build/8525.14c3539f3bb65689f4cf.js:1
+msgid "Activate your license"
+msgstr ""
+
 #: pro/class-licensing.php:84
 msgid "Activate your license for automatic updates."
 msgstr "Aktiver din licens for automatiske opdateringer."
 
+#: settings/build/9487.e36e1ed4df8b9cfcb7e5.js:1
+msgid "Activating"
+msgstr ""
+
 #: upgrade/upgrade-to-pro.php:109
 msgid "Activating plugin..."
 msgstr "Begynd at aktivere plugin "
+
+#: settings/build/4186.e705512d139f60fbc9c1.js:1
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
+#: settings/build/7338.425f8db82ab0c7784070.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
+msgid "Activating..."
+msgstr ""
 
 #: pro/processing-agreements/AU/questions.php:14
 #: pro/processing-agreements/BR/questions.php:13
@@ -285,6 +378,25 @@ msgstr "Begynd at aktivere plugin "
 msgid "Activities"
 msgstr "Aktiviteter"
 
+#: settings/build/626.f480d314fd8dc7b49342.js:1
+msgid "Ad Blocker detected."
+msgstr ""
+
+#: settings/build/1137.9116d7ed316d827154ca.js:1
+msgid "Add a third-party script"
+msgstr ""
+
+#: settings/build/1137.9116d7ed316d827154ca.js:1
+#: settings/build/8033.d3664861651654e3f429.js:1
+#: settings/build/9736.56fe89f91f29aa1ca845.js:1
+msgid "Add a URL to create a dependency between two URLs"
+msgstr ""
+
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+#: settings/build/6729.19c8d571a3e5c3f29966.js:1
+msgid "Add cookie to %s"
+msgstr ""
+
 #: pro/dataleak/class-dataleak.php:486
 #: pro/dataleak/class-dataleak.php:487
 #: pro/processing-agreements/class-processing.php:384
@@ -293,7 +405,24 @@ msgstr "Aktiviteter"
 msgid "Add new"
 msgstr "Tilføj ny"
 
-#: settings/config/fields/wizard/consent.php:439
+#: settings/build/5175.40650358aeec2c431639.js:1
+msgid "Add new Processors & Service Providers"
+msgstr ""
+
+#: settings/build/3582.4ef59d70f2713cd2367f.js:1
+msgid "Add new Third Party"
+msgstr ""
+
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+msgid "Add service"
+msgstr ""
+
+#: settings/build/3990.c1ea285fea4bbd2002c6.js:1
+#: settings/build/5552.f97d0c6fb99a47d3f852.js:1
+msgid "Add to annex of Privacy Statement"
+msgstr ""
+
+#: settings/config/fields/wizard/consent.php:415
 msgid "Additional Google Tags - Marketing or Advertising"
 msgstr ""
 
@@ -310,45 +439,81 @@ msgstr "Adresse, postnummer og by"
 msgid "Adjusting of texts"
 msgstr "Justering af tekster"
 
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+#: settings/build/6729.19c8d571a3e5c3f29966.js:1
+#: settings/build/7102.d63e14ead73195579256.js:1
+msgid "Admin, ignored"
+msgstr ""
+
+#: settings/build/626.f480d314fd8dc7b49342.js:1
+msgid "Advanced Scan Unavailable"
+msgstr ""
+
 #: integrations/admin/integrations.php:362
 #: settings/config/menu.php:135
-#: websitescan/class-wsc-scanner.php:1180
-#: websitescan/class-wsc-scanner.php:1189
-#: websitescan/class-wsc-scanner.php:1198
+#: websitescan/class-wsc-scanner.php:1176
+#: websitescan/class-wsc-scanner.php:1185
+#: websitescan/class-wsc-scanner.php:1194
 msgid "Advertising"
 msgstr "Reklame"
 
-#: config/countries.php:163
+#: config/countries.php:158
 msgid "Afghanistan"
 msgstr "Afghanistan"
 
-#: config/warnings.php:155
+#: config/warnings.php:161
 msgid "After the issue has been resolved, please re-run a scan to clear this message."
 msgstr "Når problemet er blevet løst, skal du genudføre en scanning for at fjerne denne meddelelse."
 
-#: config/countries.php:164
+#: config/countries.php:159
 msgid "Aland Islands"
 msgstr "Åland"
 
-#: config/countries.php:165
+#: config/countries.php:160
 msgid "Albania"
 msgstr "Albanien"
 
-#: config/countries.php:166
+#: config/countries.php:161
 msgid "Algeria"
 msgstr "Algeriet"
+
+#: settings/build/1624.f334c63a8a8658dfd8c3.js:1
+msgid "All"
+msgstr ""
 
 #: functions.php:2473
 msgid "All consent types"
 msgstr "Alle typer af tilladelser"
 
-#: config/warnings.php:93
+#: settings/build/3430.ae31ab2c342fb4197b19.js:1
+msgid "All necessary pages have been created already. You can update the page titles here if you want, then click the \"Update pages\" button."
+msgstr ""
+
+#: settings/build/2302.2ba02269d1bab7189b36.js:1
+msgid "All pages generated!"
+msgstr ""
+
+#: config/warnings.php:99
 msgid "All required pages have been generated."
 msgstr "Alle de nødvendige sider er blevet genereret."
 
 #: pro/settings/fields/disclaimer.php:103
 msgid "All rights reserved"
 msgstr "Alle rettigheder forbeholdes"
+
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
+#: settings/build/9582.479b4ce8a6fa5b2d4669.js:1
+msgid "All tasks"
+msgstr ""
+
+#: settings/build/5016.65f77bff39f9e7cf6e8e.js:1
+msgid "Allow"
+msgstr ""
+
+#: settings/build/2058.1832f4cf65b8f9297b34.js:1
+msgid "Almost there!"
+msgstr ""
 
 #: pro/settings/fields/financial-incentives.php:46
 #, fuzzy
@@ -371,7 +536,7 @@ msgstr "Alternativ konfliktløsning betyder løsning af tvister uden retssag."
 msgid "Always active"
 msgstr "Altid aktiv"
 
-#: config/countries.php:167
+#: config/countries.php:162
 msgid "American Samoa"
 msgstr "Amerikansk Samoa"
 
@@ -438,15 +603,15 @@ msgstr "En persons fornavn eller første initial og efternavn i kombination med 
 msgid "and"
 msgstr "og"
 
-#: config/countries.php:168
+#: config/countries.php:163
 msgid "Andorra"
 msgstr "Andorra"
 
-#: config/countries.php:169
+#: config/countries.php:164
 msgid "Angola"
 msgstr "Angola"
 
-#: config/countries.php:170
+#: config/countries.php:165
 msgid "Anguilla"
 msgstr "Anguilla"
 
@@ -471,11 +636,11 @@ msgstr "Anonymiseret IP"
 msgid "Anonymous statistics description"
 msgstr "Beskrivelse af anonyme statistikker"
 
-#: config/countries.php:171
+#: config/countries.php:166
 msgid "Antarctica"
 msgstr "Antarktis"
 
-#: config/countries.php:172
+#: config/countries.php:167
 msgid "Antigua And Barbuda"
 msgstr "Antigua og Barbuda"
 
@@ -484,7 +649,7 @@ msgid "Appearance"
 msgstr "Udseende"
 
 #. translators: %1$s: website name.
-#: websitescan/class-wsc-scanner.php:1013
+#: websitescan/class-wsc-scanner.php:1009
 msgid "Are you no longer the website administrator? <a href=\"%1$s\" target=\"_blank\">Click here</a> to dismiss notifications."
 msgstr ""
 
@@ -492,39 +657,51 @@ msgstr ""
 msgid "Are you obliged or prepared to use Alternative Dispute Resolution?"
 msgstr "Er du forpligtet eller forberedt på at bruge alternativ tvistbilæggelse?"
 
-#: config/warnings.php:227
+#: config/warnings.php:233
 #, fuzzy
 msgid "Are you showing ads on your site? Consider implementing TCF."
 msgstr "Viser du annoncer på din hjemmeside? Overvej at implementere TCF."
+
+#: settings/build/6449.e30aa1c053247e5c26f4.js:1
+msgid "Are you sure you want to reset this banner to the default settings?"
+msgstr ""
+
+#: settings/build/1027.179a1016b8ef0f30ae4f.js:1
+msgid "Are you sure?"
+msgstr ""
+
+#: settings/build/8708.122e1e004a8cf6c785e9.js:1
+msgid "Are you sure? This will overwrite the settings in all your subsites with the Complianz settings of this site."
+msgstr ""
 
 #: settings/config/fields/tools/data.php:34
 msgid "Are you sure? This will remove all Complianz data."
 msgstr "Er du sikker? Dette vil fjerne alle Complianz data."
 
-#: config/warnings.php:266
+#: config/warnings.php:272
 #, fuzzy
 msgid "Are you targeting multiple regions?"
 msgstr "Henvender du dig til flere regioner?"
 
-#: websitescan/class-wsc-scanner.php:1317
-#: websitescan/class-wsc-scanner.php:1325
-#: websitescan/class-wsc-scanner.php:1333
+#: websitescan/class-wsc-scanner.php:1313
+#: websitescan/class-wsc-scanner.php:1321
+#: websitescan/class-wsc-scanner.php:1329
 msgid "Are you using the Google consent banner for advertising and Complianz for everything else? Why not remove one banner by combining everything with our Google Certified CMP that enablesd TCF and Consent Mode for Google products, without the need of multiple consent banners."
 msgstr ""
 
-#: config/countries.php:173
+#: config/countries.php:168
 msgid "Argentina"
 msgstr "Argentina"
 
-#: config/countries.php:174
+#: config/countries.php:169
 msgid "Armenia"
 msgstr "Armenien"
 
-#: config/countries.php:175
+#: config/countries.php:170
 msgid "Aruba"
 msgstr "Aruba"
 
-#: config/warnings.php:220
+#: config/warnings.php:226
 msgid "As Complianz handles all the functionality this plugin provides, you should disable this plugin to prevent unexpected behaviour."
 msgstr "Da Complianz håndterer alle de funktioner, som dette plugin tilbyder, bør du deaktivere dette plugin for at undgå uventet adfærd."
 
@@ -537,6 +714,10 @@ msgstr "markedsføring"
 msgctxt "as in: click to accept statistics cookies"
 msgid "statistics"
 msgstr "statistikker"
+
+#: settings/build/348.08abf3f718ffd9ea409e.js:1
+msgid "As you have enabled geoip, there are several regions in which a banner is shown, in different ways. In regions apart from %s no banner is shown at all."
+msgstr ""
 
 #: settings/config/menu.php:47
 #, fuzzy
@@ -556,7 +737,7 @@ msgid "Audio, electronic, visual, thermal, olfactory, or similar information"
 msgstr "Lyd, elektronik, billede, termik, lugte eller lignende information"
 
 #: config/countries.php:100
-#: config/countries.php:176
+#: config/countries.php:171
 msgid "Australia"
 msgstr "Australien"
 
@@ -568,7 +749,7 @@ msgstr "Australien (Privacy Act 1988)"
 msgid "Australian Information Commissioner"
 msgstr "Den australske informationskommissær"
 
-#: config/countries.php:177
+#: config/countries.php:172
 msgid "Austria"
 msgstr "Østrig"
 
@@ -576,7 +757,7 @@ msgstr "Østrig"
 msgid "Authentication failed"
 msgstr ""
 
-#: config/countries.php:178
+#: config/countries.php:173
 msgid "Azerbaijan"
 msgstr "Aserbajdsjan"
 
@@ -589,17 +770,21 @@ msgstr "Aserbajdsjan"
 msgid "Background"
 msgstr "Baggrund"
 
-#: config/countries.php:179
+#: config/countries.php:174
 msgid "Bahamas"
 msgstr "Bahamas"
 
-#: config/countries.php:180
+#: config/countries.php:175
 msgid "Bahrain"
 msgstr "Bahrain"
 
-#: config/countries.php:181
+#: config/countries.php:176
 msgid "Bangladesh"
 msgstr "Bangladesh"
+
+#: settings/build/index.8b8c3b6249ec4e641ef3.js:1
+msgid "Banner"
+msgstr ""
 
 #: cookiebanner/admin/cookiebanner.php:137
 #: cookiebanner/admin/cookiebanner.php:263
@@ -612,7 +797,11 @@ msgstr "Banner A"
 msgid "Banner B"
 msgstr "Banner B"
 
-#: config/countries.php:182
+#: settings/build/348.08abf3f718ffd9ea409e.js:1
+msgid "Banners in different regions"
+msgstr ""
+
+#: config/countries.php:177
 msgid "Barbados"
 msgstr "Barbados"
 
@@ -624,7 +813,11 @@ msgstr "Baseret på din Analytics-konfiguration skal du affyre Analytics på hæ
 msgid "Based on your Analytics configuration you should fire Analytics on event cmplz_statistics."
 msgstr "Baseret på din Analytics-konfiguration skal du affyre Analytics på hændelsen cmplz_statistics."
 
-#: settings/config/fields/wizard/consent.php:556
+#: settings/build/8525.14c3539f3bb65689f4cf.js:1
+msgid "Based on your answers in the Wizard, we will automatically enable integrations with relevant services and plugins. In case you want to block extra scripts, you can add them to the Script Center."
+msgstr ""
+
+#: settings/config/fields/wizard/consent.php:532
 msgid "Because Clicky always sets a so-called unique identifier cookie, consent for statistics is always required."
 msgstr "Da Clicky altid indsætter en såkaldt unik identifikationscookie, er det altid nødvendigt at give samtykke til statistik."
 
@@ -632,15 +825,15 @@ msgstr "Da Clicky altid indsætter en såkaldt unik identifikationscookie, er de
 msgid "Because you're using %s, you can choose which plugin should insert the relevant snippet. If you want to use Google Consent Mode, you can only use the default, advanced mode. You can read more about configuring SiteKit and the different Consent Mode below."
 msgstr ""
 
-#: config/countries.php:183
+#: config/countries.php:178
 msgid "Belarus"
 msgstr "Hviderusland"
 
-#: config/countries.php:184
+#: config/countries.php:179
 msgid "Belgium"
 msgstr "Belgien"
 
-#: config/countries.php:185
+#: config/countries.php:180
 msgid "Belize"
 msgstr "Belize"
 
@@ -661,11 +854,15 @@ msgstr "Nedenfor kan du vælge at implementere dit statistikværktøj med Compli
 msgid "Below you can give and withdraw your consent on a per purpose basis."
 msgstr "Nedenfor kan du give og tilbagekalde dit samtykke på grundlag af hvert enkelt formål."
 
-#: config/countries.php:186
+#: settings/build/93.6b28b2755513e51411ca.js:1
+msgid "Below you will find the plugins currently detected and integrated with Complianz. Most plugins work by default, but you can also add a plugin to the script center or add it to the integration list."
+msgstr ""
+
+#: config/countries.php:181
 msgid "Benin"
 msgstr "Benin"
 
-#: config/countries.php:187
+#: config/countries.php:182
 msgid "Bermuda"
 msgstr "Bermuda"
 
@@ -674,7 +871,7 @@ msgstr "Bermuda"
 msgid "Beta releases are new major versions of Complianz. Please be aware that it is not adviced for production websites, or installations without back-up."
 msgstr "Betaudgivelser er nye større versioner af Complianz. Vær opmærksom på, at det ikke anbefales at bruge dem til produktionswebsteder eller installationer uden back-up."
 
-#: config/countries.php:188
+#: config/countries.php:183
 msgid "Bhutan"
 msgstr "Bhutan"
 
@@ -692,9 +889,13 @@ msgstr "Biometrisk information"
 msgid "Birth Date"
 msgstr "Fødselsdato"
 
-#: config/warnings.php:243
+#: config/warnings.php:249
 msgid "Black Friday sale! Get 40% Off Complianz GDPR/CCPA premium!"
 msgstr "Black Friday udsalg! Få 40% rabat på Complianz GDPR/CCPA premium!"
+
+#: settings/build/1137.9116d7ed316d827154ca.js:1
+msgid "Block a script, iframe or plugin"
+msgstr ""
 
 #: settings/config/fields/tools/placeholders.php:30
 #: settings/config/fields/tools/placeholders.php:35
@@ -708,7 +909,7 @@ msgstr "Bloker indhold tekst"
 msgid "Blocking reCaptcha"
 msgstr "Blokering af reCaptcha"
 
-#: config/countries.php:189
+#: config/countries.php:184
 msgid "Bolivia"
 msgstr "Bolivia"
 
@@ -734,11 +935,11 @@ msgstr "Knapper til kantradius"
 msgid "Border width banner"
 msgstr "Banner med kantbredde"
 
-#: config/countries.php:190
+#: config/countries.php:185
 msgid "Bosnia And Herzegovina"
 msgstr "Bosnien-Herzegovina"
 
-#: config/countries.php:191
+#: config/countries.php:186
 msgid "Botswana"
 msgstr "Botswana"
 
@@ -757,7 +958,7 @@ msgstr "Nederst til venstre"
 msgid "Bottom right"
 msgstr "Nederst til højre"
 
-#: config/countries.php:192
+#: config/countries.php:187
 msgid "Bouvet Island"
 msgstr "Bouvet øen"
 
@@ -774,7 +975,7 @@ msgid "BR"
 msgstr "BH"
 
 #: config/countries.php:120
-#: config/countries.php:193
+#: config/countries.php:188
 msgid "Brazil"
 msgstr "Brasilien"
 
@@ -782,7 +983,7 @@ msgstr "Brasilien"
 msgid "Brazil (LGPD)"
 msgstr "Brasilien (LGPD)"
 
-#: config/countries.php:194
+#: config/countries.php:189
 msgid "British Indian Ocean Territory"
 msgstr "British Indian Ocean Territory"
 
@@ -796,11 +997,11 @@ msgstr "British Indian Ocean Territory"
 msgid "Browse history"
 msgstr "Browserhistorik"
 
-#: config/countries.php:195
+#: config/countries.php:190
 msgid "Brunei Darussalam"
 msgstr "Brunei Darussalam"
 
-#: config/countries.php:196
+#: config/countries.php:191
 msgid "Bulgaria"
 msgstr "Bulgarien"
 
@@ -808,7 +1009,7 @@ msgstr "Bulgarien"
 msgid "Bullet"
 msgstr "Kugle"
 
-#: config/countries.php:197
+#: config/countries.php:192
 msgid "Burkina Faso"
 msgstr "Burkina Faso"
 
@@ -817,7 +1018,7 @@ msgstr "Burkina Faso"
 msgid "Burst Statistics will be configured automatically."
 msgstr "Burst Statistics konfigureres automatisk."
 
-#: config/countries.php:198
+#: config/countries.php:193
 msgid "Burundi"
 msgstr "Burundi"
 
@@ -842,11 +1043,11 @@ msgstr "CA"
 msgid "California (CPRA)"
 msgstr ""
 
-#: config/countries.php:199
+#: config/countries.php:194
 msgid "Cambodia"
 msgstr "Cambodia"
 
-#: config/countries.php:200
+#: config/countries.php:195
 msgid "Cameroon"
 msgstr "Cameroon"
 
@@ -861,7 +1062,7 @@ msgid "Can the audit be carried out by an independent Third Party?"
 msgstr "Kan revisionen udføres af en uafhængig tredjepart?"
 
 #: config/countries.php:70
-#: config/countries.php:201
+#: config/countries.php:196
 msgid "Canada"
 msgstr "Canada"
 
@@ -876,7 +1077,7 @@ msgstr "Canada (PIPEDA)"
 msgid "Cancel"
 msgstr "Annuller"
 
-#: config/countries.php:202
+#: config/countries.php:197
 msgid "Cape Verde"
 msgstr "Kap Verde"
 
@@ -902,7 +1103,14 @@ msgstr "Kategorier i Frankrig"
 msgid "Categories:"
 msgstr "Kategorier:"
 
-#: config/countries.php:203
+#: gutenberg/build/index.js:1
+#: settings/build/1137.9116d7ed316d827154ca.js:1
+#: settings/build/8583.b4a05d3da92a74e25df8.js:1
+#: settings/build/9736.56fe89f91f29aa1ca845.js:1
+msgid "Category"
+msgstr ""
+
+#: config/countries.php:198
 msgid "Cayman Islands"
 msgstr "Cayman Islands"
 
@@ -910,11 +1118,11 @@ msgstr "Cayman Islands"
 msgid "Center"
 msgstr "Midte"
 
-#: config/countries.php:204
+#: config/countries.php:199
 msgid "Central African Republic"
 msgstr "Central African Republic"
 
-#: config/countries.php:205
+#: config/countries.php:200
 msgid "Chad"
 msgstr "Chad"
 
@@ -931,9 +1139,18 @@ msgstr "Chat/messageboard"
 msgid "Check if below features are indeed enabled"
 msgstr "Tjek, om nedenstående funktioner faktisk er aktiveret"
 
+#: settings/build/11.b2eb97694c1948a6884e.js:1
+#: settings/build/4644.e14f5e28eb94b8e242e7.js:1
+msgid "Check license"
+msgstr ""
+
 #: upgrade/upgrade-to-pro.php:373
 msgid "Check your %slicense%s."
 msgstr "Tjek dine %slicense%s"
+
+#: settings/build/7489.a99ddd7d4e814299a771.js:1
+msgid "Check your email to activate the Website Scan!"
+msgstr ""
 
 #: websitescan/class-wsc-notices.php:97
 msgid "Check your email!"
@@ -970,6 +1187,10 @@ msgstr "Hvis du tjekker tjenester her, tilføjes de tilknyttede cookies til din 
 msgid "Checking services here will add the associated cookies to your Cookie Policy, and block the service until consent is given (opt-in), or after consent is revoked (opt-out)."
 msgstr "Når du tjekker tjenester her, tilføjes de tilknyttede cookies til din cookiepolitik og blokerer tjenesten, indtil samtykke er givet (tilvalg), eller efter at samtykke er tilbagekaldt (fravalg)."
 
+#: settings/build/9487.e36e1ed4df8b9cfcb7e5.js:1
+msgid "Checking status"
+msgstr ""
+
 #: settings/config/menu.php:58
 #, fuzzy
 msgid "Children's Privacy Policy"
@@ -985,11 +1206,11 @@ msgstr "Udtalelse fra børn"
 msgid "Children: Purposes"
 msgstr "Børn og unge: Formål"
 
-#: config/countries.php:206
+#: config/countries.php:201
 msgid "Chile"
 msgstr "Chile"
 
-#: config/countries.php:207
+#: config/countries.php:202
 msgid "China"
 msgstr "Kina"
 
@@ -1002,7 +1223,7 @@ msgstr "Vælg de passende frameworks, der er nødvendige for din konfiguration."
 msgid "Choose the style that best complements your website's design."
 msgstr "Vælg den stil, der passer bedst til dit websteds design."
 
-#: config/countries.php:208
+#: config/countries.php:203
 msgid "Christmas Island"
 msgstr "Juleøerne"
 
@@ -1013,6 +1234,14 @@ msgstr "Klassisk"
 #: settings/config/fields/tools/data.php:45
 msgid "Clear all data from Complianz on uninstall"
 msgstr "Ryd alle data fra Complianz ved afinstallation"
+
+#: settings/build/626.f480d314fd8dc7b49342.js:1
+msgid "Clear Cookies"
+msgstr ""
+
+#: settings/build/2058.1832f4cf65b8f9297b34.js:1
+msgid "Click '%s' to complete the configuration. You can come back to change your configuration at any time."
+msgstr ""
 
 #: settings/config/fields/tools/placeholders.php:55
 #, fuzzy
@@ -1046,10 +1275,16 @@ msgstr "Klik for at acceptere marketingcookies og aktiver denne formular"
 msgid "Click to accept reCaptcha validation."
 msgstr "Klik for at acceptere reCaptcha validering."
 
-#: documents/class-document.php:1456
-#: documents/class-document.php:1500
+#: documents/class-document.php:1442
+#: documents/class-document.php:1486
 msgid "Click to accept the cookies for this service"
 msgstr "Klik for at acceptere cookies for denne tjeneste"
+
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
+#: settings/build/9567.d5a7562fd09f42de8429.js:1
+msgid "Click to copy the document shortcode"
+msgstr ""
 
 #: pro/dataleak/class-dataleak.php:290
 msgid "Click view document to save and view this report."
@@ -1063,6 +1298,21 @@ msgstr ""
 msgid "Client Secret"
 msgstr ""
 
+#: settings/build/120.0a4856ee34143f33d913.js:1
+#: settings/build/1677.86c36f078e0b19e9d573.js:1
+#: settings/build/2113.a4209111c3cd8cff25f3.js:1
+#: settings/build/2299.004e0d91cb69c61a3c6c.js:1
+#: settings/build/2397.ef27c5b02f4c5dd61711.js:1
+#: settings/build/3424.4e8f9a1912780b76b7ea.js:1
+#: settings/build/5664.efa40f92c92c0aecadb4.js:1
+#: settings/build/6231.39308b683483ef2a1176.js:1
+#: settings/build/8447.9685d8b5aee1675df773.js:1
+#: settings/build/8772.d79f5c48e62ccbfa7772.js:1
+#: settings/build/9056.cad63930d05414427a70.js:1
+#: settings/build/9877.1db72bd3e9a976e5e467.js:1
+msgid "Close"
+msgstr ""
+
 #: cookiebanner/settings.php:368
 msgid "Close button"
 msgstr "Luk knap"
@@ -1072,17 +1322,21 @@ msgstr "Luk knap"
 msgid "Close dialog"
 msgstr "luk-dialog"
 
-#: config/countries.php:209
+#: config/countries.php:204
 msgid "Cocos (Keeling) Islands"
 msgstr "Cocos (Keeling) Islands"
 
-#: websitescan/class-wsc-scanner.php:1235
-#: websitescan/class-wsc-scanner.php:1243
-#: websitescan/class-wsc-scanner.php:1251
+#: settings/build/11.b2eb97694c1948a6884e.js:1
+msgid "Collapse all"
+msgstr ""
+
+#: websitescan/class-wsc-scanner.php:1231
+#: websitescan/class-wsc-scanner.php:1239
+#: websitescan/class-wsc-scanner.php:1247
 msgid "Collecting data"
 msgstr ""
 
-#: config/countries.php:210
+#: config/countries.php:205
 msgid "Colombia"
 msgstr "Colombia"
 
@@ -1102,7 +1356,7 @@ msgstr "Farver"
 msgid "Commercial information, including records of personal property, products or services purchased, obtained, or considered"
 msgstr "Kommerciel information, inklusive poster over personlig ejendom, produkter eller tjenester, der er købt, opnået eller overvejet"
 
-#: config/countries.php:211
+#: config/countries.php:206
 msgid "Comoros"
 msgstr "Comoros"
 
@@ -1123,10 +1377,18 @@ msgstr "Complianz kan ikke automatisk blokere involverede marketing cookies med 
 msgid "Complianz detected settings that suggest your site shares data, which means the answer should probably be Yes, or Limited"
 msgstr "Complianz har fundet en indstilling der tyder på, at dit website deler data. I det tilfælde bør dit svar sandsynligvis være \"Ja\" eller \"Delvist\""
 
+#: config/warnings.php:15
+msgid "Complianz GDPR/CCPA %s. Learn more about our newest release."
+msgstr "Overholdelse af GDPR/CCPA %s. Få mere at vide om vores nyeste version."
+
 #: settings/config/fields/integrations/services.php:14
 #, fuzzy
 msgid "Complianz is built to be easily configured, with automatic background processes, integrations and a wizard for specific questions. But this is WordPress, a million different configurations sometimes ask for custom implementations. We have collected many custom implementations from our contributors, and have written an article for anyone who wants to make their own integration."
 msgstr "Complianz er bygget til at være let at konfigurere, med automatiske baggrundsprocesser, integrationer og en guide til specifikke spørgsmål. Men det her er WordPress, og en million forskellige konfigurationer kræver nogle gange brugerdefinerede implementeringer. Vi har samlet mange brugerdefinerede implementeringer fra vores bidragydere og har skrevet en artikel til alle, der ønsker at lave deres egen integration."
+
+#: settings/build/8708.122e1e004a8cf6c785e9.js:1
+msgid "Complianz is currently copying settings of site %1$s to %2$s of %3$s sites."
+msgstr ""
 
 #. Plugin Name of the plugin
 #: complianz-gpdr-premium.php
@@ -1147,22 +1409,30 @@ msgstr "Complianz forsyner din cookiepolitik med omfattende beskrivelser af cook
 msgid "Complianz provides your Cookie Policy with comprehensive cookie descriptions, supplied by cookiedatabase.org. We connect to this open-source database using an external API, which sends the results of the cookiescan (a list of found cookies, used plugins and your domain) to cookiedatabase.org, for the sole purpose of providing you with accurate descriptions and keeping them up-to-date on a regular basis."
 msgstr "Complianz leverer din cookiepolitik med omfattende cookiebeskrivelser leveret af cookiedatabase.org. Vi opretter forbindelse til denne open-source database ved hjælp af en ekstern API, der sender resultaterne af cookies kan (en liste over fundne cookies, brugte plugins og dit domæne) til cookiedatabase.org med det eneste formål at give dig nøjagtige beskrivelser og opbevaring dem opdaterede efter en ugentlig plan."
 
+#: settings/build/8525.14c3539f3bb65689f4cf.js:1
+msgid "Complianz tracks changes in your Cookie Notice and Cookie Policy with time-stamped documents. This is your consent registration while respecting the data minimization guidelines and won't store any user data."
+msgstr ""
+
 #: settings/config/menu.php:106
 #, fuzzy
 msgid "Complianz will scan several pages of your website for first-party cookies and known third-party scripts. The scan will be recurring monthly to keep you up-to-date!"
 msgstr "Complianz scanner flere sider på din hjemmeside for førstepartscookies og kendte tredjepartsscripts. Scanningen vil blive gentaget hver måned for at holde dig opdateret!"
 
-#: settings/config/fields/wizard/consent.php:516
-#: settings/config/fields/wizard/consent.php:555
+#: settings/config/fields/wizard/consent.php:492
+#: settings/config/fields/wizard/consent.php:531
 msgid "Configuration"
 msgstr "Konfiguration"
 
 #: settings/config/fields/wizard/consent.php:376
-#: settings/config/fields/wizard/consent.php:469
-#: settings/config/fields/wizard/consent.php:491
+#: settings/config/fields/wizard/consent.php:445
+#: settings/config/fields/wizard/consent.php:467
 #, fuzzy
 msgid "Configuration by Complianz"
 msgstr "Konfiguration af Complianz"
+
+#: settings/build/8525.14c3539f3bb65689f4cf.js:1
+msgid "Configure"
+msgstr ""
 
 #: upgrade/upgrade-to-pro.php:161
 #, fuzzy
@@ -1178,11 +1448,20 @@ msgstr ""
 msgid "Configuring your TCF consent banner is limited due to IAB guidelines."
 msgstr "Konfigurationen af dit TCF-samtykkebanner er begrænset på grund af IAB's retningslinjer."
 
-#: config/countries.php:212
+#: settings/build/1027.179a1016b8ef0f30ae4f.js:1
+msgid "Confirm"
+msgstr ""
+
+#: settings/build/3990.c1ea285fea4bbd2002c6.js:1
+#: settings/build/5552.f97d0c6fb99a47d3f852.js:1
+msgid "Conforms to the Consent API"
+msgstr ""
+
+#: config/countries.php:207
 msgid "Congo"
 msgstr "Congo"
 
-#: config/countries.php:213
+#: config/countries.php:208
 msgid "Congo, Democratic Republic"
 msgstr "Congo, Demokratisk Republik"
 
@@ -1205,9 +1484,9 @@ msgstr "Samtykke"
 #: cookiebanner/admin/cookiebanner.php:287
 #: settings/config/menu.php:179
 #: settings/build/3971.4fe14b1fac76d66e143a.js:1
-#: settings/build/4570.76dcf7267af80a785acb.js:1
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
 #: settings/build/8525.14c3539f3bb65689f4cf.js:1
-#: settings/build/8596.2c253cf399d8f84c2746.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
 #, fuzzy
 msgid "Consent Banner"
 msgstr "Samtykke-banner"
@@ -1227,11 +1506,24 @@ msgstr "Titel på samtykkebanner"
 msgid "Consent checkboxes"
 msgstr "Afkrydsningsfelter for samtykke"
 
-#: websitescan/class-wsc-scanner.php:1151
-#: websitescan/class-wsc-scanner.php:1160
-#: websitescan/class-wsc-scanner.php:1169
+#: settings/build/3407.0771c9f9733a2fca0117.js:1
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
+msgid "Consent Management is activated on your site."
+msgstr ""
+
+#: websitescan/class-wsc-scanner.php:1147
+#: websitescan/class-wsc-scanner.php:1156
+#: websitescan/class-wsc-scanner.php:1165
 msgid "Consent mode"
 msgstr ""
+
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
+#: settings/build/6644.2ea25b710cb1cc5b721b.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
+#, fuzzy
+msgid "Consent Statistics"
+msgstr "Samtykke til statistik"
 
 #: pro/dataleak/class-dataleak.php:312
 msgid "Considering the scale of the databreach, it is recommended to get legal counsel regarding this databreach."
@@ -1249,15 +1541,47 @@ msgstr "Indhold fremstillet af børn og offentligt delt"
 msgid "Content from social media is mostly embedded through iFrames. These often place third party (tracking) cookies, so must be blocked based on visitor consent. If your website only contains buttons or links to a social media profile on an external page you can answer No."
 msgstr "Indhold fra sociale medier er for det meste indlejret gennem iFrames. Disse placerer ofte tredjepartscookies (tracking), så de skal blokeres baseret på besøgende samtykke. Hvis dit websted kun indeholder knapper eller links til en profil på sociale medier på en ekstern side, kan du svare Nej."
 
+#: settings/build/11.b2eb97694c1948a6884e.js:1
+#: settings/build/120.0a4856ee34143f33d913.js:1
+#: settings/build/1677.86c36f078e0b19e9d573.js:1
+#: settings/build/2113.a4209111c3cd8cff25f3.js:1
+#: settings/build/2299.004e0d91cb69c61a3c6c.js:1
+#: settings/build/2397.ef27c5b02f4c5dd61711.js:1
+#: settings/build/3424.4e8f9a1912780b76b7ea.js:1
+#: settings/build/5664.efa40f92c92c0aecadb4.js:1
+#: settings/build/6231.39308b683483ef2a1176.js:1
+#: settings/build/8447.9685d8b5aee1675df773.js:1
+#: settings/build/8772.d79f5c48e62ccbfa7772.js:1
+#: settings/build/9056.cad63930d05414427a70.js:1
+#: settings/build/9877.1db72bd3e9a976e5e467.js:1
+msgid "Continue"
+msgstr ""
+
+#: settings/build/626.f480d314fd8dc7b49342.js:1
+msgid "Continue the wizard to categorize cookies and configure consent."
+msgstr ""
+
+#: settings/build/3971.4fe14b1fac76d66e143a.js:1
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
+msgid "Continue Wizard"
+msgstr ""
+
 #: settings/config/fields/wizard/consent.php:150
 msgid "Controlling your statistics script"
 msgstr "Styring af dit statistik-script"
 
-#: config/countries.php:214
+#: config/countries.php:209
 msgid "Cook Islands"
 msgstr "Cook øerne"
 
-#: config/warnings.php:75
+#: settings/build/3971.4fe14b1fac76d66e143a.js:1
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
+msgid "Cookie Blocker"
+msgstr ""
+
+#: config/warnings.php:81
 msgid "Cookie changes have been detected."
 msgstr "Cookie-banner er opdaget."
 
@@ -1269,6 +1593,12 @@ msgstr "Indstillinger for cookie-samtykke"
 #, fuzzy
 msgid "Cookie Domain"
 msgstr "Cookie-domæne"
+
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+#: settings/build/6729.19c8d571a3e5c3f29966.js:1
+#: settings/build/7102.d63e14ead73195579256.js:1
+msgid "Cookie function"
+msgstr ""
 
 #: cookiebanner/settings.php:868
 #: cookiebanner/settings.php:1044
@@ -1355,16 +1685,28 @@ msgstr "Cookiebanner"
 msgid "Cookies on Root Domain"
 msgstr "Cookies på roddomænet"
 
+#: settings/build/880.1cfd91146fc7d5fc5f2c.js:1
+#: settings/build/3430.ae31ab2c342fb4197b19.js:1
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
+#: settings/build/9567.d5a7562fd09f42de8429.js:1
+msgid "Copied shortcode"
+msgstr ""
+
 #: pro/settings/fields/multisite.php:20
 #, fuzzy
 msgid "Copy settings to subsites"
 msgstr "Kopier indstillinger til undersider"
 
-#: config/countries.php:215
+#: settings/build/8708.122e1e004a8cf6c785e9.js:1
+msgid "Copying settings..."
+msgstr ""
+
+#: config/countries.php:210
 msgid "Costa Rica"
 msgstr "Costa Rica"
 
-#: config/countries.php:216
+#: config/countries.php:211
 msgid "Cote D'Ivoire"
 msgstr "Elfenbenskysten"
 
@@ -1378,15 +1720,31 @@ msgstr "Kunne ikke forbinde til cookiedatabase.org"
 msgid "Could not rename folder!"
 msgstr "Kunne ikke omdøbe mappen!"
 
+#: settings/build/2111.41fd208db5456f88a14e.js:1
+#: settings/build/3582.4ef59d70f2713cd2367f.js:1
+#: settings/build/5175.40650358aeec2c431639.js:1
+#: settings/build/6946.5bd434ec4ef0894d67b2.js:1
+msgid "Country"
+msgstr ""
+
 #: pro/config/documents/ca/privacy-policy-children.php:132
 #, fuzzy
 msgid "Country or state in which this third party is located:"
 msgstr "Land eller stat, hvor denne tredjepart er placeret:"
 
-#: config/warnings.php:234
+#: settings/build/2980.bcae0257d70db5deed1f.js:1
+#: settings/build/6281.29b489855c47c8fa384d.js:1
+msgid "Create"
+msgstr ""
+
+#: config/warnings.php:240
 #, fuzzy
 msgid "Create a Privacy Statement and other Legal Documents with Complianz."
 msgstr "Opret en fortrolighedserklæring og andre juridiske dokumenter med Complianz."
+
+#: settings/build/2980.bcae0257d70db5deed1f.js:1
+msgid "Create Data Breach report"
+msgstr ""
 
 #: settings/config/menu.php:379
 #, fuzzy
@@ -1402,6 +1760,18 @@ msgstr "Opret rapporter om databrud med %sComplianz GDPR Premium%s"
 msgid "Create documents"
 msgstr "Opret dokumenter"
 
+#: settings/build/3430.ae31ab2c342fb4197b19.js:1
+msgid "Create missing pages"
+msgstr ""
+
+#: settings/build/3192.942b0c422c4d59d9ab9a.js:1
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
+#: settings/build/8217.13aceabe9744259e6f8d.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
+#: settings/build/9567.d5a7562fd09f42de8429.js:1
+msgid "Create new"
+msgstr ""
+
 #: settings/config/menu.php:354
 msgid "Create Processing Agreements"
 msgstr "Opret behandlingsaftale"
@@ -1410,6 +1780,10 @@ msgstr "Opret behandlingsaftale"
 #, fuzzy
 msgid "Create Processing Agreements with %sComplianz GDPR Premium%s"
 msgstr "Opret behandlingsaftaler med %sComplianz GDPR Premium%s"
+
+#: settings/build/6875.455aae4db2624df39da4.js:1
+msgid "Create Proof of Consent"
+msgstr ""
 
 #: pro/settings/fields/disclaimer.php:105
 #, fuzzy
@@ -1450,13 +1824,17 @@ msgstr "Creative Commons (CC)"
 msgid "Creative Commons (CC) is an American non-profit organization devoted to expanding the range of creative works available for others to build upon legally and to share."
 msgstr "Creative Commons (CC) er en amerikansk non-profit organisation, der er dedikeret til at udvide udvalget af kreative værker til rådighed for andre til lovligt at bygge videre på og dele."
 
-#: config/countries.php:217
+#: config/countries.php:212
 msgid "Croatia"
 msgstr "Kroatien"
 
-#: config/countries.php:218
+#: config/countries.php:213
 msgid "Cuba"
 msgstr "Cuba"
+
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+msgid "CURL is not enabled on your site, which is required for the Cookiedatabase sync to function."
+msgstr ""
 
 #: functions.php:523
 #: functions.php:526
@@ -1514,15 +1892,15 @@ msgstr "Tilpasset ratio til Google Maps"
 msgid "Customers"
 msgstr "Kunder"
 
-#: config/countries.php:219
+#: config/countries.php:214
 msgid "Cyprus"
 msgstr "Cypern"
 
-#: config/countries.php:220
+#: config/countries.php:215
 msgid "Czech Republic"
 msgstr "Tjekkiet"
 
-#: config/countries.php:416
+#: config/countries.php:411
 msgid "Danish"
 msgstr "Dansk"
 
@@ -1547,6 +1925,13 @@ msgstr "Kontrolpanel"
 #: settings/build/6946.5bd434ec4ef0894d67b2.js:1
 msgid "Data"
 msgstr "Data"
+
+#: settings/build/3192.942b0c422c4d59d9ab9a.js:1
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
+#: settings/build/9567.d5a7562fd09f42de8429.js:1
+msgid "Data Breach"
+msgstr ""
 
 #: pro/dataleak/class-dataleak.php:429
 #, fuzzy
@@ -1585,6 +1970,11 @@ msgstr "Dataelementer involveret i sikkerhedsovertrædelsen:"
 msgid "Data integrity check failed"
 msgstr "Kontrol af dataintegritet fejlede"
 
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+#: settings/build/6729.19c8d571a3e5c3f29966.js:1
+msgid "Data is shared with this service"
+msgstr ""
+
 #: pro/dataleak/class-dataleak.php:232
 #: pro/dataleak/class-dataleak.php:242
 msgid "data protection authority"
@@ -1596,11 +1986,15 @@ msgstr "databeskyttelsesmyndighed"
 msgid "Data Protection Officer"
 msgstr "Databeskyttelsesansvarlig"
 
+#: settings/build/1624.f334c63a8a8658dfd8c3.js:1
+msgid "Data Request"
+msgstr ""
+
 #: settings/config/menu.php:296
 #: settings/config/menu.php:301
-#: settings/build/4570.76dcf7267af80a785acb.js:1
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
 #: settings/build/6644.2ea25b710cb1cc5b721b.js:1
-#: settings/build/8596.2c253cf399d8f84c2746.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
 #, fuzzy
 msgid "Data Requests"
 msgstr "Anmodninger om data"
@@ -1642,9 +2036,17 @@ msgstr "Fødselsdato"
 msgid "Day on which, or period during which the breach occurred, or if neither is known, the approximate period."
 msgstr "Dag, eller periode, hvor overtrædelsen skete, eller hvis ikke kendt, den omtrentlige periode."
 
+#: settings/build/5035.7278ed43f873ee74a6a1.js:1
+msgid "Deactivate"
+msgstr ""
+
 #: settings/config/menu.php:290
 msgid "Debugging"
 msgstr "Fejlfinding"
+
+#: settings/build/3370.37da042d3978ff55958d.js:1
+msgid "Debugging enabled:"
+msgstr ""
 
 #: config/class-config.php:286
 #: pro/statistics/class-admin-statistics.php:306
@@ -1659,6 +2061,34 @@ msgstr "Standard"
 msgid "Default consent banner"
 msgstr "Standard samtykkebanner"
 
+#: settings/build/1137.9116d7ed316d827154ca.js:1
+#: settings/build/1624.f334c63a8a8658dfd8c3.js:1
+#: settings/build/2111.41fd208db5456f88a14e.js:1
+#: settings/build/3068.09f0fbdb62122f907b91.js:1
+#: settings/build/3078.7547fadc99516cff6788.js:1
+#: settings/build/3582.4ef59d70f2713cd2367f.js:1
+#: settings/build/5175.40650358aeec2c431639.js:1
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+#: settings/build/6729.19c8d571a3e5c3f29966.js:1
+#: settings/build/6946.5bd434ec4ef0894d67b2.js:1
+#: settings/build/7102.d63e14ead73195579256.js:1
+#: settings/build/7234.f41964069d02c6bac205.js:1
+#: settings/build/8550.dbd370965126fb42424d.js:1
+#: settings/build/9736.56fe89f91f29aa1ca845.js:1
+msgid "Delete"
+msgstr ""
+
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+#: settings/build/6729.19c8d571a3e5c3f29966.js:1
+msgid "Delete Service"
+msgstr ""
+
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+#: settings/build/6729.19c8d571a3e5c3f29966.js:1
+#: settings/build/7102.d63e14ead73195579256.js:1
+msgid "Deleted"
+msgstr ""
+
 #: config/purpose.php:12
 msgid "Deliveries"
 msgstr "Leverancer"
@@ -1667,7 +2097,7 @@ msgstr "Leverancer"
 msgid "Denied"
 msgstr "Nægtet"
 
-#: config/countries.php:221
+#: config/countries.php:216
 msgid "Denmark"
 msgstr "Danmark"
 
@@ -1684,6 +2114,11 @@ msgstr "Knappen \"Afvise"
 
 #: settings/config/fields/wizard/consent.php:278
 msgid "Deny cookies when advertising is rejected?"
+msgstr ""
+
+#: settings/build/1137.9116d7ed316d827154ca.js:1
+#: settings/build/9736.56fe89f91f29aa1ca845.js:1
+msgid "Dependency"
 msgstr ""
 
 #: cookiebanner/settings.php:117
@@ -1755,6 +2190,14 @@ msgstr "Udviklere og brugerdefinerede implementeringer"
 msgid "Did you enable the consent module in your HubSpot account?"
 msgstr "Har du aktiveret samtykke-modulet i din HubSpot-konto?"
 
+#: settings/build/7489.a99ddd7d4e814299a771.js:1
+msgid "Didn't receive the activation email? "
+msgstr ""
+
+#: settings/build/7489.a99ddd7d4e814299a771.js:1
+msgid "Didn't receive the activation email? Please wait 1 hour before requesting again."
+msgstr ""
+
 #: settings/config/fields/general-settings/settings.php:87
 msgid "Disable all plus ones and warnings on your dashboard."
 msgstr ""
@@ -1782,10 +2225,18 @@ msgstr "Deaktiver indsættelse af pladsholder"
 msgid "Disable to let your theme take over."
 msgstr "Deaktiver for at lade dit tema overtage."
 
+#: settings/build/4604.800fe0bbc2f4f357fe19.js:1
+msgid "Disable Website Scan"
+msgstr ""
+
 #: cookiebanner/settings.php:647
 #, fuzzy
 msgid "Disable width auto correction"
 msgstr "Deaktiver automatisk korrektion af bredde"
+
+#: settings/build/7489.a99ddd7d4e814299a771.js:1
+msgid "Disabled"
+msgstr ""
 
 #: config/documents/documents.php:22
 #: pro/config/documents/documents.php:84
@@ -1824,7 +2275,7 @@ msgstr "Frakald ved timeout"
 msgid "Divi detected"
 msgstr "Divi opdaget"
 
-#: config/countries.php:222
+#: config/countries.php:217
 msgid "Djibouti"
 msgstr "Djibouti"
 
@@ -1842,6 +2293,14 @@ msgstr "DKIM, SPF en DMARC"
 #, fuzzy
 msgid "DKIM, SPF, DMARC and other specific DNS settings"
 msgstr "DKIM, SPF, DMARC og andre specifikke DNS-indstillinger"
+
+#: settings/build/626.f480d314fd8dc7b49342.js:1
+msgid "DNT or GPC enabled."
+msgstr ""
+
+#: settings/build/3078.7547fadc99516cff6788.js:1
+msgid "DNT/GPC"
+msgstr ""
 
 #: settings/config/fields/tools/placeholders.php:36
 #, fuzzy
@@ -1867,7 +2326,7 @@ msgstr "Sælg ikke mine personlige oplysninger til adfærdsbaseret reklame på t
 msgid "Do Not Track"
 msgstr "Må ikke spores"
 
-#: config/warnings.php:38
+#: config/warnings.php:44
 msgid "Do Not Track and Global Privacy Control are respected."
 msgstr "Do Not Track og Global Privacy Control overholdes."
 
@@ -2005,7 +2464,7 @@ msgstr "Vil du aktivere Google Consent Mode?"
 msgid "Do you want to enable Records of Consent?"
 msgstr "Ønsker du at aktivere Registreringer af samtykke?"
 
-#: settings/config/fields/wizard/consent.php:600
+#: settings/config/fields/wizard/consent.php:576
 msgid "Do you want to enable the Yandex ecommerce datalayer?"
 msgstr "Ønsker du at aktivere Yandex ecommerce datalayeren?"
 
@@ -2054,24 +2513,66 @@ msgstr "Vil du bruge 'Samtykke pr. tjeneste'?"
 msgid "Do you want to use cookieless tracking with Matomo?"
 msgstr "Vil du bruge cookieless tracking med Matomo?"
 
+#: settings/build/3068.09f0fbdb62122f907b91.js:1
+#: settings/build/7234.f41964069d02c6bac205.js:1
+#: settings/build/8550.dbd370965126fb42424d.js:1
+msgid "Document"
+msgstr ""
+
 #: settings/config/menu.php:336
 #, fuzzy
 msgid "Document CSS"
 msgstr "Dokument CSS"
 
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
+#: settings/build/9567.d5a7562fd09f42de8429.js:1
+msgid "Document is kept up to date by Complianz"
+msgstr ""
+
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
+#: settings/build/9567.d5a7562fd09f42de8429.js:1
+msgid "Document is not kept up to date by Complianz"
+msgstr ""
+
+#: gutenberg/build/index.js:1
+msgid "Document settings"
+msgstr ""
+
 #: documents/admin-class-documents.php:832
 msgid "Document status"
 msgstr "Dokumentstatus"
+
+#: gutenberg/build/index.js:1
+msgid "Document sync status"
+msgstr ""
+
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
+#: settings/build/6644.2ea25b710cb1cc5b721b.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
+#: settings/build/index.8b8c3b6249ec4e641ef3.js:1
+msgid "Documentation"
+msgstr ""
 
 #: settings/config/menu.php:30
 #: settings/config/menu.php:153
 #: settings/config/menu.php:157
 #: settings/config/menu.php:328
 #: settings/build/1249.59eddce3c3da78fc0f00.js:1
-#: settings/build/4570.76dcf7267af80a785acb.js:1
-#: settings/build/8596.2c253cf399d8f84c2746.js:1
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
 msgid "Documents"
 msgstr "Dokumenter"
+
+#: settings/build/3430.ae31ab2c342fb4197b19.js:1
+msgid "Documents updated!"
+msgstr ""
+
+#: settings/build/3990.c1ea285fea4bbd2002c6.js:1
+#: settings/build/5552.f97d0c6fb99a47d3f852.js:1
+msgid "Does not conform with the Consent API"
+msgstr ""
 
 #: pro/dataleak/type-2/questions.php:95
 msgid "Does the databreach affect California residents?"
@@ -2123,11 +2624,11 @@ msgstr "Bruger dit websted WordPress-kommentarer?"
 msgid "Domain to set the cookies on"
 msgstr "Domæne til at tillade cookies"
 
-#: config/countries.php:223
+#: config/countries.php:218
 msgid "Dominica"
 msgstr "Dominica"
 
-#: config/countries.php:224
+#: config/countries.php:219
 msgid "Dominican Republic"
 msgstr "Dominikanske republik"
 
@@ -2146,6 +2647,34 @@ msgstr "Brug ikke en ekstra ramme."
 #: settings/build/7161.47d44a77efbd58bfa335.js:1
 msgid "Download"
 msgstr "Hent"
+
+#: settings/build/8550.dbd370965126fb42424d.js:1
+msgid "Download Data Breach Report"
+msgstr ""
+
+#: settings/build/3192.942b0c422c4d59d9ab9a.js:1
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
+#: settings/build/8217.13aceabe9744259e6f8d.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
+#: settings/build/9567.d5a7562fd09f42de8429.js:1
+msgid "Download file"
+msgstr ""
+
+#: settings/build/3068.09f0fbdb62122f907b91.js:1
+msgid "Download Processing Agreement"
+msgstr ""
+
+#: settings/build/3078.7547fadc99516cff6788.js:1
+#: settings/build/7234.f41964069d02c6bac205.js:1
+msgid "Download Proof of Consent"
+msgstr ""
+
+#: settings/build/4186.e705512d139f60fbc9c1.js:1
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
+#: settings/build/7338.425f8db82ab0c7784070.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
+msgid "Downloading..."
+msgstr ""
 
 #: config/purpose.php:33
 msgid "Driver's license"
@@ -2169,7 +2698,7 @@ msgstr "På grund af de franske CNIL-retningslinjer foreslår vi at bruge skabel
 msgid "Duration in days of the A/B testing period"
 msgstr "Varighed i dage for A/B testperioden"
 
-#: config/countries.php:423
+#: config/countries.php:418
 msgid "Dutch"
 msgstr "Hollandsk"
 
@@ -2183,6 +2712,10 @@ msgstr ""
 
 #: websitescan/class-wsc-notices.php:70
 msgid "E-mail verification not sent"
+msgstr ""
+
+#: settings/build/6281.29b489855c47c8fa384d.js:1
+msgid "e.g. Alphabet Inc"
 msgstr ""
 
 #: pro/settings/fields/imprint.php:19
@@ -2203,29 +2736,49 @@ msgstr "Eksempelvis hosting, datalagring, betalingsprocesser, udsendelse af nyhe
 msgid "e.g. services like Google Fonts, Maps or reCAPTCHA usually place cookies."
 msgstr "tjenester som f.eks. Google Fonts, Maps eller recaptcha placerer normalt cookies"
 
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+#: settings/build/6729.19c8d571a3e5c3f29966.js:1
+#: settings/build/7102.d63e14ead73195579256.js:1
+msgid "e.g. store user ID"
+msgstr ""
+
 #: pro/settings/fields/security-consent.php:91
 #, fuzzy
 msgid "Easily secure your website with Really Simple Security"
 msgstr "Sikr nemt din hjemmeside med Really Simple SSL"
 
-#: config/countries.php:225
+#: config/countries.php:220
 msgid "Ecuador"
 msgstr "Ecuador"
+
+#: settings/build/1439.6695daea713e4e927dbd.js:1
+#: settings/build/3068.09f0fbdb62122f907b91.js:1
+#: settings/build/8550.dbd370965126fb42424d.js:1
+msgid "Edit"
+msgstr ""
+
+#: settings/build/index.8b8c3b6249ec4e641ef3.js:1
+msgid "Edit consent types"
+msgstr ""
 
 #: documents/admin-class-documents.php:858
 #: gutenberg/build/index.js:1
 msgid "Edit document and stop synchronization"
 msgstr "Rediger dokument, og stop synkronisering"
 
+#: settings/build/7579.2ed1c6a0ac68aa4d8046.js:1
+msgid "Editor"
+msgstr ""
+
 #: config/purpose.php:36
 msgid "Education information"
 msgstr "Uddannelsesinformation"
 
-#: config/countries.php:226
+#: config/countries.php:221
 msgid "Egypt"
 msgstr "Egypten"
 
-#: config/countries.php:227
+#: config/countries.php:222
 msgid "El Salvador"
 msgstr "El Salvador"
 
@@ -2302,6 +2855,12 @@ msgstr "Medarbejderhistorik"
 msgid "Empty dataset"
 msgstr "Tomt datasæt"
 
+#: settings/build/1137.9116d7ed316d827154ca.js:1
+#: settings/build/8033.d3664861651654e3f429.js:1
+#: settings/build/9736.56fe89f91f29aa1ca845.js:1
+msgid "Empty URL"
+msgstr ""
+
 #: settings/config/fields/tools/ab-testing.php:31
 msgid "Enable A/B testing"
 msgstr "Aktiver A/B test"
@@ -2325,6 +2884,12 @@ msgstr "Aktivér cookie blokering for indhold af indlæst ajax"
 msgid "Enable custom document CSS"
 msgstr "Aktivér brugerdefineret dokument-CSS"
 
+#: settings/build/1137.9116d7ed316d827154ca.js:1
+#: settings/build/8033.d3664861651654e3f429.js:1
+#: settings/build/9736.56fe89f91f29aa1ca845.js:1
+msgid "Enable dependency"
+msgstr ""
+
 #: settings/config/fields/general-settings/settings.php:16
 msgid "Enable GEO IP"
 msgstr "Aktiver GEO IP"
@@ -2333,6 +2898,12 @@ msgstr "Aktiver GEO IP"
 #, fuzzy
 msgid "Enable if you want to add custom CSS for the documents"
 msgstr "Aktivér, hvis du vil tilføje brugerdefineret CSS til dokumenterne"
+
+#: settings/build/847.4bde3074815e0711ce39.js:1
+#: settings/build/1137.9116d7ed316d827154ca.js:1
+#: settings/build/9736.56fe89f91f29aa1ca845.js:1
+msgid "Enable placeholder"
+msgstr ""
 
 #: settings/config/fields/tools/support.php:18
 msgid "Enable safe mode"
@@ -2348,14 +2919,30 @@ msgstr "Aktiver TCF & Google CMP Certified Consent Management med understøttels
 msgid "Enable TCF, without support for Google Advertising Products."
 msgstr "Aktivér TCF uden understøttelse af Google Advertising Products."
 
-#: config/warnings.php:144
+#: config/warnings.php:150
 msgid "Enable the cookiedatabase.org API for automatic descriptions, or add these manually."
 msgstr "Aktiver cookiedatabase.org API'er for automatiske beskrivelser eller tilføj disse manuelt."
+
+#: settings/build/4604.800fe0bbc2f4f357fe19.js:1
+msgid "Enable Website Scan"
+msgstr ""
+
+#: settings/build/7489.a99ddd7d4e814299a771.js:1
+msgid "Enabled"
+msgstr ""
 
 #: settings/config/fields/wizard/plugins.php:10
 #, fuzzy
 msgid "Enabled integrations"
 msgstr "Aktiverede integrationer"
+
+#: settings/build/93.6b28b2755513e51411ca.js:1
+msgid "Enabled plugins will be blocked on the front-end of your website until the user has given consent (opt-in), or after the user has revoked consent (opt-out). When possible a placeholder is activated. You can also disable or configure the placeholder to your liking."
+msgstr ""
+
+#: settings/build/5023.862a204cea176a4c5d91.js:1
+msgid "Enabled services will be blocked on the front-end of your website until the user has given consent (opt-in), or after the user has revoked consent (opt-out). When possible a placeholder is activated. You can also disable or configure the placeholder to your liking."
+msgstr ""
 
 #: settings/config/fields/wizard/consent.php:210
 msgid "Enabling this feature means all Google tags will be handled by Google Consent Mode. You will need to read the integration manual below, and double-check to see if it works for your setup."
@@ -2373,7 +2960,11 @@ msgstr "Hvis du aktiverer denne indstilling, udvides vores metode til bevis for 
 msgid "Encrypted personal data is lost, and it cannot be excluded that unauthorized persons have access to the encryption key or password."
 msgstr "Krypteret personlig information går tabt, og det kan ikke udelukkes at uautoriserede personer har adgang til krypteringsnøglen eller password."
 
-#: config/countries.php:415
+#: settings/build/8525.14c3539f3bb65689f4cf.js:1
+msgid "End tour"
+msgstr ""
+
+#: config/countries.php:410
 msgid "English"
 msgstr "Engelsk"
 
@@ -2381,8 +2972,14 @@ msgstr "Engelsk"
 msgid "Enter a toll free phone number for the submission of information requests"
 msgstr "Indtast et gratis telefonnummer for indsendelse af oplysninger om anmodninger"
 
-#: settings/config/fields/wizard/consent.php:459
-#: settings/config/fields/wizard/consent.php:506
+#: settings/build/847.4bde3074815e0711ce39.js:1
+#: settings/build/1137.9116d7ed316d827154ca.js:1
+#: settings/build/9736.56fe89f91f29aa1ca845.js:1
+msgid "Enter the div class or ID that should be targeted."
+msgstr ""
+
+#: settings/config/fields/wizard/consent.php:435
+#: settings/config/fields/wizard/consent.php:482
 msgid "Enter the URL of Matomo"
 msgstr "Tilføj URL'en til Matomo"
 
@@ -2390,12 +2987,12 @@ msgstr "Tilføj URL'en til Matomo"
 msgid "Enter the URL of the terms & conditions page for the incentives"
 msgstr "Indtast URL'en til siden med vilkår og betingelser for incitamenterne"
 
-#: settings/config/fields/wizard/consent.php:583
+#: settings/config/fields/wizard/consent.php:559
 #, fuzzy
 msgid "Enter your Clarity project ID"
 msgstr "Indtast dit Clarity-projekt-ID"
 
-#: settings/config/fields/wizard/consent.php:545
+#: settings/config/fields/wizard/consent.php:521
 msgid "Enter your Clicky site ID"
 msgstr "Indtast dit Clicky site ID"
 
@@ -2404,20 +3001,20 @@ msgstr "Indtast dit Clicky site ID"
 msgid "Enter your license below to start with Premium. You can find, and manage, your license in your account on Complianz.io"
 msgstr "Indtast din licens nedenfor for at starte med Premium. Du kan finde og administrere din licens på din konto på Complianz.io"
 
-#: settings/config/fields/wizard/consent.php:529
+#: settings/config/fields/wizard/consent.php:505
 #, fuzzy
 msgid "Enter your Matomo container ID"
 msgstr "Indtast dit Matomo-container-id"
 
-#: settings/config/fields/wizard/consent.php:478
+#: settings/config/fields/wizard/consent.php:454
 msgid "Enter your Matomo site ID"
 msgstr "Tilføj dit Matomo sted ID"
 
-#: settings/config/fields/wizard/consent.php:567
+#: settings/config/fields/wizard/consent.php:543
 msgid "Enter your Yandex ID"
 msgstr "Indtast dit Yandex-id"
 
-#: config/countries.php:228
+#: config/countries.php:223
 msgid "Equatorial Guinea"
 msgstr "Ækvatorial Guinea"
 
@@ -2425,19 +3022,23 @@ msgstr "Ækvatorial Guinea"
 msgid "Erase personal data"
 msgstr "Slet personlige data"
 
-#: config/countries.php:229
+#: config/countries.php:224
 msgid "Eritrea"
 msgstr "Eritrea"
 
-#: config/countries.php:230
+#: settings/build/7489.a99ddd7d4e814299a771.js:1
+msgid "Error"
+msgstr ""
+
+#: config/countries.php:225
 msgid "Estonia"
 msgstr "Estland"
 
-#: config/countries.php:420
+#: config/countries.php:415
 msgid "Estonian"
 msgstr "Estisk"
 
-#: config/countries.php:231
+#: config/countries.php:226
 msgid "Ethiopia"
 msgstr "Etiopien"
 
@@ -2465,6 +3066,14 @@ msgstr "Eksempel"
 #: settings/config/fields/wizard/general.php:174
 #: settings/config/fields/wizard/general.php:192
 msgid "Existing page"
+msgstr ""
+
+#: settings/build/2980.bcae0257d70db5deed1f.js:1
+msgid "Exit"
+msgstr ""
+
+#: settings/build/11.b2eb97694c1948a6884e.js:1
+msgid "Expand all"
 msgstr ""
 
 #: templates/cookiepolicy/cookies_row.php:6
@@ -2497,6 +3106,11 @@ msgstr "Eksport af optegnelser over samtykke"
 msgid "Export settings"
 msgstr "Eksport indstillinger"
 
+#: settings/build/4575.a189db2c712437934bd0.js:1
+#: settings/build/7161.47d44a77efbd58bfa335.js:1
+msgid "Export to CSV"
+msgstr ""
+
 #: settings/config/fields/wizard/general.php:343
 #, fuzzy
 msgid "Extend Proof of Consent with Records of Consent"
@@ -2521,11 +3135,11 @@ msgstr "Kunne ikke indsamle pakkeinformation"
 msgid "Failed to install plugin"
 msgstr "Kunne ikke installere plugin"
 
-#: config/countries.php:232
+#: config/countries.php:227
 msgid "Falkland Islands (Malvinas)"
 msgstr "Falklandsøerne (Malvinas)"
 
-#: config/countries.php:233
+#: config/countries.php:228
 msgid "Faroe Islands"
 msgstr "Færøerne"
 
@@ -2535,7 +3149,7 @@ msgstr "Færøerne"
 msgid "Features"
 msgstr "Funktioner"
 
-#: config/countries.php:234
+#: config/countries.php:229
 msgid "Fiji"
 msgstr "Fiji"
 
@@ -2565,7 +3179,7 @@ msgstr "Økonomiske oplysninger såsom bankkontonummer og kreditkortnummer"
 msgid "Finish"
 msgstr "Afslut"
 
-#: config/countries.php:235
+#: config/countries.php:230
 msgid "Finland"
 msgstr "Finland"
 
@@ -2573,6 +3187,10 @@ msgstr "Finland"
 #, fuzzy
 msgid "First-party marketing cookies"
 msgstr "Førsteparts marketingcookies"
+
+#: settings/build/1439.6695daea713e4e927dbd.js:1
+msgid "Fix"
+msgstr ""
 
 #: cookiebanner/settings.php:464
 msgid "Font size"
@@ -2622,6 +3240,16 @@ msgstr "For mere information, %slæs vores 5 tips%s om site scan."
 msgid "For more information, please read the %s%s Privacy Statement%s."
 msgstr "For mere information, bedes du læse %s%s fortrolighedserklæring%s."
 
+#: settings/build/93.6b28b2755513e51411ca.js:1
+#: settings/build/847.4bde3074815e0711ce39.js:1
+#: settings/build/1137.9116d7ed316d827154ca.js:1
+#: settings/build/2921.1bbae02e4d911be8d798.js:1
+#: settings/build/4078.dcc34eaae8ee39546184.js:1
+#: settings/build/5023.862a204cea176a4c5d91.js:1
+#: settings/build/9736.56fe89f91f29aa1ca845.js:1
+msgid "For more information, please read this %sarticle%s."
+msgstr ""
+
 #: documents/admin-class-documents.php:1036
 #: pro/filters-actions.php:34
 msgid "For more information, see the Complianz %sPrivacy Statement%s."
@@ -2661,29 +3289,36 @@ msgstr "For amerikanske baserede virksomheder kan du angive et gratis telefonnum
 msgid "For what potential activities on your website do you collect personal information from a child?"
 msgstr "For hvilke potentielle aktiviteter på dit websted indsamler du personlige oplysninger fra et barn?"
 
-#: config/countries.php:236
+#: config/countries.php:231
 msgid "France"
 msgstr "Frankrig"
 
-#: config/countries.php:421
+#: config/countries.php:416
 msgid "French"
 msgstr "Fransk"
 
-#: config/countries.php:237
+#: config/countries.php:232
 msgid "French Guiana"
 msgstr "Fransk Guyana"
 
-#: config/countries.php:238
+#: config/countries.php:233
 msgid "French Polynesia"
 msgstr "Fransk Polynesien"
 
-#: config/countries.php:239
+#: config/countries.php:234
 msgid "French Southern Territories"
 msgstr "Franske sydlige territorier"
 
 #: settings/config/fields/tools/placeholders.php:110
 msgid "Full Color"
 msgstr "Fuld farve"
+
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
+#: settings/build/6644.2ea25b710cb1cc5b721b.js:1
+#: settings/build/8084.e00a3bed786d7e7382bc.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
+msgid "Full Consent"
+msgstr ""
 
 #: templates/cookiepolicy/cookies_row.php:10
 msgid "Function"
@@ -2701,17 +3336,17 @@ msgstr "Funktionsdygtig"
 msgid "Functional description"
 msgstr "Funktionel beskrivelse"
 
-#: websitescan/class-wsc-scanner.php:1316
-#: websitescan/class-wsc-scanner.php:1324
-#: websitescan/class-wsc-scanner.php:1332
+#: websitescan/class-wsc-scanner.php:1312
+#: websitescan/class-wsc-scanner.php:1320
+#: websitescan/class-wsc-scanner.php:1328
 msgid "Funding choices"
 msgstr ""
 
-#: config/countries.php:240
+#: config/countries.php:235
 msgid "Gabon"
 msgstr "Gabon"
 
-#: config/countries.php:241
+#: config/countries.php:236
 msgid "Gambia"
 msgstr "Gambia"
 
@@ -2736,14 +3371,18 @@ msgstr "GDPR-repræsentant"
 #: settings/config/menu.php:421
 #: settings/config/menu.php:442
 #: settings/build/1249.59eddce3c3da78fc0f00.js:1
-#: settings/build/4570.76dcf7267af80a785acb.js:1
-#: settings/build/8596.2c253cf399d8f84c2746.js:1
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
 msgid "General"
 msgstr "Generelt"
 
 #: pro/settings/fields/imprint.php:64
 msgid "Generally the Chamber of Commerce or a local Court register, but other registers may apply. Leave blank if this does not apply to you."
 msgstr "Generelt handelskammeret eller et lokalt domstolsregister, men andre registre kan finde anvendelse. Lad være tomt, hvis dette ikke gælder for dig."
+
+#: settings/build/6875.455aae4db2624df39da4.js:1
+msgid "Generate"
+msgstr ""
 
 #: settings/config/menu.php:158
 #, fuzzy
@@ -2778,15 +3417,15 @@ msgstr "Fejl i GEO IP-databasen"
 msgid "Geolocation data"
 msgstr "Geolokationsdata"
 
-#: config/countries.php:242
+#: config/countries.php:237
 msgid "Georgia"
 msgstr "Georgien"
 
-#: config/countries.php:417
+#: config/countries.php:412
 msgid "German"
 msgstr "Tysk"
 
-#: config/countries.php:243
+#: config/countries.php:238
 msgid "Germany"
 msgstr "Tyskland"
 
@@ -2795,19 +3434,42 @@ msgstr "Tyskland"
 msgid "Get notified of important updates, changes, and settings."
 msgstr "Få besked om vigtige opdateringer, ændringer og indstillinger."
 
+#: settings/build/11.b2eb97694c1948a6884e.js:1
+msgid "Get Premium"
+msgstr ""
+
 #: settings/config/menu.php:286
 msgid "Get premium support with %sComplianz GDPR Premium%s"
+msgstr ""
+
+#: settings/build/8525.14c3539f3bb65689f4cf.js:1
+msgid "Get ready for privacy legislation around the world. Follow a quick tour or start configuring the plugin!"
+msgstr ""
+
+#: settings/build/120.0a4856ee34143f33d913.js:1
+#: settings/build/1677.86c36f078e0b19e9d573.js:1
+#: settings/build/2113.a4209111c3cd8cff25f3.js:1
+#: settings/build/2299.004e0d91cb69c61a3c6c.js:1
+#: settings/build/2397.ef27c5b02f4c5dd61711.js:1
+#: settings/build/3424.4e8f9a1912780b76b7ea.js:1
+#: settings/build/5664.efa40f92c92c0aecadb4.js:1
+#: settings/build/6231.39308b683483ef2a1176.js:1
+#: settings/build/8447.9685d8b5aee1675df773.js:1
+#: settings/build/8772.d79f5c48e62ccbfa7772.js:1
+#: settings/build/9056.cad63930d05414427a70.js:1
+#: settings/build/9877.1db72bd3e9a976e5e467.js:1
+msgid "Get tips and tricks"
 msgstr ""
 
 #: pro/settings/fields/purposes.php:170
 msgid "Getting to know the lawful bases will be very helpful."
 msgstr "Det vil være en stor hjælp at lære de lovlige grundlag at kende."
 
-#: config/countries.php:244
+#: config/countries.php:239
 msgid "Ghana"
 msgstr "Ghana"
 
-#: config/countries.php:245
+#: config/countries.php:240
 msgid "Gibraltar"
 msgstr "Gibraltar"
 
@@ -2821,11 +3483,31 @@ msgstr "Global opt-out"
 msgid "Global opt-out from selling and sharing my personal information and limiting the use or disclosure of sensitive personal information."
 msgstr "Global opt-out fra salg og deling af mine personlige oplysninger og begrænsning af brugen eller videregivelsen af følsomme personlige oplysninger."
 
-#: config/warnings.php:110
+#: settings/build/index.8b8c3b6249ec4e641ef3.js:1
+msgid "Go Pro"
+msgstr ""
+
+#: settings/build/3192.942b0c422c4d59d9ab9a.js:1
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
+#: settings/build/8217.13aceabe9744259e6f8d.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
+#: settings/build/9567.d5a7562fd09f42de8429.js:1
+msgid "Go to overview"
+msgstr ""
+
+#: settings/build/2058.1832f4cf65b8f9297b34.js:1
+msgid "Go to question"
+msgstr ""
+
+#: settings/config/fields/wizard/services.php:232
+msgid "Google Advertising Products requires Google CMP Certified Consent Management. If you don't show ads, but use Google Advertising Products with Google Consent Mode, an additional framework is not required."
+msgstr ""
+
+#: config/warnings.php:116
 msgid "Google Analytics is being used, but is not configured in Complianz."
 msgstr "Google Analytics bruges, men er ikke konfigureret i Complianz."
 
-#: config/warnings.php:64
+#: config/warnings.php:70
 #, fuzzy
 msgid "Google Fonts requires your attention."
 msgstr "Google Fonts kræver din opmærksomhed."
@@ -2840,7 +3522,7 @@ msgstr "Google må ikke bruge disse data til andre Google-tjenester"
 msgid "Google Maps placeholder ratio"
 msgstr "Google Maps pladsholder-forhold"
 
-#: settings/config/fields/wizard/consent.php:421
+#: settings/config/fields/wizard/consent.php:397
 msgid "Google Tag - Marketing or Advertising"
 msgstr ""
 
@@ -2848,59 +3530,72 @@ msgstr ""
 msgid "Google Tag - Statistics"
 msgstr ""
 
-#: config/warnings.php:119
+#: config/warnings.php:125
 msgid "Google Tag Manager is being used, but is not configured in Complianz."
 msgstr "Google Tag Manager bruges, men er ikke konfigureret i Complianz."
 
-#: config/countries.php:246
+#: settings/build/2302.2ba02269d1bab7189b36.js:1
+msgid "Great! All your generated documents have been assigned to a menu, so you can skip this step."
+msgstr ""
+
+#: settings/build/2299.004e0d91cb69c61a3c6c.js:1
+#: settings/build/8447.9685d8b5aee1675df773.js:1
+msgid "Great! You're a few minutes away from getting started with the Website Scan. You just need to look over the Terms and Conditions. If you agree, please continue."
+msgstr ""
+
+#: settings/build/8525.14c3539f3bb65689f4cf.js:1
+msgid "Great, your license is activated and valid!"
+msgstr ""
+
+#: config/countries.php:241
 msgid "Greece"
 msgstr "Grækenland"
 
-#: config/countries.php:418
+#: config/countries.php:413
 msgid "Greek"
 msgstr "Græsk"
 
-#: config/countries.php:247
+#: config/countries.php:242
 msgid "Greenland"
 msgstr "Grønland"
 
-#: config/countries.php:248
+#: config/countries.php:243
 msgid "Grenada"
 msgstr "Grenada"
 
-#: config/countries.php:249
+#: config/countries.php:244
 msgid "Guadeloupe"
 msgstr "Guadeloupe"
 
-#: config/countries.php:250
+#: config/countries.php:245
 msgid "Guam"
 msgstr "Guam"
 
-#: config/countries.php:251
+#: config/countries.php:246
 msgid "Guatemala"
 msgstr "Guatemala"
 
-#: config/countries.php:252
+#: config/countries.php:247
 msgid "Guernsey"
 msgstr "Guernsey"
 
-#: config/countries.php:253
+#: config/countries.php:248
 msgid "Guinea"
 msgstr "Guinea"
 
-#: config/countries.php:254
+#: config/countries.php:249
 msgid "Guinea-Bissau"
 msgstr "Guinea-Bissau"
 
-#: config/countries.php:255
+#: config/countries.php:250
 msgid "Guyana"
 msgstr "Guyana"
 
-#: config/countries.php:256
+#: config/countries.php:251
 msgid "Haiti"
 msgstr "Haiti"
 
-#: config/warnings.php:100
+#: config/warnings.php:106
 #, fuzzy
 msgid "Harden your website and quickly detect vulnerabilities with Really Simple Security"
 msgstr "Hærd dit website og opdag hurtigt sårbarheder med Really Simple SSL"
@@ -2918,9 +3613,17 @@ msgstr "Header"
 msgid "Health insurance information"
 msgstr "Oplysninger om sundhedsforsikring"
 
-#: config/countries.php:257
+#: config/countries.php:252
 msgid "Heard Island & Mcdonald Islands"
 msgstr "Heard Island & Mcdonald Islands"
+
+#: settings/build/1439.6695daea713e4e927dbd.js:1
+msgid "Help"
+msgstr ""
+
+#: settings/build/8525.14c3539f3bb65689f4cf.js:1
+msgid "Here you can configure and style your consent banner if the Wizard is completed. An extra tab will be added with region-specific settings."
+msgstr ""
 
 #: settings/config/menu.php:356
 #, fuzzy
@@ -2961,15 +3664,15 @@ msgstr "Skjul allesteder"
 msgid "Hide preview"
 msgstr "Skjul forhåndsvisning"
 
-#: config/countries.php:258
+#: config/countries.php:253
 msgid "Holy See (Vatican City State)"
 msgstr "Holy See (Vatikanstaten)"
 
-#: config/countries.php:259
+#: config/countries.php:254
 msgid "Honduras"
 msgstr "Honduras"
 
-#: config/countries.php:260
+#: config/countries.php:255
 msgid "Hong Kong"
 msgstr "Hong Kong"
 
@@ -3026,6 +3729,10 @@ msgstr "Hvordan vil du håndtere anmodninger fra de involverede?"
 msgid "How you will answer inquiries"
 msgstr "Hvordan du vil besvare forespørgsler"
 
+#: settings/build/5575.d4ac6be3f5cf68515e9c.js:1
+msgid "HTTP Strict Transport Security and related security headers"
+msgstr ""
+
 #: pro/settings/fields/security-consent.php:83
 #, fuzzy
 msgid "HTTP Strict Transport Security and related Security Headers and Browser Policies"
@@ -3046,7 +3753,7 @@ msgstr "https://complianz.io/pricing"
 msgid "https://your-terms-page.com"
 msgstr "https://your-terms-page.com"
 
-#: config/countries.php:261
+#: config/countries.php:256
 msgid "Hungary"
 msgstr "Ungarn"
 
@@ -3106,7 +3813,7 @@ msgstr "Jeg vil behandle anmodninger fra de involverede. Processoren videresende
 msgid "I will deal with requests from those involved, The Service Provider will forward everything to me."
 msgstr "Jeg vil behandle anmodninger fra de involverede. Tjenesteudbyderen videresender alt til mig."
 
-#: config/countries.php:262
+#: config/countries.php:257
 msgid "Iceland"
 msgstr "Island"
 
@@ -3171,7 +3878,7 @@ msgid "If you add the ID for your Statistics tool here, Complianz will configure
 msgstr ""
 
 #: settings/config/fields/wizard/consent.php:377
-#: settings/config/fields/wizard/consent.php:492
+#: settings/config/fields/wizard/consent.php:468
 msgid "If you add the ID for your statistics tool here, Complianz will configure your site for statistics tracking."
 msgstr "Hvis du tilføjer ID til dit statistikværktøj her, konfigurerer Complianz dit websted til statistiksporing."
 
@@ -3255,10 +3962,14 @@ msgstr "Hvis du bruger AdSense, AdManager eller AdMob, skal du vælge Google CMP
 msgid "If your website is not included in a COPPA Safe Harbor Certification Program we recommend to check out PRIVO, as you target children on your website."
 msgstr "Hvis din hjemmeside ikke er omfattet af et COPPA Safe Harbor-certificeringsprogram, anbefaler vi, at du tjekker PRIVO ud, da du henvender dig til børn på din hjemmeside."
 
-#: websitescan/class-wsc-scanner.php:1181
-#: websitescan/class-wsc-scanner.php:1190
-#: websitescan/class-wsc-scanner.php:1199
+#: websitescan/class-wsc-scanner.php:1177
+#: websitescan/class-wsc-scanner.php:1186
+#: websitescan/class-wsc-scanner.php:1195
 msgid "If you’re showing ads on your website it’s likely you need a Google certified CMP to make sure your ads are shown correctly. With Complianz you can <a target=\"_blank\" href=\"{admin_url}\">enable TCF</a> with our Google certified CMP."
+msgstr ""
+
+#: settings/build/1439.6695daea713e4e927dbd.js:1
+msgid "Ignore"
 msgstr ""
 
 #: pro/processing-agreements/BR/questions.php:271
@@ -3363,7 +4074,17 @@ msgstr "I hvilket register over virksomheder, foreninger, partnerskaber eller ko
 msgid "Inactive"
 msgstr "Inaktiv"
 
-#: config/countries.php:263
+#: settings/build/2980.bcae0257d70db5deed1f.js:1
+#: settings/build/6281.29b489855c47c8fa384d.js:1
+msgid "Incomplete"
+msgstr ""
+
+#: settings/build/3785.cddaa70cf494e33855b0.js:1
+#: settings/build/6281.29b489855c47c8fa384d.js:1
+msgid "Incorrect extension"
+msgstr ""
+
+#: config/countries.php:258
 msgid "India"
 msgstr "Indien"
 
@@ -3371,7 +4092,7 @@ msgstr "Indien"
 msgid "Indicate for what purpose personal data is processed via your website:"
 msgstr "Angiv til hvilket formål personlige data behandles via dit websted:"
 
-#: config/countries.php:264
+#: config/countries.php:259
 msgid "Indonesia"
 msgstr "Indonesien"
 
@@ -3413,12 +4134,12 @@ msgstr "Information Regulator"
 #: settings/build/2397.ef27c5b02f4c5dd61711.js:1
 #: settings/build/3424.4e8f9a1912780b76b7ea.js:1
 #: settings/build/4186.e705512d139f60fbc9c1.js:1
-#: settings/build/4570.76dcf7267af80a785acb.js:1
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
 #: settings/build/5664.efa40f92c92c0aecadb4.js:1
 #: settings/build/6231.39308b683483ef2a1176.js:1
 #: settings/build/7338.425f8db82ab0c7784070.js:1
 #: settings/build/8447.9685d8b5aee1675df773.js:1
-#: settings/build/8596.2c253cf399d8f84c2746.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
 #: settings/build/8772.d79f5c48e62ccbfa7772.js:1
 #: settings/build/9056.cad63930d05414427a70.js:1
 #: settings/build/9487.e36e1ed4df8b9cfcb7e5.js:1
@@ -3431,6 +4152,21 @@ msgstr "Installer"
 msgid "Install %sManually%s."
 msgstr "Installer %sManually%s."
 
+#: settings/build/120.0a4856ee34143f33d913.js:1
+#: settings/build/1677.86c36f078e0b19e9d573.js:1
+#: settings/build/2113.a4209111c3cd8cff25f3.js:1
+#: settings/build/2299.004e0d91cb69c61a3c6c.js:1
+#: settings/build/2397.ef27c5b02f4c5dd61711.js:1
+#: settings/build/3424.4e8f9a1912780b76b7ea.js:1
+#: settings/build/5664.efa40f92c92c0aecadb4.js:1
+#: settings/build/6231.39308b683483ef2a1176.js:1
+#: settings/build/8447.9685d8b5aee1675df773.js:1
+#: settings/build/8772.d79f5c48e62ccbfa7772.js:1
+#: settings/build/9056.cad63930d05414427a70.js:1
+#: settings/build/9877.1db72bd3e9a976e5e467.js:1
+msgid "Install quickly for free"
+msgstr ""
+
 #: upgrade/upgrade-to-pro.php:233
 #, fuzzy
 msgid "Installation finished"
@@ -3438,8 +4174,8 @@ msgstr "Installationen er færdig"
 
 #: upgrade/upgrade-to-pro.php:190
 #: settings/build/4186.e705512d139f60fbc9c1.js:1
-#: settings/build/4570.76dcf7267af80a785acb.js:1
-#: settings/build/8596.2c253cf399d8f84c2746.js:1
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
 #: settings/build/9487.e36e1ed4df8b9cfcb7e5.js:1
 msgid "Installed"
 msgstr "Installeret"
@@ -3449,10 +4185,32 @@ msgstr "Installeret"
 msgid "Installing"
 msgstr "Installerer plugin: %s"
 
+#: settings/build/120.0a4856ee34143f33d913.js:1
+#: settings/build/1677.86c36f078e0b19e9d573.js:1
+#: settings/build/2113.a4209111c3cd8cff25f3.js:1
+#: settings/build/2299.004e0d91cb69c61a3c6c.js:1
+#: settings/build/2397.ef27c5b02f4c5dd61711.js:1
+#: settings/build/3424.4e8f9a1912780b76b7ea.js:1
+#: settings/build/5664.efa40f92c92c0aecadb4.js:1
+#: settings/build/6231.39308b683483ef2a1176.js:1
+#: settings/build/8447.9685d8b5aee1675df773.js:1
+#: settings/build/8772.d79f5c48e62ccbfa7772.js:1
+#: settings/build/9056.cad63930d05414427a70.js:1
+#: settings/build/9877.1db72bd3e9a976e5e467.js:1
+msgid "Installing ..."
+msgstr ""
+
 #: upgrade/upgrade-to-pro.php:102
 #, fuzzy
 msgid "Installing plugin..."
 msgstr "Installation af plugin..."
+
+#: settings/build/11.b2eb97694c1948a6884e.js:1
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
+#: settings/build/4644.e14f5e28eb94b8e242e7.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
+msgid "Instructions"
+msgstr ""
 
 #: config/purpose.php:35
 msgid "Insurance policy number"
@@ -3505,15 +4263,15 @@ msgstr "IP adresse"
 msgid "IP addresses are anonymized or let Complianz do this for me."
 msgstr "IP-adresser anonymiseres, eller lad Complianz gøre det for mig."
 
-#: config/countries.php:265
+#: config/countries.php:260
 msgid "Iran, Islamic Republic Of"
 msgstr "Iran, Islamiske Republik"
 
-#: config/countries.php:266
+#: config/countries.php:261
 msgid "Iraq"
 msgstr "Irak"
 
-#: config/countries.php:267
+#: config/countries.php:262
 msgid "Ireland"
 msgstr "Irland"
 
@@ -3533,7 +4291,7 @@ msgstr "Er dit websted designet til at tiltrække børn, og/eller er det din hen
 msgid "Is your website included in a COPPA Safe Harbor Certification Program?"
 msgstr "Er dit websted inkluderet i et COPPA Safe Harbor-certificeringsprogram?"
 
-#: config/countries.php:268
+#: config/countries.php:263
 msgid "Isle Of Man"
 msgstr "Isle Of Man"
 
@@ -3552,7 +4310,7 @@ msgstr "ISO27001/27002-certificering"
 msgid "ISO27001/27002 certified"
 msgstr "ISO27001/27002 certificeret"
 
-#: config/countries.php:269
+#: config/countries.php:264
 msgid "Israel"
 msgstr "Israel"
 
@@ -3662,28 +4420,28 @@ msgstr "Det er muligt at bruge regionsomdirigering, når GEO IP er aktiveret, og
 msgid "It's recommended to let Complianz handle the statistics script. This way, the plugin can detect if it needs to be hooked into the cookie consent code or not. But if you have set it up yourself and don't want to change this, you can choose to do so."
 msgstr "Det anbefales at lade Complianz håndtere statistikscriptet. På denne måde kan plugin registrere, om det skal kobles til cookie-tilladelseskoden eller ej. Men hvis du selv har konfigureret det og ikke ønsker at ændre dette, kan du vælge at gøre det"
 
-#: config/countries.php:422
+#: config/countries.php:417
 msgid "Italian"
 msgstr "Italiensk"
 
-#: config/countries.php:270
+#: config/countries.php:265
 msgid "Italy"
 msgstr "Italien"
 
-#: config/countries.php:271
+#: config/countries.php:266
 msgid "Jamaica"
 msgstr "Jamaica"
 
-#: config/countries.php:272
+#: config/countries.php:267
 msgid "Japan"
 msgstr "Japan"
 
-#: config/warnings.php:166
+#: config/warnings.php:172
 #, fuzzy
 msgid "JavaScript errors are detected on the front-end of your site. This may break the consent banner functionality."
 msgstr "Der er registreret Javascript-fejl på forsiden af dit websted. Dette kan ødelægge samtykkebannerets funktionalitet."
 
-#: config/countries.php:273
+#: config/countries.php:268
 msgid "Jersey"
 msgstr "Jersey"
 
@@ -3697,48 +4455,73 @@ msgstr "Jersey"
 msgid "Job applicants"
 msgstr "Ansøgere"
 
-#: config/countries.php:274
+#: config/countries.php:269
 msgid "Jordan"
 msgstr "Jordan"
 
-#: config/countries.php:275
+#: config/countries.php:270
 msgid "Kazakhstan"
 msgstr "Kasakhstan"
 
-#: config/countries.php:276
+#: config/countries.php:271
 msgid "Kenya"
 msgstr "Kenya"
 
-#: config/countries.php:277
+#: config/countries.php:272
 msgid "Kiribati"
 msgstr "Kiribati"
 
-#: config/countries.php:278
+#: config/countries.php:273
 msgid "Korea"
 msgstr "Korea"
 
-#: config/countries.php:279
+#: config/countries.php:274
 msgid "Kuwait"
 msgstr "Kuwait"
 
-#: config/countries.php:280
+#: config/countries.php:275
 msgid "Kyrgyzstan"
 msgstr "Kirgisistan"
 
-#: config/countries.php:281
+#: config/countries.php:276
 msgid "Lao People's Democratic Republic"
 msgstr "Laos - folks demokratiske republik"
 
-#: config/warnings.php:167
+#: settings/build/5279.c517d2a887674cc96d3e.js:1
+#: settings/build/7660.b74cc9456ebebac23ba3.js:1
+msgid "Last 30 days"
+msgstr ""
+
+#: settings/build/5279.c517d2a887674cc96d3e.js:1
+#: settings/build/7660.b74cc9456ebebac23ba3.js:1
+msgid "Last 7 days"
+msgstr ""
+
+#: settings/build/5279.c517d2a887674cc96d3e.js:1
+#: settings/build/7660.b74cc9456ebebac23ba3.js:1
+msgid "Last 90 days"
+msgstr ""
+
+#: config/warnings.php:173
 msgid "Last error in the console:"
 msgstr "Sidste fejl i konsollen:"
 
-#: config/warnings.php:82
+#: settings/build/5279.c517d2a887674cc96d3e.js:1
+#: settings/build/7660.b74cc9456ebebac23ba3.js:1
+msgid "Last month"
+msgstr ""
+
+#: config/warnings.php:88
 #, fuzzy
 msgid "Last site scan completed on %s."
 msgstr "Sidste scanning af stedet blev afsluttet på %s."
 
-#: config/countries.php:282
+#: settings/build/5279.c517d2a887674cc96d3e.js:1
+#: settings/build/7660.b74cc9456ebebac23ba3.js:1
+msgid "Last year"
+msgstr ""
+
+#: config/countries.php:277
 msgid "Latvia"
 msgstr "Letland"
 
@@ -3756,7 +4539,12 @@ msgstr "Leads"
 msgid "Learn more"
 msgstr "Lær mere"
 
-#: config/warnings.php:258
+#: settings/build/11.b2eb97694c1948a6884e.js:1
+#: settings/build/4644.e14f5e28eb94b8e242e7.js:1
+msgid "Learn more about %sPremium%s"
+msgstr ""
+
+#: config/warnings.php:264
 #, fuzzy
 msgid "Learn more about Google Consent Mode V2."
 msgstr "Få mere at vide om Google Consent Mode."
@@ -3789,15 +4577,21 @@ msgstr "Lad det være tomt, hvis det ikke er relevant"
 msgid "Leave empty if the above is not applicable"
 msgstr "Lad det være tomt, hvis ovenstående ikke er relevant"
 
-#: config/countries.php:283
+#: config/countries.php:278
 msgid "Lebanon"
 msgstr "Libanon"
+
+#: settings/build/1370.789309e842e46205637a.js:1
+#: settings/build/3549.6a0d39e0d226ff703055.js:1
+#: settings/build/6009.b758b7af5d8f29119d4a.js:1
+msgid "Left"
+msgstr ""
 
 #: pro/tcf/templates/vendor.php:13
 msgid "Legal bases"
 msgstr "Juridisk grundlag"
 
-#: config/warnings.php:250
+#: config/warnings.php:256
 #, fuzzy
 msgid "Legal compliance for webshops."
 msgstr "Legal compliance for webshops."
@@ -4007,6 +4801,10 @@ msgstr "Hjemmeside"
 msgctxt "Legal document"
 msgid "You can access these rules and regulations here:"
 msgstr "Du kan få adgang til disse regler og bestemmelser her:"
+
+#: gutenberg/build/index.js:1
+msgid "Legal document - Complianz"
+msgstr ""
 
 #: config/documents/cookie-policy-br.php:14
 #: config/documents/cookie-policy-ca.php:19
@@ -7478,9 +8276,13 @@ msgstr "Juridisk hub"
 msgid "Legitimate Interest"
 msgstr "Legitim interesse"
 
-#: config/countries.php:284
+#: config/countries.php:279
 msgid "Lesotho"
 msgstr "Lesotho"
+
+#: settings/build/8525.14c3539f3bb65689f4cf.js:1
+msgid "Let's start the Wizard"
+msgstr ""
 
 #: pro/settings/fields/security-consent.php:56
 #: settings/config/fields/tools/security.php:14
@@ -7496,11 +8298,11 @@ msgstr "LGPD"
 msgid "Liability"
 msgstr "Ansvar"
 
-#: config/countries.php:285
+#: config/countries.php:280
 msgid "Liberia"
 msgstr "Liberia"
 
-#: config/countries.php:286
+#: config/countries.php:281
 msgid "Libyan Arab Jamahiriya"
 msgstr "Libyan Arab Jamahiriya"
 
@@ -7519,7 +8321,7 @@ msgstr "Licens ugyldig"
 msgid "License valid"
 msgstr "Gyldig licens"
 
-#: config/countries.php:287
+#: config/countries.php:282
 msgid "Liechtenstein"
 msgstr "Liechtenstein"
 
@@ -7552,13 +8354,34 @@ msgstr "Aftale om begrænset serviceudbyder (LSPA)"
 msgid "Limited: only with Processors/Service Providers that are necessary for the fulfillment of my service"
 msgstr "Begrænset: kun med tjenesteudbydere, der er nødvendige for opfyldelsen af ​​min service"
 
+#: settings/build/8358.16bba8007f9033303a0d.js:1
+msgid "Link to custom page"
+msgstr ""
+
 #: settings/config/menu.php:163
 msgid "Link to menu"
 msgstr "Link til menu"
 
-#: config/countries.php:288
+#: settings/build/1370.789309e842e46205637a.js:1
+msgid "Link values together"
+msgstr ""
+
+#: config/countries.php:283
 msgid "Lithuania"
 msgstr "Litauen"
+
+#: gutenberg/build/index.js:1
+#: settings/build/5175.40650358aeec2c431639.js:1
+#: settings/build/6946.5bd434ec4ef0894d67b2.js:1
+#: settings/build/8358.16bba8007f9033303a0d.js:1
+msgid "Loading..."
+msgstr ""
+
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+#: settings/build/6729.19c8d571a3e5c3f29966.js:1
+#: settings/build/7102.d63e14ead73195579256.js:1
+msgid "Logged in users only, ignored"
+msgstr ""
 
 #: pro/settings/fields/security-consent.php:80
 msgid "Login Security"
@@ -7568,35 +8391,35 @@ msgstr "Log ind sikkerhed"
 msgid "Logo"
 msgstr "Logo"
 
-#: config/countries.php:289
+#: config/countries.php:284
 msgid "Luxembourg"
 msgstr "Luxembourg"
 
-#: config/countries.php:290
+#: config/countries.php:285
 msgid "Macao"
 msgstr "Macao"
 
-#: config/countries.php:292
+#: config/countries.php:287
 msgid "Madagascar"
 msgstr "Madagaskar"
 
-#: config/countries.php:293
+#: config/countries.php:288
 msgid "Malawi"
 msgstr "Malawi"
 
-#: config/countries.php:294
+#: config/countries.php:289
 msgid "Malaysia"
 msgstr "Malaysia"
 
-#: config/countries.php:295
+#: config/countries.php:290
 msgid "Maldives"
 msgstr "Maldiverne"
 
-#: config/countries.php:296
+#: config/countries.php:291
 msgid "Mali"
 msgstr "Mali"
 
-#: config/countries.php:297
+#: config/countries.php:292
 msgid "Malta"
 msgstr "Malta"
 
@@ -7657,6 +8480,10 @@ msgstr "Administrer dit privatliv"
 msgid "Marital status"
 msgstr "Civilstand"
 
+#: settings/build/1624.f334c63a8a8658dfd8c3.js:1
+msgid "Mark as resolved"
+msgstr ""
+
 #: cookiebanner/class-cookiebanner.php:844
 #: cookiebanner/settings.php:1001
 #: cookiebanner/settings.php:1002
@@ -7677,23 +8504,23 @@ msgstr "Marketing"
 msgid "Marketing description"
 msgstr "Beskrivelse af markedsføring"
 
-#: config/countries.php:298
+#: config/countries.php:293
 msgid "Marshall Islands"
 msgstr "Marshalløerne"
 
-#: config/countries.php:299
+#: config/countries.php:294
 msgid "Martinique"
 msgstr "Martinique"
 
-#: config/warnings.php:128
+#: config/warnings.php:134
 msgid "Matomo is being used, but is not configured in Complianz."
 msgstr "Matomo bruges, men er ikke konfigureret i Complianz."
 
-#: config/countries.php:300
+#: config/countries.php:295
 msgid "Mauritania"
 msgstr "Mauritanien"
 
-#: config/countries.php:301
+#: config/countries.php:296
 msgid "Mauritius"
 msgstr "Mauritius"
 
@@ -7705,7 +8532,7 @@ msgstr "Maksimal udløbsdato for cookies:"
 msgid "Maybe later"
 msgstr "Måske senere"
 
-#: config/countries.php:302
+#: config/countries.php:297
 msgid "Mayotte"
 msgstr "Mayotte"
 
@@ -7738,15 +8565,24 @@ msgstr "Medicinsk information"
 msgid "Members"
 msgstr "Medlemmer"
 
-#: config/countries.php:303
+#: settings/build/11.b2eb97694c1948a6884e.js:1
+#: settings/build/2302.2ba02269d1bab7189b36.js:1
+#: settings/build/3737.09a00f17575a8f07a4b4.js:1
+#: settings/build/5193.36f7ad16867d52c6e417.js:1
+#: settings/build/7771.e02ee81de473e3a1d5a9.js:1
+#: settings/build/9709.781936e00f4b80cef590.js:1
+msgid "Menu saved"
+msgstr ""
+
+#: config/countries.php:298
 msgid "Mexico"
 msgstr "Mexico"
 
-#: config/countries.php:304
+#: config/countries.php:299
 msgid "Micronesia, Federated States Of"
 msgstr "Mikronesien"
 
-#: config/warnings.php:15
+#: config/warnings.php:21
 #, fuzzy
 msgid "Migrate.js, which allowed a smooth upgrade to 6.0, has been deprecated."
 msgstr "Migrate.js, som muliggjorde en problemfri opgradering til 6.0, er udgået."
@@ -7760,44 +8596,79 @@ msgstr "Diverse"
 msgid "Missing any settings? We have moved settings to Tools, available in the menu."
 msgstr "Mangler du nogle indstillinger? Vi har flyttet indstillingerne til Værktøjer, som findes i menuen."
 
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
+#: settings/build/9567.d5a7562fd09f42de8429.js:1
+msgid "Missing document"
+msgstr ""
+
 #: upgrade/upgrade-to-pro.php:567
 #, fuzzy
 msgid "Missing license."
 msgstr "Mangler licens."
 
+#: settings/build/120.0a4856ee34143f33d913.js:1
+#: settings/build/1677.86c36f078e0b19e9d573.js:1
+#: settings/build/2113.a4209111c3cd8cff25f3.js:1
+#: settings/build/2299.004e0d91cb69c61a3c6c.js:1
+#: settings/build/2397.ef27c5b02f4c5dd61711.js:1
+#: settings/build/3424.4e8f9a1912780b76b7ea.js:1
+#: settings/build/5664.efa40f92c92c0aecadb4.js:1
+#: settings/build/6231.39308b683483ef2a1176.js:1
+#: settings/build/8447.9685d8b5aee1675df773.js:1
+#: settings/build/8772.d79f5c48e62ccbfa7772.js:1
+#: settings/build/9056.cad63930d05414427a70.js:1
+#: settings/build/9877.1db72bd3e9a976e5e467.js:1
+msgid "Missing Terms & Conditions? Generate now"
+msgstr ""
+
 #: websitescan/class-wsc-notices.php:42
 msgid "Missing token"
 msgstr ""
 
-#: config/countries.php:305
+#: config/countries.php:300
 msgid "Moldova"
 msgstr "Moldova"
 
-#: config/countries.php:306
+#: config/countries.php:301
 msgid "Monaco"
 msgstr "Monaco"
 
-#: config/countries.php:307
+#: config/countries.php:302
 msgid "Mongolia"
 msgstr "Mongoliet"
 
-#: config/countries.php:146
+#: config/countries.php:144
 msgid "Montana (MCDPA)"
 msgstr ""
 
-#: config/countries.php:308
+#: config/countries.php:303
 msgid "Montenegro"
 msgstr "Montenegro"
 
-#: config/countries.php:309
+#: config/countries.php:304
 msgid "Montserrat"
 msgstr "Montserrat"
 
-#: config/countries.php:310
+#: settings/build/11.b2eb97694c1948a6884e.js:1
+#: settings/build/625.f116ad1baf4492628bfa.js:1
+#: settings/build/3407.0771c9f9733a2fca0117.js:1
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
+#: settings/build/5035.7278ed43f873ee74a6a1.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
+#: settings/build/9684.b0fe68441739b589b1d0.js:1
+msgid "More info"
+msgstr ""
+
+#: settings/build/index.8b8c3b6249ec4e641ef3.js:1
+msgid "More information"
+msgstr ""
+
+#: config/countries.php:305
 msgid "Morocco"
 msgstr "Marokko"
 
-#: config/countries.php:311
+#: config/countries.php:306
 msgid "Mozambique"
 msgstr "Mozambique"
 
@@ -7845,9 +8716,9 @@ msgid "Multiple Regions"
 msgstr "Flere regioner"
 
 #: settings/config/menu.php:486
-#: settings/build/4570.76dcf7267af80a785acb.js:1
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
 #: settings/build/6644.2ea25b710cb1cc5b721b.js:1
-#: settings/build/8596.2c253cf399d8f84c2746.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
 msgid "Multisite"
 msgstr "Multiwebsted"
 
@@ -7856,7 +8727,7 @@ msgstr "Multiwebsted"
 msgid "Multisite options"
 msgstr "Muligheder for flere websteder"
 
-#: config/countries.php:312
+#: config/countries.php:307
 msgid "Myanmar"
 msgstr "Myanmar"
 
@@ -7919,7 +8790,7 @@ msgstr "Angiv den juridiske stillingsbetegnelse"
 msgid "Name UK DPO"
 msgstr "Navn UK DPO"
 
-#: config/countries.php:313
+#: config/countries.php:308
 msgid "Namibia"
 msgstr "Namibia"
 
@@ -7927,7 +8798,7 @@ msgstr "Namibia"
 msgid "National Data Protection Authority"
 msgstr "Den nationale myndighed for databeskyttelse"
 
-#: config/countries.php:314
+#: config/countries.php:309
 msgid "Nauru"
 msgstr "Nauru"
 
@@ -7935,23 +8806,27 @@ msgstr "Nauru"
 msgid "Necessary retention period in months after completion:"
 msgstr "Nødvendig tilbageholdelsesperiode i måneder efter afslutningen:"
 
-#: config/countries.php:315
+#: config/countries.php:310
 msgid "Nepal"
 msgstr "Nepal"
 
-#: config/countries.php:316
+#: config/countries.php:311
 msgid "Netherlands"
 msgstr "Holland"
 
-#: config/countries.php:317
+#: config/countries.php:312
 msgid "Netherlands Antilles"
 msgstr "De Hollanske Antiller"
 
-#: config/countries.php:148
+#: config/countries.php:145
 msgid "Nevada (NRS 603A)"
 msgstr ""
 
-#: config/countries.php:318
+#: settings/build/index.8b8c3b6249ec4e641ef3.js:1
+msgid "New"
+msgstr ""
+
+#: config/countries.php:313
 msgid "New Caledonia"
 msgstr "Ny Kaledonien"
 
@@ -7960,7 +8835,20 @@ msgstr "Ny Kaledonien"
 msgid "New cookie"
 msgstr "Ny cookie"
 
-#: config/countries.php:319
+#: settings/build/5175.40650358aeec2c431639.js:1
+msgid "New processor"
+msgstr ""
+
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+#: settings/build/6729.19c8d571a3e5c3f29966.js:1
+msgid "New Service"
+msgstr ""
+
+#: settings/build/3582.4ef59d70f2713cd2367f.js:1
+msgid "New Third Party"
+msgstr ""
+
+#: config/countries.php:314
 msgid "New Zealand"
 msgstr "New Zealand"
 
@@ -7968,19 +8856,25 @@ msgstr "New Zealand"
 msgid "Newsletters"
 msgstr "Nyhedsbreve"
 
-#: config/countries.php:320
+#: settings/build/2980.bcae0257d70db5deed1f.js:1
+#: settings/build/6281.29b489855c47c8fa384d.js:1
+#: settings/build/8525.14c3539f3bb65689f4cf.js:1
+msgid "Next"
+msgstr ""
+
+#: config/countries.php:315
 msgid "Nicaragua"
 msgstr "Nicaragua"
 
-#: config/countries.php:321
+#: config/countries.php:316
 msgid "Niger"
 msgstr "Niger"
 
-#: config/countries.php:322
+#: config/countries.php:317
 msgid "Nigeria"
 msgstr "Nigeria"
 
-#: config/countries.php:323
+#: config/countries.php:318
 msgid "Niue"
 msgstr "Niue"
 
@@ -7997,10 +8891,13 @@ msgstr "Niue"
 #: settings/config/fields/wizard/consent.php:257
 #: settings/config/fields/wizard/consent.php:282
 #: settings/config/fields/wizard/consent.php:306
-#: settings/config/fields/wizard/consent.php:400
 #: settings/config/fields/wizard/services.php:89
 msgid "No"
 msgstr "Nej"
+
+#: settings/build/93.6b28b2755513e51411ca.js:1
+msgid "No active plugins detected in the integrations list."
+msgstr ""
 
 #: pro/filters-actions.php:200
 msgid "No changes in plugin privacy policies have been detected."
@@ -8012,9 +8909,28 @@ msgstr "Der er ikke registreret nogen ændringer i plugin-privatlivspolitikker."
 msgid "No Choice"
 msgstr "Intet valg"
 
-#: config/warnings.php:74
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
+#: settings/build/6644.2ea25b710cb1cc5b721b.js:1
+#: settings/build/8084.e00a3bed786d7e7382bc.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
+msgid "No Consent"
+msgstr ""
+
+#: config/warnings.php:80
 msgid "No cookie changes have been detected."
 msgstr "Der er ikke fundet nogen cookieændringer."
+
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+msgid "No cookies found"
+msgstr ""
+
+#: settings/build/626.f480d314fd8dc7b49342.js:1
+msgid "No cookies found on your domain yet."
+msgstr ""
+
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+msgid "No cookies have been found currently. Please try another site scan, or check the most common causes in the article below "
+msgstr ""
 
 #: pro/statistics/class-admin-statistics.php:347
 msgid "No data for this selection"
@@ -8025,16 +8941,83 @@ msgstr "Ingen data for dette valg"
 msgid "No data reported by WordPress"
 msgstr "Ingen data rapporteret af WordPress"
 
+#: settings/build/3068.09f0fbdb62122f907b91.js:1
+#: settings/build/7234.f41964069d02c6bac205.js:1
+#: settings/build/8550.dbd370965126fb42424d.js:1
+msgid "No documents"
+msgstr ""
+
+#: gutenberg/build/index.js:1
+msgid "No documents found. Please finish the Complianz Privacy Suite wizard to generate documents"
+msgstr ""
+
+#: settings/build/277.9f4b8cfa8027e741e0d8.js:1
+msgid "No logo found. Please add a logo in the customizer."
+msgstr ""
+
+#: settings/build/2302.2ba02269d1bab7189b36.js:1
+msgid "No menus found."
+msgstr ""
+
+#: settings/build/2302.2ba02269d1bab7189b36.js:1
+msgid "No menus were found. Skip this step, or create a menu first."
+msgstr ""
+
+#: settings/build/847.4bde3074815e0711ce39.js:1
+#: settings/build/1137.9116d7ed316d827154ca.js:1
+#: settings/build/1366.41d2c2abc28493f99575.js:1
+#: settings/build/1624.f334c63a8a8658dfd8c3.js:1
+#: settings/build/3068.09f0fbdb62122f907b91.js:1
+#: settings/build/3078.7547fadc99516cff6788.js:1
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+#: settings/build/6729.19c8d571a3e5c3f29966.js:1
+#: settings/build/7102.d63e14ead73195579256.js:1
+#: settings/build/7234.f41964069d02c6bac205.js:1
+#: settings/build/8033.d3664861651654e3f429.js:1
+#: settings/build/8550.dbd370965126fb42424d.js:1
+#: settings/build/9736.56fe89f91f29aa1ca845.js:1
+msgid "No options found"
+msgstr ""
+
+#: settings/build/93.6b28b2755513e51411ca.js:1
+msgid "No plugins"
+msgstr ""
+
+#: settings/build/5552.f97d0c6fb99a47d3f852.js:1
+msgid "No plugins with suggested statements found."
+msgstr ""
+
+#: settings/build/1624.f334c63a8a8658dfd8c3.js:1
+#: settings/build/3078.7547fadc99516cff6788.js:1
+msgid "No records"
+msgstr ""
+
+#: settings/build/3430.ae31ab2c342fb4197b19.js:1
+msgid "No required documents"
+msgstr ""
+
 #: pro/settings/fields/disclaimer.php:104
 msgid "No rights reserved"
 msgstr "Ingen rettigheder forbeholdt"
 
-#: config/warnings.php:83
+#: settings/build/3370.37da042d3978ff55958d.js:1
+msgid "No script errors detected"
+msgstr ""
+
+#: settings/build/5575.d4ac6be3f5cf68515e9c.js:1
+msgid "No security measures enabled in Really Simple Security"
+msgstr ""
+
+#: settings/build/5023.862a204cea176a4c5d91.js:1
+msgid "No services"
+msgstr ""
+
+#: config/warnings.php:89
 #, fuzzy
 msgid "No site scan has been completed yet."
 msgstr "Der er endnu ikke gennemført en scanning af stedet."
 
-#: documents/class-document.php:2104
+#: documents/class-document.php:2089
 msgid "No title"
 msgstr "Ingen titel"
 
@@ -8080,6 +9063,21 @@ msgstr "Nej, behandling uden for De Forenede Stater er ikke tilladt."
 msgid "No, provide a general explanation"
 msgstr "Nej, giv en generel forklaring"
 
+#: settings/build/120.0a4856ee34143f33d913.js:1
+#: settings/build/1677.86c36f078e0b19e9d573.js:1
+#: settings/build/2113.a4209111c3cd8cff25f3.js:1
+#: settings/build/2299.004e0d91cb69c61a3c6c.js:1
+#: settings/build/2397.ef27c5b02f4c5dd61711.js:1
+#: settings/build/3424.4e8f9a1912780b76b7ea.js:1
+#: settings/build/5664.efa40f92c92c0aecadb4.js:1
+#: settings/build/6231.39308b683483ef2a1176.js:1
+#: settings/build/8447.9685d8b5aee1675df773.js:1
+#: settings/build/8772.d79f5c48e62ccbfa7772.js:1
+#: settings/build/9056.cad63930d05414427a70.js:1
+#: settings/build/9877.1db72bd3e9a976e5e467.js:1
+msgid "No, Thanks"
+msgstr ""
+
 #: pro/tcf/templates/vendor.php:34
 msgid "Non-cookie storage and access:"
 msgstr "Opbevaring af og adgang til ikke-cookies:"
@@ -8101,27 +9099,41 @@ msgstr "Ingen"
 msgid "None of the above"
 msgstr "Ingen af de ovenstående"
 
-#: config/countries.php:324
+#: config/countries.php:319
 msgid "Norfolk Island"
 msgstr "Norfolk Island"
 
-#: config/countries.php:291
+#: config/countries.php:286
 msgid "North Macedonia"
 msgstr "Nordlige Makedonien"
 
-#: config/countries.php:325
+#: config/countries.php:320
 msgid "Northern Mariana Islands"
 msgstr "Nordmarianerne"
 
-#: config/countries.php:326
+#: config/countries.php:321
 msgid "Norway"
 msgstr "Norge"
 
-#: config/countries.php:424
+#: config/countries.php:419
 msgid "Norwegian"
 msgstr "Norsk"
 
-#: config/warnings.php:94
+#: settings/build/3407.0771c9f9733a2fca0117.js:1
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
+msgid "Not all fields have been entered, or you have not clicked the \"finish\" button yet."
+msgstr ""
+
+#: settings/build/2302.2ba02269d1bab7189b36.js:1
+msgid "Not all generated documents have been assigned to a menu yet, you can do this now, or skip this step and do it later."
+msgstr ""
+
+#: settings/build/2058.1832f4cf65b8f9297b34.js:1
+msgid "Not all required fields are completed yet."
+msgstr ""
+
+#: config/warnings.php:100
 msgid "Not all required pages have been generated."
 msgstr "Ikke alle de krævede sider er blevet genereret."
 
@@ -8139,9 +9151,19 @@ msgstr "Overholder ikke kontrakten om behandlingsdata."
 msgid "Not declared"
 msgstr "Ikke deklareret"
 
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
+#: settings/build/9567.d5a7562fd09f42de8429.js:1
+msgid "Not enabled"
+msgstr ""
+
 #: functions.php:425
 msgid "Not found"
 msgstr "Ikke fundet"
+
+#: settings/build/5575.d4ac6be3f5cf68515e9c.js:1
+msgid "Not installed"
+msgstr ""
 
 #: pro/settings/fields/disclaimer.php:20
 msgid "Not liable for third-party content"
@@ -8173,12 +9195,16 @@ msgstr "Emne for anmeldelse af e-mail"
 msgid "Notification sender email address"
 msgstr "E-mail-adresse til underretning af afsender"
 
+#: settings/build/11.b2eb97694c1948a6884e.js:1
+msgid "Notifications"
+msgstr ""
+
 #: settings/config/fields/general-settings/settings.php:63
 #, fuzzy
 msgid "Notifications by email"
 msgstr "Notifikationer via e-mail"
 
-#: config/countries.php:327
+#: config/countries.php:322
 msgid "Oman"
 msgstr "Oman"
 
@@ -8200,9 +9226,9 @@ msgstr ""
 msgid "On the consent banner the generated documents are shown. The title is based on the actual post title."
 msgstr "På samtykkebanneret vises de genererede dokumenter. Titlen er baseret på det aktuelle indlægs titel."
 
-#: websitescan/class-wsc-scanner.php:1210
-#: websitescan/class-wsc-scanner.php:1218
-#: websitescan/class-wsc-scanner.php:1226
+#: websitescan/class-wsc-scanner.php:1206
+#: websitescan/class-wsc-scanner.php:1214
+#: websitescan/class-wsc-scanner.php:1222
 msgid "On websites with multiple languages you need to consider that your visitors might be from various regions, and therefore different privacy laws might apply. Double-check and see if you’re complying with all relevant regions."
 msgstr ""
 
@@ -8262,12 +9288,23 @@ msgstr "Tilmeld"
 msgid "Opt-out"
 msgstr "Opt-out"
 
-#: settings/config/fields/wizard/consent.php:423
+#: settings/config/fields/wizard/consent.php:399
 msgid "Optional."
 msgstr ""
 
-#: config/countries.php:151
+#: config/countries.php:146
 msgid "Oregon (OCPA)"
+msgstr ""
+
+#: settings/build/3078.7547fadc99516cff6788.js:1
+msgid "Other"
+msgstr ""
+
+#: settings/build/3192.942b0c422c4d59d9ab9a.js:1
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
+#: settings/build/9567.d5a7562fd09f42de8429.js:1
+msgid "Other documents"
 msgstr ""
 
 #: config/purpose.php:55
@@ -8279,9 +9316,9 @@ msgid "Other period"
 msgstr "Anden periode"
 
 #: settings/config/blocks.php:60
-#: settings/build/4570.76dcf7267af80a785acb.js:1
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
 #: settings/build/7907.41f268be8f018ff2341c.js:1
-#: settings/build/8596.2c253cf399d8f84c2746.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
 msgid "Other Plugins"
 msgstr "Andre plugin'er"
 
@@ -8326,27 +9363,31 @@ msgstr "Vores gratis plugin til vilkår og betingelser"
 msgid "Package information retrieved"
 msgstr "Pakkeinformation hentet"
 
-#: config/countries.php:328
+#: settings/build/2302.2ba02269d1bab7189b36.js:1
+msgid "Pages not included in a menu"
+msgstr ""
+
+#: config/countries.php:323
 msgid "Pakistan"
 msgstr "Pakistan"
 
-#: config/countries.php:329
+#: config/countries.php:324
 msgid "Palau"
 msgstr "Palau"
 
-#: config/countries.php:330
+#: config/countries.php:325
 msgid "Palestinian Territory, Occupied"
 msgstr "Palæstinsk territorium, besat"
 
-#: config/countries.php:331
+#: config/countries.php:326
 msgid "Panama"
 msgstr "Panama"
 
-#: config/countries.php:332
+#: config/countries.php:327
 msgid "Papua New Guinea"
 msgstr "Papua Ny Guinea"
 
-#: config/countries.php:333
+#: config/countries.php:328
 msgid "Paraguay"
 msgstr "Paraguay"
 
@@ -8368,6 +9409,10 @@ msgstr "Patienter"
 msgid "Payments"
 msgstr "Betalinger"
 
+#: settings/build/7489.a99ddd7d4e814299a771.js:1
+msgid "Pending"
+msgstr ""
+
 #: settings/config/fields/wizard/general.php:295
 msgid "Person who is accountable for the organization’s policies and practices and to whom complaints or inquiries can be forwarded."
 msgstr "Person, der er ansvarlig for organisationens politikker og praksis, og til hvem klager eller forespørgsler kan videresendes."
@@ -8380,11 +9425,11 @@ msgstr "Personlige data er mistet, og der er ingen up-to-date-sikkerhedskopierin
 msgid "Personal data is lost, without a recent copy or back-up."
 msgstr "Personlige data går tabt uden en nylig kopi eller sikkerhedskopi."
 
-#: config/countries.php:334
+#: config/countries.php:329
 msgid "Peru"
 msgstr "Peru"
 
-#: config/countries.php:335
+#: config/countries.php:330
 msgid "Philippines"
 msgstr "Filippinerne"
 
@@ -8434,9 +9479,18 @@ msgstr "Fysiske egenskaber eller beskrivelse"
 msgid "Physical security measures of systems which contain personal  data."
 msgstr "Fysiske sikkerhedsforanstaltninger for systemer, der indeholder personoplysninger."
 
-#: config/countries.php:336
+#: config/countries.php:331
 msgid "Pitcairn"
 msgstr "Pitcairn"
+
+#: gutenberg/build/index.js:1
+#: settings/build/93.6b28b2755513e51411ca.js:1
+#: settings/build/847.4bde3074815e0711ce39.js:1
+#: settings/build/1137.9116d7ed316d827154ca.js:1
+#: settings/build/5023.862a204cea176a4c5d91.js:1
+#: settings/build/9736.56fe89f91f29aa1ca845.js:1
+msgid "Placeholder"
+msgstr ""
 
 #: settings/config/menu.php:317
 #, fuzzy
@@ -8450,8 +9504,8 @@ msgstr "Stil med pladsholder"
 #: settings/config/fields/wizard/services.php:49
 #: settings/config/menu.php:313
 #: settings/build/3971.4fe14b1fac76d66e143a.js:1
-#: settings/build/4570.76dcf7267af80a785acb.js:1
-#: settings/build/8596.2c253cf399d8f84c2746.js:1
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
 msgid "Placeholders"
 msgstr "Pladsholdere"
 
@@ -8463,6 +9517,10 @@ msgstr "Accepter venligst cookies, så vi kan validere din anmodning med reCaptc
 msgid "Please accept marketing cookies to enable this form"
 msgstr "Accepter venligst marketing-cookies for at aktivere denne formular"
 
+#: settings/build/5575.d4ac6be3f5cf68515e9c.js:1
+msgid "Please activate Really Simple Security to unlock this feature."
+msgstr ""
+
 #: pro/class-licensing.php:710
 msgid "Please activate your license key."
 msgstr "Aktiver licensnøglen."
@@ -8472,7 +9530,11 @@ msgstr "Aktiver licensnøglen."
 msgid "Please be aware that this will activate opt-in for Canada, altering the banner and blocking non-functional scripts and cookies prior to consent. Please check the front-end of your site after activating opt-in."
 msgstr "Vær opmærksom på, at dette vil aktivere opt-in for Canada, ændre banneret og blokere ikke-funktionelle scripts og cookies før samtykke. Tjek venligst front-end på dit websted efter aktivering af opt-in."
 
-#: config/warnings.php:45
+#: settings/build/index.8b8c3b6249ec4e641ef3.js:1
+msgid "Please check if security settings on the server or a plugin is blocking the requests from Complianz."
+msgstr ""
+
+#: config/warnings.php:51
 #, fuzzy
 msgid "Please check if your REST API is loading correctly. Your site currently is using the slower Ajax fallback method to load the settings."
 msgstr "Tjek venligst, om din REST API indlæses korrekt. Dit websted bruger i øjeblikket den langsommere Ajax fallback-metode til at indlæse indstillingerne."
@@ -8487,9 +9549,17 @@ msgstr "Tjek venligst dataanmodningen på %s"
 msgid "Please check the data requests <a href=\"%s\">overview page</a>."
 msgstr "Se <a href=\"%s\">oversigtssiden</a> for dataanmodninger."
 
+#: settings/build/2058.1832f4cf65b8f9297b34.js:1
+msgid "Please check the wizard to complete all required questions."
+msgstr ""
+
 #: pro/class-licensing.php:231
 msgid "Please check your license status."
 msgstr "Kontroller venligst din licensstatus."
+
+#: settings/build/2058.1832f4cf65b8f9297b34.js:1
+msgid "Please check your website after finishing the wizard to verify that your configuration is working properly."
+msgstr ""
 
 #: pro/settings/fields/sharing-of-data.php:44
 msgid "Please describe the circumstances under which that is being done."
@@ -8499,12 +9569,28 @@ msgstr "Beskriv venligst de omstændigheder, hvorunder dette sker."
 msgid "Please enable auto updates for Complianz. This is mandatory when TCF is active, to be able to quickly adapt to new requirements by the IAB."
 msgstr "Aktiver venligst automatiske opdateringer for Complianz. Dette er obligatorisk, når TCF er aktiv, for at kunne tilpasse sig hurtigt til nye krav fra IAB."
 
+#: settings/build/index.8b8c3b6249ec4e641ef3.js:1
+msgid "Please enter a valid email address"
+msgstr ""
+
 #: DNSMPD/class-DNSMPD.php:199
 #: settings/build/120.0a4856ee34143f33d913.js:1
 #: settings/build/8447.9685d8b5aee1675df773.js:1
 #: settings/build/9877.1db72bd3e9a976e5e467.js:1
 msgid "Please enter a valid email address."
 msgstr "Indtast venligst en gyldig e-mailadresse."
+
+#: settings/build/index.8b8c3b6249ec4e641ef3.js:1
+msgid "Please enter a valid number"
+msgstr ""
+
+#: settings/build/index.8b8c3b6249ec4e641ef3.js:1
+msgid "Please enter a valid phone number"
+msgstr ""
+
+#: settings/build/index.8b8c3b6249ec4e641ef3.js:1
+msgid "Please enter a valid URL"
+msgstr ""
 
 #: pro/dataleak/type-2/questions.php:63
 msgid "Please enter the toll-free telephone number and addresses of the major credit reporting agencies:"
@@ -8530,6 +9616,10 @@ msgstr "Venligst skriv dit navn"
 msgid "Please include the provisions of the relevant legislation:"
 msgstr "Angiv venligst bestemmelserne i den relevante lovgivning:"
 
+#: settings/build/5575.d4ac6be3f5cf68515e9c.js:1
+msgid "Please install Really Simple Security to unlock this feature."
+msgstr ""
+
 #: settings/config/fields-notices.php:20
 msgid "Please make sure you remove your current implementation to prevent double statistics tracking."
 msgstr "Sørg for at fjerne din nuværende implementering for at forhindre sporing af dobbelt statistik."
@@ -8546,6 +9636,10 @@ msgstr "Bemærk, at du skal tilpasse disse tekster til dit websted: teksten skal
 #: pro/settings/fields-notices.php:76
 msgid "Please note: in South Africa and Brazil, Operator will be used instead of Processor."
 msgstr "Bemærk: I Sydafrika og Brasilien anvendes Operator i stedet for Processor."
+
+#: settings/build/2058.1832f4cf65b8f9297b34.js:1
+msgid "Please read the below article to debug any issues while in safe mode. Safe mode is available under settings."
+msgstr ""
 
 #: config/documents/cookie-policy-br.php:102
 #: config/documents/cookie-policy-br.php:110
@@ -8564,7 +9658,7 @@ msgstr "Læs fortrolighedserklæringen på de sociale netværk (som kan ændres 
 msgid "Please read this %sarticle%s to make sure Consent Mode is working as expected."
 msgstr ""
 
-#: config/warnings.php:64
+#: config/warnings.php:70
 #, fuzzy
 msgid "Please read this %sarticle%s to read our position on self-hosting Google Fonts and Privacy by Design."
 msgstr "Læs venligst denne %sarticle%s for at læse vores holdning til selvhosting af Google Fonts og Privacy by Design."
@@ -8583,10 +9677,22 @@ msgstr "Du bedes indberette denne hændelse til"
 msgid "Please review the Privacy Statement in the wizard."
 msgstr "Læs venligst afsnittet om privatlivspolitik i guiden."
 
-#: config/warnings.php:75
+#: config/warnings.php:81
 #, fuzzy
 msgid "Please review your cookies for changes."
 msgstr "Gennemgå venligst dine cookies for ændringer."
+
+#: settings/build/626.f480d314fd8dc7b49342.js:1
+msgid "Please run the scan with these browser options disabled."
+msgstr ""
+
+#: settings/build/5575.d4ac6be3f5cf68515e9c.js:1
+msgid "Please upgrade Really Simple Security to the latest version to unlock this feature."
+msgstr ""
+
+#: settings/build/93.6b28b2755513e51411ca.js:1
+msgid "Plugin"
+msgstr ""
 
 #: upgrade/upgrade-to-pro.php:110
 msgid "Plugin activated"
@@ -8612,7 +9718,7 @@ msgstr "Plugins"
 msgid "Plugins and themes can add their own suggested privacy paragraphs here. You can choose to add these to the Annex of your Privacy Statement."
 msgstr "Plugins og temaer kan tilføje deres egne forslag til afsnit om beskyttelse af personlige oplysninger her. Du kan vælge at tilføje dem i bilaget til din privatlivserklæring."
 
-#: config/countries.php:337
+#: config/countries.php:332
 msgid "Poland"
 msgstr "Polen"
 
@@ -8620,7 +9726,7 @@ msgstr "Polen"
 msgid "POPIA"
 msgstr "POPIA"
 
-#: config/countries.php:338
+#: config/countries.php:333
 msgid "Portugal"
 msgstr "Portugal"
 
@@ -8655,9 +9761,22 @@ msgstr "Forudfyldt felt"
 msgid "Premium"
 msgstr "Premium"
 
-#: config/warnings.php:191
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
+#: settings/build/6644.2ea25b710cb1cc5b721b.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
+msgid "Premium Support"
+msgstr ""
+
+#: config/warnings.php:197
 msgid "Pretty permalinks are not enabled on your site. This can cause issues with the REST API, used by Complianz."
 msgstr "Smukke permalinks er ikke aktiveret på dit websted. Dette kan give problemer med REST API'et, som Complianz bruger."
+
+#: settings/build/11.b2eb97694c1948a6884e.js:1
+#: settings/build/2980.bcae0257d70db5deed1f.js:1
+#: settings/build/6281.29b489855c47c8fa384d.js:1
+#: settings/build/8525.14c3539f3bb65689f4cf.js:1
+msgid "Previous"
+msgstr ""
 
 #: integrations/plugins/forminator.php:80
 #: integrations/plugins/happyforms.php:129
@@ -8668,9 +9787,9 @@ msgstr "Privatliv"
 msgid "Privacy and reference to the privacy statement"
 msgstr "Privatliv og henvisning til fortrolighedserklæringen"
 
-#: websitescan/class-wsc-scanner.php:1209
-#: websitescan/class-wsc-scanner.php:1217
-#: websitescan/class-wsc-scanner.php:1225
+#: websitescan/class-wsc-scanner.php:1205
+#: websitescan/class-wsc-scanner.php:1213
+#: websitescan/class-wsc-scanner.php:1221
 msgid "Privacy laws"
 msgstr ""
 
@@ -8689,9 +9808,9 @@ msgstr "Fortrolighedserklæring"
 msgid "Privacy Statement"
 msgstr "Fortrolighedserklæring"
 
-#: websitescan/class-wsc-scanner.php:1261
-#: websitescan/class-wsc-scanner.php:1270
-#: websitescan/class-wsc-scanner.php:1279
+#: websitescan/class-wsc-scanner.php:1257
+#: websitescan/class-wsc-scanner.php:1266
+#: websitescan/class-wsc-scanner.php:1275
 msgid "Privacy statement"
 msgstr ""
 
@@ -8755,12 +9874,17 @@ msgstr "Erklæring om beskyttelse af personlige oplysninger for børn (US)"
 msgid "Privacy Statement for Children (ZA)"
 msgstr "Erklæring om beskyttelse af personlige oplysninger for børn (ZA)"
 
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+#: settings/build/6729.19c8d571a3e5c3f29966.js:1
+msgid "Privacy Statement URL"
+msgstr ""
+
 #: pro/processing-agreements/class-processing.php:386
 #: settings/build/3192.942b0c422c4d59d9ab9a.js:1
-#: settings/build/4570.76dcf7267af80a785acb.js:1
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
 #: settings/build/5175.40650358aeec2c431639.js:1
 #: settings/build/6946.5bd434ec4ef0894d67b2.js:1
-#: settings/build/8596.2c253cf399d8f84c2746.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
 #: settings/build/9567.d5a7562fd09f42de8429.js:1
 #, fuzzy
 msgid "Processing Agreement"
@@ -8773,9 +9897,9 @@ msgstr ""
 #: pro/processing-agreements/class-processing.php:382
 #: settings/config/menu.php:348
 #: settings/config/menu.php:363
-#: settings/build/4570.76dcf7267af80a785acb.js:1
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
 #: settings/build/6644.2ea25b710cb1cc5b721b.js:1
-#: settings/build/8596.2c253cf399d8f84c2746.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
 msgid "Processing Agreements"
 msgstr "Behandlingsaftaler"
 
@@ -8797,13 +9921,19 @@ msgstr "Professionel eller ansættelsesrelateret information"
 msgid "Professional Regulations."
 msgstr "Professionelle regler."
 
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
+#: settings/build/9582.479b4ce8a6fa5b2d4669.js:1
+msgid "Progress"
+msgstr ""
+
 #: proof-of-consent/class-proof-of-consent.php:285
 #: settings/config/menu.php:397
 #: settings/config/menu.php:408
 #: settings/build/3192.942b0c422c4d59d9ab9a.js:1
-#: settings/build/4570.76dcf7267af80a785acb.js:1
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
 #: settings/build/8525.14c3539f3bb65689f4cf.js:1
-#: settings/build/8596.2c253cf399d8f84c2746.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
 #: settings/build/9567.d5a7562fd09f42de8429.js:1
 msgid "Proof of Consent"
 msgstr "Bevis for samtykke"
@@ -8812,7 +9942,7 @@ msgstr "Bevis for samtykke"
 msgid "Provisions of the relevant legislation"
 msgstr "Bestemmelser i den relevante lovgivning"
 
-#: config/countries.php:339
+#: config/countries.php:334
 msgid "Puerto Rico"
 msgstr "Puerto Rico"
 
@@ -8836,7 +9966,7 @@ msgstr "Formål og datakategorier"
 msgid "Purpose of the data transfer:"
 msgstr "Formål med dataoverførslen:"
 
-#: cookiebanner/class-banner-loader.php:840
+#: cookiebanner/class-banner-loader.php:830
 #: functions.php:1997
 msgid "Purpose pending investigation"
 msgstr "Formål, indtil undersøgelsen"
@@ -8849,17 +9979,33 @@ msgstr "Formål, data og opbevaringsperiode"
 msgid "Purposes"
 msgstr "Formål"
 
-#: config/countries.php:340
+#: config/countries.php:335
 msgid "Qatar"
 msgstr "Qatar"
 
+#: settings/build/3407.0771c9f9733a2fca0117.js:1
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
+#: settings/build/5035.7278ed43f873ee74a6a1.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
+#: settings/build/9684.b0fe68441739b589b1d0.js:1
+msgid "Re-check"
+msgstr ""
+
+#: settings/build/3407.0771c9f9733a2fca0117.js:1
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
+#: settings/build/5035.7278ed43f873ee74a6a1.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
+#: settings/build/9684.b0fe68441739b589b1d0.js:1
+msgid "Re-started test"
+msgstr ""
+
 #: class-admin.php:348
 #: functions.php:1994
-#: websitescan/class-wsc-scanner.php:1102
+#: websitescan/class-wsc-scanner.php:1098
 #: settings/build/1699.7f743f61b0213950d8b9.js:1
-#: settings/build/4570.76dcf7267af80a785acb.js:1
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
 #: settings/build/6644.2ea25b710cb1cc5b721b.js:1
-#: settings/build/8596.2c253cf399d8f84c2746.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
 #: settings/build/9406.e7bb16e6643d51277a90.js:1
 #: settings/build/9567.d5a7562fd09f42de8429.js:1
 msgid "Read more"
@@ -8884,8 +10030,31 @@ msgstr "Læs mere om disse formål"
 msgid "Really Simple Plugins"
 msgstr "Really Simple Plugins"
 
+#: settings/build/120.0a4856ee34143f33d913.js:1
+#: settings/build/1677.86c36f078e0b19e9d573.js:1
+#: settings/build/2113.a4209111c3cd8cff25f3.js:1
+#: settings/build/2299.004e0d91cb69c61a3c6c.js:1
+#: settings/build/2397.ef27c5b02f4c5dd61711.js:1
+#: settings/build/3424.4e8f9a1912780b76b7ea.js:1
+#: settings/build/5664.efa40f92c92c0aecadb4.js:1
+#: settings/build/6231.39308b683483ef2a1176.js:1
+#: settings/build/8447.9685d8b5aee1675df773.js:1
+#: settings/build/8772.d79f5c48e62ccbfa7772.js:1
+#: settings/build/9056.cad63930d05414427a70.js:1
+#: settings/build/9877.1db72bd3e9a976e5e467.js:1
+msgid "Really Simple Security? Let’s go"
+msgstr ""
+
 #: upgrade/upgrade-to-pro.php:178
 msgid "Really Simple SSL & Security - Lightweight plugin, heavyweight features."
+msgstr ""
+
+#: settings/build/5023.862a204cea176a4c5d91.js:1
+msgid "reCaptcha blocking enabled"
+msgstr ""
+
+#: settings/build/5023.862a204cea176a4c5d91.js:1
+msgid "reCaptcha is connected and will be blocked before consent. To change your settings, disable reCaptcha in the list."
 msgstr ""
 
 #: upgrade/upgrade-to-pro.php:331
@@ -8893,12 +10062,16 @@ msgstr ""
 msgid "Recommended by Really Simple Plugins"
 msgstr "Anbefalet af Really Simple Plugins"
 
+#: settings/build/5575.d4ac6be3f5cf68515e9c.js:1
+msgid "Recommended site hardening features"
+msgstr ""
+
 #: settings/config/fields/wizard/general.php:352
 #: settings/config/menu.php:415
 #: settings/config/menu.php:429
-#: settings/build/4570.76dcf7267af80a785acb.js:1
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
 #: settings/build/6644.2ea25b710cb1cc5b721b.js:1
-#: settings/build/8596.2c253cf399d8f84c2746.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
 #, fuzzy
 msgid "Records of Consent"
 msgstr "Registrering af samtykke"
@@ -8940,6 +10113,12 @@ msgstr "Registrering"
 msgid "Registration heavily depends on specific national laws. In most countries this obligation applies to Doctors, Pharmacists, Architects, Consulting engineers, Notaries, Patent attorneys, Psychotherapists, Lawyers, Tax consultants, Veterinary surgeons, Auditors or Dentists."
 msgstr "Registrering afhænger stærkt af specifikke nationale love. I de fleste lande gælder denne forpligtelse for læger, farmaceuter, arkitekter, rådgivende ingeniører, notarier, patentadvokater, psykoterapeuter, advokater, skattekonsulenter, dyrlæger, revisorer eller tandlæger."
 
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
+#: settings/build/9582.479b4ce8a6fa5b2d4669.js:1
+msgid "Remaining tasks"
+msgstr ""
+
 #: placeholders/class-placeholders.php:64
 #, fuzzy
 msgid "Report for:"
@@ -8950,10 +10129,18 @@ msgstr "Rapport for:"
 msgid "Reported data"
 msgstr "Indberettede data"
 
+#: settings/build/8550.dbd370965126fb42424d.js:1
+msgid "Reporting not required"
+msgstr ""
+
 #: pro/settings/fields/dpo.php:95
 #: pro/settings/fields/dpo.php:228
 msgid "Representative"
 msgstr "Repræsentant"
+
+#: settings/build/7489.a99ddd7d4e814299a771.js:1
+msgid "Request again!"
+msgstr ""
 
 #: DNSMPD/class-DNSMPD.php:83
 #: DNSMPD/class-DNSMPD.php:84
@@ -8961,6 +10148,10 @@ msgstr "Repræsentant"
 #, fuzzy
 msgid "Request for access"
 msgstr "Anmodning om adgang"
+
+#: settings/build/index.8b8c3b6249ec4e641ef3.js:1
+msgid "required"
+msgstr ""
 
 #: pro/class-geoip.php:387
 #, fuzzy
@@ -8986,6 +10177,14 @@ msgstr "Nulstil samtykkebanneret"
 msgid "Reset to default values"
 msgstr "Nulstilling til standardværdier"
 
+#: settings/build/4604.800fe0bbc2f4f357fe19.js:1
+msgid "Reset Website Scan"
+msgstr ""
+
+#: settings/build/1624.f334c63a8a8658dfd8c3.js:1
+msgid "Resolved"
+msgstr ""
+
 #: settings/config/fields/wizard/general.php:384
 #, fuzzy
 msgid "Respect Do Not Track and Global Privacy Control?"
@@ -8996,6 +10195,10 @@ msgstr "Respekter Do Not Track og Global Privacy Control?"
 msgid "Responding to data requests"
 msgstr "Besvarelse af en dataanmodning"
 
+#: settings/build/index.8b8c3b6249ec4e641ef3.js:1
+msgid "Response code:"
+msgstr ""
+
 #: pro/processing-agreements/BR/questions.php:258
 #: pro/processing-agreements/ZA/questions.php:260
 msgid "Responsible party"
@@ -9004,6 +10207,12 @@ msgstr "Ansvarlig part"
 #: settings/config/fields/general-settings/settings.php:96
 msgid "Restart plugin tour"
 msgstr "Genstart plugin tour"
+
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+#: settings/build/6729.19c8d571a3e5c3f29966.js:1
+#: settings/build/7102.d63e14ead73195579256.js:1
+msgid "Restore"
+msgstr ""
 
 #: pro/settings/fields/purposes.php:76
 #, fuzzy
@@ -9033,7 +10242,7 @@ msgstr "Opbevaringsperiode i uger, måneder og år"
 msgid "Retrieving package information..."
 msgstr "Hentning af pakkeoplysninger..."
 
-#: config/countries.php:341
+#: config/countries.php:336
 msgid "Reunion"
 msgstr "Genforening"
 
@@ -9041,6 +10250,12 @@ msgstr "Genforening"
 #: settings/build/5016.65f77bff39f9e7cf6e8e.js:1
 msgid "Revoke"
 msgstr "Tilbagekald"
+
+#: settings/build/1370.789309e842e46205637a.js:1
+#: settings/build/3549.6a0d39e0d226ff703055.js:1
+#: settings/build/6009.b758b7af5d8f29119d4a.js:1
+msgid "Right"
+msgstr ""
 
 #: DNSMPD/class-DNSMPD.php:88
 #: DNSMPD/class-DNSMPD.php:89
@@ -9060,15 +10275,15 @@ msgstr "Ret til dataportabilitet"
 msgid "Risk of dataloss"
 msgstr "Risiko for datatab"
 
-#: config/countries.php:342
+#: config/countries.php:337
 msgid "Romania"
 msgstr "Rumænien"
 
-#: config/countries.php:343
+#: config/countries.php:338
 msgid "Russian Federation"
 msgstr "Den Russiske Føderation"
 
-#: config/countries.php:344
+#: config/countries.php:339
 msgid "Rwanda"
 msgstr "Rwanda"
 
@@ -9077,49 +10292,71 @@ msgstr "Rwanda"
 msgid "Safe Mode"
 msgstr "Fejlsikret tilstand"
 
-#: config/countries.php:345
+#: settings/build/93.6b28b2755513e51411ca.js:1
+#: settings/build/679.4281d0fe7f2a1639c145.js:1
+#: settings/build/1137.9116d7ed316d827154ca.js:1
+#: settings/build/5023.862a204cea176a4c5d91.js:1
+msgid "Safe Mode enabled. To manage integrations, disable Safe Mode under Tools - Support."
+msgstr ""
+
+#: config/countries.php:340
 msgid "Saint Barthelemy"
 msgstr "Sankt Barthélemy"
 
-#: config/countries.php:346
+#: config/countries.php:341
 msgid "Saint Helena"
 msgstr "Sankt Helena"
 
-#: config/countries.php:347
+#: config/countries.php:342
 msgid "Saint Kitts And Nevis"
 msgstr "Sankt Kitts og Nevis"
 
-#: config/countries.php:348
+#: config/countries.php:343
 msgid "Saint Lucia"
 msgstr "Sankt Lucia"
 
-#: config/countries.php:349
+#: config/countries.php:344
 msgid "Saint Martin"
 msgstr "Sankt Martin"
 
-#: config/countries.php:350
+#: config/countries.php:345
 msgid "Saint Pierre And Miquelon"
 msgstr "Sankt Pierre og Miquelon"
 
-#: config/countries.php:351
+#: config/countries.php:346
 msgid "Saint Vincent And Grenadines"
 msgstr "Sankt Vincent og Grenadinerne"
 
-#: config/countries.php:352
+#: config/countries.php:347
 msgid "Samoa"
 msgstr "Samoa"
 
-#: config/countries.php:353
+#: config/countries.php:348
 msgid "San Marino"
 msgstr "San Marino"
 
-#: config/countries.php:354
+#: config/countries.php:349
 msgid "Sao Tome And Principe"
 msgstr "Sao Tomé og Principe"
 
-#: config/countries.php:355
+#: config/countries.php:350
 msgid "Saudi Arabia"
 msgstr "Saudi Arabien"
+
+#: settings/build/11.b2eb97694c1948a6884e.js:1
+#: settings/build/1137.9116d7ed316d827154ca.js:1
+#: settings/build/2980.bcae0257d70db5deed1f.js:1
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+#: settings/build/6281.29b489855c47c8fa384d.js:1
+#: settings/build/6729.19c8d571a3e5c3f29966.js:1
+#: settings/build/7102.d63e14ead73195579256.js:1
+#: settings/build/9736.56fe89f91f29aa1ca845.js:1
+msgid "Save"
+msgstr ""
+
+#: settings/build/11.b2eb97694c1948a6884e.js:1
+msgid "Save and Continue"
+msgstr ""
 
 #: cookiebanner/settings.php:844
 #: cookiebanner/settings.php:845
@@ -9127,16 +10364,62 @@ msgstr "Saudi Arabien"
 msgid "Save preferences"
 msgstr "Gem præferencer"
 
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+#: settings/build/6729.19c8d571a3e5c3f29966.js:1
+msgid "Save service to be able to add cookies"
+msgstr ""
+
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+#: settings/build/6729.19c8d571a3e5c3f29966.js:1
+#: settings/build/7102.d63e14ead73195579256.js:1
+msgid "Saved cookie"
+msgstr ""
+
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+#: settings/build/6729.19c8d571a3e5c3f29966.js:1
+msgid "Saved service"
+msgstr ""
+
+#: settings/build/11.b2eb97694c1948a6884e.js:1
+#: settings/build/2302.2ba02269d1bab7189b36.js:1
+#: settings/build/3737.09a00f17575a8f07a4b4.js:1
+#: settings/build/5193.36f7ad16867d52c6e417.js:1
+#: settings/build/7771.e02ee81de473e3a1d5a9.js:1
+#: settings/build/9709.781936e00f4b80cef590.js:1
+msgid "Saving menu..."
+msgstr ""
+
+#: settings/build/index.8b8c3b6249ec4e641ef3.js:1
+msgid "Saving settings..."
+msgstr ""
+
+#: settings/build/626.f480d314fd8dc7b49342.js:1
+msgid "Scan"
+msgstr ""
+
+#: settings/build/626.f480d314fd8dc7b49342.js:1
+msgid "Scanning, %s complete."
+msgstr ""
+
 #: settings/config/fields/wizard/consent.php:151
 #: settings/config/fields/wizard/consent.php:160
 #: settings/config/menu.php:237
 msgid "Script Center"
 msgstr "Script Center"
 
+#: settings/build/93.6b28b2755513e51411ca.js:1
+#: settings/build/1624.f334c63a8a8658dfd8c3.js:1
+#: settings/build/3068.09f0fbdb62122f907b91.js:1
+#: settings/build/3078.7547fadc99516cff6788.js:1
+#: settings/build/5023.862a204cea176a4c5d91.js:1
+#: settings/build/8550.dbd370965126fb42424d.js:1
+msgid "Search"
+msgstr ""
+
 #: settings/config/menu.php:458
-#: settings/build/4570.76dcf7267af80a785acb.js:1
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
 #: settings/build/6644.2ea25b710cb1cc5b721b.js:1
-#: settings/build/8596.2c253cf399d8f84c2746.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
 msgid "Security"
 msgstr "Sikkerhed"
 
@@ -9164,6 +10447,21 @@ msgstr "Sikkerhedsforanstaltninger for hardware, der indeholder eller behandler 
 msgid "Security software"
 msgstr "Sikkerhedssoftware"
 
+#: gutenberg/build/index.js:1
+msgid "Select a document"
+msgstr ""
+
+#: settings/build/277.9f4b8cfa8027e741e0d8.js:1
+msgid "Select a logo"
+msgstr ""
+
+#: settings/build/2302.2ba02269d1bab7189b36.js:1
+#: settings/build/3737.09a00f17575a8f07a4b4.js:1
+#: settings/build/5193.36f7ad16867d52c6e417.js:1
+#: settings/build/9709.781936e00f4b80cef590.js:1
+msgid "Select a menu"
+msgstr ""
+
 #: pro/records-of-consent/class-records-of-consent.php:48
 #: proof-of-consent/class-proof-of-consent.php:64
 msgid "Select a region"
@@ -9176,6 +10474,34 @@ msgstr "Vælg alle"
 #: pro/settings/fields/dpo.php:12
 msgid "Select all that applies."
 msgstr "Vælg alt, hvad der er relevant."
+
+#: settings/build/277.9f4b8cfa8027e741e0d8.js:1
+#: settings/build/847.4bde3074815e0711ce39.js:1
+#: settings/build/1137.9116d7ed316d827154ca.js:1
+#: settings/build/1249.59eddce3c3da78fc0f00.js:1
+#: settings/build/2980.bcae0257d70db5deed1f.js:1
+#: settings/build/3192.942b0c422c4d59d9ab9a.js:1
+#: settings/build/3518.315ff99b55e8fbc02672.js:1
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
+#: settings/build/5175.40650358aeec2c431639.js:1
+#: settings/build/5228.6845bfcb5cd34fd8ddac.js:1
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+#: settings/build/6281.29b489855c47c8fa384d.js:1
+#: settings/build/6729.19c8d571a3e5c3f29966.js:1
+#: settings/build/6946.5bd434ec4ef0894d67b2.js:1
+#: settings/build/7102.d63e14ead73195579256.js:1
+#: settings/build/8033.d3664861651654e3f429.js:1
+#: settings/build/8217.13aceabe9744259e6f8d.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
+#: settings/build/9567.d5a7562fd09f42de8429.js:1
+#: settings/build/9736.56fe89f91f29aa1ca845.js:1
+msgid "Select an option"
+msgstr ""
+
+#: settings/build/3785.cddaa70cf494e33855b0.js:1
+#: settings/build/6281.29b489855c47c8fa384d.js:1
+msgid "Select file"
+msgstr ""
 
 #: cookiebanner/settings.php:136
 #, fuzzy
@@ -9240,7 +10566,7 @@ msgstr "Salg af personlige data"
 msgid "Send"
 msgstr "Send"
 
-#: config/countries.php:356
+#: config/countries.php:351
 msgid "Senegal"
 msgstr "Senegal"
 
@@ -9253,14 +10579,35 @@ msgstr "Følsomme og personlige data"
 msgid "Sensitive personal information is considered data that is very likely to have a greater impact on Privacy. For example medical, religious or legal information."
 msgstr "Følsomme personlige oplysninger betragtes som data, som meget sandsynligt har større indflydelse på privatlivets fred. For eksempel medicinske, religiøse eller juridiske oplysninger."
 
-#: config/countries.php:357
+#: config/countries.php:352
 msgid "Serbia"
 msgstr "Serbien"
+
+#: settings/build/index.8b8c3b6249ec4e641ef3.js:1
+msgid "Server response:"
+msgstr ""
+
+#: gutenberg/build/index.js:1
+#: settings/build/5023.862a204cea176a4c5d91.js:1
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+#: settings/build/6729.19c8d571a3e5c3f29966.js:1
+#: settings/build/7102.d63e14ead73195579256.js:1
+msgid "Service"
+msgstr ""
+
+#: settings/build/6281.29b489855c47c8fa384d.js:1
+msgid "Service name"
+msgstr ""
 
 #: pro/processing-agreements/CA/questions.php:278
 #: pro/processing-agreements/US/questions.php:293
 msgid "Service Provider"
 msgstr "Serviceudbyder"
+
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+#: settings/build/6729.19c8d571a3e5c3f29966.js:1
+msgid "Service Types"
+msgstr ""
 
 #: settings/config/menu.php:124
 #: settings/config/menu.php:227
@@ -9276,6 +10623,10 @@ msgstr "Opbevaring af sessioner"
 msgid "Set cookiebanner cookies on the root domain"
 msgstr "Vælg cookiebanner cookies på hoveddomænet"
 
+#: settings/build/277.9f4b8cfa8027e741e0d8.js:1
+msgid "Set logo"
+msgstr ""
+
 #: class-admin.php:229
 #: cookiebanner/settings.php:613
 #: settings/config/menu.php:244
@@ -9286,11 +10637,29 @@ msgstr "Vælg cookiebanner cookies på hoveddomænet"
 msgid "Settings"
 msgstr "Indstillinger"
 
+#: settings/build/11.b2eb97694c1948a6884e.js:1
+#: settings/build/2302.2ba02269d1bab7189b36.js:1
+#: settings/build/3737.09a00f17575a8f07a4b4.js:1
+#: settings/build/5193.36f7ad16867d52c6e417.js:1
+#: settings/build/7771.e02ee81de473e3a1d5a9.js:1
+#: settings/build/9709.781936e00f4b80cef590.js:1
+msgid "Settings have not been changed"
+msgstr ""
+
+#: settings/build/3785.cddaa70cf494e33855b0.js:1
+#: settings/build/6281.29b489855c47c8fa384d.js:1
+msgid "Settings imported"
+msgstr ""
+
+#: settings/build/index.8b8c3b6249ec4e641ef3.js:1
+msgid "Settings saved"
+msgstr ""
+
 #: config/purpose.php:26
 msgid "Sex"
 msgstr "Køn"
 
-#: config/countries.php:358
+#: config/countries.php:353
 msgid "Seychelles"
 msgstr "Seychellerne"
 
@@ -9326,6 +10695,10 @@ msgstr "Bør Databehandler tegne en ansvarsforsikring?"
 msgid "Should the Service Provider take out liability insurance?"
 msgstr "Bør Serviceudbyderen tegne en ansvarsforsikring?"
 
+#: settings/build/1361.1cc869f526c3559be3dd.js:1
+msgid "Show"
+msgstr ""
+
 #: cookiebanner/settings.php:397
 msgid "Show as soft cookie wall"
 msgstr "Vis som blød cookie-væg"
@@ -9335,12 +10708,54 @@ msgstr "Vis som blød cookie-væg"
 msgid "Show Consent Banner"
 msgstr "Vis samtykke-banner"
 
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+#: settings/build/6729.19c8d571a3e5c3f29966.js:1
+#: settings/build/7102.d63e14ead73195579256.js:1
+msgid "Show cookie on Cookie Policy"
+msgstr ""
+
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+msgid "Show deleted cookies"
+msgstr ""
+
 #: cookiebanner/settings.php:140
 #, fuzzy
 msgid "Show everywhere"
 msgstr "Vis overalt"
 
-#: config/countries.php:359
+#: settings/build/847.4bde3074815e0711ce39.js:1
+#: settings/build/1137.9116d7ed316d827154ca.js:1
+#: settings/build/1366.41d2c2abc28493f99575.js:1
+#: settings/build/1624.f334c63a8a8658dfd8c3.js:1
+#: settings/build/3068.09f0fbdb62122f907b91.js:1
+#: settings/build/3078.7547fadc99516cff6788.js:1
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+#: settings/build/6729.19c8d571a3e5c3f29966.js:1
+#: settings/build/7102.d63e14ead73195579256.js:1
+#: settings/build/7234.f41964069d02c6bac205.js:1
+#: settings/build/8033.d3664861651654e3f429.js:1
+#: settings/build/8550.dbd370965126fb42424d.js:1
+#: settings/build/9736.56fe89f91f29aa1ca845.js:1
+msgid "Show less"
+msgstr ""
+
+#: settings/build/847.4bde3074815e0711ce39.js:1
+#: settings/build/1137.9116d7ed316d827154ca.js:1
+#: settings/build/1366.41d2c2abc28493f99575.js:1
+#: settings/build/1624.f334c63a8a8658dfd8c3.js:1
+#: settings/build/3068.09f0fbdb62122f907b91.js:1
+#: settings/build/3078.7547fadc99516cff6788.js:1
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+#: settings/build/6729.19c8d571a3e5c3f29966.js:1
+#: settings/build/7102.d63e14ead73195579256.js:1
+#: settings/build/7234.f41964069d02c6bac205.js:1
+#: settings/build/8033.d3664861651654e3f429.js:1
+#: settings/build/8550.dbd370965126fb42424d.js:1
+#: settings/build/9736.56fe89f91f29aa1ca845.js:1
+msgid "Show more"
+msgstr ""
+
+#: config/countries.php:354
 msgid "Sierra Leone"
 msgstr "Sierra Leone"
 
@@ -9348,9 +10763,24 @@ msgstr "Sierra Leone"
 msgid "Simple and performant security."
 msgstr ""
 
-#: config/countries.php:360
+#: config/countries.php:355
 msgid "Singapore"
 msgstr "Singapore"
+
+#: settings/build/120.0a4856ee34143f33d913.js:1
+#: settings/build/1677.86c36f078e0b19e9d573.js:1
+#: settings/build/2113.a4209111c3cd8cff25f3.js:1
+#: settings/build/2299.004e0d91cb69c61a3c6c.js:1
+#: settings/build/2397.ef27c5b02f4c5dd61711.js:1
+#: settings/build/3424.4e8f9a1912780b76b7ea.js:1
+#: settings/build/5664.efa40f92c92c0aecadb4.js:1
+#: settings/build/6231.39308b683483ef2a1176.js:1
+#: settings/build/8447.9685d8b5aee1675df773.js:1
+#: settings/build/8772.d79f5c48e62ccbfa7772.js:1
+#: settings/build/9056.cad63930d05414427a70.js:1
+#: settings/build/9877.1db72bd3e9a976e5e467.js:1
+msgid "Skip"
+msgstr ""
 
 #: cookiebanner/settings.php:286
 msgid "Slide"
@@ -9360,11 +10790,11 @@ msgstr "Slide"
 msgid "Slider"
 msgstr "Slider"
 
-#: config/countries.php:361
+#: config/countries.php:356
 msgid "Slovakia"
 msgstr "Slovakiet"
 
-#: config/countries.php:362
+#: config/countries.php:357
 msgid "Slovenia"
 msgstr "Slovenien"
 
@@ -9389,11 +10819,11 @@ msgstr "Personnummer."
 msgid "Soft cookie wall"
 msgstr "Blød kagevæg"
 
-#: config/countries.php:363
+#: config/countries.php:358
 msgid "Solomon Islands"
 msgstr "Salomonøerne"
 
-#: config/countries.php:364
+#: config/countries.php:359
 msgid "Somalia"
 msgstr "Somalia"
 
@@ -9410,6 +10840,31 @@ msgstr "Nogle sælgere fastsætter formål med legitim interesse, et retsgrundla
 #, fuzzy
 msgid "Some vendors will share data outside of the EU/UK. It's disabled by default, but we recommend US based publishers to enable this option."
 msgstr "Nogle leverandører vil dele data uden for EU/UK. Det er deaktiveret som standard, men vi anbefaler amerikanske udgivere at aktivere denne mulighed."
+
+#: settings/build/11.b2eb97694c1948a6884e.js:1
+#: settings/build/2302.2ba02269d1bab7189b36.js:1
+#: settings/build/3737.09a00f17575a8f07a4b4.js:1
+#: settings/build/5193.36f7ad16867d52c6e417.js:1
+#: settings/build/7771.e02ee81de473e3a1d5a9.js:1
+#: settings/build/9709.781936e00f4b80cef590.js:1
+#: settings/build/index.8b8c3b6249ec4e641ef3.js:1
+msgid "Something went wrong"
+msgstr ""
+
+#: settings/build/120.0a4856ee34143f33d913.js:1
+#: settings/build/1677.86c36f078e0b19e9d573.js:1
+#: settings/build/2113.a4209111c3cd8cff25f3.js:1
+#: settings/build/2299.004e0d91cb69c61a3c6c.js:1
+#: settings/build/2397.ef27c5b02f4c5dd61711.js:1
+#: settings/build/3424.4e8f9a1912780b76b7ea.js:1
+#: settings/build/5664.efa40f92c92c0aecadb4.js:1
+#: settings/build/6231.39308b683483ef2a1176.js:1
+#: settings/build/8447.9685d8b5aee1675df773.js:1
+#: settings/build/8772.d79f5c48e62ccbfa7772.js:1
+#: settings/build/9056.cad63930d05414427a70.js:1
+#: settings/build/9877.1db72bd3e9a976e5e467.js:1
+msgid "Something went wrong while downloading the document."
+msgstr ""
 
 #: integrations/plugins/forminator-addon-class-v2.php:24
 #: integrations/plugins/forminator-addon-class.php:30
@@ -9431,7 +10886,7 @@ msgid "Sorry, we failed to update settings, please check your form and try again
 msgstr "Beklager, vi kunne ikke opdatere indstillingerne, kontroller din formular og prøv igen"
 
 #: config/countries.php:110
-#: config/countries.php:365
+#: config/countries.php:360
 msgid "South Africa"
 msgstr "Sydafrika"
 
@@ -9439,15 +10894,15 @@ msgstr "Sydafrika"
 msgid "South Africa (POPIA)"
 msgstr "Sydafrika (POPIA)"
 
-#: config/countries.php:366
+#: config/countries.php:361
 msgid "South Georgia And Sandwich Isl."
 msgstr "South Georgia og Sandwich Isl."
 
-#: config/countries.php:367
+#: config/countries.php:362
 msgid "Spain"
 msgstr "Spanien"
 
-#: config/countries.php:419
+#: config/countries.php:414
 msgid "Spanish"
 msgstr "Spansk"
 
@@ -9466,6 +10921,16 @@ msgstr "Særlige kendetegn og formål"
 msgid "Special purposes"
 msgstr "Specielle formål"
 
+#: settings/build/17.167316fd23d882d6f968.js:1
+#: settings/build/2980.bcae0257d70db5deed1f.js:1
+msgid "Specialist legal advice required"
+msgstr ""
+
+#: settings/build/17.167316fd23d882d6f968.js:1
+#: settings/build/2980.bcae0257d70db5deed1f.js:1
+msgid "Specialist legal advice should be sought about your specific circumstances."
+msgstr ""
+
 #: settings/config/fields/wizard/purposes.php:26
 #, fuzzy
 msgid "Specify the types of data you collect"
@@ -9475,7 +10940,7 @@ msgstr "Angiv, hvilke typer data du indsamler"
 msgid "Specify what kind of decisions these are, what the consequences are, and what (in general terms) the logic behind these decisions is."
 msgstr "Specificer, hvilken type beslutninger disse er, hvad konsekvenserne er, og hvad (generelt) logikken bag disse beslutninger er."
 
-#: config/countries.php:368
+#: config/countries.php:363
 msgid "Sri Lanka"
 msgstr "Sri Lanka"
 
@@ -9488,6 +10953,10 @@ msgstr ""
 #: settings/build/8708.122e1e004a8cf6c785e9.js:1
 msgid "Start"
 msgstr "Start"
+
+#: settings/build/8525.14c3539f3bb65689f4cf.js:1
+msgid "Start tour"
+msgstr ""
 
 #: pro/processing-agreements/AU/questions.php:199
 #: pro/processing-agreements/BR/questions.php:197
@@ -9522,9 +10991,9 @@ msgstr "Angiv det fulde navn på den person, der er ansvarlig for indholdet på 
 #: settings/build/1137.9116d7ed316d827154ca.js:1
 #: settings/build/3078.7547fadc99516cff6788.js:1
 #: settings/build/3518.315ff99b55e8fbc02672.js:1
-#: settings/build/4570.76dcf7267af80a785acb.js:1
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
 #: settings/build/8583.b4a05d3da92a74e25df8.js:1
-#: settings/build/8596.2c253cf399d8f84c2746.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
 #: settings/build/9736.56fe89f91f29aa1ca845.js:1
 msgid "Statistics"
 msgstr "Statistikker"
@@ -9548,6 +11017,16 @@ msgstr "Statistik script"
 #, fuzzy
 msgid "Statistics plugin detected"
 msgstr "Statistik-plugin fundet"
+
+#: settings/build/93.6b28b2755513e51411ca.js:1
+#: settings/build/1624.f334c63a8a8658dfd8c3.js:1
+#: settings/build/5023.862a204cea176a4c5d91.js:1
+msgid "Status"
+msgstr ""
+
+#: settings/build/index.8b8c3b6249ec4e641ef3.js:1
+msgid "Status code:"
+msgstr ""
 
 #: documents/class-document.php:1110
 msgctxt "Subject in notification email"
@@ -9578,7 +11057,7 @@ msgstr "Indsend en anmodning om at modtage en eksportfil af de data, vi behandle
 msgid "Success"
 msgstr "Succes"
 
-#: config/countries.php:369
+#: config/countries.php:364
 msgid "Sudan"
 msgstr "Sudan"
 
@@ -9595,7 +11074,7 @@ msgstr "Leverandører"
 #: class-admin.php:236
 #: settings/config/menu.php:277
 #: settings/config/menu.php:281
-#: settings/build/index.31cf1ab07566417a2cf9.js:1
+#: settings/build/index.8b8c3b6249ec4e641ef3.js:1
 msgid "Support"
 msgstr "Support"
 
@@ -9604,36 +11083,65 @@ msgstr "Support"
 msgid "Support form"
 msgstr "Støtteformular"
 
-#: config/countries.php:370
+#: config/countries.php:365
 msgid "Suriname"
 msgstr "Surinam"
 
-#: config/countries.php:371
+#: config/countries.php:366
 msgid "Svalbard And Jan Mayen"
 msgstr "Svalbard og Jan Mayen"
 
-#: config/countries.php:372
+#: config/countries.php:367
 msgid "Swaziland"
 msgstr "Swaziland"
 
-#: config/countries.php:373
+#: config/countries.php:368
 msgid "Sweden"
 msgstr "Sverige"
 
-#: config/countries.php:425
+#: config/countries.php:420
 msgid "Swedish"
 msgstr "Svensk"
 
-#: config/countries.php:374
+#: settings/build/index.8b8c3b6249ec4e641ef3.js:1
+msgid "Switch between banners"
+msgstr ""
+
+#: config/countries.php:369
 msgid "Switzerland"
 msgstr "Schweiz"
+
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+msgid "Sync"
+msgstr ""
+
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+#: settings/build/6729.19c8d571a3e5c3f29966.js:1
+#: settings/build/7102.d63e14ead73195579256.js:1
+msgid "Sync cookie with cookiedatabase.org"
+msgstr ""
+
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+#: settings/build/6729.19c8d571a3e5c3f29966.js:1
+msgid "Sync service with cookiedatabase.org"
+msgstr ""
+
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+msgid "Synchronization disabled: All detected cookies and services have been synchronised."
+msgstr ""
 
 #: documents/admin-class-documents.php:854
 #: gutenberg/build/index.js:1
 msgid "Synchronize document with Complianz"
 msgstr "Synkroniser dokument med Complianz"
 
-#: config/countries.php:375
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
+#: settings/build/8931.ff6f9141cc74a7f61664.js:1
+msgid "Synchronized"
+msgstr ""
+
+#: config/countries.php:370
 msgid "Syrian Arab Republic"
 msgstr "Den syriske arabiske republik"
 
@@ -9641,15 +11149,15 @@ msgstr "Den syriske arabiske republik"
 msgid "System Status"
 msgstr "System status"
 
-#: config/countries.php:376
+#: config/countries.php:371
 msgid "Taiwan"
 msgstr "Taiwan"
 
-#: config/countries.php:377
+#: config/countries.php:372
 msgid "Tajikistan"
 msgstr "Tadsjikistan"
 
-#: config/countries.php:378
+#: config/countries.php:373
 msgid "Tanzania"
 msgstr "Tanzania"
 
@@ -9684,7 +11192,22 @@ msgstr "Lejere"
 msgid "Terms & Conditions"
 msgstr "Betingelser & Aftaler"
 
-#: config/countries.php:152
+#: settings/build/120.0a4856ee34143f33d913.js:1
+#: settings/build/1677.86c36f078e0b19e9d573.js:1
+#: settings/build/2113.a4209111c3cd8cff25f3.js:1
+#: settings/build/2299.004e0d91cb69c61a3c6c.js:1
+#: settings/build/2397.ef27c5b02f4c5dd61711.js:1
+#: settings/build/3424.4e8f9a1912780b76b7ea.js:1
+#: settings/build/5664.efa40f92c92c0aecadb4.js:1
+#: settings/build/6231.39308b683483ef2a1176.js:1
+#: settings/build/8447.9685d8b5aee1675df773.js:1
+#: settings/build/8772.d79f5c48e62ccbfa7772.js:1
+#: settings/build/9056.cad63930d05414427a70.js:1
+#: settings/build/9877.1db72bd3e9a976e5e467.js:1
+msgid "Terms and Conditions"
+msgstr "Vilkår & Betingelser"
+
+#: config/countries.php:147
 msgid "Texas (TDPSA)"
 msgstr ""
 
@@ -9713,13 +11236,22 @@ msgstr "Tekster"
 msgid "Texts will also get reset."
 msgstr "Tekster vil også blive nulstillet."
 
-#: config/countries.php:379
+#: config/countries.php:374
 msgid "Thailand"
 msgstr "Thailand"
+
+#: settings/build/1677.86c36f078e0b19e9d573.js:1
+#: settings/build/8447.9685d8b5aee1675df773.js:1
+msgid "Thanks for joining us!"
+msgstr ""
 
 #: DNSMPD/class-DNSMPD.php:209
 msgid "That's a long name you got there. Please try to shorten the name."
 msgstr "Det er et langt navn, du kom der. Prøv at forkorte navnet."
+
+#: settings/build/348.08abf3f718ffd9ea409e.js:1
+msgid "The A/B tracking period has ended, the best performer will be enabled on the next scheduled check."
+msgstr ""
 
 #: pro/dataleak/type-1/questions.php:14
 #: pro/dataleak/type-1/questions.php:33
@@ -9750,6 +11282,12 @@ msgstr "Det grundlag, vi kan behandle disse data på, er:"
 msgid "The below questions will help you configure a vendor list of your choosing. Only vendors that adhere to the purposes and special features you configure will be able to serve ads."
 msgstr "Spørgsmålene herunder vil hjælpe dig med at opsætte en forhandlerliste efter dig valg. Kun forhandlere, der overholder formål og specielle funktioner som du sætter op, vil have mulighed for at levere annoncer."
 
+#: settings/build/847.4bde3074815e0711ce39.js:1
+#: settings/build/1137.9116d7ed316d827154ca.js:1
+#: settings/build/9736.56fe89f91f29aa1ca845.js:1
+msgid "The blocked content is an iframe"
+msgstr ""
+
 #: settings/config/fields/tools/placeholders.php:32
 #: settings/config/fields/tools/placeholders.php:56
 #: settings/config/fields/tools/placeholders.php:81
@@ -9772,8 +11310,32 @@ msgstr "CMP-leverandørlistefilerne til TCF er endnu ikke downloadet til eller t
 msgid "The collection is required or authorized by the following law or court/tribunal order:"
 msgstr "Indsamlingen er påkrævet eller tilladt i henhold til følgende lov eller retskendelse:"
 
+#: settings/build/index.8b8c3b6249ec4e641ef3.js:1
+msgid "The Complianz Rest API is disabled."
+msgstr ""
+
+#: settings/build/index.8b8c3b6249ec4e641ef3.js:1
+msgid "The Complianz Rest API returned a 403 forbidden error."
+msgstr ""
+
+#: settings/build/index.8b8c3b6249ec4e641ef3.js:1
+msgid "The Complianz Rest API returned a not found."
+msgstr ""
+
 #: settings/config/menu.php:26
 msgid "The Complianz wizard will guide you through the necessary steps to configure your website for privacy legislation around the world. We designed the wizard to be comprehensible, without making concessions in legal compliance."
+msgstr ""
+
+#: settings/build/2058.1832f4cf65b8f9297b34.js:1
+msgid "The consent banner and cookie blocker are required on your website."
+msgstr ""
+
+#: settings/build/2058.1832f4cf65b8f9297b34.js:1
+msgid "The consent banner and the cookie blocker are now ready to be enabled."
+msgstr ""
+
+#: settings/build/348.08abf3f718ffd9ea409e.js:1
+msgid "The consent banner with the best results has been enabled as default banner."
 msgstr ""
 
 #: pro/settings/fields/disclaimer.php:83
@@ -9792,6 +11354,10 @@ msgstr "Indholdet er ved at blive udviklet eller sendt af tredjepart"
 msgid "The Controller shall have the right to have audits carried out by an independent external expert, who is bound by confidentiality, to verify compliance with all points of the Data Processing Agreement and everything directly related to this. This audit shall only take place after the Controller has requested similar audit reports from the Processor, reviewed them, and put forward reasonable arguments to justify an audit initiated by the Controller."
 msgstr "Controlleren har ret til at få revisioner udført af en uafhængig ekstern ekspert, der er bundet af fortrolighed, til at verificere overholdelse af alle punkter i databehandlingsaftalen og alt, der er direkte relateret til denne. Denne revision finder kun sted, efter at controlleren har anmodet om lignende revisionsrapporter fra processoren, gennemgået dem og fremsat rimelige argumenter for at retfærdiggøre en revision, der er indledt af controlleren."
 
+#: settings/build/348.08abf3f718ffd9ea409e.js:1
+msgid "The conversion graph shows the ratio for the different choices users have. When a user has made a choice, this will be counted as either a converted user, or a not converted. If no choice is made, the user will be listed in the \"No choice\" category."
+msgstr ""
+
 #: settings/config/fields/wizard/finish.php:55
 #, fuzzy
 msgid "The Cookie Blocker will, among others, block any tracking and third-party scripts configured by the wizard, automatic configuration or our script center."
@@ -9809,6 +11375,17 @@ msgstr "Dataovertrædelsen vedrører mere end 50 personer."
 #: pro/dataleak/type-1/questions.php:32
 msgid "The data breach concerns sensitive personal data."
 msgstr "Dataovertrædelsen vedrører følsomme personoplysninger."
+
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+#: settings/build/6729.19c8d571a3e5c3f29966.js:1
+#: settings/build/7102.d63e14ead73195579256.js:1
+msgid "The data for this cookie is complete"
+msgstr ""
+
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+#: settings/build/6729.19c8d571a3e5c3f29966.js:1
+msgid "The data for this service is complete"
+msgstr ""
 
 #: pro/dataleak/type-3/questions.php:24
 msgid "The data has been encrypted in such a way that it is not possible to abuse the data"
@@ -9852,6 +11429,14 @@ msgstr "Følgende kategorier af data er indsamlet"
 msgid "The following error was reported: %s"
 msgstr "Følgende fejl blev rapporteret: %s"
 
+#: settings/build/2058.1832f4cf65b8f9297b34.js:1
+msgid "The following required fields have not been completed:"
+msgstr ""
+
+#: settings/build/2302.2ba02269d1bab7189b36.js:1
+msgid "The generated document %s has not been assigned to a menu yet, you can do this now, or skip this step and do it later."
+msgstr ""
+
 #: pro/processing-agreements/AU/questions.php:334
 #: pro/processing-agreements/BR/questions.php:331
 #: pro/processing-agreements/CA/questions.php:350
@@ -9874,6 +11459,10 @@ msgstr "Linket til fortrolighedserklæringen bruges i samtykkebanneret og i din 
 #: settings/config/fields-notices.php:137
 msgid "The link to the Privacy Statement is used in your Cookie Policy."
 msgstr "Linket til fortrolighedserklæringen bruges i din cookiepolitik."
+
+#: settings/build/index.8b8c3b6249ec4e641ef3.js:1
+msgid "The lock will automatically clear after two minutes."
+msgstr ""
 
 #: pro/processing-agreements/BR/questions.php:247
 msgid "The operator is obliged to implement the findings as quickly as possible."
@@ -9906,6 +11495,10 @@ msgstr "Operatøren, i tilfælde af ikke - ubetydelige overtrædelser af forplig
 #: functions.php:1072
 msgid "the page source"
 msgstr "sidens kilde"
+
+#: settings/build/3430.ae31ab2c342fb4197b19.js:1
+msgid "The pages marked with X should be added to your website. You can create these pages with a shortcode, a Gutenberg block or use the below \"Create missing pages\" button."
+msgstr ""
 
 #: pro/processing-agreements/AU/questions.php:250
 #: pro/processing-agreements/BR/questions.php:248
@@ -9987,6 +11580,18 @@ msgstr "Protokollen kan findes online via en URL"
 msgid "The protocol is annexed to this agreement."
 msgstr "Protokollen er knyttet som bilag til denne aftale."
 
+#: settings/build/index.8b8c3b6249ec4e641ef3.js:1
+msgid "The request returned the following errors:"
+msgstr ""
+
+#: settings/build/626.f480d314fd8dc7b49342.js:1
+msgid "The scan found %s cookies on your domain."
+msgstr ""
+
+#: settings/build/626.f480d314fd8dc7b49342.js:1
+msgid "The scan found 1 cookie on your domain."
+msgstr ""
+
 #: settings/config/fields-notices.php:55
 msgid "The scan found forms on your site, which means answer should probably include \"contact\"."
 msgstr "Scanningen fandt formularer på dit websted, hvilket betyder, at svaret sandsynligvis skal omfatte \"kontakt\"."
@@ -9999,9 +11604,17 @@ msgstr "Scanningen fandt knapper eller widgets på sociale medier til %s på dit
 msgid "The scan found third-party services on your website: %s, this means the answer should be yes."
 msgstr "Scanningen fandt tredjeparts tjenester på dit websted: %s, dette betyder, at svaret skal være ja."
 
+#: settings/build/1137.9116d7ed316d827154ca.js:1
+msgid "The script center should be used to add and block third-party scripts and iFrames before consent is given, or when consent is revoked. For example Hotjar and embedded video’s."
+msgstr ""
+
 #: pro/dataleak/class-dataleak.php:271
 msgid "The security incident does not have to be reported to the %s."
 msgstr "Sikkerhedshændelsen behøver ikke rapporteres %s."
+
+#: settings/build/5575.d4ac6be3f5cf68515e9c.js:1
+msgid "The security measures we use consist of, but are not limited to:"
+msgstr ""
 
 #: pro/processing-agreements/CA/questions.php:260
 #: pro/processing-agreements/US/questions.php:275
@@ -10080,8 +11693,8 @@ msgstr ""
 msgid "The token is missing from the URL which you are using to authenticate."
 msgstr ""
 
-#: settings/config/fields/wizard/consent.php:470
-#: settings/config/fields/wizard/consent.php:517
+#: settings/config/fields/wizard/consent.php:446
+#: settings/config/fields/wizard/consent.php:493
 #, fuzzy
 msgid "The URL depends on your configuration of Matomo."
 msgstr "URL'en afhænger af din konfiguration af Matomo."
@@ -10094,10 +11707,27 @@ msgstr "URL-adressen til forordningerne, så de besøgende på webstedet ved, hv
 msgid "The vendor list can be found at %s"
 msgstr "Forhandlerlisten kan findes på %s"
 
+#: settings/build/8525.14c3539f3bb65689f4cf.js:1
+msgid "The Wizard"
+msgstr ""
+
+#: settings/build/2980.bcae0257d70db5deed1f.js:1
+#: settings/build/6281.29b489855c47c8fa384d.js:1
+msgid "The wizard has not been completed yet, but this field requires information from the wizard. Please complete the wizard first."
+msgstr ""
+
+#: settings/build/index.8b8c3b6249ec4e641ef3.js:1
+msgid "The wizard is currently in use by user with ID: "
+msgstr ""
+
 #: integrations/plugins/wp-google-map-plugin.php:65
 #, fuzzy
 msgid "The WP Maps Pro integration has changed with the help of the authors of WP Maps, please check your implementation."
 msgstr "WP Maps Pro-integrationen er ændret med hjælp fra forfatterne af WP Maps, tjek venligst din implementering."
+
+#: settings/build/2058.1832f4cf65b8f9297b34.js:1
+msgid "There are %s questions that are required to complete the wizard."
+msgstr ""
 
 #: settings/config/fields/wizard/general.php:107
 #, fuzzy
@@ -10135,6 +11765,10 @@ msgstr "Tredjeparter"
 msgid "Third-party cookies"
 msgstr "Tredjepartscookies"
 
+#: settings/build/5023.862a204cea176a4c5d91.js:1
+msgid "Third-party services and social media are marked as not being used on your website in the wizard."
+msgstr ""
+
 #: upgrade/upgrade-to-pro.php:576
 #, fuzzy
 msgid "This appears to be an invalid license key for this plugin."
@@ -10150,8 +11784,44 @@ msgid "This can improve conversion accuracy, but can contain personal data like 
 msgstr ""
 
 #. translators: %1$s: site url, %2$s: website name.
-#: websitescan/class-wsc-scanner.php:1000
+#: websitescan/class-wsc-scanner.php:996
 msgid "This compliance report was sent from your site <a href=\"%1$s\" target=\"_blank\">%2$s</a> by Complianz"
+msgstr ""
+
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+#: settings/build/6729.19c8d571a3e5c3f29966.js:1
+#: settings/build/7102.d63e14ead73195579256.js:1
+msgid "This cookie has missing fields"
+msgstr ""
+
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+#: settings/build/6729.19c8d571a3e5c3f29966.js:1
+#: settings/build/7102.d63e14ead73195579256.js:1
+msgid "This cookie has not been detected on your site in the last three months"
+msgstr ""
+
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+#: settings/build/6729.19c8d571a3e5c3f29966.js:1
+#: settings/build/7102.d63e14ead73195579256.js:1
+msgid "This cookie has recently been detected"
+msgstr ""
+
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+#: settings/build/6729.19c8d571a3e5c3f29966.js:1
+#: settings/build/7102.d63e14ead73195579256.js:1
+msgid "This cookie is not shown on the Cookie Policy"
+msgstr ""
+
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+#: settings/build/6729.19c8d571a3e5c3f29966.js:1
+#: settings/build/7102.d63e14ead73195579256.js:1
+msgid "This cookie is not synchronized with cookiedatabase.org."
+msgstr ""
+
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+#: settings/build/6729.19c8d571a3e5c3f29966.js:1
+#: settings/build/7102.d63e14ead73195579256.js:1
+msgid "This cookie will be on your Cookie Policy"
 msgstr ""
 
 #: settings/config/fields/wizard/services.php:21
@@ -10196,6 +11866,10 @@ msgstr "Denne e-mail blev sendt til"
 msgid "This feature includes real-time cookie removal with the CookieShredder."
 msgstr "Denne funktion omfatter fjernelse af cookies i realtid med CookieShredder."
 
+#: settings/build/index.8b8c3b6249ec4e641ef3.js:1
+msgid "This field is required"
+msgstr ""
+
 #: pro/class-import.php:52
 #: pro/processing-agreements/class-processing.php:74
 msgid "This file does not have the correct format"
@@ -10208,6 +11882,14 @@ msgstr "Dette er normalt en ejer eller direktør for den juridiske enhed."
 #: settings/config/fields/general-settings/settings.php:137
 msgid "This is useful if you have a multisite, or several sites as subdomains on a main site"
 msgstr "Det er brugbart hvis du har flere websteder, eller adskillige websteder som subdomæner under et primær websted"
+
+#: settings/build/8525.14c3539f3bb65689f4cf.js:1
+msgid "This is where everything regarding cookies is configured. We will come back to the Wizard soon."
+msgstr ""
+
+#: settings/build/8525.14c3539f3bb65689f4cf.js:1
+msgid "This is your Dashboard. When the Wizard is completed, this will give you an overview of tasks, tools, and documentation."
+msgstr ""
 
 #: pro/class-licensing.php:741
 msgid "This license is not valid for this product. Find out why on your account."
@@ -10229,9 +11911,29 @@ msgstr "Denne besked blev genereret af Complianz GDPR/CCPA."
 msgid "This option is recommended in combination with TCF and will store consent data in your database."
 msgstr "Denne indstilling anbefales i kombination med TCF og gemmer data om samtykke i din database."
 
+#: settings/build/1137.9116d7ed316d827154ca.js:1
+#: settings/build/9736.56fe89f91f29aa1ca845.js:1
+msgid "This script contains an async attribute."
+msgstr ""
+
 #: documents/admin-class-documents.php:1033
 msgid "This service does not process any personally identifiable information and does not share any data with the service provider."
 msgstr "Denne tjeneste behandler ingen personligt identificerbare oplysninger og deler ingen data med tjenesteudbyderen."
+
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+#: settings/build/6729.19c8d571a3e5c3f29966.js:1
+msgid "This service has been synchronized with cookiedatabase.org"
+msgstr ""
+
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+#: settings/build/6729.19c8d571a3e5c3f29966.js:1
+msgid "This service has missing fields"
+msgstr ""
+
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+#: settings/build/6729.19c8d571a3e5c3f29966.js:1
+msgid "This service is not synchronized with cookiedatabase.org"
+msgstr ""
 
 #: settings/config/fields/wizard/general.php:244
 msgid "This setting is automatically selected based on your WordPress language setting."
@@ -10264,7 +11966,7 @@ msgstr "Dette websted bruger Privacy Suite for WordPress fra Complianz til at in
 msgid "This will apply an opt-in mechanism for all visitors from Canada, as required by Quebec bill 64."
 msgstr "Dette vil medføre en opt-in-mekanisme for alle besøgende fra Canada, som det kræves i Quebecs lovforslag 64."
 
-#: settings/config/fields/wizard/consent.php:422
+#: settings/config/fields/wizard/consent.php:398
 #, fuzzy
 msgid "This will be fired on marketing consent."
 msgstr "Valgfrit, dette vil blive affyret med markedsføringstilladelse."
@@ -10288,10 +11990,19 @@ msgstr "Dette vil gøre det muligt at stille spørgsmål, der er specifikke for 
 msgid "This will overwrite the Complianz settings in all your subsites with the settings of the current site."
 msgstr "Dette vil overskrive Complianz-indstillingerne på alle dine undersider med indstillingerne på den aktuelle side."
 
+#: settings/build/626.f480d314fd8dc7b49342.js:1
+msgid "This will prevent most cookies from being placed."
+msgstr ""
+
 #: settings/config/fields/tools/data.php:38
 #, fuzzy
 msgid "This will reset all settings to defaults. All data in the Complianz plugin will be deleted!"
 msgstr "Dette vil nulstille alle indstillinger til standard. Alle data i Complianz-pluginet vil blive slettet!"
+
+#: settings/build/17.167316fd23d882d6f968.js:1
+#: settings/build/2980.bcae0257d70db5deed1f.js:1
+msgid "This wizard is intended to provide a general guide to a possible data breach."
+msgstr ""
 
 #: pro/dataleak/type-3/questions.php:140
 msgid "Through which email address can customers make inquiries about your system?"
@@ -10305,7 +12016,7 @@ msgstr "Gennem hvilket telefonnummer, eller hvilken URL, kan kunder stille fores
 msgid "Timeout in seconds"
 msgstr "Timeout i sekunder"
 
-#: config/countries.php:380
+#: config/countries.php:375
 msgid "Timor-Leste"
 msgstr "Østtimor"
 
@@ -10323,6 +12034,10 @@ msgstr "Tips & tricks"
 msgctxt "Title on processing agreement page"
 msgid "Processing Agreement"
 msgstr "Behandlingsaftale"
+
+#: settings/build/5575.d4ac6be3f5cf68515e9c.js:1
+msgid "TLS / SSL"
+msgstr "TLS / SSL"
 
 #: config/purpose.php:8
 msgid "To be able to comply with legal obligations"
@@ -10356,6 +12071,10 @@ msgstr "Læs nedenstående artikel for at finde ud af, hvad Data Breach Reports 
 msgid "To learn what Processing Agreements are and what you need them for, please read the below article"
 msgstr "Læs nedenstående artikel for at finde ud af, hvad Processing Agreements er, og hvad du skal bruge dem til"
 
+#: settings/build/index.8b8c3b6249ec4e641ef3.js:1
+msgid "To prevent conflicts during saving the wizard is temporarily locked."
+msgstr ""
+
 #: pro/tcf/tcf.php:54
 #, fuzzy
 msgid "To provide the best experiences, we and our partners use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us and our partners to process personal data such as browsing behavior or unique IDs on this site and show (non-) personalized ads. Not consenting or withdrawing consent, may adversely affect certain features and functions."
@@ -10383,16 +12102,34 @@ msgstr "For at indsende denne formular skal du acceptere vores erklæring om bes
 msgid "To support services or products that a customer wants to buy or has purchased"
 msgstr "At understøtte tjenester eller produkter, som en kunde ønsker at købe eller har købt"
 
+#: settings/build/8525.14c3539f3bb65689f4cf.js:1
+msgid "To unlock the wizard and future updates, please enter and activate your license."
+msgstr ""
+
+#: settings/build/120.0a4856ee34143f33d913.js:1
+#: settings/build/8447.9685d8b5aee1675df773.js:1
+msgid "To use our newest Website Scan we need to verify your website and confirm your access by email. Register below and get the latest from Complianz!"
+msgstr ""
+
+#: settings/build/3370.37da042d3978ff55958d.js:1
+msgid "To view possible script conflicts on your site, set the SCRIPT_DEBUG constant in your wp-config.php, or install the plugin WP Debugging"
+msgstr ""
+
+#: settings/build/5279.c517d2a887674cc96d3e.js:1
+#: settings/build/7660.b74cc9456ebebac23ba3.js:1
+msgid "Today"
+msgstr ""
+
 #: cookiebanner/settings.php:520
 #: settings/config/menu.php:200
 msgid "Toggles"
 msgstr "Toggles"
 
-#: config/countries.php:381
+#: config/countries.php:376
 msgid "Togo"
 msgstr "Togo"
 
-#: config/countries.php:382
+#: config/countries.php:377
 msgid "Tokelau"
 msgstr "Tokelau"
 
@@ -10400,7 +12137,11 @@ msgstr "Tokelau"
 msgid "Token not retrieved"
 msgstr ""
 
-#: config/countries.php:383
+#: settings/build/7489.a99ddd7d4e814299a771.js:1
+msgid "Token Status: "
+msgstr ""
+
+#: config/countries.php:378
 msgid "Tonga"
 msgstr "Tonga"
 
@@ -10408,45 +12149,65 @@ msgstr "Tonga"
 #: settings/settings.php:338
 #: settings/settings.php:339
 #: settings/build/3518.315ff99b55e8fbc02672.js:1
-#: settings/build/4570.76dcf7267af80a785acb.js:1
-#: settings/build/8596.2c253cf399d8f84c2746.js:1
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
 msgid "Tools"
 msgstr "Værktøj"
+
+#: settings/build/1370.789309e842e46205637a.js:1
+#: settings/build/3549.6a0d39e0d226ff703055.js:1
+#: settings/build/6009.b758b7af5d8f29119d4a.js:1
+msgid "Top"
+msgstr ""
 
 #: settings/config/fields/wizard/consent.php:335
 msgid "Tracking ID"
 msgstr ""
 
-#: config/countries.php:384
+#: config/countries.php:379
 msgid "Trinidad And Tobago"
 msgstr "Trinidad og Tobago"
+
+#: settings/build/2299.004e0d91cb69c61a3c6c.js:1
+#: settings/build/8447.9685d8b5aee1675df773.js:1
+#: settings/build/9877.1db72bd3e9a976e5e467.js:1
+msgid "Try again!"
+msgstr ""
 
 #: websitescan/class-wsc-notices.php:79
 #: websitescan/class-wsc-notices.php:88
 msgid "Try our new Website Scan!"
 msgstr ""
 
-#: config/countries.php:385
+#: config/countries.php:380
 msgid "Tunisia"
 msgstr "Tunesien"
 
-#: config/countries.php:386
+#: config/countries.php:381
 msgid "Turkey"
 msgstr "Tyrkiet"
 
-#: config/countries.php:387
+#: config/countries.php:382
 msgid "Turkmenistan"
 msgstr "Turkmenistan"
 
-#: config/countries.php:388
+#: config/countries.php:383
 msgid "Turks And Caicos Islands"
 msgstr "Turks- og Caicosøerne"
 
-#: config/countries.php:389
+#: config/countries.php:384
 msgid "Tuvalu"
 msgstr "Tuvalu"
 
-#: config/countries.php:390
+#: settings/build/8358.16bba8007f9033303a0d.js:1
+msgid "Type at least two characters"
+msgstr ""
+
+#: settings/build/2827.bb52acfe1aabc1593f7d.js:1
+msgid "Type your question here"
+msgstr ""
+
+#: config/countries.php:385
 msgid "Uganda"
 msgstr "Uganda"
 
@@ -10463,7 +12224,7 @@ msgstr "UK-GDPR"
 msgid "UK-GDPR representative"
 msgstr "UK-GDPR-repræsentant"
 
-#: config/countries.php:391
+#: config/countries.php:386
 msgid "Ukraine"
 msgstr "Ukraine"
 
@@ -10471,12 +12232,16 @@ msgstr "Ukraine"
 msgid "Under CCPA you must show a list of the categories of personal information you have disclosed for a business purpose in the preceding 12 months."
 msgstr "I henhold til CCPA skal du vise en liste over de kategorier af personlige oplysninger, du har videregivet til et forretningsmæssigt formål i de foregående 12 måneder."
 
-#: config/countries.php:392
+#: settings/build/index.8b8c3b6249ec4e641ef3.js:1
+msgid "Unexpected error"
+msgstr ""
+
+#: config/countries.php:387
 msgid "United Arab Emirates"
 msgstr "Forenede Arabiske Emirater"
 
 #: config/countries.php:90
-#: config/countries.php:393
+#: config/countries.php:388
 msgid "United Kingdom"
 msgstr "Det Forenede Kongerige"
 
@@ -10486,13 +12251,17 @@ msgstr "Det Forenede Kongerige (UK-GDPR, PECR, Data Protection Act)"
 
 #: config/countries.php:60
 #: config/countries.php:133
-#: config/countries.php:394
+#: config/countries.php:389
 msgid "United States"
 msgstr "Forenede Stater"
 
-#: config/countries.php:395
+#: config/countries.php:390
 msgid "United States Outlying Islands"
 msgstr "De Forenede Stater ydre øer"
+
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+msgid "Unknown Service"
+msgstr ""
 
 #: cookiebanner/settings.php:398
 msgid "Unlike the regular cookie wall, the soft cookie wall doesn't block visitors that do not deny consent or dismiss the banner. It will however forces a choice before visitors enter your website."
@@ -10506,6 +12275,14 @@ msgstr "ubegrænset"
 msgid "Unlimited activations available."
 msgstr "Ubegrænset antal aktiveringer er tilgængelige."
 
+#: settings/build/1370.789309e842e46205637a.js:1
+msgid "Unlink values"
+msgstr ""
+
+#: settings/build/3430.ae31ab2c342fb4197b19.js:1
+msgid "Update"
+msgstr ""
+
 #: pro/class-licensing.php:301
 #, fuzzy
 msgid "Update to beta versions"
@@ -10514,11 +12291,11 @@ msgstr "Opdatering til betaversioner"
 #: functions.php:1416
 #: settings/build/11.b2eb97694c1948a6884e.js:1
 #: settings/build/4186.e705512d139f60fbc9c1.js:1
-#: settings/build/4570.76dcf7267af80a785acb.js:1
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
 #: settings/build/4644.e14f5e28eb94b8e242e7.js:1
-#: settings/build/8596.2c253cf399d8f84c2746.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
 #: settings/build/9487.e36e1ed4df8b9cfcb7e5.js:1
-#: settings/build/index.31cf1ab07566417a2cf9.js:1
+#: settings/build/index.8b8c3b6249ec4e641ef3.js:1
 msgid "Upgrade"
 msgstr "Opgrader"
 
@@ -10537,6 +12314,10 @@ msgstr "Opgrader til en %sAgency%s-licens."
 msgid "Upgrade to premium"
 msgstr "Opgrader til premium"
 
+#: settings/build/6281.29b489855c47c8fa384d.js:1
+msgid "Upload"
+msgstr ""
+
 #: cookiebanner/settings.php:351
 msgid "Upload Custom Logo"
 msgstr "Upload brugerdefineret logo"
@@ -10550,7 +12331,19 @@ msgstr "Ved ophør af tjenesten opbevarer vi disse data for den følgende period
 msgid "Upon the provision of consent."
 msgstr "Efter at der er givet samtykke."
 
-#: config/countries.php:396
+#: settings/build/1137.9116d7ed316d827154ca.js:1
+#: settings/build/4078.dcc34eaae8ee39546184.js:1
+#: settings/build/9736.56fe89f91f29aa1ca845.js:1
+msgid "URLs that should be blocked before consent."
+msgstr ""
+
+#: settings/build/1137.9116d7ed316d827154ca.js:1
+#: settings/build/4078.dcc34eaae8ee39546184.js:1
+#: settings/build/9736.56fe89f91f29aa1ca845.js:1
+msgid "URLs that should be whitelisted."
+msgstr ""
+
+#: config/countries.php:391
 msgid "Uruguay"
 msgstr "Uruguay"
 
@@ -10588,6 +12381,10 @@ msgstr "Brug webstedets logo"
 msgid "Used by %s vendors"
 msgstr "Brugt af %s leverandører"
 
+#: settings/build/3078.7547fadc99516cff6788.js:1
+msgid "User ID"
+msgstr ""
+
 #: pro/processing-agreements/AU/questions.php:187
 #: pro/processing-agreements/BR/questions.php:185
 #: pro/processing-agreements/CA/questions.php:198
@@ -10608,11 +12405,11 @@ msgstr "Brug af kategorier er obligatorisk"
 msgid "Using Safe Mode"
 msgstr "Brug af fejlsikret tilstand"
 
-#: config/countries.php:153
+#: config/countries.php:148
 msgid "Utah (UCPA)"
 msgstr ""
 
-#: config/countries.php:397
+#: config/countries.php:392
 msgid "Uzbekistan"
 msgstr "Usbekistan"
 
@@ -10624,12 +12421,19 @@ msgstr "Gyldig licens for %s."
 msgid "Valid until %s."
 msgstr "Gyldig indtil %s."
 
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
+#: settings/build/8931.ff6f9141cc74a7f61664.js:1
+#: settings/build/9567.d5a7562fd09f42de8429.js:1
+msgid "Validated"
+msgstr ""
+
 #: upgrade/upgrade-to-pro.php:88
 #, fuzzy
 msgid "Validating license..."
 msgstr "Validering af licens..."
 
-#: config/countries.php:398
+#: config/countries.php:393
 msgid "Vanuatu"
 msgstr "Vanuatu"
 
@@ -10657,13 +12461,27 @@ msgstr "Sælgere"
 msgid "Vendors are required to describe their services. Some vendors list services under 'other' and could be considered to negate transparency."
 msgstr "Leverandører skal beskrive deres ydelser. Nogle leverandører oplister tjenester under \"andet\" og kan anses for at ophæve gennemsigtigheden."
 
-#: config/countries.php:399
+#: config/countries.php:394
 msgid "Venezuela"
 msgstr "Venezuela"
 
-#: config/countries.php:400
+#: config/countries.php:395
 msgid "Viet Nam"
 msgstr "Vietnam"
+
+#: settings/build/3407.0771c9f9733a2fca0117.js:1
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
+#: settings/build/5035.7278ed43f873ee74a6a1.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
+#: settings/build/9684.b0fe68441739b589b1d0.js:1
+msgid "View"
+msgstr ""
+
+#: settings/build/293.00a6441903119ac0fce5.js:1
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
+msgid "View all"
+msgstr ""
 
 #: settings/config/menu.php:391
 #, fuzzy
@@ -10683,6 +12501,12 @@ msgstr "Se og administrer behandlingsaftaler med %sComplianz GDPR Premium%s"
 msgid "View and manage Records of Consent with %sComplianz GDPR Premium%s"
 msgstr "Se og administrer optegnelser over samtykke med %sComplianz GDPR Premium%s"
 
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+#: settings/build/6729.19c8d571a3e5c3f29966.js:1
+#: settings/build/7102.d63e14ead73195579256.js:1
+msgid "View cookie on cookiedatabase.org"
+msgstr ""
+
 #: settings/config/fields/tools/datarequests.php:29
 #, fuzzy
 msgid "View erase options"
@@ -10699,15 +12523,24 @@ msgstr "Se eksportmuligheder"
 msgid "View preferences"
 msgstr "Se præferencer"
 
-#: config/countries.php:401
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+#: settings/build/6729.19c8d571a3e5c3f29966.js:1
+msgid "View service on cookiedatabase.org"
+msgstr ""
+
+#: settings/build/5023.862a204cea176a4c5d91.js:1
+msgid "View services"
+msgstr ""
+
+#: config/countries.php:396
 msgid "Virgin Islands, British"
 msgstr "Jomfruøerne, Britiske"
 
-#: config/countries.php:402
+#: config/countries.php:397
 msgid "Virgin Islands, U.S."
 msgstr "Jomfruøerne, US"
 
-#: config/countries.php:154
+#: config/countries.php:149
 msgid "Virginia (CDPA)"
 msgstr ""
 
@@ -10725,7 +12558,13 @@ msgstr "Besøgende"
 msgid "Vulnerability Detection"
 msgstr "Registrering af sårbarheder"
 
-#: config/countries.php:403
+#: settings/build/1137.9116d7ed316d827154ca.js:1
+#: settings/build/8033.d3664861651654e3f429.js:1
+#: settings/build/9736.56fe89f91f29aa1ca845.js:1
+msgid "waits for: "
+msgstr ""
+
+#: config/countries.php:398
 msgid "Wallis And Futuna"
 msgstr "Wallis og Futuna"
 
@@ -10741,6 +12580,10 @@ msgstr "Er meddelelsen forsinket som følge af en retshåndhævelsesundersøgels
 msgid "We and/or our partners have a legitimate interest for the following two purposes:"
 msgstr "Vi og/eller vores partnere har en legitim interesse i følgende to formål:"
 
+#: settings/build/5575.d4ac6be3f5cf68515e9c.js:1
+msgid "We are committed to the security of personal data. We take appropriate security measures to limit abuse of and unauthorized access to personal data. This ensures that only the necessary persons have access to your data, that access to the data is protected, and that our security measures are regularly reviewed."
+msgstr ""
+
 #: settings/config/menu.php:144
 #, fuzzy
 msgid "We connect to this open-source database using an external API, which sends the results of the cookiescan (a list of found cookies, used plugins and your domain) to cookiedatabase.org, for the sole purpose of providing you with accurate descriptions and keeping them up-to-date on a regular basis."
@@ -10751,15 +12594,23 @@ msgstr "Vi opretter forbindelse til denne open source-database ved hjælp af en 
 msgid "We determine the retention period according to fixed objective criteria: %s"
 msgstr "Vi bestemmer opbevaringsperioden i henhold til faste objektive kriterier: %s"
 
-#: websitescan/class-wsc-scanner.php:1262
-#: websitescan/class-wsc-scanner.php:1271
-#: websitescan/class-wsc-scanner.php:1280
+#: websitescan/class-wsc-scanner.php:1258
+#: websitescan/class-wsc-scanner.php:1267
+#: websitescan/class-wsc-scanner.php:1276
 msgid "We didn’t find a privacy statement. Please <a target=\"_blank\" href=\"{admin_url}\">add a privacy statement</a> that has all the needed elements expected from a privacy statement. Make sure you allow for DSR and Consent Records that respect the data minimization principle as well."
 msgstr ""
 
-#: websitescan/class-wsc-scanner.php:1236
-#: websitescan/class-wsc-scanner.php:1244
-#: websitescan/class-wsc-scanner.php:1252
+#: settings/build/3254.fd37cb64f913bdbea6cf.js:1
+msgid "We found %s active plugin integrations"
+msgstr ""
+
+#: settings/build/3254.fd37cb64f913bdbea6cf.js:1
+msgid "We found %s active service integrations"
+msgstr ""
+
+#: websitescan/class-wsc-scanner.php:1232
+#: websitescan/class-wsc-scanner.php:1240
+#: websitescan/class-wsc-scanner.php:1248
 msgid "We found a privacy statement! Please double-check if your privacy statement has all the needed elements expected from a privacy statement. Make sure you also allow for data request forms and records of consent to support your privacy statement."
 msgstr ""
 
@@ -10767,7 +12618,7 @@ msgstr ""
 msgid "We have a UK-GDPR representative within the United Kingdom"
 msgstr "Vi har en UK-GDPR-repræsentant i Det Forenede Kongerige"
 
-#: config/warnings.php:64
+#: config/warnings.php:70
 #, fuzzy
 msgid "We have added additional support and recommend reviewing your settings."
 msgstr "Vi har tilføjet yderligere support og anbefaler, at du gennemgår dine indstillinger."
@@ -10776,7 +12627,7 @@ msgstr "Vi har tilføjet yderligere support og anbefaler, at du gennemgår dine 
 msgid "We have appointed a GDPR representative within the EU."
 msgstr "Vi har en GDPR-repræsentant i EU"
 
-#: config/warnings.php:220
+#: config/warnings.php:226
 msgid "We have detected the %s plugin on your website."
 msgstr "Vi har fundet %s plugin på dit websted."
 
@@ -10795,9 +12646,9 @@ msgstr "Vi har aktiveret integrationer for plugins og tjenester, men dobbelttjek
 msgid "We have enabled the integrations and possible placeholders."
 msgstr "Vi har aktiveret integrationerne og mulige pladsholdere."
 
-#: websitescan/class-wsc-scanner.php:1152
-#: websitescan/class-wsc-scanner.php:1161
-#: websitescan/class-wsc-scanner.php:1170
+#: websitescan/class-wsc-scanner.php:1148
+#: websitescan/class-wsc-scanner.php:1157
+#: websitescan/class-wsc-scanner.php:1166
 msgid "We have found {technology} on your site and recommend <a target=\"_blank\" href=\"{admin_url}\">enabling</a> Google Consent Mode V2 to optimize your analytics implementation."
 msgstr ""
 
@@ -10844,7 +12695,7 @@ msgstr "Vi opbevarer disse data, indtil tjenesten afsluttes."
 msgid "We retain this data upon termination of the service for the following number of months: %s"
 msgstr "Vi opbevarer disse data ved ophør af tjenesten i det følgende antal måneder: %s"
 
-#: config/warnings.php:212
+#: config/warnings.php:218
 msgid "We see you have enabled Google Maps as a service, but we can't find an integration. You can integrate manually if needed."
 msgstr "Vi kan se, at du har aktiveret Google Maps som en tjeneste, men vi kan ikke finde en integration. Du kan integrere manuelt, hvis det er nødvendigt."
 
@@ -10870,9 +12721,19 @@ msgstr "Vi bruger teknologier som cookies til at gemme og/eller få adgang til e
 msgid "We use telephone or Videochat  to talk to the parent or guardian"
 msgstr "Vi bruger telefon eller videochat til at tale med forælderen eller værgen"
 
+#: settings/build/8447.9685d8b5aee1675df773.js:1
+#: settings/build/9877.1db72bd3e9a976e5e467.js:1
+msgid "We want you to get the most out of Complianz. So over the next week we'll be sending eight tips and tricks to your inbox - be sure to keep a lookout."
+msgstr ""
+
 #: settings/config/fields/wizard/consent.php:162
 msgid "We will add the needed snippets and control consent at the same time."
 msgstr "Vi tilføjer de nødvendige udklip og kontrollerer samtidig samtykke."
+
+#: settings/build/1677.86c36f078e0b19e9d573.js:1
+#: settings/build/8447.9685d8b5aee1675df773.js:1
+msgid "We've sent you an email - all you need to do is confirm your email address and you can start using Complianz."
+msgstr ""
 
 #: pro/settings/fields/dpo.php:84
 #: pro/settings/fields/dpo.php:150
@@ -10897,6 +12758,10 @@ msgstr "Information om webstedet"
 msgid "Website Scan"
 msgstr "Scanning af stedet"
 
+#: settings/build/7489.a99ddd7d4e814299a771.js:1
+msgid "Website Scan Status: "
+msgstr ""
+
 #: pro/processing-agreements/AU/questions.php:32
 #: pro/processing-agreements/BR/questions.php:31
 #: pro/processing-agreements/CA/questions.php:31
@@ -10907,7 +12772,29 @@ msgstr "Scanning af stedet"
 msgid "Website visitors"
 msgstr "Besøgende på webstedet"
 
-#: config/countries.php:404
+#: settings/build/120.0a4856ee34143f33d913.js:1
+#: settings/build/1677.86c36f078e0b19e9d573.js:1
+#: settings/build/2113.a4209111c3cd8cff25f3.js:1
+#: settings/build/2299.004e0d91cb69c61a3c6c.js:1
+#: settings/build/2397.ef27c5b02f4c5dd61711.js:1
+#: settings/build/3424.4e8f9a1912780b76b7ea.js:1
+#: settings/build/5664.efa40f92c92c0aecadb4.js:1
+#: settings/build/6231.39308b683483ef2a1176.js:1
+#: settings/build/8447.9685d8b5aee1675df773.js:1
+#: settings/build/8525.14c3539f3bb65689f4cf.js:1
+#: settings/build/8772.d79f5c48e62ccbfa7772.js:1
+#: settings/build/9056.cad63930d05414427a70.js:1
+#: settings/build/9877.1db72bd3e9a976e5e467.js:1
+msgid "Welcome to Complianz"
+msgstr ""
+
+#: settings/build/3407.0771c9f9733a2fca0117.js:1
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
+msgid "Well done! Your website is ready for your selected regions."
+msgstr ""
+
+#: config/countries.php:399
 msgid "Western Sahara"
 msgstr "Vestsahara"
 
@@ -11142,9 +13029,9 @@ msgstr "Når det er muligt, aktiveres en pladsholder. Du kan også deaktivere el
 msgid "When safe mode is enabled, all integrations will be disabled temporarily, please read the instructions to debug the issue or ask support if needed."
 msgstr "Når fejlsikret tilstand er aktiveret, deaktiveres alle integrationer midlertidigt. Læs venligst instruktionerne for at fejlfinde problemet, eller spørg support, hvis det er nødvendigt."
 
-#: websitescan/class-wsc-scanner.php:1291
-#: websitescan/class-wsc-scanner.php:1299
-#: websitescan/class-wsc-scanner.php:1307
+#: websitescan/class-wsc-scanner.php:1287
+#: websitescan/class-wsc-scanner.php:1295
+#: websitescan/class-wsc-scanner.php:1303
 msgid "When selling with WooCommerce, compliance with privacy laws and customer rights is essential. Complianz simplifies this by generating required documents and managing privacy obligations effectively."
 msgstr ""
 
@@ -11231,6 +13118,12 @@ msgstr "Hvilken situation gælder for hændelsen ovenfor."
 #: pro/settings/fields/disclaimer.php:13
 msgid "Which themes would you like to include in your Disclaimer?"
 msgstr "Hvilke temaer vil du medtage i din ansvarsfraskrivelse?"
+
+#: settings/build/1137.9116d7ed316d827154ca.js:1
+msgid ""
+"Whitelist a script, iframe or plugin\n"
+""
+msgstr ""
 
 #: pro/processing-agreements/AU/questions.php:258
 #: pro/processing-agreements/BR/questions.php:256
@@ -11324,9 +13217,9 @@ msgstr "Uden API skal du manuelt beskrive alle fundne cookies, deres formål, fu
 msgid "Wizard"
 msgstr "Guide"
 
-#: websitescan/class-wsc-scanner.php:1290
-#: websitescan/class-wsc-scanner.php:1298
-#: websitescan/class-wsc-scanner.php:1306
+#: websitescan/class-wsc-scanner.php:1286
+#: websitescan/class-wsc-scanner.php:1294
+#: websitescan/class-wsc-scanner.php:1302
 msgid "WooCommerce"
 msgstr ""
 
@@ -11335,7 +13228,18 @@ msgstr ""
 msgid "WordPress comments"
 msgstr "WordPress-kommentarer"
 
-#: config/countries.php:405
+#: settings/build/1137.9116d7ed316d827154ca.js:1
+#: settings/build/9713.eb51693fdbcb2d0bc134.js:1
+#: settings/build/9736.56fe89f91f29aa1ca845.js:1
+msgid "Write your JavaScript without wrapping it in script tags."
+msgstr ""
+
+#: settings/build/5279.c517d2a887674cc96d3e.js:1
+#: settings/build/7660.b74cc9456ebebac23ba3.js:1
+msgid "Year to date"
+msgstr ""
+
+#: config/countries.php:400
 msgid "Yemen"
 msgstr "Yemen"
 
@@ -11428,14 +13332,35 @@ msgstr "Ja, med Matomo"
 msgid "Yes, with Yandex"
 msgstr "Ja, med Yandex"
 
+#: settings/build/5279.c517d2a887674cc96d3e.js:1
+#: settings/build/7660.b74cc9456ebebac23ba3.js:1
+msgid "Yesterday"
+msgstr ""
+
+#: settings/build/8525.14c3539f3bb65689f4cf.js:1
+msgid "You are ready to start the Wizard. For more information, FAQ, and support, please visit Complianz.io."
+msgstr ""
+
+#: settings/build/626.f480d314fd8dc7b49342.js:1
+msgid "You are using an ad blocker. This will prevent most cookies from being placed. Please run the scan without an adblocker enabled."
+msgstr ""
+
 #: cookiebanner/settings.php:676
 #: settings/config/fields/tools/documents.php:42
 msgid "You can add additional custom CSS here. For tips and CSS lessons, check out our documentation."
 msgstr "Du kan tilføje yderligere brugerdefineret CSS her. Du kan finde tips og CSS-lektioner i vores documentation."
 
 #: settings/config/fields/wizard/consent.php:364
-#: settings/config/fields/wizard/consent.php:447
+#: settings/config/fields/wizard/consent.php:423
 msgid "You can add additional tags, comma separated."
+msgstr ""
+
+#: gutenberg/build/index.js:1
+msgid "You can add custom HTML that requires consent. In the right-side bar you will find the options for this custom block. For instructions, please go to complianz.io/gutenberg for more information."
+msgstr ""
+
+#: gutenberg/build/index.js:1
+msgid "You can add custom HTML to create your own placeholder. This placeholder is visible before consent."
 msgstr ""
 
 #: pro/settings/fields/plugins.php:18
@@ -11472,13 +13397,30 @@ msgstr "Du kan konfigurere Google Tag Manager til Complianz og, hvis det er rele
 msgid "You can configure Hotjar privacy-friendly, if you do this, no consent is required for Hotjar."
 msgstr "Du kan konfigurere Hotjar fortrolighed, hvis du gør dette, kræves der ingen samtykke til Hotjar."
 
+#: settings/build/3430.ae31ab2c342fb4197b19.js:1
+msgid "You can continue to the next step."
+msgstr ""
+
+#: settings/build/2058.1832f4cf65b8f9297b34.js:1
+msgid "You can enable them both here, then you should check your website if your configuration is working properly."
+msgstr ""
+
 #: pro/settings/fields/disclaimer.php:71
 #, fuzzy
 msgid "You can find more information about how we handle WCAG requirements on our website."
 msgstr "Du kan finde mere information om, hvordan vi håndterer WCAG-krav på vores hjemmeside."
 
-#: websitescan/class-wsc-scanner.php:1004
+#: websitescan/class-wsc-scanner.php:1000
 msgid "You can find the most important takeaways below:"
+msgstr ""
+
+#: settings/build/3785.cddaa70cf494e33855b0.js:1
+#: settings/build/6281.29b489855c47c8fa384d.js:1
+msgid "You can only upload .json files"
+msgstr ""
+
+#: settings/build/6281.29b489855c47c8fa384d.js:1
+msgid "You can only upload .pdf, .doc or .docs files"
 msgstr ""
 
 #: pro/tcf/templates/vendorlist.php:12
@@ -11511,6 +13453,10 @@ msgstr "Du kan bruge dette til at eksportere dine indstillinger til et andet ste
 msgid "You can use this to import your settings from another site"
 msgstr "Du kan bruge dette til at importere dine indstillinger fra et andet sted"
 
+#: gutenberg/build/index.js:1
+msgid "You do not have sufficient permissions to edit this block."
+msgstr ""
+
 #: settings/config/fields/wizard/general.php:23
 msgid "You don’t need to configure your website for ‘accidental’ visitors. Only choose the regions your website is intended for."
 msgstr "Du behøver ikke at konfigurere dit websted til 'utilsigtede' besøgende. Vælg kun de regioner, dit websted er beregnet til."
@@ -11525,7 +13471,7 @@ msgstr "Du behøver ikke at konfigurere dit websted til 'utilsigtede' besøgende
 msgid "You have %s installed. We recommend saying 'Yes' to self-hosting Google Fonts"
 msgstr "Du har %s installeret. Vi anbefaler at sige 'Ja' til selvhosting af Google Fonts"
 
-#: config/warnings.php:154
+#: config/warnings.php:160
 msgid "You have a duplicate implementation of your statistics tool on your site."
 msgstr "Du har en duplikatimplementering af dit statistikværktøj på dit websted."
 
@@ -11555,11 +13501,15 @@ msgstr "Du har svaret, at du bruger webformularer på dit websted. Det er ikke a
 msgid "You have chosen a custom Cookie Policy. The TCF option is disabled as it can only be used in combination with the Cookie Policy generated by Complianz."
 msgstr "Du har valgt en tilpasset cookiepolitik. TCF-indstillingen er deaktiveret, da den kun kan bruges i kombination med den cookiepolitik, der er genereret af Complianz."
 
-#: config/warnings.php:143
+#: settings/build/5552.f97d0c6fb99a47d3f852.js:1
+msgid "You have chosen to generate your own Privacy Statement, which means the option to add custom text to it is not applicable."
+msgstr ""
+
+#: config/warnings.php:149
 msgid "You have cookies with incomplete descriptions."
 msgstr "Du har cookies med ufuldstændige beskrivelser."
 
-#: config/warnings.php:54
+#: config/warnings.php:60
 #, fuzzy
 msgid "You have currently selected an informal language, which will result in informal use of language on the legal documents. If you prefer the formal style, you can activate this in the general settings."
 msgstr "Du har i øjeblikket valgt et uformelt sprog, hvilket vil resultere i et uformelt sprogbrug i de juridiske dokumenter. Hvis du foretrækker den formelle stil, kan du aktivere den i de generelle indstillinger."
@@ -11600,6 +13550,10 @@ msgstr "Du har ikke valgt en TCF-region i øjeblikket"
 #, fuzzy
 msgid "You have open data requests."
 msgstr "Du har anmodninger om åbne data."
+
+#: settings/build/5875.6b92a9dadcd331e2f8d5.js:1
+msgid "You have opted out of the use of the Cookiedatabase.org synchronization."
+msgstr ""
 
 #: pro/filters-actions.php:210
 #, fuzzy
@@ -11653,13 +13607,17 @@ msgstr "Du har indikeret, at du ikke bruger tredjeparts cookies. Anvender du plu
 msgid "You haven't accepted the usage of the cookiedatabase.org API. To automatically complete your cookie descriptions, please choose yes."
 msgstr "Du har ikke accepteret brugen af ​​cookiedatabase.org API. Hvis du vil udfylde dine cookie-beskrivelser automatisk, skal du vælge ja i integrationstrinnet."
 
+#: settings/build/3430.ae31ab2c342fb4197b19.js:1
+msgid "You haven't selected any legal documents to create."
+msgstr ""
+
 #: settings/config/fields/tools/placeholders.php:36
 #: settings/config/fields/tools/placeholders.php:60
 #, fuzzy
 msgid "You may remove it if you want."
 msgstr "Du kan fjerne den, hvis du vil."
 
-#: config/warnings.php:273
+#: config/warnings.php:279
 msgid "You might see a notice about Complianz when debugging your WordPress website. Although not a breaking issue, pleasee know we're attending to this issue."
 msgstr ""
 
@@ -11674,6 +13632,18 @@ msgstr "Du skal give en meddelelse til de organisationer, der muligvis kan reduc
 #: pro/dataleak/class-dataleak.php:288
 msgid "You should report this incident to those involved."
 msgstr "Du skal rapportere denne hændelse til de involverede."
+
+#: settings/build/3407.0771c9f9733a2fca0117.js:1
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
+msgid "You still have %s tasks open."
+msgstr ""
+
+#: settings/build/3407.0771c9f9733a2fca0117.js:1
+#: settings/build/4570.68d05577d1b8bdeba1f9.js:1
+#: settings/build/8596.b148f22308da85130280.js:1
+msgid "You still have 1 task open."
+msgstr ""
 
 #: integrations/plugins/beehive.php:42
 #: integrations/plugins/caos-host-analytics-local.php:89
@@ -11692,10 +13662,19 @@ msgstr "Du bruger %s, hvilket betyder, at svaret på dette spørgsmål skal vær
 msgid "You use plugins which place first-party marketing cookies. Complianz cannot only block such cookies if the plugin conforms to the WP Consent API, or you have enabled Consent Per Service"
 msgstr ""
 
+#: settings/build/3424.4e8f9a1912780b76b7ea.js:1
+#: settings/build/8447.9685d8b5aee1675df773.js:1
+msgid "You want more Really Simple Plugins? Select below plugins you'd like to install for free! It only takes 10 seconds.."
+msgstr ""
+
 #: settings/config/menu.php:282
 #, fuzzy
 msgid "You will be redirected to our support form, with the needed information, automatically."
 msgstr "Du vil automatisk blive omdirigeret til vores supportformular med de nødvendige oplysninger."
+
+#: settings/build/2058.1832f4cf65b8f9297b34.js:1
+msgid "You will find tips and tricks on your dashboard after you have configured your consent banner."
+msgstr ""
 
 #: settings/config/fields-notices.php:107
 msgid "You're using Google Tag Manager. This means you need to configure Tag Manager to use the below categories."
@@ -11708,6 +13687,10 @@ msgstr "Du bruger Really Simple SSL Pro, overskrifter, der er aktiveret i Really
 
 #: websitescan/class-wsc-notices.php:98
 msgid "Your authentication is still on pending, check your emails for a confirmation."
+msgstr ""
+
+#: settings/build/626.f480d314fd8dc7b49342.js:1
+msgid "Your browser has the Do Not Track or Global Privacy Control setting enabled."
 msgstr ""
 
 #: pro/tcf/tcf.php:56
@@ -11740,9 +13723,30 @@ msgstr "Din Complianz Premium-licens er ikke blevet aktiveret."
 msgid "Your Complianz Premium license is not valid."
 msgstr "Din Complianz Premium-licens er ikke gyldig."
 
-#: config/warnings.php:135
+#: settings/build/847.4bde3074815e0711ce39.js:1
+#: settings/build/1137.9116d7ed316d827154ca.js:1
+#: settings/build/9736.56fe89f91f29aa1ca845.js:1
+msgid "Your CSS class"
+msgstr ""
+
+#: settings/build/4575.a189db2c712437934bd0.js:1
+msgid "Your Data Requests Export has been completed."
+msgstr ""
+
+#: settings/build/17.167316fd23d882d6f968.js:1
+#: settings/build/2980.bcae0257d70db5deed1f.js:1
+msgid "Your dataleak report:"
+msgstr ""
+
+#: config/warnings.php:141
 msgid "Your documents have not been updated in the past 12 months. Run the wizard to check your settings."
 msgstr "Dine dokumenter er ikke blevet opdateret i de sidste 12 måneder. Kør guiden for at kontrollere dine indstillinger."
+
+#: settings/build/120.0a4856ee34143f33d913.js:1
+#: settings/build/8447.9685d8b5aee1675df773.js:1
+#: settings/build/9877.1db72bd3e9a976e5e467.js:1
+msgid "Your email address"
+msgstr ""
 
 #: pro/settings/fields/imprint.php:35
 msgid "Your email address will be obfuscated on the front-end to prevent spidering."
@@ -11790,6 +13794,10 @@ msgstr "Dit navn"
 msgid "Your PHP version is lower than the recommended PHP version. Some features are not available. Support for this PHP version will be dropped soon."
 msgstr "Din PHP-version er lavere end den anbefalede PHP-version. Nogle funktioner er ikke tilgængelige. Understøttelsen af denne PHP-version ophører snart."
 
+#: settings/build/7161.47d44a77efbd58bfa335.js:1
+msgid "Your Records Of Consent Export has been completed."
+msgstr ""
+
 #: DNSMPD/class-DNSMPD.php:247
 #, fuzzy
 msgid "Your request could not be processed. A request is already in progress for this email address or the form is not complete."
@@ -11803,12 +13811,21 @@ msgstr "Din anmodning er behandlet med succes!"
 msgid "Your request has been sent."
 msgstr ""
 
-#: config/warnings.php:180
+#: settings/build/4575.a189db2c712437934bd0.js:1
+#: settings/build/7161.47d44a77efbd58bfa335.js:1
+msgid "Your selection does not contain any data."
+msgstr ""
+
+#: settings/build/2058.1832f4cf65b8f9297b34.js:1
+msgid "Your site does not require a consent banner. If you think you need a consent banner, please review your wizard settings."
+msgstr ""
+
+#: config/warnings.php:186
 #, fuzzy
 msgid "Your site is not configured to show a consent banner at the moment."
 msgstr "Dit websted er ikke konfigureret til at vise et samtykkebanner i øjeblikket."
 
-#: config/warnings.php:179
+#: config/warnings.php:185
 #, fuzzy
 msgid "Your site requires a consent banner, which has been enabled."
 msgstr "Dit websted kræver et samtykkebanner, som er blevet aktiveret."
@@ -11838,69 +13855,38 @@ msgstr "Dit websted vil vise forhandlere med de specielle funktioner valgt her"
 msgid "Your site will show vendors with the special purposes selected here"
 msgstr "Dit websted vil vise forhandlere med the specielle formål valgt her"
 
-#: config/warnings.php:201
+#: config/warnings.php:207
 #, fuzzy
 msgid "Your uploads folder is not writable. Complianz needs this folder to save the consent banner CSS."
 msgstr "Din uploads-mappe er ikke skrivbar. Complianz skal bruge denne mappe til at gemme samtykkebannerets CSS."
+
+#: settings/build/120.0a4856ee34143f33d913.js:1
+#: settings/build/1677.86c36f078e0b19e9d573.js:1
+#: settings/build/2113.a4209111c3cd8cff25f3.js:1
+#: settings/build/2299.004e0d91cb69c61a3c6c.js:1
+#: settings/build/2397.ef27c5b02f4c5dd61711.js:1
+#: settings/build/3424.4e8f9a1912780b76b7ea.js:1
+#: settings/build/5664.efa40f92c92c0aecadb4.js:1
+#: settings/build/6231.39308b683483ef2a1176.js:1
+#: settings/build/8447.9685d8b5aee1675df773.js:1
+#: settings/build/8772.d79f5c48e62ccbfa7772.js:1
+#: settings/build/9056.cad63930d05414427a70.js:1
+#: settings/build/9877.1db72bd3e9a976e5e467.js:1
+msgid "You’re almost there..."
+msgstr ""
 
 #: config/countries.php:109
 msgid "ZA"
 msgstr "ZA"
 
-#: config/countries.php:406
+#: config/countries.php:401
 msgid "Zambia"
 msgstr "Zambia"
 
-#: config/countries.php:407
+#: config/countries.php:402
 msgid "Zimbabwe"
 msgstr "Zimbabwe"
 
 #: settings/config/fields/general-settings/settings.php:113
 msgid "Disable the monthly site scan, subsequent sync with cookiedatabase.org and compliance reporting."
-msgstr ""
-
-#: config/countries.php:144
-msgid "Delaware (PDPA)"
-msgstr ""
-
-#: config/countries.php:145
-msgid "Iowa (CDPA)"
-msgstr ""
-
-#: config/countries.php:147
-msgid "Nebraska (DPA)"
-msgstr ""
-
-#: config/countries.php:149
-msgid "New Hampshire (DPA)"
-msgstr ""
-
-#: config/countries.php:150
-msgid "New Jersey (DPL)"
-msgstr ""
-
-#: settings/config/fields-notices.php:186
-msgid "TCF enabled: Review customization guidelines"
-msgstr ""
-
-#: settings/config/fields-notices.php:187
-msgid ""
-"You have enabled TCF. Please check the do's and don'ts regarding customizations:\n"
-"\t\t                     <a href='https://complianz.io/customizing-the-tcf-banner/?utm_source=tipstricks&utm_medium=plugin&utm_campaign=articles&utm_id=66&utm_content=tcf' target='_blank'>Read more</a>"
-msgstr ""
-
-#: settings/config/fields/wizard/consent.php:397
-msgid "Do you want to force the script in the header?"
-msgstr ""
-
-#: settings/config/fields/wizard/consent.php:399
-msgid "Yes - (Experimental)"
-msgstr ""
-
-#: settings/config/fields/wizard/consent.php:402
-msgid "It's possible that forcing this script in the header breaks configurations and integrations with other plugins."
-msgstr ""
-
-#: settings/config/fields/wizard/services.php:232
-msgid "Google Advertising Products requires Google CMP Certified Consent Management. If you don't show ads, but use Google Advertising Products with Google Consent Mode, an additional framework is not required. Please be aware that this consent banner has additional guidelines and restricts customization."
 msgstr ""

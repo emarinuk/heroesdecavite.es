@@ -31,16 +31,7 @@ defined( 'ABSPATH' ) || exit;
  */
 class Helper {
 
-	use Api;
-	use Conditional;
-	use Choices;
-	use Post_Type;
-	use Options;
-	use Taxonomy;
-	use WordPress;
-	use Schema;
-	use Analytics;
-	use Content_AI;
+	use Api, Conditional, Choices, Post_Type, Options, Taxonomy, WordPress, Schema, Analytics, Content_AI;
 
 	/**
 	 * Replace `%variables%` with context-dependent value.
@@ -93,17 +84,17 @@ class Helper {
 	 * @deprecated 1.0.34 Use rank_math_register_var_replacement()
 	 * @see rank_math_register_var_replacement()
 	 *
-	 * @param  string $variable  Variable name, for example %custom%. '%' signs are optional.
+	 * @param  string $var       Variable name, for example %custom%. '%' signs are optional.
 	 * @param  mixed  $callback  Replacement callback. Should return value, not output it.
 	 * @param  array  $args      Array with additional title, description and example values for the variable.
 	 *
 	 * @return bool Replacement was registered successfully or not.
 	 */
-	public static function register_var_replacement( $variable, $callback, $args = [] ) {
+	public static function register_var_replacement( $var, $callback, $args = [] ) {
 		_deprecated_function( 'RankMath\Helper::register_var_replacement()', '1.0.34', 'rank_math_register_var_replacement()' );
 		$args['description'] = isset( $args['desc'] ) ? $args['desc'] : '';
-		$args['variable']    = $variable;
-		return rank_math_register_var_replacement( $variable, $args, $callback );
+		$args['variable']    = $var;
+		return rank_math_register_var_replacement( $var, $args, $callback );
 	}
 
 	/**

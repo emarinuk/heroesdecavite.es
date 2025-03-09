@@ -55,7 +55,9 @@ function wpcf7_stripe_enqueue_scripts() {
 		null
 	);
 
-	$assets = include wpcf7_plugin_path( 'modules/stripe/index.asset.php' );
+	$assets = include(
+		wpcf7_plugin_path( 'modules/stripe/index.asset.php' )
+	);
 
 	$assets = wp_parse_args( $assets, array(
 		'dependencies' => array(),

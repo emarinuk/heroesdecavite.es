@@ -14,11 +14,3 @@
 09-02-2025 12:05:32 - INFO  - 8.6.8 - 43,1 MB/512 MB - Eduardo > Saving newsletter 88 from composer
 09-02-2025 12:05:47 - INFO  - 8.6.8 - 43,1 MB/512 MB - Eduardo > Saving newsletter 88 from composer
 09-02-2025 12:06:07 - INFO  - 8.6.8 - 43,2 MB/512 MB - Eduardo > Newsletter 88 restarted
-18-02-2025 10:40:36 - INFO  - 8.7.0 - 23,4 MB/2 GB - Eduardo > Saving newsletter 89 from composer
-18-02-2025 10:40:40 - INFO  - 8.7.0 - 23,4 MB/2 GB - Eduardo > Saving newsletter 89 from composer
-18-02-2025 10:40:50 - INFO  - 8.7.0 - 23,4 MB/2 GB - Eduardo > Saving newsletter: 89
-18-02-2025 10:40:56 - INFO  - 8.7.0 - 23,4 MB/2 GB - Eduardo > Sending newsletter: 89
-18-02-2025 10:41:02 - INFO  - 8.7.0 - 23,4 MB/2 GB - Eduardo > Newsletter 89 paused
-22-02-2025 12:07:09 - INFO  - 8.7.0 - 29,5 MB/2 GB - Eduardo > Saving newsletter 89 from composer
-22-02-2025 12:07:13 - INFO  - 8.7.0 - 29,5 MB/2 GB - Eduardo > Saving newsletter 89 from composer
-22-02-2025 12:07:25 - INFO  - 8.7.0 - 29,5 MB/2 GB - Eduardo > Newsletter 89 restarted

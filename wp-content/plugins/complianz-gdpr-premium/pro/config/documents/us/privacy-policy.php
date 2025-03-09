@@ -129,7 +129,6 @@ $this->pages['us']['privacy-statement']['document_elements'] = array(
                         <li>You may object to the processing.</li>
                         <li>You may request an overview, in a commonly used format, of the data we process about you.</li>
                         <li>You may request correction or deletion of the data if it is incorrect or not or no longer relevant, or to ask to restrict the processing of the data.</li>
-                        <li>You may appeal our decision whenever we refuse to take action on a request and submit a complaint with the competent authority if your appeal is denied.</li>
                       </ol>',
 	),
 	// US States
@@ -327,73 +326,6 @@ $this->pages['us']['privacy-statement']['document_elements'] = array(
 			'us_states' => 'con',
 		],
 	],
-	// Delaware
-	[
-		'numbering' => false,
-		'dropdown-open'  => true,
-		'p' => false,
-		'dropdown-title' => 'Delaware',
-		'content' => '<h4>Right to Data Portability</h4>
-  					  <p>When exercising the right to Access personal data, you have the right to obtain the personal data in a portable and, to the extent technically feasible, readily usable format that allows you to transmit the data to another entity without hindrance. You may exercise this right for free no more than once per calendar year.</p>
-  					  <h4>Right to opt-out</h4>
-  					  <p>You may submit a request directing us not to make certain disclosures of personal information we maintain about you.</p>
-              <p>Under the PDPA this concerns the following purposes:</p>
-              <ol>
-              <li>targeted advertising;</li>
-              <li>the sale of personal data; or</li>
-              <li>profiling in furtherance of decisions that produce legal or similarly significant effects concerning a consumer.</li>
-              </ol>
-              <p>For more information about the possibility of submitting an opt-out request, please refer to our Opt-out preferences page.</p>
-              <h4>Right to obtain a list of third parties to whom the controller has disclosed the consumer’s personal data.</h4>
-              ',
-
-		'dropdown-class' => 'dropdown-privacy-statement',
-		'condition' => [
-			'us_states' => 'del',
-		],
-	],
-	[
-		'numbering' => false,
-		'dropdown-close'  => true,
-		'p' => false,
-		'content' => '',
-		'condition' => [
-			'us_states' => 'del',
-		],
-	],
-	// Iowa
-	[
-		'numbering' => false,
-		'dropdown-open'  => true,
-		'p' => false,
-		'dropdown-title' => 'Iowa',
-		'content' => '<h4>Right to Data Portability</h4>
-  					  <p>When exercising the right to Access personal data, you have the right to obtain the personal data in a portable and, to the extent technically practicable, readily usable format that allows you to transmit the data to another entity without hindrance. You may exercise this right for free no more than two times per calendar year.</p>
-  					  <h4>Right to opt-out</h4>
-  					  <p>You may submit a request directing us not to make certain disclosures of personal information we maintain about you.</p>
-              <p>Under the CDPA this concerns the following purposes:</p>
-              <ol>
-              <li>targeted advertising;</li>
-              <li>the sale of personal data; or</li>
-              <li>the processing of sensitive data.</li>
-              </ol>
-              <p>For more information about the possibility of submitting an opt-out request, please refer to our Opt-out preferences page.</p>
-              ',
-
-		'dropdown-class' => 'dropdown-privacy-statement',
-		'condition' => [
-			'us_states' => 'iow',
-		],
-	],
-	[
-		'numbering' => false,
-		'dropdown-close'  => true,
-		'p' => false,
-		'content' => '',
-		'condition' => [
-			'us_states' => 'iow',
-		],
-	],
 	// montana
 	[
 		'numbering' => false,
@@ -428,40 +360,6 @@ $this->pages['us']['privacy-statement']['document_elements'] = array(
 			'us_states' => 'mon',
 		],
 	],
-	// Nebraska
-	[
-		'numbering' => false,
-		'dropdown-open'  => true,
-		'p' => false,
-		'dropdown-title' => 'Nebraska',
-		'content' => '<h4>Right to Data Portability</h4>
-              <p>When exercising the right to Access personal data, you have the right to obtain the personal data in a portable and, to the extent technically feasible, readily usable format that allows you to transmit the data to another entity without hindrance. You may exercise this right for free no more than two times per calendar year.</p>
-              <h4>Right to opt-out</h4>
-              <p>You may submit a request directing us not to make certain disclosures of personal information we maintain about you.</p>
-              <p>Under the DPA this concerns the following purposes:</p>
-              <ol>
-              <li>targeted advertising;</li>
-              <li>the sale of personal data; or</li>
-              <li>profiling in furtherance of decisions that produce legal or similarly significant effects concerning a consumer.</li>
-              </ol>
-              <p>For more information about the possibility of submitting an opt-out request, please refer to our Opt-out preferences page.</p>
-              ',
-
-		'dropdown-class' => 'dropdown-privacy-statement',
-		'condition' => [
-			'us_states' => 'neb',
-		],
-	],
-	[
-		'numbering' => false,
-		'dropdown-close'  => true,
-		'p' => false,
-		'content' => '',
-		'condition' => [
-			'us_states' => 'neb',
-		],
-	],
-	// Nevada
 	[
 		'numbering' => false,
 		'dropdown-open'  => true,
@@ -469,8 +367,8 @@ $this->pages['us']['privacy-statement']['document_elements'] = array(
 		'dropdown-title' => 'Nevada',
 		'content' => '<h4>Right to opt-out</h4>
               <p>You may submit a request directing us not to make certain disclosures of personal information we maintain about you.</p>
-              <p>Under the Nevada Privacy Law, this concerns the sale of personal data.</p>
               <p>For more information about the possibility of submitting an opt-out request, please refer to our Opt-out preferences page.</p>',
+
 		'dropdown-class' => 'dropdown-privacy-statement',
 		'condition' => [
 			'us_states' => 'nev',
@@ -483,72 +381,6 @@ $this->pages['us']['privacy-statement']['document_elements'] = array(
 		'content' => '',
 		'condition' => [
 			'us_states' => 'nev',
-		],
-	],
-	// New Hampshire
-	[
-		'numbering' => false,
-		'dropdown-open'  => true,
-		'p' => false,
-		'dropdown-title' => 'New Hampshire',
-		'content' => '<h4>Right to Data Portability</h4>
-              <p>When exercising the right to Access personal data, you have the right to obtain the personal data in a portable and, to the extent technically feasible, readily usable format that allows you to transmit the data to another entity without hindrance. You may exercise this right for free no more than once per calendar year.</p>
-              <h4>Right to opt-out</h4>
-              <p>You may submit a request directing us not to make certain disclosures of personal information we maintain about you.</p>
-              <p>Under the DPA this concerns the following purposes:</p>
-              <ol>
-              <li>targeted advertising; or</li>
-              <li>the sale of personal data; or</li>
-              <li>profiling in furtherance of solely automated decisions that produce legal or similarly significant effects concerning a consumer.</li>
-              </ol>
-              <p>For more information about the possibility of submitting an opt-out request, please refer to our Opt-out preferences page.</p>
-              ',
-
-		'dropdown-class' => 'dropdown-privacy-statement',
-		'condition' => [
-			'us_states' => 'new_ham',
-		],
-	],
-	[
-		'numbering' => false,
-		'dropdown-close'  => true,
-		'p' => false,
-		'content' => '',
-		'condition' => [
-			'us_states' => 'new_ham',
-		],
-	],
-	// New Jersey
-	[
-		'numbering' => false,
-		'dropdown-open'  => true,
-		'p' => false,
-		'dropdown-title' => 'New Jersey',
-		'content' => '<h4>Right to Data Portability</h4>
-              <p>When exercising the right to Access personal data, you have the right to obtain the personal data in a portable and, to the extent technically feasible, readily usable format that allows you to transmit the data to another entity without hindrance. You may exercise this right for free no more than once per calendar year.</p>
-              <h4>Right to opt-out</h4>
-              <p>You may submit a request directing us not to make certain disclosures of personal information we maintain about you.</p>
-              <p>Under the DPL this concerns the following purposes:</p>
-              <ol>
-              <li>targeted advertising; or</li>
-              <li>the sale of personal data; or</li>
-              <li>profiling in furtherance of decisions that produce legal or similarly significant effects concerning a consumer.</li>
-              </ol>
-              <p>For more information about the possibility of submitting an opt-out request, please refer to our Opt-out preferences page.</p>
-              ',
-
-		'dropdown-class' => 'dropdown-privacy-statement',
-		'condition' => [
-			'us_states' => 'new_jer',
-		],
-	],
-	[
-		'numbering' => false,
-		'dropdown-close'  => true,
-		'p' => false,
-		'content' => '',
-		'condition' => [
-			'us_states' => 'new_jer',
 		],
 	],
 	// Oregon
@@ -619,7 +451,6 @@ $this->pages['us']['privacy-statement']['document_elements'] = array(
 			'us_states' => 'tex',
 		],
 	],
-	// Utah
 	[
 		'numbering' => false,
 		'dropdown-open'  => true,
@@ -652,7 +483,7 @@ $this->pages['us']['privacy-statement']['document_elements'] = array(
 			'us_states' => 'uta',
 		],
 	],
-	// Virginia
+
 	[
 		'numbering' => false,
 		'dropdown-open'  => true,

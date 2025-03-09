@@ -32,15 +32,6 @@ var WPFormsBuilder = window.WPFormsBuilder || ( function( document, window, $ ) 
 	 */
 	let adding = false;
 
-	/**
-	 * Preview tab.
-	 *
-	 * @since 1.9.4
-	 *
-	 * @type {object|null}
-	 */
-	let previewTab = null;
-
 	// noinspection JSUnusedGlobalSymbols
 	const app = {
 		/* eslint-disable camelcase */
@@ -286,8 +277,6 @@ var WPFormsBuilder = window.WPFormsBuilder || ( function( document, window, $ ) 
 			app.dropdownField.init();
 
 			app.iconChoices.init();
-
-			app.disabledFields.init();
 
 			app.checkEmptyDynamicChoices();
 
@@ -1137,8 +1126,7 @@ var WPFormsBuilder = window.WPFormsBuilder || ( function( document, window, $ ) 
 		 * @param {Object} event Input event.
 		 */
 		changeNumberSliderStep( event ) {
-			const $el = $( this );
-			const value = parseFloat( $el.val() );
+			const value = parseFloat( event.target.value );
 
 			if ( isNaN( value ) ) {
 				return;
@@ -1148,14 +1136,18 @@ var WPFormsBuilder = window.WPFormsBuilder || ( function( document, window, $ ) 
 				return;
 			}
 
-			const $options = $( $el ).closest( '.wpforms-field-option' );
-			const max = parseFloat( $options.find( '.wpforms-number-slider-max' ).val() );
-			const min = parseFloat( $options.find( '.wpforms-number-slider-min' ).val() );
-			const maxStep = ( max - min ).toFixed( 2 );
+			const max = parseFloat( event.target.max );
 
-			if ( value > maxStep ) {
-				event.target.value = maxStep;
-				$el.trigger( 'input' );
+			if ( value > max ) {
+				event.target.value = max;
+
+				return;
+			}
+
+			const min = parseFloat( event.target.min );
+
+			if ( value < min ) {
+				event.target.value = min;
 
 				return;
 			}
@@ -1163,7 +1155,7 @@ var WPFormsBuilder = window.WPFormsBuilder || ( function( document, window, $ ) 
 			const fieldID = $( event.target ).parents( '.wpforms-field-option-row' ).data( 'fieldId' );
 			const defaultValue = $( '#wpforms-field-option-' + fieldID + '-default_value' ).val();
 
-			app.checkMultiplicitySliderDefaultValue( fieldID, defaultValue, value, min )
+			app.checkMultiplicitySliderDefaultValue( fieldID, defaultValue, value )
 				.updateNumberSliderAttr( fieldID, value, 'step' )
 				.updateNumberSliderDefaultValueAttr( fieldID, value, 'step' );
 		},
@@ -1176,42 +1168,23 @@ var WPFormsBuilder = window.WPFormsBuilder || ( function( document, window, $ ) 
 		 * @param {string} fieldId Field ID.
 		 * @param {number} value   Default value.
 		 * @param {number} step    Step value.
-		 * @param {number} min     Min value.
 		 *
 		 * @return {Object} App instance.
 		 */
-		checkMultiplicitySliderDefaultValue( fieldId, value, step, min ) {
+		checkMultiplicitySliderDefaultValue( fieldId, value, step ) {
 			const $printSelector = $( `#wpforms-field-option-row-${ fieldId }-default_value` );
-			value = parseFloat( value );
 
-			if ( value % step === 0 ) {
+			if ( value % step !== 0 ) {
+				const message = wpforms_builder.number_slider_error_valid_default_value;
+				const closestSmallerMultiple = Math.floor( value / step ) * step;
+				const closestLargerMultiple = Math.ceil( value / step ) * step;
+
+				const updatedMessage = message.replace( '{from}', closestSmallerMultiple ).replace( '{to}', closestLargerMultiple );
+
+				app.printNotice( updatedMessage, $printSelector );
+			} else {
 				app.removeNotice( $printSelector );
-
-				return this;
 			}
-
-			const closestSmallerMultiple = min + ( Math.floor( ( value - min ) / step ) * step );
-			const closestLargerMultiple = min + ( Math.ceil( ( value - min ) / step ) * step );
-
-			const formatNumber = ( num ) => ( num % 1 === 0 ? num.toString() : num.toFixed( 2 ) );
-
-			const normalizedValue = formatNumber( value );
-			const normalizedSmaller = formatNumber( closestSmallerMultiple );
-			const normalizedLarger = formatNumber( closestLargerMultiple );
-
-			if ( normalizedSmaller === normalizedLarger ||
-				normalizedSmaller === normalizedValue ||
-				normalizedLarger === normalizedValue
-			) {
-				app.removeNotice( $printSelector );
-				return this;
-			}
-
-			const updatedMessage = wpforms_builder.number_slider_error_valid_default_value
-				.replace( '{from}', normalizedSmaller )
-				.replace( '{to}', normalizedLarger );
-
-			app.printNotice( updatedMessage, $printSelector );
 
 			return this;
 		},
@@ -1293,10 +1266,9 @@ var WPFormsBuilder = window.WPFormsBuilder || ( function( document, window, $ ) 
 				event.target.value = newValue;
 
 				const step = parseFloat( event.target.step );
-				const min = parseFloat( event.target.min );
 				const fieldID = $( event.target ).parents( '.wpforms-field-option-row-default_value' ).data( 'fieldId' );
 
-				app.checkMultiplicitySliderDefaultValue( fieldID, newValue, step, min )
+				app.checkMultiplicitySliderDefaultValue( fieldID, newValue, step )
 					.updateNumberSlider( fieldID, newValue )
 					.updateNumberSliderHint( fieldID, newValue );
 			}
@@ -1332,7 +1304,7 @@ var WPFormsBuilder = window.WPFormsBuilder || ( function( document, window, $ ) 
 				const step = parseFloat( event.target.step );
 				const fieldID = $( event.target ).parents( '.wpforms-field-option-row-default_value' ).data( 'fieldId' );
 
-				app.checkMultiplicitySliderDefaultValue( fieldID, value, step, min )
+				app.checkMultiplicitySliderDefaultValue( fieldID, value, step )
 					.updateNumberSlider( fieldID, value )
 					.updateNumberSliderHint( fieldID, value );
 			}
@@ -1360,10 +1332,12 @@ var WPFormsBuilder = window.WPFormsBuilder || ( function( document, window, $ ) 
 
 				if ( 'max' === attr && value > newValue ) {
 					input.value = newValue;
+					$( input ).trigger( 'input' );
 				}
 
 				if ( 'min' === attr && value < newValue ) {
 					input.value = newValue;
+					$( input ).trigger( 'input' );
 				}
 			}
 
@@ -1692,36 +1666,6 @@ var WPFormsBuilder = window.WPFormsBuilder || ( function( document, window, $ ) 
 
 			// General/ global.
 			app.bindUIActionsGeneral();
-
-			// Preview actions.
-			app.bindUIActionsPreview();
-		},
-
-		/**
-		 * Bind UI actions for the preview tab.
-		 *
-		 * @since 1.9.4
-		 */
-		bindUIActionsPreview() {
-			// Open preview tab or focus on it if it's already opened.
-			elements.$previewButton.on( 'click', function( e ) {
-				e.preventDefault();
-
-				const previewUrl = $( this ).attr( 'href' );
-
-				if ( previewTab && ! previewTab.closed && previewTab.location.href.includes( 'wpforms_form_preview' ) ) {
-					previewTab.focus();
-				} else {
-					previewTab = window.open( previewUrl, '_blank' );
-				}
-			} );
-
-			// Reload preview tab after saving the form.
-			$builder.on( 'wpformsSaved', function() {
-				if ( previewTab && ! previewTab.closed && previewTab.location.href.includes( 'wpforms_form_preview' ) ) {
-					previewTab.location.reload();
-				}
-			} );
 		},
 
 		//--------------------------------------------------------------------//
@@ -2178,8 +2122,6 @@ var WPFormsBuilder = window.WPFormsBuilder || ( function( document, window, $ ) 
 
 				$group.siblings( '.wpforms-field-option-group' ).removeClass( 'active' );
 				$group.addClass( 'active' );
-
-				$builder.trigger( 'wpformsFieldOptionGroupToggled', [ $group ] );
 			} );
 
 			// Display toggle for an Address field hide address line 2 option.
@@ -3825,7 +3767,7 @@ var WPFormsBuilder = window.WPFormsBuilder || ( function( document, window, $ ) 
 								return;
 							}
 
-							const newFieldId = app.fieldDuplicateRoutine( id, true ),
+							const newFieldId = app.fieldDuplicateRoutine( id ),
 								$newField = $( `#wpforms-field-${ newFieldId }` );
 
 							// Lastly, update the next ID stored in the database.
@@ -3864,12 +3806,11 @@ var WPFormsBuilder = window.WPFormsBuilder || ( function( document, window, $ ) 
 		 *
 		 * @since 1.7.7
 		 *
-		 * @param {number|string} id          Field ID.
-		 * @param {boolean}       changeLabel Is it necessary to change the label and add a copy suffix.
+		 * @param {number|string} id Field ID.
 		 *
 		 * @return {number} New field ID.
 		 */
-		fieldDuplicateRoutine( id, changeLabel = true ) { // eslint-disable-line max-lines-per-function, complexity
+		fieldDuplicateRoutine( id ) { // eslint-disable-line max-lines-per-function, complexity
 			const $field = $( `#wpforms-field-${ id }` ),
 				$fieldOptions = $( `#wpforms-field-option-${ id }` ),
 				$fieldActive = elements.$sortableFieldsWrap.find( '>.active' ),
@@ -4015,9 +3956,7 @@ var WPFormsBuilder = window.WPFormsBuilder || ( function( document, window, $ ) 
 			const $newFieldLabel = type === 'html' ? $( `#wpforms-field-option-${ newFieldID }-name` ) : $( `#wpforms-field-option-${ newFieldID }-label` );
 
 			// Adjust the label to indicate this is a copy.
-			if ( changeLabel ) {
-				$newFieldLabel.val( newFieldLabel ).trigger( 'input' );
-			}
+			$newFieldLabel.val( newFieldLabel ).trigger( 'input' );
 
 			// Fire field adds custom event.
 			$builder.trigger( 'wpformsFieldAdd', [ newFieldID, type ] );
@@ -5286,9 +5225,6 @@ var WPFormsBuilder = window.WPFormsBuilder || ( function( document, window, $ ) 
 				// Hide AI Choices button.
 				$basicOptions.find( '.wpforms-ai-choices-button' ).addClass( 'wpforms-hidden' );
 
-				// Hide tooltip.
-				$choices.find( '.wpforms-help-tooltip' ).addClass( 'wpforms-hidden' );
-
 				const data = {
 					type: value,
 					field_id: id, // eslint-disable-line camelcase
@@ -5339,9 +5275,6 @@ var WPFormsBuilder = window.WPFormsBuilder || ( function( document, window, $ ) 
 
 			// Show AI Choices button.
 			$basicOptions.find( '.wpforms-ai-choices-button' ).removeClass( 'wpforms-hidden' );
-
-			// Show tooltip.
-			$choices.find( '.wpforms-help-tooltip' ).removeClass( 'wpforms-hidden' );
 
 			const $wpformsField = $( '#wpforms-field-' + id );
 
@@ -6376,8 +6309,6 @@ var WPFormsBuilder = window.WPFormsBuilder || ( function( document, window, $ ) 
 
 			// Toggle Add new notification button.
 			$( '.wpforms-notifications-add' ).toggleClass( 'wpforms-hidden', ! $enabled );
-
-			$builder.trigger( 'wpformsNotificationsToggle', [ $enabled ] );
 
 			$enabled ? $settingsBlock.show() : $settingsBlock.hide();
 		},
@@ -8359,64 +8290,6 @@ var WPFormsBuilder = window.WPFormsBuilder || ( function( document, window, $ ) 
 					// eslint-disable-next-line no-console
 					console.log( xhr.responseText );
 				} );
-		},
-
-		/**
-		 * Disabled fields.
-		 * Addon fields in Lite initialization.
-		 *
-		 * @since 1.9.4
-		 */
-		disabledFields: {
-			init() {
-				app.disabledFields.initCouponsChoicesJS();
-				app.disabledFields.initFileUploadChoicesJS();
-			},
-
-			/**
-			 * Initialize Choices.js for the Coupon field.
-			 *
-			 * @since 1.9.4
-			 */
-			initCouponsChoicesJS() {
-				if ( typeof window.Choices !== 'function' || WPForms.Admin.Builder.Coupons ) {
-					return;
-				}
-
-				$( '.wpforms-field-option-row-allowed_coupons select:not(.choices__input)' ).each( function() {
-					const $select = $( this );
-					const choicesInstance = new Choices(
-						$select.get( 0 ),
-						{
-							shouldSort: false,
-							removeItemButton: true,
-							renderChoicesLimit: 5,
-							callbackOnInit() {
-								wpf.showMoreButtonForChoices( this.containerOuter.element );
-							},
-						} );
-
-					// Save Choices.js instance for future access.
-					$select.data( 'choicesjs', choicesInstance );
-				} );
-			},
-
-			/**
-			 * Initialize Choices.js for the File Upload field.
-			 *
-			 * @since 1.9.4
-			 */
-			initFileUploadChoicesJS() {
-				if ( typeof window.Choices !== 'function' || WPForms.Admin.Builder.FieldFileUpload ) {
-					return;
-				}
-
-				const $selects = $( '.wpforms-file-upload-user-roles-select, .wpforms-file-upload-user-names-select' );
-
-				$selects.each( function() {
-					new Choices( $( this )[ 0 ], { removeItemButton: true } );
-				} );
-			},
 		},
 
 		//--------------------------------------------------------------------//

@@ -1,12 +1,5 @@
 <?php
 
-// phpcs:disable Generic.Commenting.DocComment.MissingShort
-/** @noinspection PhpIllegalPsrClassPathInspection */
-/** @noinspection AutoloadingIssuesInspection */
-// phpcs:enable Generic.Commenting.DocComment.MissingShort
-
-use WPForms\Admin\Notice;
-
 if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
@@ -25,20 +18,9 @@ class WPForms_Review {
 	 */
 	public function __construct() {
 
-		$this->hooks();
-	}
-
-	/**
-	 * Hooks.
-	 *
-	 * @since 1.9.4
-	 *
-	 * @return void
-	 */
-	private function hooks(): void {
-
 		// Admin notice requesting review.
 		add_action( 'admin_init', [ $this, 'review_request' ] );
+		add_action( 'wp_ajax_wpforms_review_dismiss', [ $this, 'review_dismiss' ] );
 
 		// Admin footer text.
 		add_filter( 'admin_footer_text', [ $this, 'admin_footer' ], 1, 2 );
@@ -52,14 +34,19 @@ class WPForms_Review {
 	 */
 	public function review_request() {
 
-		if (
-			// Only consider showing the review request to admin users.
-			! is_super_admin() ||
-			// If the user has opted out of product announcement notifications, don't display the review request.
-			wpforms_setting( 'hide-announcements' ) ||
-			// Do not show the review request on Addons page.
-			wpforms_is_admin_page( 'addons' )
-		) {
+		// Only consider showing the review request to admin users.
+		if ( ! is_super_admin() ) {
+			return;
+		}
+
+		// If the user has opted out of product announcement notifications, don't
+		// display the review request.
+		if ( wpforms_setting( 'hide-announcements', false ) ) {
+			return;
+		}
+
+		// Do not show the review request on Addons page.
+		if ( wpforms_is_admin_page( 'addons' ) ) {
 			return;
 		}
 
@@ -81,9 +68,12 @@ class WPForms_Review {
 
 		// Check if it has been dismissed or not.
 		if (
-			isset( $notices['review_request']['dismissed'], $notices['review_request']['time'] ) &&
-			! $notices['review_request']['dismissed'] &&
-			( ( $notices['review_request']['time'] + DAY_IN_SECONDS ) <= $time )
+			( isset( $notices['review_request']['dismissed'] ) &&
+			! $notices['review_request']['dismissed'] ) &&
+			(
+				isset( $notices['review_request']['time'] ) &&
+				( ( $notices['review_request']['time'] + DAY_IN_SECONDS ) <= $time )
+			)
 		) {
 			$load = true;
 		}
@@ -93,8 +83,8 @@ class WPForms_Review {
 			return;
 		}
 
-		// The Logic is slightly different depending on what's at our disposal.
-		if ( class_exists( 'WPForms_Entry_Handler', false ) && wpforms()->is_pro() ) {
+		// Logic is slightly different depending on what's at our disposal.
+		if ( wpforms()->is_pro() && class_exists( 'WPForms_Entry_Handler', false ) ) {
 			$this->review();
 		} else {
 			$this->review_lite();
@@ -109,8 +99,7 @@ class WPForms_Review {
 	public function review() {
 
 		// Fetch total entries.
-		$entry_handler = wpforms()->obj( 'entry' );
-		$entries       = $entry_handler ? $entry_handler->get_entries( [ 'number' => 50 ], true ) : 0;
+		$entries = wpforms()->obj( 'entry' )->get_entries( [ 'number' => 50 ], true );
 
 		// Only show review request if the site has collected at least 50 entries.
 		if ( empty( $entries ) || $entries < 50 ) {
@@ -122,10 +111,10 @@ class WPForms_Review {
 		// We have a candidate! Output a review message.
 		$this->review_content();
 
-		Notice::info(
+		\WPForms\Admin\Notice::info(
 			ob_get_clean(),
 			[
-				'dismiss' => Notice::DISMISS_GLOBAL,
+				'dismiss' => \WPForms\Admin\Notice::DISMISS_GLOBAL,
 				'slug'    => 'review_request',
 				'autop'   => false,
 				'class'   => 'wpforms-review-notice',
@@ -149,7 +138,7 @@ class WPForms_Review {
 		$activated = (array) get_option( 'wpforms_activated', [] );
 
 		if ( ! empty( $activated['lite'] ) ) {
-			// Only continue if the plugin has been installed for at least 14 days.
+			// Only continue if plugin has been installed for at least 14 days.
 			if ( ( $activated['lite'] + ( DAY_IN_SECONDS * 14 ) ) > time() ) {
 				return;
 			}
@@ -182,10 +171,10 @@ class WPForms_Review {
 		// We have a candidate! Output a review message.
 		$this->review_content();
 
-		Notice::info(
+		\WPForms\Admin\Notice::info(
 			ob_get_clean(),
 			[
-				'dismiss' => Notice::DISMISS_GLOBAL,
+				'dismiss' => \WPForms\Admin\Notice::DISMISS_GLOBAL,
 				'slug'    => 'review_lite_request',
 				'autop'   => false,
 				'class'   => 'wpforms-review-notice',
@@ -210,7 +199,27 @@ class WPForms_Review {
 	}
 
 	/**
-	 * When a user is on a WPForms related admin page, display footer text
+	 * Dismiss the review admin notice.
+	 *
+	 * @deprecated 1.6.7.1
+	 *
+	 * @since 1.3.2
+	 */
+	public function review_dismiss() {
+
+		_deprecated_function( __METHOD__, '1.6.7.1 of the WPForms plugin' );
+
+		$review              = get_option( 'wpforms_review', [] );
+		$review['time']      = time();
+		$review['dismissed'] = true;
+
+		update_option( 'wpforms_review', $review );
+
+		die;
+	}
+
+	/**
+	 * When user is on a WPForms related admin page, display footer text
 	 * that graciously asks them to rate us.
 	 *
 	 * @since 1.3.2
@@ -218,7 +227,6 @@ class WPForms_Review {
 	 * @param string $text Footer text.
 	 *
 	 * @return string
-	 * @noinspection HtmlUnknownTarget
 	 */
 	public function admin_footer( $text ) {
 
@@ -253,7 +261,7 @@ class WPForms_Review {
 	 */
 	public function promote_wpforms() {
 
-		// Some 3rd-party addons may use page slugs that start with `wpforms-` (e.g., WPForms Views),
+		// Some 3rd-party addons may use page slugs that start with `wpforms-` (e.g. WPForms Views),
 		// so we should define exact pages we want the footer to be displayed on instead
 		// of targeting any page that looks like a WPForms page.
 		$plugin_pages = [

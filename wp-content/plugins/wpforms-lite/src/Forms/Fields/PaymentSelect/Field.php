@@ -2,14 +2,12 @@
 
 namespace WPForms\Forms\Fields\PaymentSelect;
 
-use WPForms_Field;
-
 /**
  * Dropdown payment field.
  *
  * @since 1.8.2
  */
-class Field extends WPForms_Field {
+class Field extends \WPForms_Field {
 
 	/**
 	 * Classic (old) style.
@@ -18,7 +16,7 @@ class Field extends WPForms_Field {
 	 *
 	 * @var string
 	 */
-	public const STYLE_CLASSIC = 'classic';
+	const STYLE_CLASSIC = 'classic';
 
 	/**
 	 * Modern style.
@@ -27,7 +25,7 @@ class Field extends WPForms_Field {
 	 *
 	 * @var string
 	 */
-	public const STYLE_MODERN = 'modern';
+	const STYLE_MODERN = 'modern';
 
 	/**
 	 * Primary class constructor.
@@ -59,10 +57,6 @@ class Field extends WPForms_Field {
 				'value'   => '50',
 				'default' => '',
 			],
-		];
-
-		$this->default_settings = [
-			'choices' => $this->defaults,
 		];
 
 		$this->hooks();
@@ -99,7 +93,7 @@ class Field extends WPForms_Field {
 	 *
 	 * @return array
 	 */
-	public function field_properties( $properties, $field, $form_data ) { // phpcs:ignore Generic.Metrics.CyclomaticComplexity.TooHigh
+	public function field_properties( $properties, $field, $form_data ) {
 
 		// Remove primary input.
 		unset( $properties['inputs']['primary'] );
@@ -152,7 +146,7 @@ class Field extends WPForms_Field {
 			];
 		}
 
-		// Add a class that changes the field size.
+		// Add class that changes the field size.
 		if ( ! empty( $field['size'] ) ) {
 			$properties['input_container']['class'][] = 'wpforms-field-' . esc_attr( $field['size'] );
 		}
@@ -192,7 +186,7 @@ class Field extends WPForms_Field {
 	 */
 	protected function get_field_populated_single_property_value( $raw_value, $input, $properties, $field ) {
 		/*
-		 * When the form is submitted, we get from Fallback only values (choice ID).
+		 * When the form is submitted we get from Fallback only values (choice ID).
 		 * As payment-dropdown field doesn't support 'show_values' option -
 		 * we should transform value into label to check against using general logic in parent method.
 		 */
@@ -371,8 +365,7 @@ class Field extends WPForms_Field {
 	 * @param array $field      Field data and settings.
 	 * @param array $deprecated Deprecated array of field attributes.
 	 * @param array $form_data  Form data and settings.
-	 *
-	 * @noinspection HtmlUnknownAttribute*/
+	 */
 	public function field_display( $field, $deprecated, $form_data ) { // phpcs:ignore Generic.Metrics.CyclomaticComplexity.MaxExceeded
 
 		$container         = $field['properties']['input_container'];
@@ -431,8 +424,10 @@ class Field extends WPForms_Field {
 
 		// Format string for option.
 		if ( $is_modern ) {
-			// The `data-custom-properties` is a Choices.js attribute, and it stores a copy of `data-amount` attribute.
+
+			// `data-custom-properties` - it's a Choices.js attribite and it store a copy of `data-amount` attribute.
 			$option_format = '<option value="%1$s" data-amount="%2$s" data-custom-properties="%2$s" %3$s>%4$s</option>';
+
 		} else {
 			$option_format = '<option value="%1$s" data-amount="%2$s" %3$s>%4$s</option>';
 		}
@@ -440,11 +435,9 @@ class Field extends WPForms_Field {
 		// Build the select options.
 		foreach ( $choices as $key => $choice ) {
 			$amount = wpforms_format_amount( wpforms_sanitize_amount( $choice['attr']['value'] ) );
-			$label  = $choice['label']['text'] ?? '';
-
+			$label  = isset( $choice['label']['text'] ) ? $choice['label']['text'] : '';
 			/* translators: %s - item number. */
-			$label = $label !== '' ? $label : sprintf( esc_html__( 'Item %s', 'wpforms-lite' ), $key );
-
+			$label  = $label !== '' ? $label : sprintf( esc_html__( 'Item %s', 'wpforms-lite' ), $key );
 			$label .= ! empty( $field['show_price_after_labels'] ) && isset( $choice['attr']['value'] ) ? ' - ' . wpforms_format_amount( wpforms_sanitize_amount( $choice['attr']['value'] ), true ) : '';
 
 			printf(
@@ -462,7 +455,7 @@ class Field extends WPForms_Field {
 	}
 
 	/**
-	 * Validate field on submitting the form.
+	 * Validate field on form submit.
 	 *
 	 * @since 1.8.2
 	 *
@@ -605,10 +598,11 @@ class Field extends WPForms_Field {
 		$is_field_style = false;
 
 		if ( empty( $form['fields'] ) ) {
-			return false;
+			return $is_field_style;
 		}
 
 		foreach ( (array) $form['fields'] as $field ) {
+
 			if (
 				! empty( $field['type'] ) &&
 				$field['type'] === $this->type &&
@@ -627,11 +621,11 @@ class Field extends WPForms_Field {
 	/**
 	 * Get field name for an ajax error message.
 	 *
-	 * @since        1.8.2
+	 * @since 1.8.2
 	 *
-	 * @param string|mixed    $name  Field name for error triggered.
-	 * @param array           $field Field settings.
-	 * @param array           $props List of properties.
+	 * @param string|mixed $name Field name for error triggered.
+	 * @param array $field Field settings.
+	 * @param array $props List of properties.
 	 * @param string|string[] $error Error message.
 	 *
 	 * @return string

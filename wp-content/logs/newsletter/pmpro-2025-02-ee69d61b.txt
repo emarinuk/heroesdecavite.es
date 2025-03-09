@@ -13,4 +13,3 @@
 10-02-2025 15:31:36 - DEBUG - 8.7.0 - 15,9 MB/512 MB - NL.garrido > Checking user ID 64
 10-02-2025 15:31:36 - DEBUG - 8.7.0 - 15,9 MB/512 MB - NL.garrido > Subscriber not found
 15-02-2025 01:25:04 - INFO  - 8.7.0 - 152,1 MB/ - [cron] > Weekly check for pmpro
-22-02-2025 01:25:05 - INFO  - 8.7.0 - 135,8 MB/ - [cron] > Weekly check for pmpro

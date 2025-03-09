@@ -23,8 +23,7 @@ defined( 'ABSPATH' ) || exit;
  */
 class Frontend_SEO_Score {
 
-	use Hooker;
-	use Shortcode;
+	use Hooker, Shortcode;
 
 	/**
 	 * SEO Score.
@@ -225,9 +224,10 @@ class Frontend_SEO_Score {
 	/**
 	 * Show field check callback.
 	 *
+	 * @param  CMB2_Field $field The current field.
 	 * @return boolean
 	 */
-	public static function show_on() {
+	public static function show_on( $field = [] ) {
 		// Early Bail if is sttic homepage.
 		if ( Admin_Helper::is_home_page() ) {
 			return false;

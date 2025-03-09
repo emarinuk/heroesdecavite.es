@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - Advanced Custom Fields (ACF®) - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-17 14:55:46+0000\n"
+"PO-Revision-Date: 2025-02-05 09:30:43+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -7013,7 +7013,7 @@ msgstr[1] "Inactive <span class=\"count\">(%s)</span>"
 
 #: acf.php:471
 msgid "No Fields found in Trash"
-msgstr "No Fields found in Bin"
+msgstr "No Fields found in bin"
 
 #: acf.php:470
 msgid "No Fields found"

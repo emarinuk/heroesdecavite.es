@@ -25,8 +25,7 @@ defined( 'ABSPATH' ) || exit;
  */
 class Setup_Wizard {
 
-	use Hooker;
-	use Wizard;
+	use Hooker, Wizard;
 
 	/**
 	 * Hold steps data.

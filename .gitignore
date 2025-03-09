@@ -1,71 +1,53 @@
-# 🔹 Ignorar archivos de sistema y ocultos
-.DS_Store
-Thumbs.db
-*.log
-*.bak
-*.swp
-*.swo
-*.swn
-*.sublime-project
-*.sublime-workspace
-*.vscode/
+# WordPress core (el comentado es porque lo queremos incluir)
+# wp-admin/
+# wp-includes/
+# wp-content/
 
-# 🔹 Ignorar WordPress Core (si lo gestionas con Composer o WP-CLI)
-#wp-admin/
-#wp-includes/
-readme.html
-license.txt
-
-# 🔹 Ignorar archivos de configuración sensibles
+# Archivos de configuración
 wp-config.php
-wp-config-sample.php
-wp-content/advanced-cache.php
-wp-content/wp-cache-config.php
-wp-content/debug.log
+wp-config-*.php
 .htaccess
 
-# 🔹 Ignorar plugins y temas (opcional, si no los manejas con Git)
-#wp-content/plugins/
-#wp-content/mu-plugins/
-#wp-content/themes/twentytwenty*/
-
-# 🔹 Permitir tu propio tema y plugins personalizados (descomentar si los versionas)
-# !wp-content/plugins/mi-plugin-personalizado/
-# !wp-content/themes/mi-tema-personalizado/
-
-# 🔹 Ignorar subidas y caché
+# Archivos de contenido generados
 wp-content/uploads/
-wp-content/cache/
-wp-content/backup-db/
 wp-content/upgrade/
+wp-content/backup-db/
+wp-content/backups/
+wp-content/blogs.dir/
+wp-content/cache/
+wp-content/mu-plugins/
+wp-content/wp-cache-config.php
+wp-content/plugins/hello.php
 
-# 🔹 Ignorar dependencias de herramientas
-node_modules/
-vendor/
-composer.lock
-package-lock.json
-yarn.lock
-
-# 🔹 Ignorar bases de datos locales y exportaciones
+# Archivos del sistema
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.log
 *.sql
 *.sqlite
-*.db
-*.db-journal
 *.tar.gz
 *.zip
-*.gz
-*.rar
-*.7z
 
-# 🔹 Ignorar archivos de compilación (para themes/plugins personalizados)
-*.sass-cache/
-*.map
-*.min.css
-*.min.js
-dist/
-build/
+# Archivos del sistema operativo
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.idea/
+.vscode/
 
-.idea*
-firma/
-borrador/
-*.iml
+# Archivos temporales
+*.swp
+*.swo
+*~
+
+# Directorios de dependencias
+node_modules/
+vendor/

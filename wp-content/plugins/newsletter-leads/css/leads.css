@@ -33,10 +33,6 @@
     margin-top: 0px!important;
 }
 
-#tnp-leads-topbar .tnp-subscription-minimal input.tnp-email {
-    width: auto!important;
-}
-
 #tnp-leads-topbar .tnp-subscription-minimal input.tnp-submit {
     height: 42px;
     max-width: 200px;
@@ -85,15 +81,6 @@
 
 #tnp-leads-topbar .tnp-subscription-minimal .tnp-privacy-field label a {
     color: #fff!important;
-}
-
-#tnp-modal-content input.tnp-submit:hover {
-    filter: brightness(110%);
-}
-
-.tnp-modal {
-    text-align: center;
-    padding: 30px;
 }
 
 #tnp-modal-body .tnp-privacy-field {

@@ -23,8 +23,7 @@ defined( 'ABSPATH' ) || exit;
  */
 class Local_Seo {
 
-	use Ajax;
-	use Hooker;
+	use Ajax, Hooker;
 
 	/**
 	 * The Constructor.
@@ -56,7 +55,7 @@ class Local_Seo {
 	 * @return array
 	 */
 	public function add_settings( $tabs ) {
-		$tabs['local']['file'] = __DIR__ . '/views/titles-options.php';
+		$tabs['local']['file'] = dirname( __FILE__ ) . '/views/titles-options.php';
 
 		return $tabs;
 	}

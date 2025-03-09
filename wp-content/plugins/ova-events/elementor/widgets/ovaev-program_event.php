@@ -1383,7 +1383,7 @@ class ova_events_cat extends Widget_Base {
                                 if(add_query_arg(array(), $wp->request) == 'proximos-eventos') {
                                     $html .= '<h2 class="second_font event_title">' . get_the_title() . '</h2>';
                                 } else {
-                                    $html .= '<h2 class="second_font event_title"><a href="https://heroesdecavite.es/proximos-eventos/">' . get_the_title() . '</h2>';
+                                    $html .= '<h2 class="second_font event_title"><a href="https://wordpress-1413764-5263504.cloudwaysapps.com/proximos-eventos/">' . get_the_title() . '</h2>';
                                 }
                             } else {
                                 $html .= '<h2 class="second_font event_title"><a href="' . get_the_permalink() . '" title="' . get_the_title() . '">' . get_the_title() . '</a></h2>';

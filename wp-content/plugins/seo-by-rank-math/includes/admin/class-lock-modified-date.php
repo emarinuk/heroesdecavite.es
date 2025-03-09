@@ -100,7 +100,7 @@ class Lock_Modified_Date {
 				return false;
 			}
 
-			$options = ! empty( $_REQUEST['options'] ) ? $_REQUEST['options'] : []; //phpcs:ignore
+			$options = ! empty( $_REQUEST['options'] ) ? $_REQUEST['options'] : [];
 			return ! empty( $options['conditional_tags'] ) && ! empty( $options['conditional_tags']['lock_modified_date'] );
 		}
 

@@ -130,7 +130,8 @@ class WPCode_File_Cache {
 	 * @return void
 	 */
 	private function write_file( $name, $data ) {
-		$written = file_put_contents( $this->get_directory_path( $name ), $data ); // phpcs:ignore WordPress.WP.AlternativeFunctions.file_system_operations_file_put_contents
+		// phpcs:ignore WordPress.WP.AlternativeFunctions.file_system_read_file_put_contents
+		$written = file_put_contents( $this->get_directory_path( $name ), $data );
 		if ( false === $written ) {
 			// If we can't save the file to the file cache let's try to save it to the database.
 			// This is not ideal but it prevents having endless requests.

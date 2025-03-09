@@ -961,7 +961,6 @@
 				activate: 'wpforms_activate_addon',
 				install: 'wpforms_install_addon',
 				deactivate: 'wpforms_deactivate_addon',
-				incompatible: 'wpforms_activate_addon',
 			};
 			const action = actions[ state ];
 

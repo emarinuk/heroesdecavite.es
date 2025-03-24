@@ -53,15 +53,14 @@ class NewsletterAutomated extends NewsletterAddon {
     }
 
     function init() {
+        parent::init();
 
         if (is_admin()) {
             if (Newsletter::instance()->is_allowed()) {
-                add_action('admin_menu', array($this, 'hook_admin_menu'), 100);
                 add_filter('newsletter_menu_newsletters', array($this, 'hook_newsletter_menu_newsletters'));
             }
             add_action('admin_enqueue_scripts', array($this, 'hook_admin_enqueue_scripts'));
             add_filter('newsletter_lists_notes', array($this, 'hook_newsletter_lists_notes'), 10, 2);
-            add_filter('newsletter_support_data', [$this, 'hook_newsletter_support_data'], 10, 1);
         }
     }
 
@@ -73,10 +72,9 @@ class NewsletterAutomated extends NewsletterAddon {
                 . '&ml=' . (Newsletter::instance()->is_multilanguage() ? '1' : '0'));
     }
 
-    function hook_newsletter_support_data($data) {
+    function get_support_data() {
         $channels = $this->get_channels();
         $automated_data = [];
-        $automated_data['version'] = $this->version;
         foreach ($channels as $channel) {
             $channel_data = [];
             $channel_data['enabled'] = (int) $channel->data['enabled'];
@@ -92,8 +90,7 @@ class NewsletterAutomated extends NewsletterAddon {
             $automated_data['channel-' . $channel->id] = $channel_data;
         }
 
-        $data['automated'] = $automated_data;
-        return $data;
+        return $automated_data;
     }
 
     function hook_newsletter_action($action) {
@@ -288,7 +285,7 @@ class NewsletterAutomated extends NewsletterAddon {
         return true;
     }
 
-    function hook_admin_menu() {
+    function admin_menu() {
         add_submenu_page('newsletter_main_index', 'Automated Newsletter', '<span class="tnp-side-menu">Automated</span>', 'exist', 'newsletter_automated_index', [$this, 'menu_page_index']);
         add_submenu_page('admin.php', 'Edit', 'Edit', 'exist', 'newsletter_automated_edit', function () {
             require __DIR__ . '/admin/edit.php';
@@ -297,8 +294,8 @@ class NewsletterAutomated extends NewsletterAddon {
             require __DIR__ . '/admin/editlegacy.php';
         });
         add_submenu_page('admin.php', 'Newsletters', 'Newsletters', 'exist', 'newsletter_automated_newsletters', [$this, 'menu_page_newsletters']);
-        add_submenu_page('admin.php', 'Config', 'Config', 'exist', 'newsletter_automated_config', function () {
-            require __DIR__ . '/admin/config.php';
+        add_submenu_page('admin.php', 'Settings', 'Settings', 'exist', 'newsletter_automated_settings', function () {
+            require __DIR__ . '/admin/settings.php';
         });
         add_submenu_page('admin.php', 'Template', 'Template', 'exist', 'newsletter_automated_template', function () {
             require __DIR__ . '/admin/template.php';

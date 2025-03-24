@@ -30,6 +30,10 @@ if (!$controls->is_action()) {
             // A subscriber is already there with the same wp_user_id? Do Nothing.
             $nl_user = Newsletter::instance()->get_user_by_wp_user_id($wp_user->ID);
             if (!empty($nl_user)) {
+                $data = ['id' => $nl_user->id];
+                $data['name'] = $newsletter->sanitize_name(strval($wp_user->first_name));
+                $data['surname'] = $newsletter->sanitize_name(strval($wp_user->last_name));
+                Newsletter::instance()->save_user($data);
                 continue;
             }
 

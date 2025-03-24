@@ -1,7 +1,11 @@
 === Reports Addon for Newsletter ===
-Tested up to: 6.7.1
+Tested up to: 6.7.2
 
 == Changelog ==
+
+= 4.6.5 =
+
+* WP 6.7.2 check
 
 = 4.6.4 =
 

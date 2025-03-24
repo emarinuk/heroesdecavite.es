@@ -4,7 +4,7 @@ Contributors:      google
 Requires at least: 5.2
 Tested up to:      6.7
 Requires PHP:      7.4
-Stable tag:        1.147.0
+Stable tag:        1.149.0
 License:           Apache License 2.0
 License URI:       https://www.apache.org/licenses/LICENSE-2.0
 Tags:              google, search-console, analytics, adsense, pagespeed-insights
@@ -109,34 +109,33 @@ Please create a new topic on our [WordPress.org support forum](https://wordpress
 
 == Changelog ==
 
-= 1.147.0 =
+= 1.149.0 =
 
 **Enhanced**
 
-* Retain the publication ID prefix for product IDs when storing them in Reader Revenue Manager settings. See [#10228](https://github.com/google/site-kit-wp/issues/10228).
-* Update URL for RRM publication creation to streamline configuration. See [#10166](https://github.com/google/site-kit-wp/issues/10166).
-* Update the Analytics zero-data report to include the comparison date range, ensuring we check for data across both the  previous and current date range when determining the gathering data state. See [#10105](https://github.com/google/site-kit-wp/issues/10105).
-* Add Reader Revenue Manager introductory overlay notifications. See [#10070](https://github.com/google/site-kit-wp/issues/10070).
-* Add Reader Revenue Manager product ID notifications. See [#10069](https://github.com/google/site-kit-wp/issues/10069).
-* Add a new "CTA placement" section to the Reader Revenue Manager settings, allowing users to select where CTAs should appear using a dropdown and chip multi-select. See [#10066](https://github.com/google/site-kit-wp/issues/10066).
-* Add the learn more link to the lost events banner. See [#10045](https://github.com/google/site-kit-wp/issues/10045).
-* Update Ads PAX Application to be aware of supported conversion events. See [#10032](https://github.com/google/site-kit-wp/issues/10032).
+* Update Ads setup via PAX to enable the enhanced conversion tracking by default. See [#10413](https://github.com/google/site-kit-wp/issues/10413).
+* Update the WooCommerce Redirect modal logic to trigger at the Ads setup wizard. See [#10404](https://github.com/google/site-kit-wp/issues/10404).
+* Fix the learn more link in the ACR lost events banner. See [#10397](https://github.com/google/site-kit-wp/issues/10397).
+* Add GA events tracking for user interaction with the Reader Revenue Manager introductory overlay notification. See [#10330](https://github.com/google/site-kit-wp/issues/10330).
+* Unguard the `productIDs` and `paymentOption` module settings to enable publication data synchronization without the `rrmModuleV2` feature flag. See [#10314](https://github.com/google/site-kit-wp/issues/10314).
+* Update text in "Top earning pages" widget. See [#10158](https://github.com/google/site-kit-wp/issues/10158).
+* Remove the `audienceSegmentation` feature flag. See [#10148](https://github.com/google/site-kit-wp/issues/10148).
+* Add support for outputting the Sign in with Google button where `wp_login_form` is used. See [#10047](https://github.com/google/site-kit-wp/issues/10047).
+* Update Google Tag ID mismatch notifications to use new notifications infrastructure to improve reliability/user experience. See [#9292](https://github.com/google/site-kit-wp/issues/9292).
 
 **Changed**
 
-* Move js dependencies required for backstop tests to their own workspace. See [#10093](https://github.com/google/site-kit-wp/issues/10093).
-* Refactor filtering of `(not set)` values in reports to use the new `EmptyFilter` filter type. See [#10059](https://github.com/google/site-kit-wp/issues/10059).
-* Implement the Sign in with Google block. See [#10046](https://github.com/google/site-kit-wp/issues/10046).
-* Move e2e related dependencies into their own workspace. See [#10013](https://github.com/google/site-kit-wp/issues/10013).
-* Refactor report filters so as to be usable for both dimensions and metrics. See [#7634](https://github.com/google/site-kit-wp/issues/7634).
+* Update Guzzle to v7. See [#10302](https://github.com/google/site-kit-wp/issues/10302).
+* Update the PAX setup success notifications to lead the "Show me" link to the official Google Ads campaigns overview page. See [#10272](https://github.com/google/site-kit-wp/issues/10272).
 
 **Fixed**
 
-* Fix error that could occur on the dashboard when connecting a new Analytics account after connecting a previously-connected account. See [#10187](https://github.com/google/site-kit-wp/issues/10187).
-* Fix Key Metrics positioning on large screens. See [#10050](https://github.com/google/site-kit-wp/issues/10050).
-* Update description of the new detected events notice. See [#10049](https://github.com/google/site-kit-wp/issues/10049).
-* Update language used in tailored metrics questionnaire. See [#10040](https://github.com/google/site-kit-wp/issues/10040).
-* Fix incorrect dismiss notification event tracking. See [#10038](https://github.com/google/site-kit-wp/issues/10038).
-* Fix duplicate survey triggers issue. See [#10036](https://github.com/google/site-kit-wp/issues/10036).
+* Fix PAX layout issues. See [#10412](https://github.com/google/site-kit-wp/issues/10412).
+* Ensure that warning notices for Reader Revenue Manager blocks appear as expected for view-only Site Kit users. See [#10394](https://github.com/google/site-kit-wp/issues/10394).
+* Fix console warning that could appear when Sign in with Google module is not connected. See [#10325](https://github.com/google/site-kit-wp/issues/10325).
+* Fix the All Traffic pie chart tooltip issue that didn't appear after deselecting a segment. See [#10318](https://github.com/google/site-kit-wp/issues/10318).
+* Fix incorrect user count in the "Others" segment of the Locations pie chart and ensure matching percentages in All Traffic widget pie charts. See [#10243](https://github.com/google/site-kit-wp/issues/10243).
+* Update key metric widgets to skip showing empty rows. See [#10156](https://github.com/google/site-kit-wp/issues/10156).
+* Upgrade Google API client library to avoid deprecation notices on latest versions of PHP. See [#9977](https://github.com/google/site-kit-wp/issues/9977).
 
 [See changelog for all versions](https://raw.githubusercontent.com/google/site-kit-wp/main/changelog.txt).

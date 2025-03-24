@@ -6,7 +6,7 @@
   Description: Integrates the WP user registration with Newsletter subscription
   Text Domain: newsletter-wpusers
   Domain Path: /languages
-  Version: 1.4.5
+  Version: 1.4.6
   Requires PHP: 7.0
   Requires at least: 5.6
   Author: The Newsletter Team
@@ -15,13 +15,13 @@
  */
 
 add_action('newsletter_loaded', function ($version) {
-    if (version_compare($version, '8.3.6') < 0) {
+    if (version_compare($version, '8.6.0') < 0) {
         add_action('admin_notices', function () {
             echo '<div class="notice notice-error"><p>Newsletter plugin upgrade required by <strong>Newsletter - WP User Addon</strong>.</p></div>';
         });
     } else {
         include_once __DIR__ . '/plugin.php';
-        new NewsletterWpUsers('1.4.5');
+        new NewsletterWpUsers('1.4.6');
     }
 });
 

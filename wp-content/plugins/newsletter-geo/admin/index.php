@@ -5,6 +5,12 @@
 
 defined('ABSPATH') || exit;
 
+global $wpdb;
+
+require_once NEWSLETTER_INCLUDES_DIR . '/controls.php';
+$controls = new NewsletterControls();
+$logger = $this->get_admin_logger();
+
 if (isset($_GET['subpage'])) {
     include __DIR__ . '/summary.php';
     return;
@@ -71,74 +77,74 @@ if (!$controls->is_action()) {
         <form method="post" action="">
             <?php $controls->init(); ?>
 
+            <p>
+                <?php $controls->button_test() ?>
+                <?php $controls->button('run_now', 'Run now') ?>
+                <?php $controls->btn_link('?page=newsletter_geo_index&subpage=summary', 'Summary', ['secondary' => true]) ?>
+            </p>
+            <div id="tabs">
+                <ul>
+                    <li><a href="#tabs-general">General</a></li>
+                </ul>
 
-            <?php $controls->button_test() ?>
-            <?php $controls->button('run_now', 'Run now') ?>
-            <a class="button-primary" href="?page=newsletter_geo_index&subpage=summary">Summary</a>
+                <div id="tabs-general">
 
-            <table class="form-table">
+                    <table class="widefat" style="width: auto">
+                        <thead>
+                            <tr>
+                                <th>Subscribers</th>
+                                <th>Total</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th>Subscribers to be (re)processed</th>
+                                <td><?php echo $wpdb->get_var("select count(*) from " . NEWSLETTER_USERS_TABLE . " where status='C' and geo=0 and ip<>''"); ?></td>
+                            </tr>
+                            <tr>
+                                <th>Subscribers with country</th>
+                                <td><?php echo $wpdb->get_var("select count(*) from " . NEWSLETTER_USERS_TABLE . " where status='C' and country<>'' and country<>'XX'"); ?></td>
+                            </tr>
+                            <tr>
+                                <th>Subscribers with unresolved country</th>
+                                <td><?php echo $wpdb->get_var("select count(*) from " . NEWSLETTER_USERS_TABLE . " where status='C' and country='XX'"); ?></td>
+                            </tr>
+                            <tr>
+                                <th>Subscribers without IP address</th>
+                                <td><?php echo $wpdb->get_var("select count(*) from " . NEWSLETTER_USERS_TABLE . " where status='C' and ip=''"); ?></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <p class="description">
+                        Totals refer only to confirmed subscribers.<br>
+                        Subscribers without an IP address could have been imported or added via API.<br>
+                    </p>
 
-                <tr>
-                    <th>Country detection data</th>
-                    <td>
-                        <table class="widefat" style="width: auto">
-                            <thead>
-                                <tr>
-                                    <th>Condition</th>
-                                    <th>Total</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <th>Subscribers to be (re)processed</th>
-                                    <td><?php echo $wpdb->get_var("select count(*) from " . NEWSLETTER_USERS_TABLE . " where status='C' and geo=0 and ip<>''"); ?></td>
-                                </tr>
-                                <tr>
-                                    <th>Subscribers with country</th>
-                                    <td><?php echo $wpdb->get_var("select count(*) from " . NEWSLETTER_USERS_TABLE . " where status='C' and country<>'' and country<>'XX'"); ?></td>
-                                </tr>
-                                <tr>
-                                    <th>Subscribers with unresolved country</th>
-                                    <td><?php echo $wpdb->get_var("select count(*) from " . NEWSLETTER_USERS_TABLE . " where status='C' and country='XX'"); ?></td>
-                                </tr>
-                                <tr>
-                                    <th>Subscribers without IP address</th>
-                                    <td><?php echo $wpdb->get_var("select count(*) from " . NEWSLETTER_USERS_TABLE . " where status='C' and ip=''"); ?></td>
-                                </tr>
-                            </tbody>
-                        </table>
-                        <p class="description">
-                            Totals refer only to confirmed subscribers.<br>
-                            Subscribers without an IP address could have been imported or added via API.<br>
-                        </p>
+                    <?php $controls->button_confirm_secondary('reset', 'Reset all data', 'Warning: all subscribers will be reprocessed!') ?>
+                    <?php $controls->button_confirm_secondary('reset_unresolved', 'Reset unresolved', 'Proceed?') ?>
 
 
-                        <br><br>
-                        <?php $controls->button_confirm('reset', 'Reset all data', 'Warning: all subscribers will be reprocessed!') ?>
-                        <?php $controls->button_confirm('reset_unresolved', 'Reset unresolved', 'Proceed?') ?>
-
-                    </td>
-                </tr>
-                <tr>
-                    <th>Geolocation last run</th>
-                    <td>
-                        <?php echo $controls->print_date($this->get_last_run()); ?>
-                        <p class="description">
-                            The country detection finds the countries from which the users subscribed (visible on user statistic panel).
-                        </p>
-                    </td>
-                </tr>
-                <tr>
-                    <th>Geolocation next run</th>
-                    <td>
-                        <?php echo $controls->print_date(wp_next_scheduled('newsletter_geo_run')); ?>
-                    </td>
-                </tr>
-            </table>
+                    <table class="form-table">
+                        <tr>
+                            <th>Geolocation last run</th>
+                            <td>
+                                <?php echo $controls->print_date($this->get_last_run()); ?>
+                                <p class="description">
+                                    The country detection finds the countries from which the users subscribed (visible on user statistic panel).
+                                </p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>Geolocation next run</th>
+                            <td>
+                                <?php echo $controls->print_date(wp_next_scheduled('newsletter_geo_run')); ?>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
 
         </form>
     </div>
-
-    <?php include NEWSLETTER_ADMIN_FOOTER ?>
 
 </div>

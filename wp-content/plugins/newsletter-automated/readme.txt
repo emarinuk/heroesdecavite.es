@@ -1,7 +1,21 @@
 === Automated for Newsletter ===
-Tested up to: 6.6.2
+Tested up to: 6.7.2
 
 == Changelog ==
+
+= 4.8.1 =
+
+* Fixed PHP warning
+
+= 4.8.0 =
+
+* Fixed the menu entry
+* Changed layout of the planning configuration
+* Removed the "feed by mail" subscriber import
+
+= 4.7.9 =
+
+* Fixed the template subject set when a test is performed using a custom email address
 
 = 4.7.8 =
 

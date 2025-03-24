@@ -35,22 +35,32 @@ if (!$controls->is_action()) {
 $import_running = wp_next_scheduled('newsletter_pmpro_import');
 
 if ($import_running) {
-    $total = (int)$wpdb->get_var("select count(*) from {$wpdb->users}");
+    $total = (int) $wpdb->get_var("select count(*) from {$wpdb->users}");
     $last_id = (int) get_option('newsletter_pmpro_import_last');
-    $processed = (int)$wpdb->get_var($wpdb->prepare("select count(*) from {$wpdb->users} where id <= %d", $last_id));
+    $processed = (int) $wpdb->get_var($wpdb->prepare("select count(*) from {$wpdb->users} where id <= %d", $last_id));
 
     $controls->add_message('The alignment is running. Processed: ' . $processed . '/' . $total . '. Next run: ' . $controls->print_date($import_running, false, true));
-
 }
 
 $lists = $controls->get_list_options();
 ?>
 
+<style>
+    #tnp-body .widefat.levels tbody th {
+        font-weight: bold;
+    }
+    #tnp-body .widefat.levels tbody tr:hover th,
+    #tnp-body .widefat.levels tbody tr:hover td
+    {
+        background-color: transparent;
+    }
+</style>
+
 <div class="wrap" id="tnp-wrap">
     <?php include NEWSLETTER_ADMIN_HEADER ?>
 
     <div id="tnp-heading">
-        <?php //$controls->title_help('/addons/integrations/contact-form-7-extension/')?>
+        <?php //$controls->title_help('/addons/integrations/contact-form-7-extension/') ?>
         <h2>Paid Mebership Pro Integration</h2>
     </div>
 
@@ -65,73 +75,111 @@ $lists = $controls->get_list_options();
                     <li><a href="#tabs-general">General</a></li>
                     <li><a href="#tabs-roles">Lists</a></li>
                     <li><a href="#tabs-maintenance">Maintenance</a></li>
-                    <!--<li class="tnp-tabs-advanced"><a href="#tabs-status">Advanced</a></li>-->
+                    <?php if (NEWSLETTER_DEBUG) { ?>
+                        <li><a href="#tabs-debug">Debug</a></li>
+                    <?php } ?>
                 </ul>
 
                 <div id="tabs-general">
 
-            <table class="form-table">
-                <tr>
-                    <th>Subscribe on signup</th>
-                    <td>
-                        <?php $controls->select('subscribe', [0 => 'No', 1 => 'Show a checkbox', 2 => 'Force subscription']); ?>
-                    </td>
-                </tr>
-                <tr>
-                    <th>Checkbox label</th>
-                    <td>
-                        <?php $controls->text('subscribe_label'); ?>
-                    </td>
-                </tr>
+                    <table class="form-table">
+                        <tr>
+                            <th>Subscribe on signup</th>
+                            <td>
+                                <?php $controls->select('subscribe', [0 => 'No', 1 => 'Show a checkbox', 2 => 'Force subscription']); ?>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>Checkbox label</th>
+                            <td>
+                                <?php $controls->text('subscribe_label'); ?>
+                            </td>
+                        </tr>
 
-            </table>
+                    </table>
 
-                    </div>
+                </div>
 
                 <div id="tabs-roles">
 
 
-            <table class="form-table">
+                    <table class="widefat levels">
+                        <thead>
+                            <tr>
+                                <th>Level</th>
+                                <th>Lists</th>
+                            </tr>
+                        </thead>
 
-                <tbody>
-                    <tr>
-                        <th>
-                            Undefined
-                        </th>
-                        <td>
-                            Lists to activate<br>
-
-                            <?php $controls->select2('undefined_lists_on', $lists, null, true, null, __('None', 'newsletter')); ?>
-                            <br><br>
-                            Lists to deactivate<br>
-                            <?php $controls->select2('undefined__lists_off', $lists, null, true, null, __('None', 'newsletter')); ?>
-
-                        </td>
-                    </tr>
-                    <?php foreach ($this->get_levels() as $level) { ?>
-                        <tr>
-                            <th style="vertical-align: top">
-                                [<?php echo esc_html($level->id) ?>] <?php echo esc_html($level->name) ?>
-                            </th>
-                            <td>
-                                Lists to activate<br>
-                                <?php $controls->select2('level_' . $level->id . '_lists_on', $lists, null, true, null, __('None', 'newsletter')); ?>
-                                <br><br>
-                                Lists to deactivate<br>
-                                <?php $controls->select2('level_' . $level->id . '_lists_off', $lists, null, true, null, __('None', 'newsletter')); ?>
-                            </td>
-                        </tr>
-                    <?php } ?>
-                </tbody>
-            </table>
+                        <tbody>
+                            <tr>
+                                <th style="vertical-align: top">
+                                    Undefined
+                                </th>
+                                <td>
+                                    <div style="margin-bottom: 1rem">
+                                        Lists to activate<br>
+                                        <?php $controls->select2('undefined_lists_on', $lists, null, true, null, __('None', 'newsletter')); ?>
                                     </div>
 
+                                    <div style="margin-bottom: 1rem">
+                                        <?php
+                                        $controls->select('undefined_mode',
+                                                [
+                                                    '0' => 'Deactivate the specified lists',
+                                                    '1' => 'Deactivate all other lists',
+                                                ]
+                                        );
+                                        ?>
+                                    </div>
+
+                                    <div data-show="undefined_mode=0">
+                                        Lists to deactivate<br>
+                                        <?php $controls->select2('undefined_lists_off', $lists, null, true, null, __('None', 'newsletter')); ?>
+                                    </div>
+                                </td>
+                            </tr>
+                            <?php foreach ($this->get_levels() as $level) { ?>
+                                <tr>
+                                    <th style="vertical-align: top">
+                                        [<?php echo esc_html($level->id) ?>] <?php echo esc_html($level->name) ?>
+                                    </th>
+                                    <td>
+                                        <div style="margin-bottom: 1rem">
+                                            Lists to activate<br>
+                                            <?php $controls->select2('level_' . $level->id . '_lists_on', $lists, null, true, null, __('None', 'newsletter')); ?>
+                                        </div>
 
 
-            <div id="tabs-maintenance">
-                <p>
-                    The alignment process runs every 5 minutes and process as many users as possible on each run.
-                </p>
+                                        <div style="margin-bottom: 1rem">
+                                            <?php
+                                            $controls->select('level_' . $level->id . '_mode',
+                                                    [
+                                                        '0' => 'Deactivate the specified lists',
+                                                        '1' => 'Deactivate all other lists',
+                                                    ]
+                                            );
+                                            ?>
+                                        </div>
+
+
+                                        <div data-show="level_<?php echo $level->id; ?>_mode=0">
+                                            Lists to deactivate<br>
+                                            <?php $controls->select2('level_' . $level->id . '_lists_off', $lists, null, true, null, __('None', 'newsletter')); ?>
+                                        </div>
+                                    </td>
+                                </tr>
+                            <?php } ?>
+                        </tbody>
+                    </table>
+                </div>
+
+
+
+                <div id="tabs-maintenance">
+                    <p>
+                        The alignment process runs every 5 minutes and process as many users as possible on each run.
+                    </p>
                     <h3><?php esc_html_e('Maintenance', 'newsletter') ?></h3>
                     <table class="form-table">
 
@@ -153,6 +201,12 @@ $lists = $controls->get_list_options();
 
 
                 </div>
+
+                <?php if (NEWSLETTER_DEBUG) { ?>
+                    <div id="tabs-debug">
+                        <pre><?php echo esc_html(wp_json_encode($this->get_options(), JSON_PRETTY_PRINT)) ?></pre>
+                    </div>
+                <?php } ?>
             </div>
             <p>
                 <?php $controls->button_save() ?>

@@ -1,7 +1,12 @@
 === Contact Form 7 Addon for Newsletter ===
-Tested up to: 6.7.1
+Tested up to: 6.7.2
 
 == Changelog ==
+
+= 4.4.5 =
+
+* WP 6.7.2 check
+* Fixed Newsletter version check
 
 = 4.4.4 =
 

@@ -1,7 +1,12 @@
 === WP Users Addon for Newsletter ===
-Tested up to: 6.6.1
+Tested up to: 6.7.2
 
 == Changelog ==
+
+= 1.4.6 =
+
+* WP 6.7.2 check
+* Update first and last name on import
 
 = 1.4.5 =
 

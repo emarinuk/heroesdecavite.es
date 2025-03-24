@@ -1,5 +1,5 @@
 === SMTP Addon for Newsletter ===
-Tested up to: 6.7.1
+Tested up to: 6.7.2
 
 Add the external SMTP delivery option.
 
@@ -14,6 +14,12 @@ It is compatibile with the obsolete internal SMTP configuration and on first ins
 gets the original configuration.
 
 == Changelog ==
+
+= 1.1.6 =
+
+* Improved error checking
+* Optimized ocde loading
+* WP 6.7.2 check
 
 = 1.1.5 =
 

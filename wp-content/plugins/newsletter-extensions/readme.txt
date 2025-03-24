@@ -1,7 +1,16 @@
 === Addons Manager and Support ===
-Tested up to: 6.7.1
+Tested up to: 6.7.2
 
 == Changelog ==
+
+= 1.3.5 =
+
+* Fixed sending support data
+
+= 1.3.4 =
+
+* WP 6.7.2 check
+* Fixed error on the support page
 
 = 1.3.3 =
 

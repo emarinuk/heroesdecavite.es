@@ -98,6 +98,7 @@ foreach ($channels as $channel) {
     <div id="tnp-heading">
         <?php $controls->title_help('/addons/extended-features/automated-extension/') ?>
         <h2>Automated Newsletters</h2>
+        <?php include __DIR__ . '/nav-index.php'; ?>
     </div>
     <div id="tnp-body">
         <?php $controls->show(); ?>
@@ -181,9 +182,7 @@ foreach ($channels as $channel) {
             <hr>
             <div class="tnp-buttons">
                 <?php $controls->btn('add', 'New channel with obsolete themes', ['tertiary' => true]) ?>
-                <?php $controls->btn_link('?page=newsletter_automated_config', 'Configuration', ['tertiary' => true]) ?>
             </div>
         </form>
     </div>
-    <?php include NEWSLETTER_ADMIN_FOOTER ?>
 </div>

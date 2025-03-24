@@ -6,7 +6,7 @@
   Description: Advanced import from CSV with field mapping (please read the documentation)
   Text Domain: newsletter-import
   Domain Path: /languages
-  Version: 1.5.7
+  Version: 1.5.8
   Requires at least: 5.6
   Requires PHP: 7.0
   Update URI: false
@@ -28,6 +28,6 @@ add_action('newsletter_loaded', function ($version) {
         });
     } else {
         include_once __DIR__ . '/plugin.php';
-        new NewsletterImport('1.5.7');
+        new NewsletterImport('1.5.8');
     }
 });

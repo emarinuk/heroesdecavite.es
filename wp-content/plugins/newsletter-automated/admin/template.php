@@ -53,7 +53,7 @@ if (!$controls->is_action()) {
     if ($controls->is_action('test')) {
         TNP_Composer::update_email($email, $controls);
         $this->send_test_email($email, $controls);
-        TNP_Composer::prepare_controls($controls, $email);
+        //TNP_Composer::prepare_controls($controls, $email);
     }
 
     if ($controls->is_action('send-test-to-email-address')) {
@@ -69,7 +69,7 @@ if (!$controls->is_action()) {
         } else {
             $controls->errors = __('Empty email address', 'newsletter');
         }
-        TNP_Composer::prepare_controls($controls, $email);
+        //TNP_Composer::prepare_controls($controls, $email);
     }
 }
 ?>

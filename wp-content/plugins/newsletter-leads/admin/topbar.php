@@ -35,6 +35,9 @@ if (!$controls->is_action()) {
         $options = $this->get_options($current_language);
         $options = array_merge($options, $controls->data);
         $this->save_options($options, $current_language);
+
+        $this->update_topbar_css();
+
         $controls->add_toast_saved();
     }
 }

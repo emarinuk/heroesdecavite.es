@@ -9,7 +9,7 @@ if ($controls->is_action('send_support_data')) {
     if ($this->is_license_active()) {
         $response = wp_remote_post('https://www.thenewsletterplugin.com/wp-content/support-data.php?k='
                 . rawurlencode(Newsletter::instance()->get_license_key()),
-                ['body' => wp_json_encode($this->get_support_data())]);
+                ['body' => wp_json_encode($this->build_support_data())]);
         $body = wp_remote_retrieve_body($response);
 
         $controls->add_toast_done();
@@ -121,7 +121,7 @@ if ($controls->is_action('send_support_email')) {
                             </p>
                         <?php } ?>
 
-                            
+
                             <p>
                                 <?php $controls->yesno('allow'); ?> <?php $controls->button_save(); ?>
                                 Allow our support to
@@ -132,7 +132,7 @@ if ($controls->is_action('send_support_email')) {
                         <p>
                             <?php $controls->btn('send_support_data', __('Send data for support', 'newsletter'), ['disabled'=>License::is_free()]) ?>
                             <?php
-                            if (!License::is_reseller()) {
+                            if (false && !License::is_reseller()) {
                                 $controls->btn_link('https://www.thenewsletterplugin.com/account', __('Open a ticket', 'newsletter'),
                                         ['target' => '_blank', 'secondary' => 'true']);
                             }
@@ -192,5 +192,5 @@ if ($controls->is_action('send_support_email')) {
 <div id="tnp-support-data-json" style="display: none">
     <h3>Support data</h3>
     <p>No emails or other personal data is shared.</p>
-    <pre style="height: 200px; overflow: auto; background-color: #fff; padding: 1rem;"><?php echo esc_html(wp_json_encode($this->get_support_data(), JSON_PRETTY_PRINT)); ?></pre>
+    <pre style="height: 200px; overflow: auto; background-color: #fff; padding: 1rem;"><?php echo esc_html(wp_json_encode($this->build_support_data(), JSON_PRETTY_PRINT)); ?></pre>
 </div>

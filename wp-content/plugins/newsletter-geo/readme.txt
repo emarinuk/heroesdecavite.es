@@ -1,7 +1,16 @@
 === Geolocation for Newsletter ===
-Tested up to: 6.6.2
+Tested up to: 6.7.2
 
 == Changelog ==
+
+= 1.3.3 =
+
+* Layout fixes
+
+= 1.3.2 =
+
+* Improved code loading
+* WP 6.7.2 check
 
 = 1.3.1 =
 

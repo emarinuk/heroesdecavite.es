@@ -18,13 +18,15 @@ class NewsletterPmpro extends NewsletterAddon {
         add_action('pmpro_checkout_after_tos_fields', [$this, 'show_optin']);
         add_action('pmpro_paypalexpress_session_vars', [$this, 'save_optin_in_session']);
         add_action('pmpro_after_checkout', [$this, 'create_subscriber'], 15);
-        if (is_admin()) {
-            if (Newsletter::instance()->is_allowed()) {
-                add_action('admin_menu', [$this, 'hook_admin_menu'], 100);
-            }
-        }
 
         add_action('newsletter_pmpro_import', [$this, 'hook_newsletter_pmpro_import']);
+
+        add_action('set_user_role', [$this, 'hook_set_user_role']);
+        add_action('profile_update', [$this, 'hook_profile_update'], 10, 3);
+
+        if (is_admin()) {
+            add_filter('newsletter_lists_notes', [$this, 'hook_newsletter_lists_notes'], 10, 2);
+        }
     }
 
     function weekly_check() {
@@ -35,11 +37,24 @@ class NewsletterPmpro extends NewsletterAddon {
                 . '&ml=' . (Newsletter::instance()->is_multilanguage() ? '1' : '0'));
     }
 
-    function hook_admin_menu() {
+    function admin_menu() {
         add_submenu_page('newsletter_main_index', 'PM Pro Addon', '<span class="tnp-side-menu">PM Pro Addon</span>', 'manage_options', 'newsletter_pmpro_index',
                 function () {
                     require __DIR__ . '/admin/index.php';
                 });
+    }
+
+    function hook_newsletter_lists_notes($notes, $list_id) {
+        $this->setup_options();
+        foreach (array_keys($this->options) as $key) {
+            if (substr($key, 0, 5) === 'level') {
+                if (is_array($this->options[$key]) && in_array($list_id, $this->options[$key])) {
+                    $notes[] = 'Used by Newsletter - Paid Membership Pro Addon';
+                    break;
+                }
+            }
+        }
+        return $notes;
     }
 
     function get_levels() {
@@ -48,6 +63,98 @@ class NewsletterPmpro extends NewsletterAddon {
         } else {
             return [];
         }
+    }
+
+    function align($wp_user_id) {
+        $this->setup_options();
+        $logger = $this->get_logger();
+
+        $wp_user = get_user_by('id', $wp_user_id);
+        if (!$wp_user) {
+            $logger->debug('User ' . $wp_user_id . ' not found');
+            return;
+        }
+
+        $newsletter = Newsletter::instance();
+
+        $subscriber = $newsletter->get_user_by_wp_user_id($wp_user_id);
+        if (!$subscriber) {
+            $logger->debug('Subscriber not found');
+            return;
+        }
+
+        // Build only a "delta" dataset
+        $subscriber = ['id' => $subscriber->id];
+
+        $levels = pmpro_getMembershipLevelsForUser($wp_user_id);
+
+        // With no levels, use the "undefined" configuration
+        if (empty($levels)) {
+            $logger->debug('Undefined level');
+            switch ($this->options['undefined_mode'] ?? '0') {
+                // Reset all lists and the addon the ones to be activated
+                case '1':
+                    for ($i = 1; $i <= NEWSLETTER_LIST_MAX; $i++) {
+                        $subscriber['list_' . $i] = 0;
+                    }
+                    break;
+
+                // Deactivate only the specified lists (default and for compatibility)
+                default:
+                    if (!empty($this->options['undefined_lists_off'])) {
+                        foreach ($this->options['undefined_lists_off'] as $list_id) {
+                            $subscriber['list_' . $list_id] = 0;
+                        }
+                    }
+            }
+
+            if (!empty($this->options['undefined_lists_on'])) {
+                foreach ($this->options['undefined_lists_on'] as $list_id) {
+                    $subscriber['list_' . $list_id] = 1;
+                }
+            }
+        } else {
+            // Typically we have only 1 role per user, but they give back an array... it could be
+            // a source of problems due to overlapping and overwriting per-level configurations.
+            // Hope for the best (read: no support tickets).
+            foreach ($levels as $level) {
+                switch ($this->options['level_' . $level->id . '_mode'] ?? '0') {
+                    // Reset all lists and the addon the ones to be activated
+                    case '1':
+                        for ($i = 1; $i <= NEWSLETTER_LIST_MAX; $i++) {
+                            $subscriber['list_' . $i] = 0;
+                        }
+                        break;
+
+                    // Deactivate only the specified lists (default and for compatibility)
+                    default:
+                        if (!empty($this->options['level_' . $level->id . '_lists_off'])) {
+                            foreach ($this->options['level_' . $level->id . '_lists_off'] as $list_id) {
+                                $subscriber['list_' . $list_id] = 0;
+                            }
+                        }
+                }
+
+                // Lists to be activated have priority!
+                if (!empty($this->options['level_' . $level->id . '_lists_on'])) {
+                    foreach ($this->options['level_' . $level->id . '_lists_on'] as $list_id) {
+                        $subscriber['list_' . $list_id] = 1;
+                    }
+                }
+            }
+        }
+
+        if ($wp_user->first_name) {
+            $subscriber['name'] = $newsletter->sanitize_name($wp_user->first_name);
+        }
+
+        if ($wp_user->last_name) {
+            $subscriber['surname'] = $newsletter->sanitize_name($wp_user->last_name);
+        }
+
+        $logger->debug($subscriber);
+
+        Newsletter::instance()->save_user($subscriber);
     }
 
     /**
@@ -59,100 +166,32 @@ class NewsletterPmpro extends NewsletterAddon {
         $this->setup_options();
         $logger = $this->get_logger();
 
-        $logger->debug($this->options);
-
         // We're interested only on changed users (not their old levels)
         $wp_user_ids = array_keys($old_levels);
 
         // Loop through all users who have changed levels.
         foreach ($wp_user_ids as $wp_user_id) {
-            $logger->debug('Checking user ID ' . $wp_user_id);
-            //$logger->debug($old_levels);
-            // Check if thr WP user has a linked subscriber, if not... just skip it
-            $subscriber = Newsletter::instance()->get_user_by_wp_user_id($wp_user_id);
-            if (!$subscriber) {
-                $logger->debug('Subscriber not found');
-                continue;
-            }
-
-            $logger->debug($subscriber);
-
-            $levels = pmpro_getMembershipLevelsForUser($wp_user_id);
-
-            $logger->debug('Levels:');
-            $logger->debug($levels);
-
-            $subscriber = ['id' => $subscriber->id];
-
-            // With no levels, use the "undefined" configuration
-            if (empty($levels)) {
-                $logger->debug('Undefined level');
-                foreach ($this->options['undefined_lists_on'] as $list_id) {
-                    $subscriber['list_' . $list_id] = 1;
-                }
-                foreach ($this->options['undefined_lists_off'] as $list_id) {
-                    $subscriber['list_' . $list_id] = 0;
-                }
-            } else {
-                foreach ($levels as $level) {
-                    // Update the subscriber with the lists associated to his new level or levels
-                    // TODO: optimize creating only an array with the subscriber ID and the lists to be modified
-                    foreach ($this->options['level_' . $level->id . '_lists_on'] as $list_id) {
-                        $subscriber['list_' . $list_id] = 1;
-                    }
-                    foreach ($this->options['level_' . $level->id . '_lists_off'] as $list_id) {
-                        $subscriber['list_' . $list_id] = 0;
-                    }
-                }
-            }
-
-            $logger->debug($subscriber);
-
-            Newsletter::instance()->save_user($subscriber);
+            $logger->debug('Level changed for ' . $wp_user_id);
+            $this->align($wp_user_id);
         }
     }
 
-    function update_lists($wp_user_id) {
+    function hook_profile_update($user_id, $old_user_data = null, $userdata = null) {
+        $this->setup_options();
         $logger = $this->get_logger();
+        $logger->debug('Profile updated for ' . $user_id);
+        return $this->align($user_id);
+    }
 
-        $subscriber = Newsletter::instance()->get_user_by_wp_user_id($wp_user_id);
-        if (!$subscriber) {
-            $logger->debug('Subscriber not found');
-            return;
-        }
-
-        $subscriber = ['id' => $subscriber->id];
-        $levels = pmpro_getMembershipLevelsForUser($wp_user_id);
-        // With no levels, use the "undefined" configuration
-        if (empty($levels)) {
-            $logger->debug('Undefined level');
-            if (!empty($this->options['undefined_lists_on'])) {
-                foreach ($this->options['undefined_lists_on'] as $list_id) {
-                    $subscriber['list_' . $list_id] = 1;
-                }
-            }
-
-            if (!empty($this->options['undefined_lists_off'])) {
-                foreach ($this->options['undefined_lists_off'] as $list_id) {
-                    $subscriber['list_' . $list_id] = 0;
-                }
-            }
-        } else {
-            foreach ($levels as $level) {
-                // Update the subscriber with the lists associated to his new level or levels
-                // TODO: optimize creating only an array with the subscriber ID and the lists to be modified
-                foreach ($this->options['level_' . $level->id . '_lists_on'] as $list_id) {
-                    $subscriber['list_' . $list_id] = 1;
-                }
-                foreach ($this->options['level_' . $level->id . '_lists_off'] as $list_id) {
-                    $subscriber['list_' . $list_id] = 0;
-                }
-            }
-        }
-
-        $logger->debug($subscriber);
-
-        Newsletter::instance()->save_user($subscriber);
+    /**
+     * https://developer.wordpress.org/reference/hooks/set_user_role/
+     * @param int $wp_user_id
+     */
+    function hook_set_user_role($user_id) {
+        $this->setup_options();
+        $logger = $this->get_logger();
+        $logger->debug('Role changed by WP for ' . $user_id);
+        $this->align($user_id);
     }
 
     function show_optin() {
@@ -316,7 +355,7 @@ class NewsletterPmpro extends NewsletterAddon {
                 }
 
                 // TODO: Assign lists by role
-                $this->update_lists($wp_user->ID);
+                $this->align($wp_user->ID);
 
                 $last_id = $wp_user->ID;
                 update_option('newsletter_pmpro_import_last', $last_id, false);

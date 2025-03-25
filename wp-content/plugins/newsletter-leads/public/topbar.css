@@ -1,0 +1,16 @@
+#tnp-leads-topbar {
+    %position%
+}
+
+#tnp-leads-topbar.tnp-leads-topbar-show {
+    %position_show%
+}
+
+#tnp-leads-topbar {
+    background-color: %background_0% !important;
+}
+
+#tnp-leads-topbar .tnp-subscription-minimal input.tnp-submit {
+    background-color: %background_1% !important;
+    width: auto!important;
+}

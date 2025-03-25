@@ -123,10 +123,10 @@ class NewsletterModuleAdmin extends NewsletterModuleBase {
 
     function merge_options($options, $sub = '', $language = '') {
         if (!is_array($options)) {
-            $options = array();
+            $options = [];
         }
         $old_options = $this->get_options($sub, $language);
-        $this->save_options(array_merge($old_options, $options), $sub, null, $language);
+        $this->save_options(array_merge($old_options, $options), $sub, $language);
     }
 
     function admin_menu() {

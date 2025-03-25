@@ -296,6 +296,10 @@ class NewsletterExtensions extends NewsletterAddon {
         return Newsletter::instance()->getTnpExtensions();
     }
 
+    function build_support_data() {
+        return apply_filters('newsletter_support_data', []);
+    }
+
     function get_support_data() {
         global $wpdb;
 
@@ -400,10 +404,6 @@ class NewsletterExtensions extends NewsletterAddon {
         if (is_plugin_active('freesoul-deactivate-plugins/freesoul-deactivate-plugins.php')) {
             $data['plugins']['problematic'] = 'Freesoul Deactivate Plugins';
         }
-
-        //$data['addons'] = [];
-
-        $data = apply_filters('newsletter_support_data', $data);
 
         return $data;
     }

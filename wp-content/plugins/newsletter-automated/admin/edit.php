@@ -193,12 +193,7 @@ if (!empty($controls->data['enabled'])) {
         <form method="post" action="">
             <?php $controls->init(); ?>
 
-            <div class="tnp-buttons">
-                <?php $controls->button_save('save', 'Save'); ?>
-                <?php if ($controls->data['enabled'] == 1) { ?>
-                    <?php $controls->button_confirm('now', 'Generate and send now', 'Are you sure?'); ?>
-                <?php } ?>
-            </div>
+
 
             <div id="tabs">
 
@@ -319,62 +314,96 @@ if (!empty($controls->data['enabled'])) {
                         <tr valign="top">
                             <th>Planning</th>
                             <td>
-                                <?php $controls->radio('frequency', 'hourly', 'Hourly'); ?><br>
-                                <p class="description">
-                                    Every hour the template is activate and a newsletter is created if it found new content.<br>
-                                    It does nothing if a newsletter is already sending (to avoid excessive queuing).
-                                </p>
-                                <br><br>
-                                <?php $controls->radio('frequency', 'weekly', 'Weekly on...'); ?><br>
-                                Monday&nbsp;<?php $controls->yesno('day_1'); ?>
-                                Tuesday&nbsp;<?php $controls->yesno('day_2'); ?>
-                                Wednesday&nbsp;<?php $controls->yesno('day_3'); ?>
-                                Thursday&nbsp;<?php $controls->yesno('day_4'); ?>
-                                Friday&nbsp;<?php $controls->yesno('day_5'); ?>
-                                Saturday&nbsp;<?php $controls->yesno('day_6'); ?>
-                                Sunday&nbsp;<?php $controls->yesno('day_7'); ?>
-                                <br><br>
-                                <?php $controls->radio('frequency', 'monthly', 'Monthly on...'); ?><br>
+                                <?php $controls->select('frequency', ['hourly' => 'Hourly', 'weekly' => 'Weekly', 'monthly' => 'Monthly']); ?><br>
 
-                                <style>
-                                    #tnp-monthly-plan {
-                                        width: auto!important;
-                                    }
-                                    #tnp-monthly-plan th, #tnp-monthly-plan td {
-                                        padding: 3px;
-                                        text-align: center;
-                                        width: 80px;
-                                    }
-                                    #tnp-monthly-plan th {
-                                        font-weight: bold;
-                                    }
-                                </style>
-                                <table id="tnp-monthly-plan">
-                                    <tr>
-                                        <th>Week</th>
-                                        <th>Monday</th>
-                                        <th>Tuesday</th>
-                                        <th>Wednesday</th>
-                                        <th>Thursday</th>
-                                        <th>Friday</th>
-                                        <th>Saturday</th>
-                                        <th>Sunday</th>
-                                    </tr>
-                                    <?php for ($week = 1; $week <= 5; $week++) { ?>
+                                <?php //$controls->radio('frequency', 'hourly', 'Hourly'); ?>
+                                <div data-show="frequency=hourly">
+                                    <p class="description">
+                                        Every hour the template is activate and a newsletter is created if it found new content.<br>
+                                        It does nothing if a newsletter is already sending (to avoid excessive queuing).
+                                    </p>
+                                </div>
 
+                                <?php //$controls->radio('frequency', 'weekly', 'Weekly on...'); ?>
+                                <div data-show="frequency=weekly">
+                                    <table class="widefat" style="width: auto">
+                                        <tbody>
+                                            <tr>
+                                                <th>Monday</th>
+                                                <td><?php $controls->yesno('day_1'); ?></td>
+                                            </tr>
+                                            <tr>
+                                                <th>Tuesday</th>
+                                                <td><?php $controls->yesno('day_2'); ?></td>
+                                            </tr>
+                                            <tr>
+                                                <th>Wednesday</th>
+                                                <td><?php $controls->yesno('day_3'); ?></td>
+                                            </tr>
+                                            <tr>
+                                                <th>Thursday</th>
+                                                <td><?php $controls->yesno('day_4'); ?></td>
+                                            </tr>
+                                            <tr>
+                                                <th>Friday</th>
+                                                <td><?php $controls->yesno('day_5'); ?></td>
+                                            </tr>
+                                            <tr>
+                                                <th>Saturday</th>
+                                                <td><?php $controls->yesno('day_6'); ?></td>
+                                            </tr>
+                                            <tr>
+                                                <th>Sunday</th>
+                                                <td><?php $controls->yesno('day_7'); ?></td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+
+
+                                <div data-show="frequency=monthly">
+                                    <?php //$controls->radio('frequency', 'monthly', 'Monthly on...'); ?><br>
+
+                                    <style>
+                                        #tnp-monthly-plan {
+                                            width: auto!important;
+                                        }
+                                        #tnp-monthly-plan th, #tnp-monthly-plan td {
+                                            padding: 3px;
+                                            text-align: center;
+                                            width: 80px;
+                                        }
+                                        #tnp-monthly-plan th {
+                                            font-weight: bold;
+                                        }
+                                    </style>
+                                    <table id="tnp-monthly-plan">
                                         <tr>
-                                            <td><?php echo $week; ?></td>
-                                            <?php
-                                            for ($i = 1; $i <= 7; $i++) {
-                                                echo '<td>';
-                                                $controls->checkbox_group('monthly_' . $week . '_days', $i);
-                                                echo '</td>';
-                                            }
-                                            ?>
+                                            <th>Week</th>
+                                            <th>Monday</th>
+                                            <th>Tuesday</th>
+                                            <th>Wednesday</th>
+                                            <th>Thursday</th>
+                                            <th>Friday</th>
+                                            <th>Saturday</th>
+                                            <th>Sunday</th>
                                         </tr>
-                                    <?php } ?>
+                                        <?php for ($week = 1; $week <= 5; $week++) { ?>
 
-                                </table>
+                                            <tr>
+                                                <td><?php echo $week; ?></td>
+                                                <?php
+                                                for ($i = 1; $i <= 7; $i++) {
+                                                    echo '<td>';
+                                                    $controls->checkbox_group('monthly_' . $week . '_days', $i);
+                                                    echo '</td>';
+                                                }
+                                                ?>
+                                            </tr>
+                                        <?php } ?>
+
+                                    </table>
+                                </div>
 
                             </td>
                         </tr>
@@ -495,13 +524,14 @@ if (!empty($controls->data['enabled'])) {
                             <th>Last sent time</th>
                             <td>
                                 <?php echo NewsletterControls::print_date($channel->last_run); ?>
-                                <?php $controls->button_confirm('reset_time', 'Reset as it never ran', 'Are you sure?'); ?>
-                                <?php $controls->button('back_time', 'Back one day'); ?>
-                                <?php $controls->button('forward_time', 'Forward one day'); ?>
-                                <?php $controls->button('now_time', 'Set to now'); ?>
+
                                 <p class="description">
                                     Last time a newsletter has been generated and sent.
                                 </p>
+                                <?php $controls->button_confirm_secondary('reset_time', 'Reset as it never ran', 'Are you sure?'); ?>
+                                <?php $controls->btn('back_time', 'Back one day', ['secondary' => true]); ?>
+                                <?php $controls->btn('forward_time', 'Forward one day', ['secondary' => true]); ?>
+                                <?php $controls->btn('now_time', 'Set to now', ['secondary' => true]); ?>
                             </td>
                         </tr>
                         <tr valign="top">
@@ -523,26 +553,22 @@ if (!empty($controls->data['enabled'])) {
                                         <?php } ?>
                             </td>
                         </tr>
-                        <tr valign="top">
-                            <th>Import</th>
-                            <td>
-                                <?php $controls->button_confirm('import', 'Import feed by mail subscribers', 'Are you sure?'); ?>
-                                <p class="description">
-                                    The import associates the "old" feed by mail subscribed user to the Newsletter list associated to this
-                                    channel.
-                                </p>
-                            </td>
-                        </tr>
+
                     </table>
                 </div>
 
+            </div>
 
-
+            <div class="tnp-buttons">
+                <?php $controls->button_save('save', 'Save'); ?>
+                <?php if ($controls->data['enabled'] == 1) { ?>
+                    <?php $controls->button_confirm_secondary('now', 'Generate and send now', 'Are you sure?'); ?>
+                <?php } ?>
             </div>
 
 
         </form>
 
     </div>
-    <?php include NEWSLETTER_ADMIN_FOOTER ?>
+
 </div>

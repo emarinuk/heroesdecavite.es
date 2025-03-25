@@ -125,6 +125,9 @@ if ($handle) {
                         <tr>
                             <th>As parsed</th>
                             <td>
+                                <p>
+                                    Only the first few lines are shown.
+                                </p>
                                 <table class="parsed">
                                     <tr>
                                         <?php

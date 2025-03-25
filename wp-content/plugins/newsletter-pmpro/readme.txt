@@ -1,7 +1,29 @@
 === Paid Membership Pro Addon for Newsletter ===
-Tested up to: 6.7
+Tested up to: 6.7.2
 
 == Changelog ==
+
+= 1.1.2 =
+
+* Added notes to the lists page when the addon used one of them
+
+= 1.1.1 =
+
+* Fixed PHP warning
+
+= 1.1.0 =
+
+* Fixed undefined level lists to deactivate
+
+= 1.0.9 =
+
+* Fixed PHP warning
+
+= 1.0.8 =
+
+* WP 6.7.2 check
+* Added new list mapping options
+* Improved the code efficiency
 
 = 1.0.7 =
 

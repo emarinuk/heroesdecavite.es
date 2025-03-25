@@ -8,10 +8,8 @@ use ova_framework\widgets\ova_heading;
 use ova_framework\widgets\henbergar_menu;
 use ova_framework\widgets\ova_search;
 use ova_framework\widgets\ova_header;
-use ova_framework\widgets\ova_slideshow;
-
+//use ova_framework\widgets\ova_slideshow;
 use ova_framework\widgets\ova_heading_page;
-
 use ova_framework\widgets\ova_blog;
 use ova_framework\widgets\ova_history;
 use ova_framework\widgets\ova_icon_muzze;
@@ -147,13 +145,9 @@ class Ova_Register_Elementor {
 		require OVA_PLUGIN_PATH . 'ova-elementor/widgets/ova-heading.php';
 		require OVA_PLUGIN_PATH . 'ova-elementor/widgets/ova-henbergar_menu.php';
 		require OVA_PLUGIN_PATH . 'ova-elementor/widgets/ova-header_search.php';
-
 		require OVA_PLUGIN_PATH . 'ova-elementor/widgets/ova-header.php';
-		
-		require OVA_PLUGIN_PATH . 'ova-elementor/widgets/ova_slideshow.php';
-
+//		require OVA_PLUGIN_PATH . 'ova-elementor/widgets/ova_slideshow.php';
 		require OVA_PLUGIN_PATH . 'ova-elementor/widgets/ova-heading-page.php';
-
 		require OVA_PLUGIN_PATH . 'ova-elementor/widgets/ova_blog.php';
 		require OVA_PLUGIN_PATH . 'ova-elementor/widgets/ova_history.php';
 		require OVA_PLUGIN_PATH . 'ova-elementor/widgets/ova_icon_muzze.php';
@@ -204,12 +198,8 @@ class Ova_Register_Elementor {
 		\Elementor\Plugin::instance()->widgets_manager->register( new henbergar_menu() );
 		\Elementor\Plugin::instance()->widgets_manager->register( new ova_search() );
 		\Elementor\Plugin::instance()->widgets_manager->register( new ova_header() );
-
-		\Elementor\Plugin::instance()->widgets_manager->register( new ova_slideshow() );
-		
-
+//		\Elementor\Plugin::instance()->widgets_manager->register( new ova_slideshow() );
 		\Elementor\Plugin::instance()->widgets_manager->register( new ova_heading_page() );
-
 		\Elementor\Plugin::instance()->widgets_manager->register( new ova_blog() );
 		\Elementor\Plugin::instance()->widgets_manager->register( new ova_history() );
 		\Elementor\Plugin::instance()->widgets_manager->register( new ova_icon_muzze() );
